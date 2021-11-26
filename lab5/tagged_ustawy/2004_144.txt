@@ -1,0 +1,456 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+
+ustalony	none
+	ustalić	ppas:sg:nom:m3:perf:aff	disamb
+ostatecznie	space
+	ostatecznie	adv:pos	disamb
+po	space
+	po	prep:loc	disamb
+rozpatrzeniu	space
+	rozpatrzyć	ger:sg:loc:n:perf:aff	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+23	space
+	23	adj:sg:gen:m3:pos	disamb
+
+października	none
+	październik	subst:sg:gen:m3	disamb
+2009	space
+	2009	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+zmianie	space
+	zmiana	subst:sg:loc:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:acc	disamb
+
+Banku	none
+	bank	subst:sg:gen:m3	disamb
+Gospodarstwa	space
+	gospodarstwo	subst:sg:gen:n	disamb
+Krajowego	space
+	krajowy	adj:sg:gen:n:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+
+14	none
+	14	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+Banku	space
+	bank	subst:sg:loc:m3	disamb
+Gospodarstwa	space
+	gospodarstwo	subst:sg:gen:n	disamb
+Krajowego	space
+	krajowy	adj:sg:gen:n:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+65	space
+	65	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+594	space
+	594	num:pl:nom:m3:congr	disamb
+i	space
+	i	conj	disamb
+
+Nr	none
+	numer	brev:npun	disamb
+217	space
+	217	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+2124	space
+	2124	num:pl:nom:f:congr	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+91	space
+	91	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+870	space
+	870	num:pl:nom:f:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2006	space
+	2006	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+157	space
+	157	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1119	space
+	1119	num:pl:nom:f:rec	disamb
+oraz	space
+	oraz	conj	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+2009	space
+	2009	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+65	space
+	65	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+545	space
+	545	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+po	space
+	po	prep:loc	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5a	space
+	5a	subst:sg:nom:n	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5b	space
+	5b	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+brzmieniu	none
+	brzmienie	subst:sg:dat:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5b	space
+	5b	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	none
+	minister	subst:sg:nom:m1	disamb
+właściwy	space
+	właściwy	adj:sg:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+spraw	space
+	sprawa	subst:pl:gen:f	disamb
+finansów	space
+	finanse	subst:pl:gen:n	disamb
+publicznych	space
+	publiczny	adj:pl:gen:n:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+udzielić	space
+	udzielić	inf:perf	disamb
+BGK	space
+	BGK	subst:sg:dat:m3	disamb
+pożyczki	space
+	pożyczka	subst:pl:acc:f	disamb
+ze	space
+	z	prep:inst:wok	disamb
+
+środków	none
+	środek	subst:pl:gen:m3	disamb
+budżetu	space
+	budżet	subst:sg:gen:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+przy	space
+	przy	prep:loc	disamb
+zachowaniu	space
+	zachować	ger:sg:loc:n:perf:aff	disamb
+wymogów	space
+	wymóg	subst:pl:gen:m3	disamb
+określonych	space
+	określić	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+127	space
+	127	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+
+pkt	none
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+lit	space
+	litera	brev:pun	disamb
+.	none
+	.	interp	disamb
+b	space
+	b	subst:sg:nom:n	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+29	space
+	29	adj:sg:gen:m3:pos	disamb
+sierpnia	space
+	sierpień	subst:sg:gen:m3	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+-	newline
+	-	interp	disamb
+Prawo	space
+	prawo	subst:sg:nom:n	disamb
+bankowe	space
+	bankowy	adj:sg:nom:n:pos	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+zwiększenie	space
+	zwiększyć	ger:sg:acc:n:perf:aff	disamb
+
+funduszy	none
+	fundusz	subst:pl:gen:m3	disamb
+uzupełniających	space
+	uzupełniać	pact:pl:gen:m3:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przez	newline
+	przez	prep:acc:nwok	disamb
+
+pożyczkę	none
+	pożyczka	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+rozumie	space
+	rozumieć	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+również	space
+	również	qub	disamb
+objęcie	space
+	objąć	ger:sg:nom:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Skarb	space
+	skarb	subst:sg:acc:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+
+wyemitowanych	none
+	wyemitować	ppas:pl:gen:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+BGK	space
+	BGK	subst:sg:acc:m3	disamb
+dłużnych	space
+	dłużny	adj:pl:gen:m3:pos	disamb
+papierów	space
+	papier	subst:pl:gen:m3	disamb
+wartościowych	space
+	wartościowy	adj:pl:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+życie	none
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	Marszałek	subst:sg:nom:m1	disamb
+
+SEJMU	none
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+-	none
+	-	interp	disamb
+/	none
+	/	interp	disamb
+
+Bronisław	none
+	Bronisław	subst:sg:nom:m1	disamb
+Komorowski	space
+	Komorowski	subst:sg:nom:m1	disamb
+

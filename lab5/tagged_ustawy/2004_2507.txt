@@ -1,0 +1,1682 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+przyjęty	space
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+4	space
+	4	adj:sg:gen:m3:pos	disamb
+października	space
+	październik	subst:sg:gen:m3	disamb
+2018	space
+	2018	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:acc	disamb
+
+zmianie	none
+	zmiana	subst:sg:dat:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+urzędzie	space
+	urząd	subst:sg:loc:m3	disamb
+Ministra	space
+	minister	subst:sg:gen:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	none
+	o	prep:loc	disamb
+powszechnym	space
+	powszechny	adj:sg:loc:m3:pos	disamb
+
+obowiązku	none
+	obowiązek	subst:sg:gen:m3	disamb
+obrony	space
+	obrona	subst:sg:gen:f	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+
+ustawie	none
+	ustawa	subst:sg:dat:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+14	space
+	14	adj:sg:gen:m3:pos	disamb
+grudnia	space
+	grudzień	subst:sg:gen:m3	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+urzędzie	space
+	urząd	subst:sg:loc:m3	disamb
+Ministra	space
+	minister	subst:sg:gen:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+
+(	none
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2017	space
+	2017	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+2149	space
+	2149	adj:sg:nom:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2018	space
+	2018	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+138	space
+	138	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+wprowadza	space
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+
+następujące	none
+	następujący	adj:pl:nom:f:pos	disamb
+zmiany	space
+	zmiana	subst:pl:nom:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	none
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+kieruje	space
+	kierować	fin:sg:ter:imperf	disamb
+
+działalnością	none
+	działalność	subst:sg:inst:f	disamb
+Ministerstwa	space
+	ministerstwo	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+bezpośrednio	space
+	bezpośrednio	adv:pos	disamb
+lub	space
+	lub	conj	disamb
+przy	space
+	przy	prep:loc	disamb
+pomocy	space
+	pomoc	subst:sg:loc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+sekretarza	none
+	sekretarz	subst:sg:gen:m1	disamb
+stanu	space
+	stan	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+sekretarzy	space
+	sekretarz	subst:pl:gen:m1	disamb
+
+stanu	none
+	stan	subst:sg:gen:m3	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+podsekretarza	none
+	podsekretarz	subst:sg:gen:m1	disamb
+stanu	space
+	stan	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+podsekretarzy	space
+	podsekretarz	subst:pl:gen:m1	disamb
+
+stanu	none
+	stan	subst:sg:gen:m3	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+Szefa	none
+	szef	subst:sg:gen:m1	disamb
+Sztabu	space
+	sztab	subst:sg:gen:m3	disamb
+Generalnego	space
+	generalny	adj:sg:gen:m3:pos	disamb
+Wojska	space
+	wojsko	subst:sg:gen:n	disamb
+
+Polskiego	none
+	polski	adj:sg:gen:n:pos	disamb
+;	none
+	;	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+Dowódcy	none
+	dowódca	subst:sg:gen:m1	disamb
+Wojsk	space
+	wojsko	subst:pl:gen:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Terytorialnej	space
+	terytorialny	adj:sg:gen:f:pos	disamb
+–	space
+	–	interp	disamb
+
+do	none
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+osiągnięcia	space
+	osiągnąć	ger:sg:gen:n:perf:aff	disamb
+pełnej	space
+	pełny	adj:sg:gen:f:pos	disamb
+zdolności	space
+	zdolność	subst:sg:gen:f	disamb
+do	space
+	do	prep:gen	disamb
+działania	space
+	działać	ger:sg:gen:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Wojska	space
+	wojsko	subst:pl:acc:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+
+Terytorialnej	none
+	terytorialny	adj:sg:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+Dyrektora	none
+	dyrektor	subst:sg:gen:m1	disamb
+Generalnego	space
+	Generalnego	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+dodaje	none
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:gen:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+stwierdzi	space
+	stwierdzić	fin:sg:ter:perf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+drodze	none
+	droga	subst:sg:dat:f	disamb
+zarządzenia	space
+	zarządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+osiągnięcie	space
+	osiągnąć	ger:sg:nom:n:perf:aff	disamb
+pełnej	space
+	pełny	adj:sg:gen:f:pos	disamb
+zdolności	space
+	zdolność	subst:sg:gen:f	disamb
+do	space
+	do	prep:gen	disamb
+działania	space
+	działać	ger:sg:gen:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Wojska	space
+	wojsko	subst:pl:acc:n	disamb
+
+Obrony	none
+	obrona	subst:sg:gen:f	disamb
+Terytorialnej	space
+	terytorialny	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	none
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+uchyla	none
+	uchylać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+pkt	none
+	punkt	brev:npun	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+Dowódca	none
+	dowódca	subst:sg:nom:m1	disamb
+Wojsk	space
+	wojsko	subst:pl:gen:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Terytorialnej	space
+	terytorialny	adj:sg:gen:f:pos	disamb
+–	space
+	–	interp	disamb
+
+do	none
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+osiągnięcia	space
+	osiągnąć	ger:sg:gen:n:perf:aff	disamb
+pełnej	space
+	pełny	adj:sg:gen:f:pos	disamb
+zdolności	space
+	zdolność	subst:sg:gen:f	disamb
+do	space
+	do	prep:gen	disamb
+działania	space
+	działać	ger:sg:gen:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Wojska	space
+	wojsko	subst:pl:acc:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+
+Terytorialnej	none
+	terytorialny	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+pokoju	space
+	pokój	subst:sg:gen:m3	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+
+Narodowej	none
+	narodowy	adj:sg:gen:f:pos	disamb
+kieruje	space
+	kierować	fin:sg:ter:imperf	disamb
+działalnością	space
+	działalność	subst:sg:inst:f	disamb
+rodzajów	space
+	rodzaj	subst:pl:gen:m3	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+przy	space
+	przy	prep:loc	disamb
+pomocy	space
+	pomoc	subst:sg:loc:f	disamb
+Szefa	space
+	szef	subst:sg:gen:m1	disamb
+Sztabu	space
+	sztab	subst:sg:gen:m3	disamb
+
+Generalnego	none
+	generalny	adj:sg:gen:n:pos	disamb
+Wojska	space
+	wojsko	subst:sg:gen:n	disamb
+Polskiego	space
+	polski	adj:sg:gen:n:pos	disamb
+oraz	space
+	oraz	conj	disamb
+Dowódcy	space
+	dowódca	subst:sg:gen:m1	disamb
+Wojsk	space
+	wojsko	subst:pl:gen:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Terytorialnej	space
+	terytorialny	adj:sg:gen:f:pos	disamb
+–	space
+	–	interp	disamb
+do	space
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+
+osiągnięcia	none
+	osiągnąć	ger:sg:gen:n:perf:aff	disamb
+pełnej	space
+	pełny	adj:sg:gen:f:pos	disamb
+zdolności	space
+	zdolność	subst:sg:gen:f	disamb
+do	space
+	do	prep:gen	disamb
+działania	space
+	działać	ger:sg:gen:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Wojska	space
+	wojsko	subst:pl:acc:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Terytorialnej	space
+	terytorialny	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+;	none
+	;	interp	disamb
+
+4	none
+	4	num:pl:nom:m3:congr	disamb
+)	none
+	)	interp	disamb
+po	none
+	po	prep:loc	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:loc:m3:pos	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7a	space
+	7a	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7a	space
+	7a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Szef	newline
+	szef	subst:sg:nom:m1	disamb
+Sztabu	space
+	sztab	subst:sg:gen:m3	disamb
+Generalnego	space
+	generalny	adj:sg:gen:m3:pos	disamb
+
+Wojska	none
+	wojska	subst:sg:nom:f	disamb
+Polskiego	space
+	polski	adj:sg:gen:n:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+najwyższym	space
+	wysoki	adj:sg:inst:n:sup	disamb
+pod	space
+	pod	prep:inst:nwok	disamb
+względem	space
+	wzgląd	subst:sg:inst:m3	disamb
+pełnionej	space
+	pełnić	ppas:sg:gen:f:imperf:aff	disamb
+funkcji	space
+	funkcja	subst:sg:gen:f	disamb
+żołnierzem	space
+	żołnierz	subst:sg:inst:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+czynnej	none
+	czynny	adj:sg:dat:f:pos	disamb
+służbie	space
+	służba	subst:sg:dat:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:dat:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Szef	newline
+	szef	subst:sg:nom:m1	disamb
+Sztabu	space
+	sztab	subst:sg:gen:m3	disamb
+Generalnego	space
+	generalny	adj:sg:gen:m3:pos	disamb
+Wojska	space
+	wojsko	subst:sg:gen:n	disamb
+
+Polskiego	none
+	polski	adj:sg:gen:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+mianowania	space
+	mianować	ger:sg:gen:n:imperf:aff	disamb
+Naczelnego	space
+	naczelny	adj:sg:gen:m1:pos	disamb
+Dowódcy	space
+	dowódca	subst:sg:gen:m1	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+przejęcia	space
+	przejęcie	subst:sg:gen:n	disamb
+
+przez	none
+	przez	prep:acc:nwok	disamb
+niego	space
+	on	ppron3:sg:acc:m1:ter:akc:praep	disamb
+dowodzenia	space
+	dowodzenie	subst:pl:acc:n	disamb
+dowodzi	space
+	dowodzić	fin:sg:ter:imperf	disamb
+Siłami	space
+	siła	subst:pl:inst:f	disamb
+Zbrojnymi	space
+	zbrojny	adj:pl:inst:f:pos	disamb
+przy	space
+	przy	prep:loc	disamb
+pomocy	space
+	pomoc	subst:sg:loc:f	disamb
+dowódców	space
+	dowódca	subst:pl:gen:m1	disamb
+rodzajów	space
+	rodzaj	subst:pl:gen:m3	disamb
+
+Sił	none
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+;	none
+	;	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+zakresu	space
+	zakres	subst:sg:gen:m3	disamb
+działania	space
+	działanie	subst:sg:gen:n	disamb
+Szefa	space
+	szef	subst:sg:gen:m1	disamb
+
+Sztabu	none
+	sztab	subst:sg:gen:m3	disamb
+Generalnego	space
+	generalny	adj:sg:gen:m3:pos	disamb
+Wojska	space
+	wojsko	subst:sg:gen:n	disamb
+Polskiego	space
+	polski	adj:sg:gen:n:pos	disamb
+należy	space
+	należeć	fin:sg:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+dowodzenie	none
+	dowodzenie	subst:sg:nom:n	disamb
+Siłami	space
+	siła	subst:pl:inst:f	disamb
+Zbrojnymi	space
+	zbrojny	adj:pl:inst:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+wyłączeniem	none
+	wyłączenie	subst:sg:inst:n	disamb
+Wojsk	space
+	wojsko	subst:pl:gen:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Terytorialnej	space
+	terytorialny	adj:sg:gen:f:pos	disamb
+–	space
+	–	interp	disamb
+do	space
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+osiągnięcia	space
+	osiągnąć	ger:sg:gen:n:perf:aff	disamb
+pełnej	space
+	pełny	adj:sg:gen:f:pos	disamb
+zdolności	space
+	zdolność	subst:sg:gen:f	disamb
+
+do	none
+	do	prep:gen	disamb
+działania	none
+	działać	ger:sg:gen:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Wojska	space
+	wojsko	subst:pl:acc:n	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Terytorialnej	space
+	terytorialny	adj:sg:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+planowanie	none
+	planować	ger:sg:nom:n:imperf:aff	disamb
+strategicznego	space
+	strategiczny	adj:sg:gen:n:pos	disamb
+użycia	space
+	użycie	subst:sg:gen:n	disamb
+
+Sił	none
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+planowanie	none
+	planować	ger:sg:nom:n:imperf:aff	disamb
+organizacji	space
+	organizacja	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+
+funkcjonowania	none
+	funkcjonowanie	subst:pl:nom:n	disamb
+wojennego	space
+	wojenny	adj:sg:gen:m3:pos	disamb
+systemu	space
+	system	subst:sg:gen:m3	disamb
+dowodzenia	space
+	dowodzić	ger:sg:gen:n:imperf:aff	disamb
+Siłami	space
+	siły	subst:pl:inst:n	disamb
+Zbrojnymi	space
+	zbrojny	adj:pl:inst:f:pos	disamb
+;	none
+	;	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+planowanie	none
+	planować	ger:sg:nom:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+organizowanie	space
+	organizować	ger:sg:nom:n:imperf:aff	disamb
+
+mobilizacyjnego	none
+	mobilizacyjny	adj:sg:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+strategicznego	space
+	strategiczny	adj:sg:gen:n:pos	disamb
+rozwinięcia	space
+	rozwinięcie	subst:sg:gen:n	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przygotowanie	none
+	przygotowanie	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+wyszkolenie	space
+	wyszkolić	ger:sg:nom:n:perf:aff	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+
+Zbrojnych	none
+	zbrojny	adj:pl:gen:n:pos	disamb
+na	space
+	na	prep:acc	disamb
+potrzeby	space
+	potrzeba	subst:pl:acc:f	disamb
+obrony	space
+	obrona	subst:sg:gen:f	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+udziału	space
+	udział	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+działaniach	space
+	działanie	subst:pl:loc:n	disamb
+poza	space
+	poza	prep:inst	disamb
+granicami	space
+	granica	subst:pl:inst:f	disamb
+
+państwa	none
+	państwo	subst:sg:gen:n	disamb
+;	none
+	;	interp	disamb
+
+6	none
+	6	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+określenie	none
+	określić	ger:sg:nom:n:perf:aff	disamb
+celów	space
+	cel	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+głównych	space
+	główny	adj:pl:gen:m3:pos	disamb
+
+kierunków	none
+	kierunek	subst:pl:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+operacyjnej	space
+	operacyjny	adj:sg:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+szkoleniowej	space
+	szkoleniowy	adj:sg:gen:f:pos	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+
+Zbrojnych	none
+	zbrojny	adj:pl:gen:n:pos	disamb
+;	none
+	;	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+zapewnienie	none
+	zapewnienie	subst:sg:nom:n	disamb
+utrzymania	space
+	utrzymanie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Siłach	space
+	siły	subst:pl:loc:n	disamb
+
+Zbrojnych	none
+	zbrojny	adj:pl:gen:f:pos	disamb
+gotowości	space
+	gotowość	subst:sg:gen:f	disamb
+mobilizacyjnej	space
+	mobilizacyjny	adj:sg:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+bojowej	space
+	bojowy	adj:sg:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+8	none
+	8	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+programowanie	none
+	programować	ger:sg:nom:n:imperf:aff	disamb
+wieloletniego	space
+	wieloletni	adj:sg:gen:n:pos	disamb
+
+rozwoju	none
+	rozwój	subst:sg:gen:m3	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+9	none
+	9	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+programowanie	none
+	programować	ger:sg:nom:n:imperf:aff	disamb
+rzeczowo	space
+	rzeczowo	adja	disamb
+-	none
+	-	interp	disamb
+finansowe	none
+	finansowy	adj:sg:nom:n:pos	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+Siłach	space
+	siły	subst:pl:loc:n	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:loc:n:pos	disamb
+oraz	space
+	oraz	conj	disamb
+udział	space
+	udział	subst:sg:acc:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+planowaniu	space
+	planować	ger:sg:loc:n:imperf:aff	disamb
+wydatków	space
+	wydatek	subst:pl:gen:m3	disamb
+rzeczowo	space
+	rzeczowo	adja	disamb
+-	none
+	-	interp	disamb
+finansowych	none
+	finansowy	adj:pl:gen:m3:pos	disamb
+;	none
+	;	interp	disamb
+
+10	none
+	10	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+planowanie	none
+	planować	ger:sg:nom:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+koordynowanie	space
+	koordynować	ger:sg:nom:n:imperf:aff	disamb
+systemu	space
+	system	subst:sg:gen:m3	disamb
+
+logistycznego	none
+	logistyczny	adj:sg:gen:n:pos	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+11	none
+	11	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+reprezentowanie	none
+	reprezentować	ger:sg:nom:n:imperf:aff	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+najwyższych	none
+	wysoki	adj:pl:loc:m3:sup	disamb
+kolegialnych	space
+	kolegialny	adj:pl:loc:m3:pos	disamb
+organach	space
+	organ	subst:pl:loc:m3	disamb
+wojskowych	space
+	wojskowy	adj:pl:gen:f:pos	disamb
+organizacji	space
+	organizacja	subst:pl:gen:f	disamb
+międzynarodowych	space
+	międzynarodowy	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+których	none
+	który	adj:pl:gen:f:pos	disamb
+Rzeczpospolita	space
+	Rzeczpospolita	subst:sg:nom:f	disamb
+Polska	space
+	Polska	subst:sg:nom:f	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+członkiem	space
+	członek	subst:sg:inst:m1	disamb
+;	none
+	;	interp	disamb
+
+12	none
+	12	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+doradzanie	none
+	doradzać	ger:sg:nom:n:imperf:aff	disamb
+Ministrowi	space
+	minister	subst:sg:dat:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+
+Narodowej	none
+	narodowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+sekretarzom	space
+	sekretarz	subst:pl:dat:m1	disamb
+stanu	space
+	stan	subst:sg:gen:m3	disamb
+oraz	space
+	oraz	conj	disamb
+podsekretarzom	space
+	podsekretarz	subst:pl:dat:m1	disamb
+stanu	space
+	stan	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Ministerstwie	space
+	ministerstwo	subst:sg:loc:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+
+dotyczących	none
+	dotyczyć	pact:pl:gen:n:imperf:aff	disamb
+ogólnej	space
+	ogólny	adj:sg:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+operacyjnej	space
+	operacyjny	adj:sg:gen:f:pos	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+13	none
+	13	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przygotowanie	none
+	przygotowanie	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+utrzymanie	space
+	utrzymanie	subst:sg:nom:n	disamb
+
+stanowisk	none
+	stanowisko	subst:pl:gen:n	disamb
+kierowania	space
+	kierować	ger:sg:gen:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rejonach	space
+	rejon	subst:pl:loc:m3	disamb
+rozwinięcia	space
+	rozwinięcie	subst:sg:gen:n	disamb
+zapasowych	space
+	zapasowy	adj:pl:gen:n:pos	disamb
+stanowisk	space
+	stanowisko	subst:pl:gen:n	disamb
+kierowania	space
+	kierować	ger:sg:gen:n:imperf:aff	disamb
+
+obroną	none
+	obrona	subst:sg:inst:f	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+dla	space
+	dla	prep:gen	disamb
+Prezydenta	space
+	prezydent	subst:sg:gen:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+Prezesa	space
+	prezes	subst:sg:gen:m1	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+
+oraz	none
+	oraz	conj	disamb
+ministrów	space
+	minister	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+centralnych	space
+	centralny	adj:pl:gen:m3:pos	disamb
+organów	space
+	organ	subst:pl:gen:m3	disamb
+administracji	space
+	administracja	subst:sg:gen:f	disamb
+rządowej	space
+	rządowy	adj:sg:gen:f:pos	disamb
+wskazanych	space
+	wskazać	ppas:pl:gen:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+Prezesa	none
+	prezes	subst:sg:gen:m1	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+;	none
+	;	interp	disamb
+
+14	none
+	14	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+ochrona	none
+	ochrona	subst:sg:nom:f	disamb
+obiektów	space
+	obiekt	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+urządzeń	space
+	urządzenie	subst:pl:gen:n	disamb
+o	space
+	o	prep:acc	disamb
+
+szczególnym	none
+	szczególny	adj:sg:loc:n:pos	disamb
+znaczeniu	space
+	znaczenie	subst:sg:loc:n	disamb
+oraz	space
+	oraz	conj	disamb
+zapewnienie	space
+	zapewnić	ger:sg:nom:n:perf:aff	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+funkcjonowania	space
+	funkcjonowanie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Szef	newline
+	szef	subst:sg:nom:m1	disamb
+Sztabu	space
+	sztab	subst:sg:gen:m3	disamb
+Generalnego	space
+	generalny	adj:sg:gen:m3:pos	disamb
+Wojska	space
+	wojsko	subst:sg:gen:n	disamb
+
+Polskiego	none
+	polski	adj:sg:gen:n:pos	disamb
+wykonuje	space
+	wykonywać	fin:sg:ter:imperf	disamb
+swoje	space
+	swój	adj:pl:acc:n:pos	disamb
+zadania	space
+	zadanie	subst:pl:acc:n	disamb
+przy	space
+	przy	prep:loc	disamb
+pomocy	space
+	pomoc	subst:sg:loc:f	disamb
+Sztabu	space
+	sztab	subst:sg:gen:m3	disamb
+Generalnego	space
+	generalny	adj:sg:gen:m3:pos	disamb
+Wojska	space
+	wojsko	subst:sg:gen:n	disamb
+
+Polskiego	none
+	polski	adj:sg:gen:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+jemu	space
+	on	ppron3:sg:dat:m1:ter:akc:npraep	disamb
+podporządkowanych	space
+	podporządkować	ppas:pl:gen:f:perf:aff	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+14	space
+	14	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+przy	space
+	przy	prep:loc	disamb
+pomocy	space
+	pomoc	subst:sg:loc:f	disamb
+jednostki	space
+	jednostka	subst:sg:gen:f	disamb
+wskazanej	space
+	wskazać	ppas:sg:gen:f:perf:aff	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+decyzji	space
+	decyzja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+Ministra	none
+	minister	subst:sg:gen:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+
+ustawie	none
+	ustawa	subst:sg:dat:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+21	space
+	21	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1967	space
+	1967	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+powszechnym	space
+	powszechny	adj:sg:loc:m3:pos	disamb
+obowiązku	space
+	obowiązek	subst:sg:loc:m3	disamb
+obrony	space
+	obrona	subst:sg:gen:f	disamb
+
+Rzeczypospolitej	none
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2017	space
+	2017	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1430	space
+	1430	num:pl:nom:f:rec	disamb
+i	space
+	i	conj	disamb
+2217	space
+	2217	adj:sg:loc:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2018	space
+	2018	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+138	space
+	138	adj:sg:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+398	space
+	398	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+wprowadza	space
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+następujące	space
+	następujący	adj:pl:acc:f:pos	disamb
+zmiany	space
+	zmiana	subst:pl:acc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	none
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11b	space
+	11b	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+uchyla	space
+	uchylać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	none
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13c	space
+	13c	subst:sg:nom:n	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1a	space
+	1a	subst:sg:nom:n	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+1a	none
+	1a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Szef	newline
+	szef	subst:sg:nom:m1	disamb
+Inspektoratu	space
+	inspektorat	subst:sg:gen:m3	disamb
+Wsparcia	space
+	wsparcie	subst:sg:gen:n	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+
+Zbrojnych	none
+	zbrojny	adj:pl:gen:m3:pos	disamb
+podlega	space
+	podlegać	fin:sg:ter:imperf	disamb
+bezpośrednio	space
+	bezpośrednio	adv:pos	disamb
+Szefowi	space
+	szef	subst:sg:dat:m1	disamb
+Sztabu	space
+	sztab	subst:sg:gen:m3	disamb
+Generalnego	space
+	generalny	adj:sg:gen:m3:pos	disamb
+Wojska	space
+	wojsko	subst:sg:gen:n	disamb
+Polskiego	space
+	polski	adj:sg:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+
+wchodzi	none
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+30	space
+	30	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	marszałek	subst:sg:nom:m1	disamb
+
+SEJMU	none
+	sejm	subst:sg:gen:m3	disamb
+
+Marek	none
+	Marek	subst:sg:nom:m1	disamb
+
+Kuchciński	none
+	Kuchciński	subst:sg:nom:m1	disamb
+

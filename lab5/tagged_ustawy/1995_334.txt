@@ -1,0 +1,268 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+66	space
+	1966	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+334	space
+	334	num:pl:nom:m3:congr	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+30	space
+	30	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+zmianie	space
+	zmiana	subst:sg:loc:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+planowaniu	space
+	planować	ger:sg:loc:n:imperf:aff	disamb
+rodziny	space
+	rodzina	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+ochronie	space
+	ochrona	subst:sg:loc:f	disamb
+płodu	space
+	płód	subst:sg:gen:m3	disamb
+ludzkiego	space
+	ludzki	adj:sg:gen:m3:pos	disamb
+
+i	none
+	i	conj	disamb
+warunkach	space
+	warunek	subst:pl:loc:m3	disamb
+dopuszczalności	space
+	dopuszczalność	subst:sg:gen:f	disamb
+przerywania	space
+	przerywać	ger:sg:gen:n:imperf:aff	disamb
+ciąży	space
+	ciąża	subst:sg:gen:f	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+stycznia	space
+	styczeń	subst:sg:gen:m3	disamb
+1993	space
+	1993	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+planowaniu	space
+	planować	ger:sg:loc:n:imperf:aff	disamb
+rodziny	space
+	rodzina	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+ochronie	space
+	ochrona	subst:sg:loc:f	disamb
+płodu	space
+	płód	subst:sg:gen:m3	disamb
+ludzkiego	space
+	ludzki	adj:sg:gen:m3:pos	disamb
+
+i	none
+	i	conj	disamb
+warunkach	space
+	warunek	subst:pl:loc:m3	disamb
+dopuszczalności	space
+	dopuszczalność	subst:sg:gen:f	disamb
+przerywania	space
+	przerywać	ger:sg:gen:n:imperf:aff	disamb
+ciąży	space
+	ciąża	subst:sg:gen:f	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+17	space
+	17	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+78	space
+	78	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Rada	newline
+	rada	subst:sg:nom:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+przedkłada	space
+	przedkładać	fin:sg:ter:imperf	disamb
+Sejmowi	space
+	sejm	subst:sg:dat:m3	disamb
+corocznie	space
+	corocznie	adv:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+terminie	space
+	termin	subst:sg:loc:m3	disamb
+
+do	none
+	do	prep:gen	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+30	space
+	30	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+sprawozdanie	space
+	sprawozdanie	subst:sg:nom:n	disamb
+z	space
+	z	prep:gen:nwok	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+
+o	none
+	o	prep:loc	disamb
+skutkach	space
+	skutek	subst:pl:loc:m3	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+stosowania	space
+	stosować	ger:sg:gen:n:imperf:aff	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

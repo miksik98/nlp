@@ -1,0 +1,1710 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+przyjęty	space
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+
+dnia	none
+	dzień	subst:sg:gen:m3	disamb
+24	space
+	24	adj:sg:gen:m3:pos	disamb
+stycznia	space
+	styczeń	subst:sg:gen:m3	disamb
+2014	space
+	2014	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:acc	disamb
+
+zmianie	none
+	zmiana	subst:sg:dat:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+–	space
+	–	interp	disamb
+Kodeks	space
+	kodeks	subst:sg:nom:m3	disamb
+
+postępowania	none
+	postępowanie	subst:sg:gen:n	disamb
+karnego	space
+	karny	adj:sg:gen:n:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+
+ustawie	none
+	ustawa	subst:sg:dat:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+6	space
+	6	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+–	newline
+	–	interp	disamb
+Kodeks	space
+	kodeks	subst:sg:nom:m3	disamb
+postępowania	space
+	postępowanie	subst:sg:gen:n	disamb
+karnego	space
+	karny	adj:sg:gen:n:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+89	space
+	1989	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+555	space
+	555	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+późn	space
+	późniejszy	brev:pun	disamb
+.	none
+	.	interp	disamb
+zm	space
+	zmarł	brev:pun	disamb
+.	none
+	.	interp	disamb
+[	none
+	[	interp	disamb
+1	none
+	1	adj:sg:nom:n:pos	disamb
+]	none
+	]	interp	disamb
+)	none
+	)	interp	disamb
+)	none
+	)	interp	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+325e	space
+	325e	adj:sg:loc:m3:pos	disamb
+§	space
+	§	interp	disamb
+1a	space
+	1a	subst:sg:nom:n	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+§	none
+	§	interp	disamb
+1a	space
+	1a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+gdy	space
+	gdy	adv	disamb
+
+zawiadomienie	none
+	zawiadomienie	subst:sg:nom:n	disamb
+o	space
+	o	prep:loc	disamb
+przestępstwie	space
+	przestępstwo	subst:sg:loc:n	disamb
+zostało	space
+	zostać	praet:sg:n:perf	disamb
+złożone	space
+	złożyć	ppas:sg:nom:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+inspektora	space
+	inspektor	subst:sg:acc:m1	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+lub	space
+	lub	conj	disamb
+
+Najwyższą	none
+	wysoki	adj:sg:acc:f:sup	disamb
+Izbę	space
+	izba	subst:sg:acc:f	disamb
+Kontroli	space
+	kontrola	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+uzasadnienie	space
+	uzasadnienie	subst:sg:acc:n	disamb
+postanowienia	space
+	postanowienie	subst:sg:gen:n	disamb
+o	space
+	o	prep:loc	disamb
+odmowie	space
+	odmowa	subst:sg:loc:f	disamb
+wszczęcia	space
+	wszcząć	ger:sg:gen:n:perf:aff	disamb
+
+dochodzenia	none
+	dochodzenie	subst:pl:acc:n	disamb
+oraz	space
+	oraz	conj	disamb
+umorzeniu	space
+	umorzyć	ger:sg:loc:n:perf:aff	disamb
+dochodzenia	space
+	dochodzenie	subst:sg:gen:n	disamb
+sporządza	space
+	sporządzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+na	space
+	na	prep:acc	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	newline
+	przepis	subst:pl:nom:m3	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+422	space
+	422	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+423	space
+	423	adj:sg:nom:m3:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+.	none
+	.	interp	disamb
+
+Zażalenie	newline
+	zażalenie	subst:sg:nom:n	disamb
+wnosi	space
+	wnosić	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+terminie	space
+	termin	subst:sg:loc:m3	disamb
+7	space
+	7	adj:sg:loc:m3:pos	disamb
+
+dni	none
+	dzień	subst:pl:acc:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+daty	space
+	data	subst:sg:gen:f	disamb
+doręczenia	space
+	doręczyć	ger:sg:gen:n:perf:aff	disamb
+postanowienia	space
+	postanowienie	subst:sg:gen:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+uzasadnieniem	space
+	uzasadnienie	subst:sg:inst:n	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+
+wchodzi	none
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	Marszałek	subst:sg:nom:m1	disamb
+
+SEJMU	none
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+
+–	none
+	–	interp	disamb
+/	space
+	/	interp	disamb
+Ewa	space
+	Ewa	subst:sg:nom:f	disamb
+Kopacz	space
+	Kopacz	subst:sg:nom:f	disamb
+
+[	none
+	[	interp	disamb
+1	none
+	1	adj:sg:nom:n:pos	disamb
+]	none
+	]	interp	disamb
+)	none
+	)	interp	disamb
+Zmiany	space
+	zmiana	subst:sg:gen:f	disamb
+wymienionej	space
+	wymienić	ppas:sg:gen:f:perf:aff	disamb
+
+ustawy	none
+	ustawa	subst:pl:nom:f	disamb
+zostały	space
+	zostać	praet:pl:f:perf	disamb
+ogłoszone	space
+	ogłosić	ppas:pl:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Dz	space
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	u	prep:gen	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+83	space
+	83	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+931	space
+	931	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+50	space
+	50	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+580	space
+	580	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+62	space
+	62	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+717	space
+	717	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+73	space
+	73	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+852	space
+	852	num:pl:nom:m3:congr	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+93	space
+	93	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1027	space
+	1027	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+98	space
+	98	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1071	space
+	1071	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+106	space
+	106	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1149	space
+	1149	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2002	space
+	2002	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+74	space
+	74	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+676	space
+	676	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+17	space
+	17	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+155	none
+	155	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+111	space
+	111	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1061	space
+	1061	adj:sg:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+130	space
+	130	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1188	space
+	1188	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+51	space
+	51	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+514	space
+	514	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+69	space
+	1969	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+626	space
+	626	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+93	space
+	93	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+889	space
+	889	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+240	space
+	240	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+2405	space
+	2405	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+264	space
+	264	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+2641	space
+	2641	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2005	space
+	2005	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+
+10	none
+	10	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+70	space
+	70	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+48	space
+	48	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+461	space
+	461	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+77	space
+	77	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+680	space
+	680	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+96	space
+	96	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+821	space
+	821	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+141	space
+	141	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+1181	none
+	1181	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+143	space
+	143	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1203	space
+	1203	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+163	space
+	163	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1363	space
+	1363	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+169	space
+	169	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1416	space
+	1416	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+178	space
+	178	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+1479	none
+	1479	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2006	space
+	2006	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+15	space
+	15	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+118	space
+	118	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+66	space
+	1966	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+467	space
+	467	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+95	space
+	95	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+659	space
+	659	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+104	space
+	104	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+708	none
+	708	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+711	space
+	711	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+141	space
+	141	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1009	space
+	1009	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+1013	space
+	1013	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+167	space
+	167	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1192	space
+	1192	num:pl:nom:m3:congr	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+226	space
+	226	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1647	space
+	1647	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+
+1648	none
+	1648	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2007	space
+	2007	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+20	space
+	20	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+116	space
+	116	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+64	space
+	64	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+432	space
+	432	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+80	space
+	80	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+539	space
+	539	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+89	space
+	1989	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+589	none
+	589	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+99	space
+	99	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+664	space
+	664	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+112	space
+	112	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+766	space
+	766	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+123	space
+	123	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+849	space
+	849	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+128	space
+	128	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+903	space
+	903	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+2008	none
+	2008	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+27	space
+	27	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+162	space
+	162	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+100	space
+	100	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+648	space
+	648	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+107	space
+	107	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+686	space
+	686	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+123	space
+	123	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+802	space
+	802	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+
+Nr	none
+	numer	brev:npun	disamb
+182	space
+	182	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1133	space
+	1133	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+208	space
+	208	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1308	space
+	1308	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+214	space
+	214	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1344	space
+	1344	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+225	space
+	225	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1485	space
+	1485	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+
+234	none
+	234	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1571	space
+	1571	adj:sg:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+237	space
+	237	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1651	space
+	1651	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2009	space
+	2009	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+8	space
+	8	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+39	space
+	39	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+20	space
+	20	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+104	space
+	104	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+
+Nr	none
+	numer	brev:npun	disamb
+28	space
+	28	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+171	space
+	171	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+68	space
+	68	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+585	space
+	585	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+85	space
+	85	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+716	space
+	716	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+127	space
+	127	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1051	space
+	1051	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+144	space
+	144	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1178	space
+	1178	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+168	space
+	168	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1323	space
+	1323	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+178	space
+	178	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1375	space
+	1375	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+190	space
+	190	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1474	space
+	1474	num:pl:nom:m3:congr	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+206	space
+	206	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1589	space
+	1589	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2010	space
+	2010	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+7	space
+	7	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+46	space
+	46	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+98	space
+	98	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+626	space
+	626	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+106	space
+	106	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+669	space
+	669	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+122	space
+	122	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+826	space
+	826	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+125	space
+	125	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+842	space
+	842	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+182	space
+	182	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1228	space
+	1228	adj:sg:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+197	space
+	197	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1307	space
+	1307	num:pl:nom:f:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2011	space
+	2011	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+
+48	none
+	48	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+245	space
+	245	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+246	space
+	246	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+53	space
+	53	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+273	space
+	273	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+112	space
+	112	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+654	space
+	654	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+117	space
+	117	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+678	space
+	678	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+
+142	none
+	142	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+829	space
+	829	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+191	space
+	191	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1135	space
+	1135	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+217	space
+	217	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1280	space
+	1280	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+240	space
+	240	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1430	space
+	1430	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1431	space
+	1431	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+
+1438	none
+	1438	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+279	space
+	279	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1645	space
+	1645	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2012	space
+	2012	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+886	space
+	886	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1091	space
+	1091	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1101	space
+	1101	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1327	space
+	1327	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1426	space
+	1426	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1447	space
+	1447	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+
+1529	none
+	1529	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2013	space
+	2013	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+480	space
+	480	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+765	space
+	765	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+849	space
+	849	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1247	space
+	1247	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1262	space
+	1262	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+1282	space
+	1282	num:pl:nom:m3:congr	disamb
+i	space
+	i	conj	disamb
+1650	space
+	1650	num:pl:nom:m3:rec	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2014	space
+	2014	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+85	none
+	85	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+

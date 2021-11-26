@@ -1,0 +1,1381 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+45	space
+	45	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+435	space
+	435	num:pl:nom:f:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+18	space
+	18	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+zmianie	space
+	zmiana	subst:sg:loc:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+,	none
+	,	interp	disamb
+warunkach	space
+	warunki	subst:pl:loc:n	disamb
+i	space
+	i	conj	disamb
+trybie	space
+	tryb	subst:sg:loc:m3	disamb
+nakładania	space
+	nakładać	ger:sg:gen:n:imperf:aff	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+celnych	space
+	celny	adj:pl:gen:f:pos	disamb
+
+dodatkowych	none
+	dodatkowy	adj:pl:gen:m3:pos	disamb
+na	space
+	na	prep:acc	disamb
+niektóre	space
+	niektóry	adj:pl:acc:m3:pos	disamb
+towary	space
+	towar	subst:pl:acc:m3	disamb
+rolne	space
+	rolny	adj:pl:acc:m3:pos	disamb
+przywożone	space
+	przywozić	ppas:pl:acc:m3:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zagranicy	space
+	zagranica	subst:sg:gen:f	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+28	space
+	28	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+,	none
+	,	interp	disamb
+warunkach	space
+	warunki	subst:pl:loc:n	disamb
+i	space
+	i	conj	disamb
+trybie	space
+	tryb	subst:sg:loc:m3	disamb
+nakładania	space
+	nakładać	ger:sg:gen:n:imperf:aff	disamb
+
+opłat	none
+	opłata	subst:pl:gen:f	disamb
+celnych	space
+	celny	adj:pl:gen:f:pos	disamb
+dodatkowych	space
+	dodatkowy	adj:pl:gen:f:pos	disamb
+na	space
+	na	prep:acc	disamb
+niektóre	space
+	niektóry	adj:pl:acc:m3:pos	disamb
+towary	space
+	towar	subst:pl:acc:m3	disamb
+rolne	space
+	rolny	adj:pl:acc:m3:pos	disamb
+przywożone	space
+	przywozić	ppas:pl:acc:m3:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zagranicy	space
+	zagranica	subst:sg:gen:f	disamb
+
+(	none
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+98	space
+	98	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+485	space
+	485	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+wprowadza	space
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+następujące	space
+	następujący	adj:pl:acc:f:pos	disamb
+zmiany	space
+	zmiana	subst:pl:acc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+zasady	space
+	zasada	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+warunki	space
+	warunek	subst:pl:acc:m3	disamb
+i	space
+	i	conj	disamb
+tryb	space
+	tryb	subst:sg:acc:m3	disamb
+nakładania	space
+	nakładać	ger:sg:gen:n:imperf:aff	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+celnych	space
+	celny	adj:pl:gen:f:pos	disamb
+
+dodatkowych	none
+	dodatkowy	adj:pl:gen:m3:pos	disamb
+na	space
+	na	prep:acc	disamb
+niektóre	space
+	niektóry	adj:pl:acc:m3:pos	disamb
+towary	space
+	towar	subst:pl:acc:m3	disamb
+rolne	space
+	rolny	adj:pl:acc:m3:pos	disamb
+przywożone	space
+	przywozić	ppas:pl:acc:m3:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zagranicy	space
+	zagranica	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+cenie	space
+	cena	subst:sg:dat:f	disamb
+progu	space
+	próg	subst:sg:gen:m3	disamb
+-	space
+	-	interp	disamb
+rozumie	space
+	rozumieć	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+średnią	space
+	średni	adj:sg:acc:f:pos	disamb
+cenę	space
+	cena	subst:sg:acc:f	disamb
+jednostkową	space
+	jednostkowy	adj:sg:acc:f:pos	disamb
+danego	space
+	dać	ppas:sg:gen:m3:perf:aff	disamb
+
+towaru	none
+	towar	subst:sg:gen:m3	disamb
+rolnego	space
+	rolny	adj:sg:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+też	space
+	też	qub	disamb
+cenę	space
+	cena	subst:sg:acc:f	disamb
+odpowiednią	space
+	odpowiedni	adj:sg:acc:f:pos	disamb
+do	space
+	do	prep:gen	disamb
+jakości	space
+	jakość	subst:sg:gen:f	disamb
+produktu	space
+	produkt	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+
+jego	none
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+przetworzenia	space
+	przetworzenie	subst:pl:nom:n	disamb
+,	none
+	,	interp	disamb
+ustaloną	space
+	ustalić	ppas:sg:inst:f:perf:aff	disamb
+zgodnie	space
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+regułami	space
+	reguła	subst:pl:inst:f	disamb
+Porozumienia	space
+	porozumienie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+poniżej	space
+	poniżej	prep:gen	disamb
+
+której	none
+	który	adj:sg:gen:f:pos	disamb
+przywóz	space
+	przywóz	subst:sg:nom:m3	disamb
+towaru	space
+	towar	subst:sg:gen:m3	disamb
+rolnego	space
+	rolny	adj:sg:gen:m3:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+obciążony	space
+	obciążyć	ppas:sg:nom:m3:perf:aff	disamb
+opłatą	space
+	opłata	subst:sg:inst:f	disamb
+celną	space
+	celny	adj:sg:inst:f:pos	disamb
+
+dodatkową	none
+	dodatkowy	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+pkt	space
+	punkt	brev:npun	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+otrzymują	space
+	otrzymywać	fin:pl:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jednostkowej	space
+	jednostkowy	adj:sg:dat:f:pos	disamb
+cenie	space
+	cena	subst:sg:dat:f	disamb
+importowej	space
+	importowy	adj:sg:dat:f:pos	disamb
+-	space
+	-	interp	disamb
+rozumie	space
+	rozumieć	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+cenę	space
+	cena	subst:sg:acc:f	disamb
+liczoną	space
+	liczyć	ppas:sg:acc:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+walucie	none
+	waluta	subst:sg:dat:f	disamb
+polskiej	space
+	polski	adj:sg:dat:f:pos	disamb
+,	none
+	,	interp	disamb
+zapłaconą	space
+	zapłacić	ppas:sg:acc:f:perf:aff	disamb
+lub	space
+	lub	conj	disamb
+należną	space
+	należny	adj:sg:acc:f:pos	disamb
+za	space
+	za	prep:acc	disamb
+jednostkę	space
+	jednostka	subst:sg:acc:f	disamb
+towaru	space
+	towar	subst:sg:gen:m3	disamb
+rolnego	space
+	rolny	adj:sg:gen:m3:pos	disamb
+
+przywożonego	none
+	przywozić	ppas:sg:gen:m3:imperf:aff	disamb
+na	space
+	na	prep:acc	disamb
+polski	space
+	polski	adj:sg:acc:m3:pos	disamb
+obszar	space
+	obszar	subst:sg:acc:m3	disamb
+celny	space
+	celny	adj:sg:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+skorygowaną	space
+	skorygować	ppas:sg:acc:f:perf:aff	disamb
+o	space
+	o	prep:acc	disamb
+koszty	space
+	koszt	subst:pl:acc:m3	disamb
+transportu	space
+	transport	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+
+ubezpieczenia	none
+	ubezpieczenie	subst:pl:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+granicy	space
+	granica	subst:sg:gen:f	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+lub	space
+	lub	conj	disamb
+portu	space
+	port	subst:sg:gen:m3	disamb
+polskiego	space
+	polski	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+stawce	space
+	stawka	subst:sg:dat:f	disamb
+celnej	space
+	celny	adj:sg:dat:f:pos	disamb
+stosowanej	space
+	stosować	ppas:sg:gen:f:imperf:aff	disamb
+-	space
+	-	interp	disamb
+rozumie	space
+	rozumieć	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+mniejszą	space
+	mały	adj:sg:acc:f:com	disamb
+wielkość	space
+	wielkość	subst:sg:acc:f	disamb
+
+spośród	none
+	spośród	prep:gen	disamb
+ustanowionej	space
+	ustanowić	ppas:sg:gen:f:perf:aff	disamb
+dla	space
+	dla	prep:gen	disamb
+danego	space
+	dany	adj:sg:gen:m3:pos	disamb
+towaru	space
+	towar	subst:sg:gen:m3	disamb
+rolnego	space
+	rolny	adj:sg:gen:m3:pos	disamb
+oznaczonego	space
+	oznaczyć	ppas:sg:gen:m3:perf:aff	disamb
+kodem	space
+	kod	subst:sg:inst:m3	disamb
+Taryfy	space
+	taryfa	subst:sg:gen:f	disamb
+
+celnej	none
+	celny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+określonej	space
+	określić	ppas:sg:gen:f:perf:aff	disamb
+odrębnie	space
+	odrębnie	adv:pos	disamb
+:	none
+	:	interp	disamb
+stawki	space
+	stawek	subst:pl:nom:m3	disamb
+celnej	space
+	celny	adj:sg:gen:f:pos	disamb
+konwencyjnej	space
+	konwencyjny	adj:sg:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+stawki	space
+	stawka	subst:sg:gen:f	disamb
+
+celnej	none
+	celny	adj:sg:gen:f:pos	disamb
+autonomicznej	space
+	autonomiczny	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+użyty	space
+	użyty	adj:sg:nom:m3:pos	disamb
+trzykrotnie	space
+	trzykrotnie	adv:pos	disamb
+wyraz	space
+	wyraz	subst:sg:nom:m3	disamb
+"	space
+	"	interp	disamb
+wolnego	none
+	wolny	adj:sg:gen:m3:pos	disamb
+"	none
+	"	interp	disamb
+skreśla	space
+	skreślać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+;	none
+	;	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+po	space
+	po	prep:loc	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2a	space
+	2a	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+2a	none
+	2a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+właściwy	space
+	właściwy	adj:sg:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+spraw	space
+	sprawa	subst:pl:gen:f	disamb
+gospodarki	space
+	gospodarka	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozporządzeniach	space
+	rozporządzenie	subst:pl:loc:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+
+mowa	none
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+określić	space
+	określić	inf:perf	disamb
+towary	space
+	towar	subst:pl:acc:m3	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+które	space
+	który	adj:pl:acc:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+będą	space
+	być	bedzie:pl:ter:imperf	disamb
+nakładane	space
+	nakładać	ppas:pl:nom:m3:imperf:aff	disamb
+
+opłaty	none
+	opłata	subst:pl:nom:f	disamb
+celne	space
+	celny	adj:pl:nom:f:pos	disamb
+dodatkowe	space
+	dodatkowy	adj:pl:nom:f:pos	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	num:pl:acc:m3:congr	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+14	none
+	14	num:pl:acc:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+7	none
+	7	num:pl:nom:m3:rec	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Podstawą	newline
+	podstawa	subst:sg:inst:f	disamb
+naliczania	space
+	naliczać	ger:sg:gen:n:imperf:aff	disamb
+opłaty	space
+	opłata	subst:sg:gen:f	disamb
+celnej	space
+	celny	adj:sg:gen:f:pos	disamb
+dodatkowej	space
+	dodatkowy	adj:sg:gen:f:pos	disamb
+nakładanej	space
+	nakładać	ppas:sg:gen:f:imperf:aff	disamb
+zgodnie	space
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:inst:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+wartość	space
+	wartość	subst:sg:nom:f	disamb
+celna	space
+	celny	adj:sg:nom:f:pos	disamb
+towaru	space
+	towar	subst:sg:gen:m3	disamb
+rolnego	space
+	rolny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+określona	space
+	określić	ppas:sg:nom:f:perf:aff	disamb
+zgodnie	space
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+przepisami	space
+	przepis	subst:pl:inst:m3	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+
+celnego	none
+	celny	adj:sg:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ilość	space
+	ilość	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+lub	space
+	lub	conj	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+masa	space
+	masa	subst:sg:nom:f	disamb
+netto	space
+	netto	subst:sg:gen:n	disamb
+przywożonego	space
+	przywozić	ppas:sg:gen:m3:imperf:aff	disamb
+towaru	space
+	towar	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+właściwy	space
+	właściwy	adj:sg:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+spraw	space
+	sprawa	subst:pl:gen:f	disamb
+rolnictwa	space
+	rolnictwo	subst:sg:gen:n	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+corocznie	space
+	corocznie	adv:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+
+rozporządzenia	none
+	rozporządzenie	subst:pl:nom:n	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wielkości	space
+	wielkość	subst:pl:nom:f	disamb
+progowe	space
+	progowy	adj:pl:nom:f:pos	disamb
+lub	space
+	lub	conj	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ceny	space
+	cena	subst:pl:acc:f	disamb
+progu	space
+	próg	subst:sg:gen:m3	disamb
+
+-	none
+	-	interp	disamb
+dla	space
+	dla	prep:gen	disamb
+towarów	space
+	towar	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Opłata	newline
+	opłata	subst:sg:nom:f	disamb
+celna	space
+	celny	adj:sg:nom:f:pos	disamb
+dodatkowa	space
+	dodatkowy	adj:sg:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+pobierana	space
+	pobierać	ppas:sg:nom:f:imperf:aff	disamb
+od	space
+	od	prep:gen:nwok	disamb
+towarów	space
+	towar	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+
+wprowadzanych	none
+	wprowadzać	ppas:pl:gen:m3:imperf:aff	disamb
+na	space
+	na	prep:acc	disamb
+polski	space
+	polski	adj:sg:acc:m3:pos	disamb
+obszar	space
+	obszar	subst:sg:acc:m3	disamb
+celny	space
+	celny	adj:sg:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+zgodnie	space
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zawartym	space
+	zawrzeć	ppas:sg:inst:m3:perf:aff	disamb
+kontraktem	space
+	kontrakt	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+
+jeżeli	none
+	jeżeli	comp	disamb
+ich	space
+	on	ppron3:pl:gen:m1:ter:akc:npraep	disamb
+wysyłka	space
+	wysyłka	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+tego	space
+	ten	adj:sg:gen:m3:pos	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+nastąpiła	space
+	nastąpić	praet:sg:f:perf	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+
+wejścia	none
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+tym	space
+	to	subst:sg:inst:n	disamb
+że	space
+	że	comp	disamb
+
+towary	none
+	towar	subst:pl:nom:m3	disamb
+te	space
+	ten	adj:pl:nom:m3:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+zaliczone	space
+	zaliczyć	ppas:pl:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+następnym	space
+	następny	adj:sg:loc:m3:pos	disamb
+roku	space
+	rok	subst:sg:loc:m3	disamb
+na	space
+	na	prep:acc	disamb
+poczet	space
+	poczet	subst:sg:acc:m3	disamb
+wielkości	space
+	wielkość	subst:sg:gen:f	disamb
+importu	space
+	import	subst:sg:gen:m3	disamb
+
+wymaganej	none
+	wymagać	ppas:sg:gen:f:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+zastosowania	space
+	zastosować	ger:sg:gen:n:perf:aff	disamb
+środków	space
+	środek	subst:pl:gen:m3	disamb
+ochronnych	space
+	ochronny	adj:pl:gen:m3:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+przekroczenia	space
+	przekroczenie	subst:sg:gen:n	disamb
+
+wielkości	none
+	wielkość	subst:sg:gen:f	disamb
+progowej	space
+	progowy	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+tymże	space
+	tenże	adj:sg:loc:m3:pos	disamb
+roku	space
+	rok	subst:sg:loc:m3	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+8	none
+	8	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:loc:m3:pos	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+od	none
+	od	prep:gen:nwok	disamb
+cła	space
+	cło	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+podatku	space
+	podatek	subst:sg:gen:m3	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+od	none
+	od	prep:gen:nwok	disamb
+należności	space
+	należność	subst:sg:gen:f	disamb
+
+celnych	none
+	celny	adj:pl:gen:f:pos	disamb
+przywozowych	space
+	przywozowy	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+należności	space
+	należność	subst:pl:gen:f	disamb
+podatkowych	space
+	podatkowy	adj:pl:gen:f:pos	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+9	none
+	9	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+zabezpieczenie	none
+	zabezpieczenie	subst:sg:nom:n	disamb
+majątkowe	space
+	majątkowy	adj:sg:nom:n:pos	disamb
+należności	space
+	należność	subst:pl:gen:f	disamb
+celnych	space
+	celny	adj:pl:gen:f:pos	disamb
+"	none
+	"	interp	disamb
+
+zastępuje	none
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+zabezpieczenie	none
+	zabezpieczenie	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+celu	space
+	cel	subst:sg:loc:m3	disamb
+zagwarantowania	space
+	zagwarantować	ger:sg:gen:n:perf:aff	disamb
+pokrycia	space
+	pokryć	ger:sg:gen:n:perf:aff	disamb
+kwoty	space
+	kwota	subst:sg:gen:f	disamb
+
+wynikającej	none
+	wynikać	pact:sg:gen:f:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+długu	space
+	dług	subst:sg:gen:m3	disamb
+celnego	space
+	celny	adj:sg:gen:m3:pos	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+terminie	space
+	termin	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

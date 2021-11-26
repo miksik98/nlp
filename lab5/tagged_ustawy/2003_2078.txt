@@ -1,0 +1,314 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+213	space
+	213	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+2078	space
+	2078	num:pl:nom:m3:rec	disamb
+
+U	none
+	u	prep:gen	disamb
+S	space
+	Solidarność	brev:npun	disamb
+T	space
+	tesla	brev:npun	disamb
+A	space
+	a	conj	disamb
+W	space
+	w	prep:loc:nwok	disamb
+A	space
+	A	subst:sg:loc:n	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+17	space
+	17	adj:sg:gen:m3:pos	disamb
+października	space
+	październik	subst:sg:gen:m3	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Polską	space
+	Polska	subst:sg:inst:f	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+Czeską	space
+	czeski	adj:sg:inst:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+nowym	space
+	nowy	adj:sg:loc:n:pos	disamb
+
+połączeniu	none
+	połączyć	ger:sg:dat:n:perf:aff	disamb
+polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+drogi	space
+	droga	subst:sg:gen:f	disamb
+krajowej	space
+	krajowy	adj:sg:gen:f:pos	disamb
+nr	space
+	numer	brev:npun	disamb
+78	space
+	78	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+czeskiej	space
+	czeski	adj:sg:gen:f:pos	disamb
+drogi	space
+	droga	subst:sg:gen:f	disamb
+I	space
+	I	adj:sg:gen:f:pos	disamb
+/	none
+	/	interp	disamb
+58	none
+	58	num:pl:nom:m3:rec	disamb
+oraz	space
+	oraz	conj	disamb
+
+o	none
+	o	prep:loc	disamb
+budowie	space
+	budowa	subst:sg:loc:f	disamb
+nowego	space
+	nowy	adj:sg:gen:m3:pos	disamb
+mostu	space
+	most	subst:sg:gen:m3	disamb
+granicznego	space
+	graniczny	adj:sg:gen:m3:pos	disamb
+przez	none
+	przez	prep:acc:nwok	disamb
+rzekę	space
+	rzeka	subst:sg:acc:f	disamb
+Odrę	space
+	Odra	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rejonie	space
+	rejon	subst:sg:loc:m3	disamb
+Chałupek	space
+	chałupka	subst:pl:gen:f	disamb
+
+i	none
+	i	conj	disamb
+Bohumina	space
+	Bohumina	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+sporządzonej	space
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Katowicach	space
+	Katowice	subst:pl:loc:n	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+25	space
+	25	adj:sg:gen:m3:pos	disamb
+sierpnia	space
+	sierpień	subst:sg:gen:m3	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+ratyfikacji	none
+	ratyfikacja	subst:sg:gen:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Polską	space
+	Polska	subst:sg:inst:f	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+Czeską	space
+	czeski	adj:sg:inst:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+nowym	space
+	nowy	adj:sg:loc:n:pos	disamb
+
+połączeniu	none
+	połączenie	subst:sg:dat:n	disamb
+polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+drogi	space
+	droga	subst:sg:gen:f	disamb
+krajowej	space
+	krajowy	adj:sg:gen:f:pos	disamb
+nr	space
+	numer	brev:npun	disamb
+78	space
+	78	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+czeskiej	space
+	czeski	adj:sg:gen:f:pos	disamb
+drogi	space
+	droga	subst:sg:gen:f	disamb
+I	space
+	I	adj:sg:gen:f:pos	disamb
+/	none
+	/	interp	disamb
+58	none
+	58	num:pl:nom:m3:rec	disamb
+oraz	space
+	oraz	conj	disamb
+o	space
+	o	prep:loc	disamb
+budowie	space
+	budowa	subst:sg:loc:f	disamb
+
+nowego	none
+	nowy	adj:sg:gen:m3:pos	disamb
+mostu	space
+	most	subst:sg:gen:m3	disamb
+granicznego	space
+	graniczny	adj:sg:gen:m3:pos	disamb
+przez	none
+	przez	prep:acc:nwok	disamb
+rzekę	space
+	rzeka	subst:sg:acc:f	disamb
+Odrę	space
+	Odra	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rejonie	space
+	rejon	subst:sg:loc:m3	disamb
+Chałupek	space
+	chałupka	subst:pl:gen:f	disamb
+i	space
+	i	conj	disamb
+Bohumina	space
+	Bohumina	subst:sg:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+sporządzonej	none
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Katowicach	space
+	Katowice	subst:pl:loc:n	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+25	space
+	25	adj:sg:gen:m3:pos	disamb
+sierpnia	space
+	sierpień	subst:sg:gen:m3	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

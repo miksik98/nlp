@@ -1,0 +1,1240 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+74	space
+	74	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+785	space
+	785	num:pl:nom:m3:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+utworzeniu	space
+	utworzyć	ger:sg:loc:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+Zielonogórskiego	space
+	zielonogórski	adj:sg:gen:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Tworzy	newline
+	tworzyć	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+września	space
+	wrzesień	subst:sg:gen:m3	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Uniwersytet	newline
+	uniwersytet	subst:sg:nom:m3	disamb
+Zielonogórski	space
+	zielonogórski	adj:sg:nom:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+
+Górze	none
+	Góra	subst:sg:dat:m1	disamb
+,	none
+	,	interp	disamb
+zwany	space
+	zwać	ppas:sg:acc:m3:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+"	space
+	"	interp	disamb
+Uniwersytetem	none
+	uniwersytet	subst:sg:inst:m3	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Siedzibą	newline
+	siedziba	subst:sg:inst:f	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+miasto	space
+	miasto	subst:sg:nom:n	disamb
+Zielona	space
+	zielony	adj:sg:nom:f:pos	disamb
+Góra	space
+	Góra	subst:sg:nom:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Uniwersytet	newline
+	uniwersytet	subst:sg:nom:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+uczelnią	space
+	uczelnia	subst:sg:inst:f	disamb
+państwową	space
+	państwowy	adj:sg:inst:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Podstawowym	none
+	podstawowy	adj:sg:inst:m3:pos	disamb
+kierunkiem	space
+	kierunek	subst:sg:inst:m3	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+kształcenie	space
+	kształcenie	subst:sg:nom:n	disamb
+oraz	space
+	oraz	conj	disamb
+
+prowadzenie	none
+	prowadzić	ger:sg:nom:n:imperf:aff	disamb
+badań	space
+	badanie	subst:pl:gen:n	disamb
+naukowych	space
+	naukowy	adj:pl:gen:n:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+nauk	space
+	nauka	subst:pl:gen:f	disamb
+humanistycznych	space
+	humanistyczny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+społecznych	space
+	społeczny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+artystycznych	none
+	artystyczny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+ekonomicznych	space
+	ekonomiczny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+technicznych	space
+	techniczny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+matematycznych	space
+	matematyczny	adj:pl:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+przyrodniczych	space
+	przyrodniczy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+
+także	none
+	także	qub	disamb
+upowszechnianie	space
+	upowszechniać	ger:sg:nom:n:imperf:aff	disamb
+nauki	space
+	nauka	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+sztuki	space
+	sztuka	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+kultury	space
+	kultura	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Nadzór	none
+	nadzór	subst:sg:nom:m3	disamb
+nad	space
+	nad	prep:inst:nwok	disamb
+Uniwersytetem	space
+	uniwersytet	subst:sg:inst:m3	disamb
+sprawuje	space
+	sprawować	fin:sg:ter:imperf	disamb
+minister	space
+	minister	subst:sg:nom:m1	disamb
+właściwy	space
+	właściwy	adj:sg:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+spraw	none
+	sprawa	subst:pl:gen:f	disamb
+szkolnictwa	space
+	szkolnictwo	subst:sg:gen:n	disamb
+
+wyższego	none
+	wysoki	adj:sg:gen:m3:com	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Uniwersytet	newline
+	uniwersytet	subst:sg:nom:m3	disamb
+tworzy	space
+	tworzyć	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:gen:nwok	disamb
+Politechniki	space
+	politechnika	subst:sg:gen:f	disamb
+Zielonogórskiej	space
+	zielonogórski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+oraz	space
+	oraz	conj	disamb
+
+Wyższej	none
+	wysoki	adj:sg:gen:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Z	newline
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+znosi	space
+	znosić	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+Politechnikę	space
+	politechnika	subst:sg:acc:f	disamb
+Zielonogórską	space
+	zielonogórski	adj:sg:acc:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+Zielonej	none
+	zielony	adj:sg:dat:f:pos	disamb
+Górze	space
+	Góra	subst:sg:dat:m1	disamb
+i	space
+	i	conj	disamb
+Wyższą	space
+	wysoki	adj:sg:acc:f:com	disamb
+Szkołę	space
+	szkoła	subst:sg:acc:f	disamb
+Pedagogiczną	space
+	pedagogiczny	adj:sg:acc:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+Zielonej	none
+	zielony	adj:sg:dat:f:pos	disamb
+Górze	space
+	góra	subst:sg:dat:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Mienie	newline
+	mienie	subst:sg:nom:n	disamb
+obejmujące	space
+	obejmować	pact:sg:nom:n:imperf:aff	disamb
+własność	space
+	własność	subst:sg:acc:f	disamb
+i	space
+	i	conj	disamb
+inne	space
+	inny	adj:pl:acc:n:pos	disamb
+prawa	space
+	prawo	subst:pl:acc:n	disamb
+majątkowe	space
+	majątkowy	adj:pl:nom:n:pos	disamb
+Politechniki	space
+	politechnika	subst:sg:gen:f	disamb
+
+Zielonogórskiej	none
+	zielonogórski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+i	space
+	i	conj	disamb
+Wyższej	space
+	wysoki	adj:sg:loc:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+
+Kotarbińskiego	none
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+staje	space
+	stawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+mieniem	space
+	mienie	subst:sg:inst:n	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+
+utworzenia	none
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Uniwersytet	newline
+	uniwersytet	subst:sg:nom:m3	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+przejmuje	space
+	przejmować	fin:sg:ter:imperf	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+zobowiązania	space
+	zobowiązać	ger:sg:gen:n:perf:aff	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+
+wymienionych	none
+	wymienić	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Stan	newline
+	stan	subst:sg:nom:m3	disamb
+gospodarki	space
+	gospodarka	subst:sg:gen:f	disamb
+finansowej	space
+	finansowy	adj:sg:gen:f:pos	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+wymienionych	space
+	wymienić	ppas:pl:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+zostanie	space
+	zostać	fin:sg:ter:perf	disamb
+
+wykazany	none
+	wykazać	ppas:sg:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+bilansach	space
+	bilans	subst:pl:loc:m3	disamb
+sporządzonych	space
+	sporządzić	ppas:pl:loc:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+te	space
+	ten	adj:pl:acc:f:pos	disamb
+jednostki	space
+	jednostka	subst:pl:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dzień	space
+	dzień	subst:sg:acc:m3	disamb
+poprzedzający	space
+	poprzedzać	pact:sg:acc:m3:imperf:aff	disamb
+
+utworzenie	none
+	utworzyć	ger:sg:nom:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Z	newline
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pracownicy	space
+	pracownik	subst:pl:nom:m1	disamb
+zatrudnieni	space
+	zatrudnić	ppas:pl:nom:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jednostkach	space
+	jednostka	subst:pl:loc:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+stają	none
+	stawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+pracownikami	space
+	pracownik	subst:pl:inst:m1	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+studenci	space
+	student	subst:pl:nom:m1	disamb
+Politechniki	space
+	politechnika	subst:sg:gen:f	disamb
+Zielonogórskiej	space
+	zielonogórski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+oraz	space
+	oraz	conj	disamb
+studenci	space
+	student	subst:pl:nom:m1	disamb
+
+Wyższej	none
+	wysoki	adj:sg:gen:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+
+stają	none
+	stawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+studentami	space
+	student	subst:pl:inst:m1	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Osoby	newline
+	osoba	subst:pl:nom:f	disamb
+przyjęte	space
+	przyjąć	ppas:pl:nom:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+pierwszy	space
+	pierwszy	adj:sg:acc:m3:pos	disamb
+rok	space
+	rok	subst:sg:acc:m3	disamb
+studiów	space
+	studia	subst:pl:gen:n	disamb
+na	space
+	na	prep:acc	disamb
+rok	space
+	rok	subst:sg:acc:m3	disamb
+akademicki	space
+	akademicki	adj:sg:acc:m3:pos	disamb
+20012002	space
+	20012002	adj:sg:acc:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+
+Politechniki	none
+	politechnika	subst:sg:gen:f	disamb
+Zielonogórskiej	space
+	zielonogórski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+i	space
+	i	conj	disamb
+Wyższej	space
+	wysoki	adj:sg:loc:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+
+im	none
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+
+stają	none
+	stawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+studentami	space
+	student	subst:pl:inst:m1	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Podstawowe	newline
+	podstawowy	adj:pl:nom:f:pos	disamb
+jednostki	space
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+Politechniki	space
+	politechnika	subst:sg:gen:f	disamb
+Zielonogórskiej	space
+	zielonogórski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+
+Górze	none
+	góra	subst:sg:dat:f	disamb
+i	space
+	i	conj	disamb
+Wyższej	space
+	wysoki	adj:sg:gen:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+
+Górze	none
+	góra	subst:sg:dat:f	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+stają	space
+	stawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+podstawowymi	space
+	podstawowy	adj:pl:inst:f:pos	disamb
+jednostkami	space
+	jednostka	subst:pl:inst:f	disamb
+
+organizacyjnymi	none
+	organizacyjny	adj:pl:inst:m3:pos	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Jednostki	newline
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+Politechniki	space
+	politechnika	subst:sg:gen:f	disamb
+Zielonogórskiej	space
+	zielonogórski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+i	space
+	i	conj	disamb
+
+Wyższej	none
+	wysoki	adj:sg:gen:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+,	none
+	,	interp	disamb
+
+które	none
+	który	adj:pl:nom:f:pos	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+posiadały	space
+	posiadać	praet:pl:f:imperf	disamb
+uprawnienia	space
+	uprawnienie	subst:pl:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+nadawania	space
+	nadawać	ger:sg:gen:n:imperf:aff	disamb
+
+stopni	none
+	stopień	subst:pl:gen:m3	disamb
+naukowych	space
+	naukowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+zachowują	space
+	zachowywać	fin:pl:ter:imperf	disamb
+te	space
+	ten	adj:pl:acc:n:pos	disamb
+uprawnienia	space
+	uprawnienie	subst:pl:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+utworzeniu	space
+	utworzyć	ger:sg:loc:n:perf:aff	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Dotychczasowe	newline
+	dotychczasowy	adj:pl:nom:m3:pos	disamb
+organy	space
+	organ	subst:pl:nom:m3	disamb
+kolegialne	space
+	kolegialny	adj:pl:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+jednoosobowe	space
+	jednoosobowy	adj:pl:nom:f:pos	disamb
+Politechniki	space
+	politechnika	subst:sg:gen:f	disamb
+Zielonogórskiej	space
+	zielonogórski	adj:sg:gen:f:pos	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+i	space
+	i	conj	disamb
+Wyższej	space
+	wysoki	adj:sg:loc:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+Zielonej	none
+	zielony	adj:sg:dat:f:pos	disamb
+Górze	space
+	góra	subst:sg:dat:f	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+3	space
+	3	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+stają	space
+	stawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+
+Uniwersytetu	none
+	uniwersytet	subst:sg:gen:m3	disamb
+organami	space
+	organ	subst:pl:inst:m3	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepis	newline
+	przepis	subst:sg:nom:m3	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+dotyczy	space
+	dotyczyć	fin:sg:ter:imperf	disamb
+rektorów	space
+	rektor	subst:pl:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Senaty	newline
+	senat	subst:pl:nom:m3	disamb
+Politechniki	space
+	politechnika	subst:sg:gen:f	disamb
+Zielonogórskiej	space
+	zielonogórski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+i	space
+	i	conj	disamb
+Wyższej	space
+	wysoki	adj:sg:loc:f:com	disamb
+Szkoły	space
+	szkoła	subst:sg:gen:f	disamb
+
+Pedagogicznej	none
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Tadeusza	space
+	Tadeusz	subst:sg:gen:m1	disamb
+Kotarbińskiego	space
+	Kotarbiński	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Zielonej	space
+	Zielony	adj:sg:loc:f:pos	disamb
+Górze	space
+	Góra	subst:sg:loc:f	disamb
+pełnią	space
+	pełnić	fin:pl:ter:imperf	disamb
+funkcję	space
+	funkcja	subst:sg:acc:f	disamb
+
+Senatu	none
+	senat	subst:sg:gen:m3	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+do	space
+	do	prep:gen	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+31	space
+	31	adj:sg:gen:m3:pos	disamb
+grudnia	space
+	grudzień	subst:sg:gen:m3	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+składzie	space
+	skład	subst:sg:loc:m3	disamb
+dotychczasowym	space
+	dotychczasowy	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+31	space
+	31	adj:sg:gen:m3:pos	disamb
+grudnia	space
+	grudzień	subst:sg:gen:m3	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+zostaną	space
+	zostać	fin:pl:ter:perf	disamb
+przeprowadzone	space
+	przeprowadzić	ppas:pl:nom:n:perf:aff	disamb
+wybory	space
+	wybory	subst:pl:nom:n	disamb
+do	space
+	do	prep:gen	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+
+Uniwersytetu	none
+	uniwersytet	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+wybory	space
+	wybory	subst:pl:nom:n	disamb
+do	space
+	do	prep:gen	disamb
+rad	space
+	rada	subst:pl:gen:f	disamb
+wydziałów	space
+	wydział	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:acc:nwok	disamb
+skład	space
+	skład	subst:sg:acc:m3	disamb
+których	space
+	który	adj:pl:gen:m3:pos	disamb
+weszły	space
+	wejść	praet:pl:m3:perf	disamb
+instytuty	space
+	instytut	subst:pl:nom:m3	disamb
+
+znoszonych	none
+	znosić	ppas:pl:gen:f:perf:aff	disamb
+uczelni	space
+	uczelnia	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+trybie	space
+	tryb	subst:sg:loc:m3	disamb
+i	space
+	i	conj	disamb
+na	space
+	na	prep:acc	disamb
+okres	space
+	okres	subst:sg:acc:m3	disamb
+ustalony	space
+	ustalić	ppas:sg:acc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+statucie	space
+	statut	subst:sg:loc:m3	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

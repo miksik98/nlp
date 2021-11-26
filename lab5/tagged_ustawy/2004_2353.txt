@@ -1,0 +1,244 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+236	space
+	236	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+2353	space
+	2353	num:pl:nom:f:congr	disamb
+
+U	none
+	u	prep:gen	disamb
+S	space
+	Solidarność	brev:npun	disamb
+T	space
+	tesla	brev:npun	disamb
+A	space
+	a	conj	disamb
+W	space
+	w	prep:loc:nwok	disamb
+A	space
+	A	subst:sg:loc:n	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+września	space
+	wrzesień	subst:sg:gen:m3	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+Porozumienia	space
+	porozumienie	subst:sg:gen:n	disamb
+dotyczącego	space
+	dotyczyć	pact:sg:gen:n:imperf:aff	disamb
+trzeciej	space
+	trzeci	adj:sg:gen:f:pos	disamb
+zmiany	space
+	zmiana	subst:sg:gen:f	disamb
+Porozumienia	space
+	porozumienie	subst:sg:gen:n	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+i	space
+	i	conj	disamb
+funkcjonowania	space
+	funkcjonować	ger:sg:gen:n:imperf:aff	disamb
+Międzynarodowego	space
+	międzynarodowy	adj:sg:gen:m3:pos	disamb
+Ośrodka	space
+	ośrodek	subst:sg:gen:m3	disamb
+Rozwoju	space
+	rozwój	subst:sg:gen:m3	disamb
+
+Polityki	none
+	polityka	subst:sg:gen:f	disamb
+Migracyjnej	space
+	migracyjny	adj:sg:gen:f:pos	disamb
+(	space
+	(	interp	disamb
+ICMPD	none
+	ICMPD	subst:sg:nom:m3	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+sporządzonego	space
+	sporządzić	ppas:sg:gen:m3:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+Rodos	space
+	Rodos	subst:sg:acc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+25	space
+	25	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+ratyfikacji	none
+	ratyfikacja	subst:sg:gen:f	disamb
+Porozumienia	space
+	porozumienie	subst:sg:gen:n	disamb
+dotyczącego	space
+	dotyczyć	pact:sg:gen:n:imperf:aff	disamb
+trzeciej	space
+	trzeci	adj:sg:gen:f:pos	disamb
+zmiany	space
+	zmiana	subst:sg:gen:f	disamb
+Porozumienia	space
+	porozumienie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+
+utworzenia	none
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+i	space
+	i	conj	disamb
+funkcjonowania	space
+	funkcjonować	ger:sg:gen:n:imperf:aff	disamb
+Międzynarodowego	space
+	międzynarodowy	adj:sg:gen:m3:pos	disamb
+Ośrodka	space
+	ośrodek	subst:sg:gen:m3	disamb
+Rozwoju	space
+	rozwój	subst:sg:gen:m3	disamb
+Polityki	space
+	polityka	subst:sg:gen:f	disamb
+
+Migracyjnej	none
+	migracyjny	adj:sg:gen:f:pos	disamb
+(	space
+	(	interp	disamb
+ICMPD	none
+	ICMPD	subst:sg:nom:m3	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+sporządzonego	space
+	sporządzić	ppas:sg:gen:m3:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+Rodos	space
+	Rodos	subst:sg:acc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+25	space
+	25	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

@@ -1,0 +1,242 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+52	space
+	52	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+529	space
+	529	adj:sg:nom:f:pos	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Polską	space
+	Polska	subst:sg:inst:f	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+Estońską	space
+	estoński	adj:sg:inst:f:pos	disamb
+
+o	none
+	o	prep:loc	disamb
+pomocy	space
+	pomoc	subst:sg:loc:f	disamb
+prawnej	space
+	prawny	adj:sg:loc:f:pos	disamb
+i	space
+	i	conj	disamb
+stosunkach	space
+	stosunki	subst:pl:loc:n	disamb
+prawnych	space
+	prawny	adj:pl:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+cywilnych	space
+	cywilny	adj:pl:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+pracowniczych	none
+	pracowniczy	adj:pl:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+karnych	space
+	karny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Tallinie	space
+	Tallin	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+27	space
+	27	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1998	space
+	1998	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+ratyfikacji	none
+	ratyfikacja	subst:sg:gen:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Polską	space
+	Polska	subst:sg:inst:f	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+Estońską	space
+	estoński	adj:sg:inst:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+pomocy	space
+	pomoc	subst:sg:loc:f	disamb
+
+prawnej	none
+	prawny	adj:sg:dat:f:pos	disamb
+i	space
+	i	conj	disamb
+stosunkach	space
+	stosunki	subst:pl:loc:n	disamb
+prawnych	space
+	prawny	adj:pl:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+cywilnych	space
+	cywilny	adj:pl:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+pracowniczych	space
+	pracowniczy	adj:pl:loc:f:pos	disamb
+i	space
+	i	conj	disamb
+karnych	space
+	karny	adj:pl:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+podpisanej	none
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Tallinie	space
+	Tallin	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+27	space
+	27	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1998	space
+	1998	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

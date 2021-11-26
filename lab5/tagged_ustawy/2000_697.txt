@@ -1,0 +1,155 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+60	space
+	60	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+697	space
+	697	num:pl:nom:m3:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+nadaniu	space
+	nadać	ger:sg:loc:n:perf:aff	disamb
+Wyższej	space
+	wysoki	adj:sg:loc:f:com	disamb
+Szkole	space
+	szkoła	subst:sg:dat:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Słupsku	space
+	Słupsk	subst:sg:loc:m3	disamb
+
+nazwy	none
+	nazwa	subst:pl:nom:f	disamb
+"	space
+	"	interp	disamb
+Pomorska	none
+	pomorski	adj:sg:nom:f:pos	disamb
+Akademia	space
+	akademia	subst:sg:nom:f	disamb
+Pedagogiczna	space
+	pedagogiczny	adj:sg:nom:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Słupsku	space
+	Słupsk	subst:sg:loc:m3	disamb
+"	none
+	"	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyższej	none
+	wysoki	adj:sg:dat:f:com	disamb
+Szkole	space
+	szkoła	subst:sg:dat:f	disamb
+Pedagogicznej	space
+	pedagogiczny	adj:sg:dat:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Słupsku	space
+	Słupsk	subst:sg:loc:m3	disamb
+nadaje	space
+	nadawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+nazwę	space
+	nazwa	subst:sg:acc:f	disamb
+"	space
+	"	interp	disamb
+Pomorska	none
+	pomorski	adj:sg:nom:f:pos	disamb
+Akademia	space
+	akademia	subst:sg:nom:f	disamb
+
+Pedagogiczna	none
+	pedagogiczny	adj:sg:nom:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Słupsku	space
+	Słupsk	subst:sg:loc:m3	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+września	space
+	wrzesień	subst:sg:gen:m3	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+

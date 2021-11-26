@@ -1,0 +1,2813 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+99	space
+	99	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1072	space
+	1072	adj:sg:nom:m3:pos	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+9	space
+	9	adj:sg:gen:m3:pos	disamb
+września	space
+	wrzesień	subst:sg:gen:m3	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+powszechnym	space
+	powszechny	adj:sg:loc:m3:pos	disamb
+spisie	space
+	spis	subst:sg:loc:m3	disamb
+rolnym	space
+	rolny	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+2002	space
+	2002	adj:sg:loc:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+
+Termin	none
+	termin	subst:sg:nom:m3	disamb
+i	space
+	i	conj	disamb
+zakres	space
+	zakres	subst:sg:nom:m3	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Powszechny	none
+	powszechny	adj:sg:nom:m3:pos	disamb
+spis	space
+	spis	subst:sg:nom:m3	disamb
+rolny	space
+	rolny	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+zwany	space
+	zwać	ppas:sg:nom:m3:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+"	space
+	"	interp	disamb
+spisem	none
+	spis	subst:sg:inst:m3	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+będzie	space
+	być	bedzie:sg:ter:imperf	disamb
+przeprowadzony	space
+	przeprowadzić	ppas:sg:nom:m3:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+
+terytorium	none
+	terytorium	subst:sg:nom:n	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniach	space
+	dzień	subst:pl:loc:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+21	space
+	21	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+2002	space
+	2002	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+do	space
+	do	prep:gen	disamb
+8	space
+	8	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+
+2002	none
+	2002	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+,	none
+	,	interp	disamb
+według	space
+	według	prep:gen	disamb
+stanu	space
+	stan	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+20	space
+	20	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+2002	space
+	2002	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+godzinie	space
+	godzina	subst:sg:loc:f	disamb
+24	space
+	24	adj:sg:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+00	none
+	00	num:pl:nom:f:rec	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Spisem	none
+	spis	subst:sg:inst:m3	disamb
+zostaną	space
+	zostać	fin:pl:ter:perf	disamb
+objęte	space
+	objąć	ppas:pl:nom:f:perf:aff	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+indywidualne	space
+	indywidualny	adj:pl:nom:n:pos	disamb
+gospodarstwa	space
+	gospodarstwo	subst:pl:acc:n	disamb
+rolne	space
+	rolny	adj:pl:nom:n:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+działki	space
+	działka	subst:pl:acc:f	disamb
+rolne	space
+	rolny	adj:pl:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+fizyczne	space
+	fizyczny	adj:pl:nom:f:pos	disamb
+będące	space
+	być	pact:pl:acc:f:imperf:aff	disamb
+właścicielami	space
+	właściciel	subst:pl:inst:m1	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+
+posiadające	none
+	posiadać	pact:pl:nom:n:imperf:aff	disamb
+użytków	space
+	użytek	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+posiadające	space
+	posiadający	adj:pl:nom:m3:pos	disamb
+użytki	space
+	użytek	subst:pl:nom:m3	disamb
+rolne	space
+	rolny	adj:pl:nom:m3:pos	disamb
+o	space
+	o	prep:loc	disamb
+powierzchni	space
+	powierzchnia	subst:sg:loc:f	disamb
+
+mniejszej	none
+	mały	adj:sg:loc:f:com	disamb
+niż	space
+	niż	prep:nom	disamb
+0	space
+	0	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+ha	space
+	hektar	brev:npun	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+jednostki	space
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+mające	space
+	mieć	pact:pl:nom:f:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+których	none
+	który	adj:pl:gen:m3:pos	disamb
+podstawowym	space
+	podstawowy	adj:sg:inst:m3:pos	disamb
+rodzajem	space
+	rodzaj	subst:sg:inst:m3	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+prowadzenie	space
+	prowadzić	ger:sg:nom:n:imperf:aff	disamb
+upraw	space
+	uprawa	subst:pl:gen:f	disamb
+rolnych	space
+	rolny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+warzywnictwa	none
+	warzywnictwo	subst:pl:nom:n	disamb
+,	none
+	,	interp	disamb
+ogrodnictwa	space
+	ogrodnictwo	subst:pl:nom:n	disamb
+,	none
+	,	interp	disamb
+chów	space
+	chów	subst:sg:nom:m3	disamb
+i	space
+	i	conj	disamb
+hodowla	space
+	hodowla	subst:sg:nom:f	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+działalność	space
+	działalność	subst:sg:nom:f	disamb
+usługowa	space
+	usługowy	adj:sg:nom:f:pos	disamb
+
+związana	none
+	związany	adj:sg:nom:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+uprawami	space
+	uprawa	subst:pl:inst:f	disamb
+rolnymi	space
+	rolny	adj:pl:inst:f:pos	disamb
+,	none
+	,	interp	disamb
+chowem	space
+	chów	subst:sg:inst:m3	disamb
+i	space
+	i	conj	disamb
+hodowlą	space
+	hodowla	subst:sg:inst:f	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wyjątkiem	space
+	wyjątek	subst:sg:inst:m3	disamb
+
+działalności	none
+	działalność	subst:sg:gen:f	disamb
+weterynaryjnej	space
+	weterynaryjny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+gospodarki	space
+	gospodarka	subst:sg:gen:f	disamb
+łowieckiej	space
+	łowiecki	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+hodowli	space
+	hodowla	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+pozyskiwania	space
+	pozyskiwać	ger:sg:gen:n:imperf:aff	disamb
+
+zwierząt	none
+	zwierzę	subst:pl:gen:n	disamb
+łownych	space
+	łowny	adj:pl:gen:n:pos	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+pokrewną	space
+	pokrewny	adj:sg:inst:f:pos	disamb
+działalnością	space
+	działalność	subst:sg:inst:f	disamb
+usługową	space
+	usługowy	adj:sg:inst:f:pos	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+jednostki	space
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+mające	space
+	mieć	pact:pl:nom:f:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+które	none
+	który	adj:pl:nom:f:pos	disamb
+niezależnie	space
+	niezależnie	adv:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+rodzaju	space
+	rodzaj	subst:sg:gen:m3	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+podstawowej	space
+	podstawowy	adj:sg:gen:f:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+użytkownikami	space
+	użytkownik	subst:pl:inst:m1	disamb
+
+użytków	none
+	użytek	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+o	space
+	o	prep:loc	disamb
+powierzchni	space
+	powierzchnia	subst:sg:loc:f	disamb
+przekraczającej	space
+	przekraczać	pact:sg:loc:f:imperf:aff	disamb
+1	space
+	1	adj:sg:acc:m3:pos	disamb
+ha	space
+	hektar	brev:npun	disamb
+lub	space
+	lub	conj	disamb
+prowadzą	space
+	prowadzić	fin:pl:ter:imperf	disamb
+chów	space
+	chów	subst:sg:acc:m3	disamb
+
+zwierząt	none
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ilekroć	none
+	ilekroć	adv	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+o	space
+	o	prep:loc	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+gospodarstwie	space
+	gospodarstwo	subst:sg:loc:n	disamb
+rolnym	space
+	rolny	adj:sg:loc:n:pos	disamb
+-	space
+	-	interp	disamb
+oznacza	space
+	oznaczać	fin:sg:ter:imperf	disamb
+to	space
+	to	subst:sg:nom:n	disamb
+grunty	space
+	grunt	subst:pl:acc:m3	disamb
+rolne	space
+	rolny	adj:pl:acc:m3:pos	disamb
+wraz	space
+	wraz	adv	disamb
+z	space
+	z	prep:inst:nwok	disamb
+gruntami	space
+	grunt	subst:pl:inst:m3	disamb
+leśnymi	space
+	leśny	adj:pl:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+budynkami	none
+	budynek	subst:pl:inst:m3	disamb
+lub	space
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+częściami	space
+	część	subst:pl:inst:f	disamb
+,	none
+	,	interp	disamb
+urządzeniami	space
+	urządzenie	subst:pl:inst:n	disamb
+i	space
+	i	conj	disamb
+inwentarzem	space
+	inwentarz	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+stanowią	space
+	stanowić	fin:pl:ter:imperf	disamb
+
+lub	none
+	lub	conj	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+stanowić	space
+	stanowić	inf:imperf	disamb
+zorganizowaną	space
+	zorganizować	ppas:sg:acc:f:perf:aff	disamb
+całość	space
+	całość	subst:sg:acc:f	disamb
+gospodarczą	space
+	gospodarczy	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+oraz	space
+	oraz	conj	disamb
+prawami	space
+	prawo	subst:pl:inst:n	disamb
+i	space
+	i	conj	disamb
+
+obowiązkami	none
+	obowiązek	subst:pl:inst:m3	disamb
+związanymi	space
+	związany	adj:pl:inst:m3:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+prowadzeniem	space
+	prowadzić	ger:sg:inst:n:imperf:aff	disamb
+gospodarstwa	space
+	gospodarstwo	subst:sg:gen:n	disamb
+rolnego	space
+	rolny	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+indywidualnym	space
+	indywidualny	adj:sg:loc:n:pos	disamb
+gospodarstwie	space
+	gospodarstwo	subst:sg:loc:n	disamb
+rolnym	space
+	rolny	adj:sg:loc:n:pos	disamb
+-	space
+	-	interp	disamb
+oznacza	space
+	oznaczać	fin:sg:ter:imperf	disamb
+to	space
+	ten	adj:sg:nom:n:pos	disamb
+gospodarstwo	space
+	gospodarstwo	subst:sg:acc:n	disamb
+rolne	space
+	rolny	adj:sg:nom:n:pos	disamb
+będące	space
+	być	pact:sg:acc:n:imperf:aff	disamb
+
+własnością	none
+	własność	subst:sg:inst:f	disamb
+lub	space
+	lub	conj	disamb
+znajdujące	space
+	znajdować	pact:pl:nom:f:imperf:aff	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+użytkowaniu	space
+	użytkować	ger:sg:loc:n:imperf:aff	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+fizycznej	space
+	fizyczny	adj:sg:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+grupy	space
+	grupa	subst:sg:gen:f	disamb
+
+osób	none
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+powierzchni	space
+	powierzchnia	subst:sg:loc:f	disamb
+użytków	space
+	użytek	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+przekraczającej	space
+	przekraczać	pact:sg:gen:f:imperf:aff	disamb
+1	space
+	1	num:pl:gen:m3:rec	disamb
+ha	space
+	hektar	brev:npun	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+działce	space
+	działka	subst:sg:dat:f	disamb
+rolnej	space
+	rolny	adj:sg:dat:f:pos	disamb
+-	space
+	-	interp	disamb
+oznacza	space
+	oznaczać	fin:sg:ter:imperf	disamb
+to	space
+	ten	adj:sg:nom:n:pos	disamb
+gospodarstwo	space
+	gospodarstwo	subst:sg:nom:n	disamb
+rolne	space
+	rolny	adj:sg:nom:n:pos	disamb
+będące	space
+	być	pact:sg:acc:n:imperf:aff	disamb
+własnością	space
+	własność	subst:sg:inst:f	disamb
+lub	space
+	lub	conj	disamb
+
+znajdujące	none
+	znajdować	pact:pl:nom:f:imperf:aff	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+użytkowaniu	space
+	użytkować	ger:sg:loc:n:imperf:aff	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+fizycznej	space
+	fizyczny	adj:sg:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+grupy	space
+	grupa	subst:sg:gen:f	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+powierzchni	space
+	powierzchnia	subst:sg:loc:f	disamb
+
+użytków	none
+	użytek	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+0	space
+	0	num:pl:gen:m3:rec	disamb
+,	none
+	,	interp	disamb
+1	none
+	1	adj:sg:gen:m3:pos	disamb
+ha	space
+	hektar	brev:npun	disamb
+do	space
+	do	prep:gen	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+ha	space
+	hektar	brev:npun	disamb
+włącznie	space
+	włącznie	adv	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+osobie	space
+	osoba	subst:sg:dat:f	disamb
+fizycznej	space
+	fizyczny	adj:sg:dat:f:pos	disamb
+będącej	space
+	być	pact:sg:dat:f:imperf:aff	disamb
+właścicielem	space
+	właściciel	subst:sg:inst:m1	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+-	space
+	-	interp	disamb
+oznacza	space
+	oznaczać	fin:sg:ter:imperf	disamb
+to	space
+	to	subst:sg:nom:n	disamb
+
+osobę	none
+	osoba	subst:sg:acc:f	disamb
+fizyczną	space
+	fizyczny	adj:sg:acc:f:pos	disamb
+nie	space
+	nie	qub	disamb
+posiadającą	space
+	posiadać	pact:sg:inst:f:imperf:aff	disamb
+użytków	space
+	użytek	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+posiadającą	space
+	posiadać	pact:sg:inst:f:imperf:aff	disamb
+użytki	space
+	użytek	subst:pl:acc:m3	disamb
+
+rolne	none
+	rolny	adj:pl:nom:m3:pos	disamb
+o	space
+	o	prep:loc	disamb
+powierzchni	space
+	powierzchnia	subst:sg:loc:f	disamb
+mniejszej	space
+	mały	adj:sg:loc:f:com	disamb
+niż	space
+	niż	prep:nom	disamb
+0	space
+	0	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+1	none
+	1	num:pl:nom:m3:rec	disamb
+ha	space
+	hektar	brev:npun	disamb
+,	none
+	,	interp	disamb
+posiadającą	space
+	posiadać	pact:sg:inst:f:imperf:aff	disamb
+zwierzęta	space
+	zwierzę	subst:pl:acc:n	disamb
+
+gospodarskie	none
+	gospodarski	adj:sg:nom:n:pos	disamb
+:	none
+	:	interp	disamb
+bydło	space
+	bydło	subst:sg:nom:n	disamb
+,	none
+	,	interp	disamb
+trzodę	space
+	trzoda	subst:sg:acc:f	disamb
+chlewną	space
+	chlewny	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+konie	space
+	koń	subst:pl:acc:m2	disamb
+,	none
+	,	interp	disamb
+owce	space
+	owca	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+kozy	space
+	koza	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+drób	space
+	drób	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+króliki	space
+	królik	subst:pl:nom:m2	disamb
+i	space
+	i	conj	disamb
+
+pozostałe	none
+	pozostały	adj:pl:nom:n:pos	disamb
+zwierzęta	space
+	zwierzę	subst:pl:nom:n	disamb
+futerkowe	space
+	futerkowy	adj:pl:nom:n:pos	disamb
+oraz	space
+	oraz	conj	disamb
+pnie	space
+	pień	subst:pl:nom:m3	disamb
+pszczele	space
+	pszczeli	adj:pl:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+użytkowniku	space
+	użytkownik	subst:sg:voc:m1	disamb
+indywidualnego	space
+	indywidualny	adj:sg:gen:n:pos	disamb
+gospodarstwa	space
+	gospodarstwo	subst:sg:gen:n	disamb
+rolnego	space
+	rolny	adj:sg:gen:n:pos	disamb
+lub	space
+	lub	conj	disamb
+działki	space
+	działka	subst:sg:gen:f	disamb
+rolnej	space
+	rolny	adj:sg:gen:f:pos	disamb
+oznacza	space
+	oznaczać	fin:sg:ter:imperf	disamb
+
+to	none
+	to	subst:sg:nom:n	disamb
+osobę	space
+	osoba	subst:sg:acc:f	disamb
+fizyczną	space
+	fizyczny	adj:sg:acc:f:pos	disamb
+lub	space
+	lub	conj	disamb
+grupę	space
+	grupa	subst:sg:acc:f	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+mających	space
+	mieć	pact:pl:gen:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+faktycznym	space
+	faktyczny	adj:sg:loc:n:pos	disamb
+użytkowaniu	space
+	użytkowanie	subst:sg:loc:n	disamb
+
+grunty	none
+	grunt	subst:pl:nom:m3	disamb
+rolne	space
+	rolny	adj:pl:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+leśne	space
+	leśny	adj:pl:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+niezależnie	space
+	niezależnie	adv:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+tego	space
+	to	subst:sg:gen:n	disamb
+czy	space
+	czy	qub	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+właścicielami	space
+	właściciel	subst:pl:inst:m1	disamb
+,	none
+	,	interp	disamb
+
+dzierżawcami	none
+	dzierżawca	subst:pl:inst:m1	disamb
+czy	space
+	czy	qub	disamb
+użytkują	space
+	użytkować	fin:pl:ter:imperf	disamb
+je	space
+	on	ppron3:sg:acc:n:ter:akc:npraep	disamb
+z	space
+	z	prep:gen:nwok	disamb
+innego	space
+	inny	adj:sg:gen:m3:pos	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+niezależnie	space
+	niezależnie	adv:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+tego	space
+	to	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+czy	space
+	czy	conj	disamb
+
+grunty	none
+	grunt	subst:pl:nom:m3	disamb
+te	space
+	ten	adj:pl:nom:m3:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+zlokalizowane	space
+	zlokalizować	ppas:pl:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jednej	space
+	jeden	adj:sg:loc:f:pos	disamb
+czy	space
+	czy	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+kilku	space
+	kilka	num:pl:loc:f:congr	disamb
+gminach	space
+	gmina	subst:pl:loc:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnych	space
+	indywidualny	adj:pl:loc:n:pos	disamb
+gospodarstwach	space
+	gospodarstwo	subst:pl:loc:n	disamb
+rolnych	space
+	rolny	adj:pl:loc:n:pos	disamb
+będą	space
+	być	bedzie:pl:ter:imperf	disamb
+zebrane	space
+	zebrać	ppas:pl:nom:f:perf:aff	disamb
+
+następujące	none
+	następujący	adj:pl:nom:f:pos	disamb
+informacje	space
+	informacja	subst:pl:nom:f	disamb
+o	space
+	o	prep:acc	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+powierzchni	space
+	powierzchnia	subst:sg:gen:f	disamb
+indywidualnego	space
+	indywidualny	adj:sg:gen:n:pos	disamb
+gospodarstwa	space
+	gospodarstwo	subst:sg:gen:n	disamb
+rolnego	space
+	rolny	adj:sg:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+jego	space
+	on	ppron3:sg:gen:n:ter:akc:npraep	disamb
+położeniu	space
+	położenie	subst:sg:loc:n	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+strukturze	space
+	struktura	subst:sg:dat:f	disamb
+własnościowej	space
+	własnościowy	adj:sg:gen:f:pos	disamb
+użytków	space
+	użytek	subst:pl:gen:m3	disamb
+rolnych	space
+	rolny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+strukturze	space
+	struktura	subst:sg:dat:f	disamb
+dochodów	space
+	dochód	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pracujących	space
+	pracować	pact:pl:gen:m3:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnym	space
+	indywidualny	adj:sg:loc:n:pos	disamb
+gospodarstwie	space
+	gospodarstwo	subst:sg:loc:n	disamb
+rolnym	space
+	rolny	adj:sg:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+powierzchni	space
+	powierzchnia	subst:sg:gen:f	disamb
+zasiewów	space
+	zasiew	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+powierzchni	space
+	powierzchnia	subst:sg:gen:f	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+upraw	space
+	uprawa	subst:pl:gen:f	disamb
+poplonów	space
+	poplon	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+upraw	space
+	uprawa	subst:pl:gen:f	disamb
+grzybów	space
+	grzyb	subst:pl:gen:m3	disamb
+jadalnych	space
+	jadalny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+c	none
+	c	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+upraw	space
+	uprawa	subst:pl:gen:f	disamb
+nawadnianych	space
+	nawadniać	ppas:pl:gen:f:imperf:aff	disamb
+,	none
+	,	interp	disamb
+
+8	none
+	8	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pogłowiu	space
+	pogłowie	subst:sg:loc:n	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+według	space
+	według	prep:gen	disamb
+gatunków	space
+	gatunek	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+grup	space
+	grupa	subst:pl:gen:f	disamb
+produkcyjnoużytkowych	space
+	produkcyjnoużytkowych	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+9	none
+	9	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+rozdysponowaniu	space
+	rozdysponować	ger:sg:loc:n:perf:aff	disamb
+produkcji	space
+	produkcja	subst:sg:gen:f	disamb
+rolniczej	space
+	rolniczy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+10	none
+	10	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+infrastrukturze	space
+	infrastruktura	subst:sg:dat:f	disamb
+indywidualnego	space
+	indywidualny	adj:sg:gen:n:pos	disamb
+gospodarstwa	space
+	gospodarstwo	subst:sg:gen:n	disamb
+rolnego	space
+	rolny	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+11	none
+	11	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+rodzajach	space
+	rodzaj	subst:pl:loc:m3	disamb
+budynków	space
+	budynek	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+budowli	space
+	budowla	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+ich	space
+	on	ppron3:pl:gen:m3:ter:akc:npraep	disamb
+powierzchni	space
+	powierzchnia	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+przeznaczeniu	space
+	przeznaczenie	subst:sg:loc:n	disamb
+,	none
+	,	interp	disamb
+
+12	none
+	12	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+magazynowaniu	space
+	magazynować	ger:sg:dat:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnym	space
+	indywidualny	adj:sg:loc:n:pos	disamb
+gospodarstwie	space
+	gospodarstwo	subst:sg:loc:n	disamb
+rolnym	space
+	rolny	adj:sg:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+tym	space
+	to	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+potencjalna	space
+	potencjalny	adj:sg:nom:f:pos	disamb
+pojemność	space
+	pojemność	subst:sg:nom:f	disamb
+magazynowa	space
+	magazynowy	adj:sg:nom:f:pos	disamb
+do	space
+	do	prep:gen	disamb
+przechowywania	space
+	przechowywać	ger:sg:gen:n:imperf:aff	disamb
+zbóż	space
+	zboże	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+kiszonek	space
+	kiszonka	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+warzyw	none
+	warzywo	subst:pl:gen:n	disamb
+i	space
+	i	conj	disamb
+owoców	space
+	owoc	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+powierzchnia	space
+	powierzchnia	subst:sg:nom:f	disamb
+albo	space
+	albo	conj	disamb
+pojemność	space
+	pojemność	subst:sg:nom:f	disamb
+do	space
+	do	prep:gen	disamb
+przechowywania	space
+	przechowywać	ger:sg:gen:n:imperf:aff	disamb
+nawozów	space
+	nawóz	subst:pl:gen:m3	disamb
+organicznych	space
+	organiczny	adj:pl:gen:m3:pos	disamb
+
+pochodzenia	none
+	pochodzenie	subst:sg:gen:n	disamb
+zwierzęcego	space
+	zwierzęcy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+13	none
+	13	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+stosowaniu	space
+	stosować	ger:sg:loc:n:imperf:aff	disamb
+nawozów	space
+	nawóz	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+pestycydów	space
+	pestycyd	subst:pl:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnym	space
+	indywidualny	adj:sg:loc:n:pos	disamb
+gospodarstwie	space
+	gospodarstwo	subst:sg:loc:n	disamb
+rolnym	space
+	rolny	adj:sg:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+14	none
+	14	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+ciągnikach	space
+	ciągnik	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+
+15	none
+	15	num:pl:nom:f:rec	disamb
+)	none
+	)	interp	disamb
+maszynach	space
+	maszyna	subst:pl:loc:f	disamb
+i	space
+	i	conj	disamb
+urządzeniach	space
+	urządzenie	subst:pl:loc:n	disamb
+rolniczych	space
+	rolniczy	adj:pl:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+16	none
+	16	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+wybranych	space
+	wybrany	subst:pl:gen:m1	disamb
+wydatkach	space
+	wydatek	subst:pl:loc:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnym	space
+	indywidualny	adj:sg:loc:n:pos	disamb
+gospodarstwie	space
+	gospodarstwo	subst:sg:loc:n	disamb
+rolnym	space
+	rolny	adj:sg:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+oraz	none
+	oraz	conj	disamb
+imię	space
+	imię	subst:sg:nom:n	disamb
+,	none
+	,	interp	disamb
+nazwisko	space
+	nazwisko	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+numer	space
+	numer	subst:sg:nom:m3	disamb
+ewidencyjny	space
+	ewidencyjny	adj:sg:nom:m3:pos	disamb
+PESEL	space
+	PESEL	subst:sg:nom:m3	disamb
+użytkownika	space
+	użytkownik	subst:sg:gen:m1	disamb
+indywidualnego	space
+	indywidualny	adj:sg:gen:m1:pos	disamb
+
+gospodarstwa	none
+	gospodarstwo	subst:sg:gen:n	disamb
+rolnego	space
+	rolny	adj:sg:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+u	space
+	u	prep:gen	disamb
+użytkowników	space
+	użytkownik	subst:pl:gen:m1	disamb
+działek	space
+	działka	subst:pl:gen:f	disamb
+rolnych	space
+	rolny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+u	space
+	u	prep:gen	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+fizycznych	space
+	fizyczny	adj:pl:gen:f:pos	disamb
+będących	space
+	być	pact:pl:gen:f:imperf:aff	disamb
+
+właścicielami	none
+	właściciel	subst:pl:inst:m1	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+będą	space
+	być	bedzie:pl:ter:imperf	disamb
+zebrane	space
+	zebrać	ppas:pl:nom:f:perf:aff	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+informacje	space
+	informacja	subst:pl:nom:f	disamb
+
+określone	none
+	określić	ppas:pl:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wyłączeniem	space
+	wyłączyć	ger:sg:inst:n:perf:aff	disamb
+informacji	space
+	informacja	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+7	space
+	7	adj:sg:acc:m3:pos	disamb
+lit	space
+	litera	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+a	newline
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+
+i	none
+	i	conj	disamb
+c	space
+	c	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+pkt	space
+	punkt	brev:npun	disamb
+12	space
+	12	adj:sg:nom:m3:pos	disamb
+lit	space
+	litera	brev:pun	disamb
+.	none
+	.	interp	disamb
+a	space
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+pkt	space
+	punkt	brev:npun	disamb
+15	space
+	15	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+pkt	space
+	punkt	brev:npun	disamb
+16	space
+	16	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+u	space
+	u	prep:gen	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jednostkach	space
+	jednostka	subst:pl:loc:f	disamb
+organizacyjnych	space
+	organizacyjny	adj:pl:loc:f:pos	disamb
+nie	space
+	nie	qub	disamb
+mających	space
+	mieć	pact:pl:loc:f:imperf:aff	disamb
+
+osobowości	none
+	osobowość	subst:pl:nom:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+będą	space
+	być	bedzie:pl:ter:imperf	disamb
+zebrane	space
+	zebrać	ppas:pl:nom:f:perf:aff	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+informacje	space
+	informacja	subst:pl:nom:f	disamb
+określone	space
+	określić	ppas:pl:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+wyłączeniem	none
+	wyłączyć	ger:sg:inst:n:perf:aff	disamb
+informacji	space
+	informacja	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Formularz	none
+	formularz	subst:sg:nom:m3	disamb
+spisowy	space
+	spisowy	adj:sg:nom:m3:pos	disamb
+zawierający	space
+	zawierać	pact:sg:nom:m3:imperf:aff	disamb
+pytania	space
+	pytanie	subst:pl:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnych	space
+	indywidualny	adj:pl:loc:n:pos	disamb
+gospodarstwach	space
+	gospodarstwo	subst:pl:loc:n	disamb
+rolnych	space
+	rolny	adj:pl:loc:n:pos	disamb
+stanowi	space
+	stanowić	fin:sg:ter:imperf	disamb
+załącznik	space
+	załącznik	subst:sg:acc:m3	disamb
+nr	space
+	numer	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+u	space
+	u	prep:gen	disamb
+użytkowników	space
+	użytkownik	subst:pl:gen:m1	disamb
+działek	space
+	działka	subst:pl:gen:f	disamb
+rolnych	space
+	rolny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+u	space
+	u	prep:gen	disamb
+właścicieli	space
+	właściciel	subst:pl:gen:m1	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+
+stanowi	none
+	stanowić	fin:sg:ter:imperf	disamb
+załącznik	space
+	załącznik	subst:sg:acc:m3	disamb
+nr	space
+	numer	brev:npun	disamb
+2	space
+	2	num:pl:nom:m3:congr	disamb
+do	space
+	do	prep:gen	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+u	space
+	u	prep:gen	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jednostkach	space
+	jednostka	subst:pl:loc:f	disamb
+organizacyjnych	space
+	organizacyjny	adj:pl:loc:f:pos	disamb
+nie	space
+	nie	qub	disamb
+mających	space
+	mieć	pact:pl:loc:f:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:pl:gen:f	disamb
+
+prawnej	none
+	prawny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+określonych	space
+	określić	ppas:pl:gen:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+stanowi	space
+	stanowić	fin:sg:ter:imperf	disamb
+załącznik	space
+	załącznik	subst:sg:acc:m3	disamb
+nr	space
+	numer	brev:npun	disamb
+3	space
+	3	num:pl:nom:m3:congr	disamb
+do	space
+	do	prep:gen	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+
+Organizacja	none
+	organizacja	subst:sg:nom:f	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+obowiązki	none
+	obowiązek	subst:pl:nom:m3	disamb
+spisowe	space
+	spisowy	adj:pl:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+ochrona	space
+	ochrona	subst:sg:nom:f	disamb
+danych	space
+	dana	subst:pl:gen:f	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Spis	newline
+	spis	subst:sg:nom:m3	disamb
+zostanie	space
+	zostać	fin:sg:ter:perf	disamb
+przeprowadzony	space
+	przeprowadzić	ppas:sg:nom:m3:perf:aff	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+narodowym	space
+	narodowy	adj:sg:inst:m3:pos	disamb
+spisem	space
+	spis	subst:sg:inst:m3	disamb
+powszechnym	space
+	powszechny	adj:sg:inst:m3:pos	disamb
+
+ludności	none
+	ludność	subst:pl:nom:f	disamb
+i	space
+	i	conj	disamb
+mieszkań	space
+	mieszkanie	subst:pl:gen:n	disamb
+uregulowanym	space
+	uregulować	ppas:sg:inst:m3:perf:aff	disamb
+ustawą	space
+	ustawa	subst:sg:inst:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+2	space
+	2	adj:sg:gen:m3:pos	disamb
+grudnia	space
+	grudzień	subst:sg:gen:m3	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+narodowym	space
+	narodowy	adj:sg:loc:m3:pos	disamb
+
+spisie	none
+	spisa	subst:sg:dat:f	disamb
+powszechnym	space
+	powszechny	adj:sg:inst:m3:pos	disamb
+ludności	space
+	ludność	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+mieszkań	space
+	mieszkanie	subst:pl:gen:n	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2002	space
+	2002	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+(	newline
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+.	space
+	.	interp	disamb
+.	none
+	.	interp	disamb
+.	none
+	.	interp	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+.	space
+	.	interp	disamb
+.	none
+	.	interp	disamb
+.	none
+	.	interp	disamb
+)	none
+	)	interp	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+rachmistrzów	space
+	rachmistrz	subst:pl:acc:m1	disamb
+spisowych	space
+	spisowy	adj:pl:acc:m1:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:gen:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Udzielanie	newline
+	udzielać	ger:sg:nom:n:imperf:aff	disamb
+odpowiedzi	space
+	odpowiedź	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+pytania	space
+	pytanie	subst:pl:acc:n	disamb
+zawarte	space
+	zawrzeć	ppas:pl:acc:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+formularzu	space
+	formularz	subst:sg:loc:m3	disamb
+spisowym	space
+	spisowy	adj:sg:loc:m3:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+
+obowiązkowe	none
+	obowiązkowy	adj:pl:nom:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Spis	newline
+	spis	subst:sg:nom:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnych	space
+	indywidualny	adj:pl:loc:n:pos	disamb
+gospodarstwach	space
+	gospodarstwo	subst:pl:loc:n	disamb
+rolnych	space
+	rolny	adj:pl:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+u	space
+	u	prep:gen	disamb
+użytkowników	space
+	użytkownik	subst:pl:gen:m1	disamb
+działek	space
+	działka	subst:pl:gen:f	disamb
+
+rolnych	none
+	rolny	adj:pl:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+u	space
+	u	prep:gen	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+fizycznych	space
+	fizyczny	adj:pl:gen:f:pos	disamb
+będących	space
+	być	pact:pl:gen:f:imperf:aff	disamb
+właścicielami	space
+	właściciel	subst:pl:inst:m1	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+
+przeprowadzą	none
+	przeprowadzić	fin:pl:ter:perf	disamb
+rachmistrze	space
+	rachmistrz	subst:pl:nom:m1	disamb
+spisowi	space
+	spisowy	adj:pl:nom:m1:pos	disamb
+powołani	space
+	powołany	adj:pl:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+narodowego	space
+	narodowy	adj:sg:gen:m3:pos	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+
+powszechnego	none
+	powszechny	adj:sg:gen:n:pos	disamb
+ludności	space
+	ludność	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+mieszkań	space
+	mieszkanie	subst:pl:gen:n	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:loc:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Użytkownicy	newline
+	użytkownik	subst:pl:nom:m1	disamb
+indywidualnych	space
+	indywidualny	adj:pl:gen:n:pos	disamb
+gospodarstw	space
+	gospodarstwo	subst:pl:gen:n	disamb
+rolnych	space
+	rolny	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+użytkownicy	space
+	użytkownik	subst:pl:nom:m1	disamb
+działek	space
+	działka	subst:pl:gen:f	disamb
+rolnych	space
+	rolny	adj:pl:gen:f:pos	disamb
+
+oraz	none
+	oraz	conj	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+fizyczne	space
+	fizyczny	adj:pl:nom:f:pos	disamb
+będące	space
+	być	pact:pl:nom:f:imperf:aff	disamb
+właścicielami	space
+	właściciel	subst:pl:inst:m1	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+obowiązani	space
+	obowiązany	adj:pl:nom:m1:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+
+do	none
+	do	prep:gen	disamb
+udzielenia	space
+	udzielić	ger:sg:gen:n:perf:aff	disamb
+rachmistrzom	space
+	rachmistrz	subst:pl:dat:m1	disamb
+spisowym	space
+	spisowy	adj:pl:dat:m1:pos	disamb
+ścisłych	space
+	ścisły	adj:pl:gen:m1:pos	disamb
+,	none
+	,	interp	disamb
+wyczerpujących	space
+	wyczerpywać	pact:pl:gen:m1:imperf:aff	disamb
+i	space
+	i	conj	disamb
+zgodnych	space
+	zgodny	adj:pl:acc:m1:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+prawdą	none
+	prawda	subst:sg:inst:f	disamb
+odpowiedzi	space
+	odpowiedź	subst:sg:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+pytania	space
+	pytanie	subst:pl:acc:n	disamb
+zawarte	space
+	zawrzeć	ppas:pl:acc:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+formularzu	space
+	formularz	subst:sg:loc:m3	disamb
+spisowym	space
+	spisowy	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+nieobecności	space
+	nieobecność	subst:pl:gen:f	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+odpowiedzi	space
+	odpowiedź	subst:pl:nom:f	disamb
+udzielają	space
+	udzielać	fin:pl:ter:imperf	disamb
+
+inne	none
+	inny	adj:pl:nom:f:pos	disamb
+pełnoletnie	space
+	pełnoletni	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+wspólnie	space
+	wspólnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+nimi	space
+	on	ppron3:pl:inst:f:ter:akc:praep	disamb
+zamieszkałe	space
+	zamieszkały	adj:pl:nom:f:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+spisu	space
+	spis	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+indywidualnych	space
+	indywidualny	adj:pl:loc:n:pos	disamb
+gospodarstwach	space
+	gospodarstwo	subst:pl:loc:n	disamb
+rolnych	space
+	rolny	adj:pl:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+u	space
+	u	prep:gen	disamb
+użytkowników	space
+	użytkownik	subst:pl:gen:m1	disamb
+działek	space
+	działka	subst:pl:gen:f	disamb
+
+rolnych	none
+	rolny	adj:pl:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+u	space
+	u	prep:gen	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+fizycznych	space
+	fizyczny	adj:pl:gen:f:pos	disamb
+będących	space
+	być	pact:pl:gen:f:imperf:aff	disamb
+właścicielami	space
+	właściciel	subst:pl:inst:m1	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+gospodarskich	space
+	gospodarski	adj:pl:gen:n:pos	disamb
+
+stosuje	none
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:gen:m3:pos	disamb
+-	none
+	-	interp	disamb
+17	none
+	17	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+19	space
+	19	adj:sg:gen:m3:pos	disamb
+-	none
+	-	interp	disamb
+20	none
+	20	adj:sg:gen:m3:pos	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Osoby	newline
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+jednostki	space
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+mające	space
+	mieć	pact:pl:nom:f:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+
+wypełnią	none
+	wypełnić	fin:pl:ter:perf	disamb
+we	space
+	w	prep:loc:wok	disamb
+własnym	space
+	własny	adj:sg:loc:m3:pos	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+formularz	space
+	formularz	subst:sg:acc:m3	disamb
+spisowy	space
+	spisowy	adj:sg:acc:m3:pos	disamb
+i	space
+	i	conj	disamb
+przekażą	space
+	przekazać	fin:pl:ter:perf	disamb
+go	space
+	on	ppron3:sg:acc:m3:ter:nakc:npraep	disamb
+do	space
+	do	prep:gen	disamb
+urzędu	space
+	urząd	subst:sg:gen:m3	disamb
+
+statystycznego	none
+	statystyczny	adj:sg:gen:n:pos	disamb
+województwa	space
+	województwo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+terenie	space
+	teren	subst:sg:loc:m3	disamb
+którego	space
+	który	adj:sg:gen:m1:pos	disamb
+położona	space
+	położyć	ppas:sg:nom:f:perf:aff	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+siedziba	space
+	siedziba	subst:sg:nom:f	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+
+prawnej	none
+	prawny	adj:sg:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+jednostki	space
+	jednostka	subst:sg:gen:f	disamb
+organizacyjnej	space
+	organizacyjny	adj:sg:gen:f:pos	disamb
+nie	space
+	nie	qub	disamb
+mającej	space
+	mieć	pact:sg:gen:f:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+terminie	none
+	termin	subst:sg:loc:m3	disamb
+do	space
+	do	prep:gen	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2002	space
+	2002	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Osoby	newline
+	osoba	subst:pl:nom:f	disamb
+działające	space
+	działać	pact:pl:nom:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+imieniu	space
+	imię	subst:sg:loc:n	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+organizacyjnych	space
+	organizacyjny	adj:pl:gen:f:pos	disamb
+nie	space
+	nie	qub	disamb
+
+mających	none
+	mieć	pact:pl:gen:m1:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:pl:nom:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+obowiązane	space
+	obowiązany	adj:pl:nom:f:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+do	space
+	do	prep:gen	disamb
+udzielania	space
+	udzielać	ger:sg:gen:n:imperf:aff	disamb
+ścisłych	space
+	ścisły	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+wyczerpujących	none
+	wyczerpywać	pact:pl:gen:m1:imperf:aff	disamb
+i	space
+	i	conj	disamb
+zgodnych	space
+	zgodny	adj:pl:gen:n:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+prawdą	space
+	prawda	subst:sg:inst:f	disamb
+odpowiedzi	space
+	odpowiedź	subst:sg:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+pytania	space
+	pytanie	subst:pl:acc:n	disamb
+zawarte	space
+	zawrzeć	ppas:pl:acc:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+formularzu	space
+	formularz	subst:sg:loc:m3	disamb
+
+spisowym	none
+	spisowy	adj:sg:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+podania	space
+	podanie	subst:sg:gen:n	disamb
+swego	space
+	swój	adj:sg:gen:n:pos	disamb
+imienia	space
+	imię	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+nazwiska	space
+	nazwisko	subst:sg:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+podpisania	space
+	podpisać	ger:sg:gen:n:perf:aff	disamb
+formularza	space
+	formularz	subst:sg:gen:m3	disamb
+
+spisowego	none
+	spisowy	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+obowiązków	space
+	obowiązek	subst:pl:gen:m3	disamb
+przekazywania	space
+	przekazywać	ger:sg:gen:n:imperf:aff	disamb
+danych	space
+	dana	subst:pl:gen:f	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+osoby	space
+	osoba	subst:pl:acc:f	disamb
+prawne	space
+	prawny	adj:pl:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+jednostki	space
+	jednostka	subst:pl:acc:f	disamb
+
+organizacyjne	none
+	organizacyjny	adj:pl:acc:f:pos	disamb
+nie	space
+	nie	qub	disamb
+mające	space
+	mieć	pact:pl:acc:f:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:dat:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+danych	space
+	dana	subst:pl:gen:f	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+
+się	none
+	się	qub	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+30	space
+	30	adj:sg:gen:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+38	space
+	38	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+2	space
+	2	num:pl:nom:f:congr	disamb
+oraz	space
+	oraz	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+56	space
+	56	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+58	none
+	58	adj:sg:nom:m3:pos	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+29	space
+	29	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+o	space
+	o	prep:loc	disamb
+statystyce	space
+	statystyka	subst:sg:loc:f	disamb
+publicznej	space
+	publiczny	adj:sg:loc:f:pos	disamb
+
+(	none
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+88	space
+	88	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+439	space
+	439	num:pl:nom:f:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1996	space
+	1996	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+156	space
+	156	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+775	space
+	775	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+88	space
+	88	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+554	space
+	554	num:pl:nom:m3:congr	disamb
+
+i	none
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+121	space
+	121	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+769	space
+	769	adj:sg:nom:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1998	space
+	1998	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+99	space
+	99	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+632	space
+	632	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+106	space
+	106	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+668	space
+	668	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+
+Przepis	none
+	przepis	subst:sg:nom:m3	disamb
+końcowy	space
+	końcowy	adj:sg:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

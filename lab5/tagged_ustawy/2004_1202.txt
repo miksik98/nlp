@@ -1,0 +1,579 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+przyjęty	space
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+26	space
+	26	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2014	space
+	2014	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+zmianie	space
+	zmiana	subst:sg:loc:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+ustanowieniu	space
+	ustanowić	ger:sg:loc:n:perf:aff	disamb
+programu	space
+	program	subst:sg:gen:m3	disamb
+
+wieloletniego	none
+	wieloletni	adj:sg:gen:m3:pos	disamb
+„	space
+	„	interp	disamb
+Uniwersytet	none
+	uniwersytet	subst:sg:nom:m3	disamb
+
+im	none
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Adama	space
+	Adam	subst:sg:gen:m1	disamb
+Mickiewicza	space
+	Mickiewicz	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Poznaniu	space
+	Poznań	subst:sg:loc:m3	disamb
+2004	space
+	2004	num:pl:gen:m3:rec	disamb
+–	none
+	–	interp	disamb
+2015	none
+	2015	num:pl:nom:m3:rec	disamb
+”	none
+	”	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+22	space
+	22	adj:sg:gen:m3:pos	disamb
+lipca	space
+	lipiec	subst:sg:gen:m3	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:acc	disamb
+
+ustanowieniu	none
+	ustanowić	ger:sg:dat:n:perf:aff	disamb
+programu	space
+	program	subst:sg:gen:m3	disamb
+wieloletniego	space
+	wieloletni	adj:sg:gen:m3:pos	disamb
+„	space
+	„	interp	disamb
+Uniwersytet	none
+	uniwersytet	subst:sg:nom:m3	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Adama	space
+	Adam	subst:sg:gen:m1	disamb
+Mickiewicza	space
+	Mickiewicz	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+Poznaniu	none
+	Poznań	subst:sg:loc:m3	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+–	none
+	–	interp	disamb
+2015	none
+	2015	adj:sg:gen:m3:pos	disamb
+”	none
+	”	interp	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+192	space
+	192	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1962	space
+	1962	adj:sg:nom:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2010	space
+	2010	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+155	space
+	155	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1042	space
+	1042	adj:sg:gen:m3:pos	disamb
+)	none
+	)	interp	disamb
+
+wprowadza	none
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+następujące	space
+	następujący	adj:pl:acc:f:pos	disamb
+zmiany	space
+	zmiana	subst:pl:acc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+tytuł	space
+	tytuł	subst:sg:acc:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+o	none
+	o	prep:loc	disamb
+ustanowieniu	space
+	ustanowić	ger:sg:loc:n:perf:aff	disamb
+
+programu	none
+	program	subst:sg:gen:m3	disamb
+wieloletniego	space
+	wieloletni	adj:sg:gen:m3:pos	disamb
+„	space
+	„	interp	disamb
+Uniwersytet	none
+	uniwersytet	subst:sg:nom:m3	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Adama	space
+	Adam	subst:sg:gen:m1	disamb
+Mickiewicza	space
+	Mickiewicz	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Poznaniu	space
+	Poznań	subst:sg:loc:m3	disamb
+
+2004	none
+	2004	num:pl:nom:m3:rec	disamb
+–	none
+	–	interp	disamb
+2017	none
+	2017	num:pl:nom:m3:rec	disamb
+”	none
+	”	interp	disamb
+”	none
+	”	interp	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+związku	space
+	związek	subst:sg:loc:m3	disamb
+z	space
+	z	prep:inst:nwok	disamb
+
+przypadającą	none
+	przypadać	pact:sg:inst:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+roku	space
+	rok	subst:sg:loc:m3	disamb
+2011	space
+	2011	adj:sg:loc:m3:pos	disamb
+czterechsetną	space
+	czterechsetny	adj:sg:inst:f:pos	disamb
+rocznicą	space
+	rocznica	subst:sg:inst:f	disamb
+utworzenia	space
+	utworzyć	ger:sg:gen:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+króla	space
+	król	subst:sg:acc:m1	disamb
+Polski	space
+	Polska	subst:sg:gen:f	disamb
+
+Zygmunta	none
+	Zygmunt	subst:sg:acc:m1	disamb
+III	space
+	III	adj:sg:gen:m1:pos	disamb
+Wazę	space
+	Waza	subst:sg:acc:m1	disamb
+Uniwersytetu	space
+	uniwersytet	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Poznaniu	space
+	Poznań	subst:sg:loc:m3	disamb
+ustanawia	space
+	ustanawiać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+program	space
+	program	subst:sg:nom:m3	disamb
+wieloletni	space
+	wieloletni	adj:sg:nom:m3:pos	disamb
+
+„	none
+	„	interp	disamb
+Uniwersytet	none
+	uniwersytet	subst:sg:nom:m3	disamb
+im	space
+	imienia	brev:pun	disamb
+.	none
+	.	interp	disamb
+Adama	space
+	Adam	subst:sg:gen:m1	disamb
+Mickiewicza	space
+	Mickiewicz	subst:sg:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Poznaniu	space
+	Poznań	subst:sg:loc:m3	disamb
+2004	space
+	2004	num:pl:gen:m2:congr	disamb
+–	none
+	–	interp	disamb
+2017	none
+	2017	num:pl:nom:m3:rec	disamb
+”	none
+	”	interp	disamb
+,	none
+	,	interp	disamb
+zwany	space
+	zwać	ppas:sg:nom:m3:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+
+„	none
+	„	interp	disamb
+Programem	none
+	program	subst:sg:inst:m3	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustala	none
+	ustalać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+okres	space
+	okres	subst:sg:acc:m3	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+Programu	space
+	program	subst:sg:gen:m3	disamb
+na	space
+	na	prep:acc	disamb
+lata	space
+	rok	subst:pl:acc:m3	disamb
+2004	space
+	2004	num:pl:nom:m3:congr	disamb
+–	none
+	–	interp	disamb
+2017	none
+	2017	num:pl:nom:m3:rec	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Łączne	newline
+	łączny	adj:pl:nom:m3:pos	disamb
+nakłady	space
+	nakład	subst:pl:nom:m3	disamb
+
+budżetu	none
+	budżet	subst:sg:gen:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+na	space
+	na	prep:acc	disamb
+dofinansowanie	space
+	dofinansować	ger:sg:acc:n:perf:aff	disamb
+Programu	space
+	program	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+całym	space
+	cały	adj:sg:loc:m3:pos	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+nie	space
+	nie	qub	disamb
+
+mogą	none
+	móc	fin:pl:ter:imperf	disamb
+przekroczyć	space
+	przekroczyć	inf:perf	disamb
+kwoty	space
+	kwota	subst:pl:acc:f	disamb
+500	space
+	500	num:pl:gen:m3:congr	disamb
+711	space
+	711	num:pl:gen:m3:congr	disamb
+tys	space
+	tysiąc	brev:pun	disamb
+.	none
+	.	interp	disamb
+zł	space
+	złoty	brev:npun	disamb
+,	none
+	,	interp	disamb
+przy	space
+	przy	prep:loc	disamb
+wartości	space
+	wartość	subst:sg:loc:f	disamb
+kosztorysowej	space
+	kosztorysowy	adj:sg:loc:f:pos	disamb
+zadań	space
+	zadanie	subst:pl:gen:n	disamb
+
+inwestycyjnych	none
+	inwestycyjny	adj:pl:gen:m3:pos	disamb
+objętych	space
+	objąć	ppas:pl:gen:m3:perf:aff	disamb
+Programem	space
+	program	subst:sg:inst:m3	disamb
+wynoszącej	space
+	wynosić	pact:sg:gen:f:imperf:aff	disamb
+546	space
+	546	num:pl:nom:m3:rec	disamb
+753	space
+	753	num:pl:acc:m3:rec	disamb
+tys	space
+	tysiąc	brev:pun	disamb
+.	none
+	.	interp	disamb
+zł	space
+	złoty	brev:npun	disamb
+w	space
+	w	prep:loc:nwok	disamb
+cenach	space
+	cena	subst:pl:loc:f	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+
+2009	none
+	2009	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+
+dnia	none
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	Marszałek	subst:sg:nom:m1	disamb
+
+SEJMU	none
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+
+–	none
+	–	interp	disamb
+/	space
+	/	interp	disamb
+Ewa	space
+	Ewa	subst:sg:nom:f	disamb
+Kopacz	space
+	Kopacz	subst:sg:nom:f	disamb
+

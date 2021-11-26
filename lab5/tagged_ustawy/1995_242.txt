@@ -1,0 +1,207 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+47	space
+	47	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+242	space
+	242	num:pl:nom:f:congr	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+16	space
+	16	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+zakazie	space
+	zakaz	subst:sg:loc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+badań	space
+	badanie	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+produkcji	space
+	produkcja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+składowania	none
+	składować	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+użycia	space
+	użyć	ger:sg:gen:n:perf:aff	disamb
+broni	space
+	broń	subst:sg:gen:f	disamb
+chemicznej	space
+	chemiczny	adj:sg:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+o	space
+	o	prep:loc	disamb
+zniszczeniu	space
+	zniszczyć	ger:sg:loc:n:perf:aff	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+zapasów	space
+	zapas	subst:pl:gen:m3	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Upoważnia	none
+	upoważniać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+do	space
+	do	prep:gen	disamb
+ratyfikowania	space
+	ratyfikować	ger:sg:gen:n:imperf:aff	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+
+o	none
+	o	prep:loc	disamb
+zakazie	space
+	zakaz	subst:sg:loc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+badań	space
+	badanie	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+produkcji	space
+	produkcja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+składowania	space
+	składować	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+użycia	space
+	użyć	ger:sg:gen:n:perf:aff	disamb
+broni	space
+	broń	subst:sg:gen:f	disamb
+
+chemicznej	none
+	chemiczny	adj:sg:loc:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+o	space
+	o	prep:loc	disamb
+zniszczeniu	space
+	zniszczyć	ger:sg:loc:n:perf:aff	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+zapasów	space
+	zapas	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+sporządzonej	space
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Paryżu	space
+	Paryż	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+13	space
+	13	adj:sg:gen:m3:pos	disamb
+stycznia	space
+	styczeń	subst:sg:gen:m3	disamb
+
+1993	none
+	1993	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

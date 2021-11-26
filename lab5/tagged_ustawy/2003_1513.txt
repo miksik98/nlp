@@ -1,0 +1,418 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+
+przyjęty	none
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+6	space
+	6	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+
+2009	none
+	2009	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+
+Umowy	none
+	umowa	subst:pl:nom:f	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Gabinetem	space
+	gabinet	subst:sg:inst:m3	disamb
+
+Ministrów	none
+	minister	subst:pl:gen:m1	disamb
+Ukrainy	space
+	Ukraina	subst:sg:gen:f	disamb
+
+o	none
+	o	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+małego	space
+	mały	adj:sg:gen:m3:pos	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+granicznego	space
+	graniczny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Kijowie	space
+	Kijów	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+28	space
+	28	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+
+2008	none
+	2008	adj:sg:gen:m3:pos	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+oraz	space
+	oraz	conj	disamb
+Protokołu	space
+	protokół	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+podpisanego	space
+	podpisać	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Warszawie	space
+	Warszawa	subst:sg:loc:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+22	space
+	22	adj:sg:gen:m3:pos	disamb
+grudnia	space
+	grudzień	subst:sg:gen:m3	disamb
+2008	space
+	2008	adj:sg:gen:m3:pos	disamb
+
+roku	none
+	rok	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Gabinetem	space
+	gabinet	subst:sg:inst:m3	disamb
+
+Ministrów	none
+	minister	subst:pl:gen:m1	disamb
+Ukrainy	space
+	Ukraina	subst:sg:gen:f	disamb
+
+o	none
+	o	prep:loc	disamb
+zmianie	space
+	zmiana	subst:sg:loc:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Gabinetem	space
+	gabinet	subst:sg:inst:m3	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+
+Ukrainy	none
+	Ukraina	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+małego	space
+	mały	adj:sg:gen:m3:pos	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+granicznego	space
+	graniczny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Kijowie	space
+	Kijów	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+28	space
+	28	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+
+2008	none
+	2008	adj:sg:gen:m3:pos	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+
+na	none
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:gen:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+
+między	none
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Gabinetem	space
+	gabinet	subst:sg:inst:m3	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+Ukrainy	space
+	Ukraina	subst:sg:gen:f	disamb
+o	space
+	o	prep:acc	disamb
+
+zasadach	none
+	zasada	subst:pl:loc:f	disamb
+małego	space
+	mały	adj:sg:gen:m3:pos	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+granicznego	space
+	graniczny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Kijowie	space
+	Kijów	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+28	space
+	28	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+
+2008	none
+	2008	adj:sg:gen:m3:pos	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+oraz	space
+	oraz	conj	disamb
+Protokołu	space
+	protokół	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+podpisanego	space
+	podpisać	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Warszawie	space
+	Warszawa	subst:sg:loc:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+22	space
+	22	adj:sg:gen:m3:pos	disamb
+grudnia	space
+	grudzień	subst:sg:gen:m3	disamb
+2008	space
+	2008	adj:sg:gen:m3:pos	disamb
+
+roku	none
+	rok	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Gabinetem	space
+	gabinet	subst:sg:inst:m3	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+Ukrainy	space
+	Ukraina	subst:sg:gen:f	disamb
+o	space
+	o	prep:acc	disamb
+
+zmianie	none
+	zmiana	subst:sg:dat:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Gabinetem	space
+	gabinet	subst:sg:inst:m3	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+
+Ukrainy	none
+	Ukraina	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+małego	space
+	mały	adj:sg:gen:m3:pos	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+granicznego	space
+	graniczny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Kijowie	space
+	Kijów	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+28	space
+	28	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+
+2008	none
+	2008	adj:sg:gen:m3:pos	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+życie	none
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	Marszałek	subst:sg:nom:m1	disamb
+
+SEJMU	none
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+-	none
+	-	interp	disamb
+/	none
+	/	interp	disamb
+
+Bronisław	none
+	Bronisław	subst:sg:nom:m1	disamb
+Komorowski	space
+	Komorowski	subst:sg:nom:m1	disamb
+

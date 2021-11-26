@@ -1,0 +1,622 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+przyjęty	space
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+24	space
+	24	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+2017	space
+	2017	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:acc	disamb
+
+zmianie	none
+	zmiana	subst:sg:dat:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+wykonywaniu	space
+	wykonywać	ger:sg:loc:n:imperf:aff	disamb
+mandatu	space
+	mandat	subst:sg:gen:m3	disamb
+posła	space
+	poseł	subst:sg:gen:m1	disamb
+i	space
+	i	conj	disamb
+senatora	space
+	senator	subst:sg:gen:m1	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+9	space
+	9	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+1996	space
+	1996	adj:sg:gen:m3:pos	disamb
+
+r	none
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+wykonywaniu	space
+	wykonywać	ger:sg:loc:n:imperf:aff	disamb
+mandatu	space
+	mandat	subst:sg:gen:m3	disamb
+posła	space
+	poseł	subst:sg:gen:m1	disamb
+i	space
+	i	conj	disamb
+senatora	space
+	senator	subst:sg:gen:m1	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2016	space
+	2016	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1510	space
+	1510	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+2074	space
+	2074	num:pl:nom:m3:rec	disamb
+
+oraz	none
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2017	space
+	2017	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+38	space
+	38	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+wprowadza	space
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+następujące	space
+	następujący	adj:pl:acc:f:pos	disamb
+zmiany	space
+	zmiana	subst:pl:acc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	none
+	w	prep:loc:nwok	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+25	space
+	25	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zasady	newline
+	zasada	subst:pl:nom:f	disamb
+
+obniżania	none
+	obniżać	ger:sg:gen:n:imperf:aff	disamb
+uposażenia	space
+	uposażenie	subst:sg:gen:n	disamb
+posłów	space
+	poseł	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+senatorów	space
+	senator	subst:pl:gen:m1	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+
+uniemożliwiających	none
+	uniemożliwiać	pact:pl:gen:m1:imperf:aff	disamb
+,	none
+	,	interp	disamb
+poprzez	space
+	poprzez	prep:acc:nwok	disamb
+rażące	space
+	rażący	adj:sg:acc:n:pos	disamb
+naruszanie	space
+	naruszać	ger:sg:acc:n:imperf:aff	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+odpowiednich	space
+	odpowiedni	adj:pl:gen:m3:pos	disamb
+
+regulaminów	none
+	regulamin	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+pracę	space
+	praca	subst:sg:acc:f	disamb
+Sejmu	space
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+albo	space
+	albo	conj	disamb
+Zgromadzenia	space
+	zgromadzenie	subst:sg:gen:n	disamb
+Narodowego	space
+	narodowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+
+organów	none
+	organ	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+
+nieuczestniczących	none
+	uczestniczyć	pact:pl:loc:m3:imperf:neg	disamb
+,	none
+	,	interp	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+usprawiedliwienia	space
+	usprawiedliwienie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+posiedzeniach	space
+	posiedzenie	subst:pl:loc:n	disamb
+Sejmu	space
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+albo	space
+	albo	conj	disamb
+
+Zgromadzenia	none
+	zgromadzenie	subst:sg:gen:n	disamb
+Narodowego	space
+	narodowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+organów	space
+	organ	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+naruszających	none
+	naruszać	pact:pl:gen:m3:imperf:aff	disamb
+
+swoim	none
+	swój	adj:sg:inst:n:pos	disamb
+zachowaniem	space
+	zachowanie	subst:sg:inst:n	disamb
+na	space
+	na	prep:loc	disamb
+sali	space
+	sala	subst:sg:loc:f	disamb
+posiedzeń	space
+	posiedzenie	subst:pl:gen:n	disamb
+powagę	space
+	powaga	subst:sg:acc:f	disamb
+Sejmu	space
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+albo	space
+	albo	conj	disamb
+Zgromadzenia	space
+	zgromadzenie	subst:sg:gen:n	disamb
+
+Narodowego	none
+	narodowy	adj:sg:gen:m3:pos	disamb
+
+–	none
+	–	interp	disamb
+określają	space
+	określać	fin:pl:ter:imperf	disamb
+regulaminy	space
+	regulamin	subst:pl:acc:m3	disamb
+
+Sejmu	none
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+Zgromadzenia	space
+	zgromadzenie	subst:sg:gen:n	disamb
+Narodowego	space
+	narodowy	adj:sg:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	none
+	w	prep:loc:nwok	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+42	space
+	42	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+„	none
+	„	interp	disamb
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zasady	newline
+	zasada	subst:pl:nom:f	disamb
+
+obniżania	none
+	obniżać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+utraty	space
+	utrata	subst:sg:gen:f	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+diety	space
+	dieta	subst:sg:gen:f	disamb
+parlamentarnej	space
+	parlamentarny	adj:sg:gen:f:pos	disamb
+posłów	space
+	poseł	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+senatorów	space
+	senator	subst:pl:gen:m1	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+
+uniemożliwiających	none
+	uniemożliwiać	pact:pl:gen:m1:imperf:aff	disamb
+,	none
+	,	interp	disamb
+poprzez	space
+	poprzez	prep:acc:nwok	disamb
+rażące	space
+	rażący	adj:sg:acc:n:pos	disamb
+naruszanie	space
+	naruszać	ger:sg:acc:n:imperf:aff	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+odpowiednich	space
+	odpowiedni	adj:pl:gen:m3:pos	disamb
+
+regulaminów	none
+	regulamin	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+pracę	space
+	praca	subst:sg:acc:f	disamb
+Sejmu	space
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+albo	space
+	albo	conj	disamb
+Zgromadzenia	space
+	zgromadzenie	subst:sg:gen:n	disamb
+Narodowego	space
+	narodowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+
+organów	none
+	organ	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+
+nieuczestniczących	none
+	uczestniczyć	pact:pl:loc:m3:imperf:neg	disamb
+,	none
+	,	interp	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+usprawiedliwienia	space
+	usprawiedliwienie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+posiedzeniach	space
+	posiedzenie	subst:pl:loc:n	disamb
+Sejmu	space
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+albo	space
+	albo	conj	disamb
+
+Zgromadzenia	none
+	zgromadzenie	subst:sg:gen:n	disamb
+Narodowego	space
+	narodowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+organów	space
+	organ	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+naruszających	none
+	naruszać	pact:pl:gen:m3:imperf:aff	disamb
+
+swoim	none
+	swój	adj:sg:inst:n:pos	disamb
+zachowaniem	space
+	zachowanie	subst:sg:inst:n	disamb
+na	space
+	na	prep:loc	disamb
+sali	space
+	sala	subst:sg:loc:f	disamb
+posiedzeń	space
+	posiedzenie	subst:pl:gen:n	disamb
+powagę	space
+	powaga	subst:sg:acc:f	disamb
+Sejmu	space
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+albo	space
+	albo	conj	disamb
+Zgromadzenia	space
+	zgromadzenie	subst:sg:gen:n	disamb
+
+Narodowego	none
+	narodowy	adj:sg:gen:m3:pos	disamb
+
+–	none
+	–	interp	disamb
+określają	space
+	określać	fin:pl:ter:imperf	disamb
+regulaminy	space
+	regulamin	subst:pl:acc:m3	disamb
+
+Sejmu	none
+	sejm	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Senatu	space
+	senat	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+Zgromadzenia	space
+	zgromadzenie	subst:sg:gen:n	disamb
+Narodowego	space
+	narodowy	adj:sg:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+
+wchodzi	none
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	marszałek	subst:sg:nom:m1	disamb
+SEJMU	space
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+–	space
+	–	interp	disamb
+/	space
+	/	interp	disamb
+Marek	space
+	Marek	subst:sg:nom:m1	disamb
+Kuchciński	space
+	Kuchciński	subst:sg:nom:m1	disamb
+

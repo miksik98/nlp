@@ -1,0 +1,222 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+przyjęty	space
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2018	space
+	2018	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:acc	disamb
+
+wypowiedzeniu	none
+	wypowiedzieć	ger:sg:loc:n:perf:aff	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Polską	space
+	polski	adj:sg:inst:f:pos	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Ludową	space
+	Ludowy	adj:sg:inst:f:pos	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+Austrii	space
+	Austria	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+sprawie	none
+	sprawa	subst:sg:dat:f	disamb
+popierania	space
+	popierać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+inwestycji	space
+	inwestycja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+sporządzonej	space
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Wiedniu	space
+	Wiedeń	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+
+24	none
+	24	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1988	space
+	1988	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	newline
+	wyrażać	fin:sg:ter:imperf	disamb
+
+się	none
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+wypowiedzenia	space
+	wypowiedzenie	subst:sg:gen:n	disamb
+
+Umowy	none
+	umowa	subst:pl:nom:f	disamb
+między	space
+	między	prep:inst	disamb
+Polską	space
+	polski	adj:sg:inst:f:pos	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Ludową	space
+	Ludowy	adj:sg:inst:f:pos	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+Austrii	space
+	Austria	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+
+popierania	none
+	popierać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+inwestycji	space
+	inwestycja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+sporządzonej	space
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Wiedniu	space
+	Wiedeń	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+24	space
+	24	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1988	space
+	1988	adj:sg:gen:m3:pos	disamb
+
+r	none
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+
+wchodzi	none
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	Marszałek	subst:sg:nom:m1	disamb
+SEJMU	space
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+–	space
+	–	interp	disamb
+/	space
+	/	interp	disamb
+Marek	space
+	Marek	subst:sg:nom:m1	disamb
+Kuchciński	space
+	Kuchciński	subst:sg:nom:m1	disamb
+

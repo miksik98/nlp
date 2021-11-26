@@ -1,0 +1,313 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+43	space
+	43	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+485	space
+	485	num:pl:nom:m3:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+14	space
+	14	adj:sg:gen:m3:pos	disamb
+kwietnia	space
+	kwiecień	subst:sg:gen:m3	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+załączników	space
+	załącznik	subst:pl:gen:m3	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	none
+	2	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	none
+	3	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	none
+	4	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	none
+	5	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	none
+	6	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	none
+	7	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	none
+	8	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	none
+	9	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+C	space
+	Celsjusz	brev:npun	disamb
+,	none
+	,	interp	disamb
+D	space
+	D	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+E	space
+	E	subst:sg:nom:f	disamb
+
+do	none
+	do	prep:gen	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+dotyczącej	space
+	dotyczyć	pact:sg:gen:f:imperf:aff	disamb
+odprawy	space
+	odprawa	subst:sg:gen:f	disamb
+czasowej	space
+	czasowy	adj:sg:gen:f:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+ratyfikacji	none
+	ratyfikacja	subst:sg:gen:f	disamb
+załączników	space
+	załącznik	subst:pl:gen:m3	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	none
+	2	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	none
+	3	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	none
+	4	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	none
+	5	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	none
+	6	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	none
+	7	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	none
+	8	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+B	space
+	B	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	none
+	9	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+C	space
+	Celsjusz	brev:npun	disamb
+,	none
+	,	interp	disamb
+D	space
+	D	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+E	space
+	E	subst:sg:nom:f	disamb
+do	space
+	do	prep:gen	disamb
+
+Konwencji	none
+	konwencja	subst:sg:gen:f	disamb
+dotyczącej	space
+	dotyczyć	pact:sg:gen:f:imperf:aff	disamb
+odprawy	space
+	odprawa	subst:sg:gen:f	disamb
+czasowej	space
+	czasowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+sporządzonej	space
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Stambule	space
+	Stambuł	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+26	space
+	26	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+
+1990	none
+	1990	adj:sg:nom:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

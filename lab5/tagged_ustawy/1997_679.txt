@@ -1,0 +1,4043 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1994	space
+	1994	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+86	space
+	86	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+398	space
+	398	num:pl:nom:m3:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+lipca	space
+	lipiec	subst:sg:gen:m3	disamb
+1994	space
+	1994	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+gwarantowanych	space
+	gwarantować	ppas:pl:loc:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Skarb	space
+	skarb	subst:sg:acc:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+
+ubezpieczeniach	none
+	ubezpieczenie	subst:pl:loc:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+ogólne	space
+	ogólny	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+zasady	space
+	zasada	subst:pl:acc:f	disamb
+ubezpieczeń	space
+	ubezpieczenie	subst:pl:gen:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wypadku	space
+	wypadek	subst:sg:loc:m3	disamb
+
+których	none
+	który	adj:pl:gen:n:pos	disamb
+wypłata	space
+	wypłata	subst:sg:nom:f	disamb
+odszkodowań	space
+	odszkodowanie	subst:pl:gen:n	disamb
+zapewniona	space
+	zapewnić	ppas:sg:nom:f:perf:aff	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+przekazywania	space
+	przekazywać	ger:sg:gen:n:imperf:aff	disamb
+
+ubezpieczycielowi	none
+	ubezpieczyciel	subst:sg:dat:m1	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Skarb	space
+	skarb	subst:sg:acc:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+niezbędnych	space
+	niezbędny	adj:pl:gen:m3:pos	disamb
+na	space
+	na	prep:acc	disamb
+ten	space
+	ten	adj:sg:acc:m3:pos	disamb
+cel	space
+	cel	subst:sg:acc:m3	disamb
+środków	space
+	środek	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Celem	newline
+	cel	subst:sg:inst:m3	disamb
+ubezpieczenia	space
+	ubezpieczenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+zwanego	space
+	zwać	ppas:sg:gen:m3:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+ubezpieczeniem	space
+	ubezpieczenie	subst:sg:inst:n	disamb
+
+kontraktów	none
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+udzielanie	space
+	udzielać	ger:sg:nom:n:imperf:aff	disamb
+krajowym	space
+	krajowy	adj:pl:dat:m3:pos	disamb
+podmiotom	space
+	podmiot	subst:pl:dat:m3	disamb
+gospodarczym	space
+	gospodarczy	adj:pl:dat:m3:pos	disamb
+
+ochrony	none
+	ochrona	subst:sg:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+wypadek	space
+	wypadek	subst:sg:acc:m3	disamb
+strat	space
+	strata	subst:pl:gen:f	disamb
+poniesionych	space
+	ponieść	ppas:pl:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+trakcie	space
+	trakt	subst:sg:loc:m3	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+
+kontraktu	none
+	kontrakt	subst:sg:gen:m3	disamb
+eksportowego	space
+	eksportowy	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+mogących	space
+	móc	pact:pl:gen:m3:imperf:aff	disamb
+powstać	space
+	powstać	inf:perf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+wysyłką	space
+	wysyłka	subst:sg:inst:f	disamb
+towarów	space
+	towar	subst:pl:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+realizacją	space
+	realizacja	subst:sg:inst:f	disamb
+usług	space
+	usługa	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+po	space
+	po	prep:loc	disamb
+wysyłce	space
+	wysyłka	subst:sg:loc:f	disamb
+towarów	space
+	towar	subst:pl:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+zrealizowaniu	space
+	zrealizować	ger:sg:loc:n:perf:aff	disamb
+usług	space
+	usługa	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ubezpieczenie	newline
+	ubezpieczenie	subst:sg:nom:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+obejmuje	space
+	obejmować	fin:sg:ter:imperf	disamb
+szkody	space
+	szkoda	subst:pl:acc:f	disamb
+poniesione	space
+	ponieść	ppas:pl:acc:f:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+ubezpieczającego	none
+	ubezpieczać	pact:sg:gen:m3:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wyniku	space
+	wynik	subst:sg:loc:m3	disamb
+niemożności	space
+	niemożność	subst:sg:gen:f	disamb
+wykonania	space
+	wykonać	ger:sg:gen:n:perf:aff	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+eksportowego	space
+	eksportowy	adj:sg:gen:m3:pos	disamb
+
+bądź	none
+	bądź	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wyniku	space
+	wynik	subst:sg:loc:m3	disamb
+niewykonania	space
+	wykonać	ger:sg:gen:n:perf:neg	disamb
+lub	space
+	lub	conj	disamb
+nienależytego	space
+	nienależyty	adj:sg:gen:n:pos	disamb
+wykonania	space
+	wykonać	ger:sg:gen:n:perf:aff	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+
+przez	none
+	przez	prep:acc:nwok	disamb
+kontrahenta	space
+	kontrahent	subst:sg:acc:m1	disamb
+zagranicznego	space
+	zagraniczny	adj:sg:acc:m1:pos	disamb
+,	none
+	,	interp	disamb
+jeśli	space
+	jeśli	comp	disamb
+szkody	space
+	szkoda	subst:pl:nom:f	disamb
+te	space
+	ten	adj:pl:nom:f:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+następstwem	space
+	następstwo	subst:sg:inst:n	disamb
+zdarzeń	space
+	zdarzenie	subst:pl:gen:n	disamb
+
+określonych	none
+	określić	ppas:pl:gen:m1:perf:aff	disamb
+jako	space
+	jako	prep:nom	disamb
+ryzyko	space
+	ryzyko	subst:sg:nom:n	disamb
+niehandlowe	space
+	niehandlowy	adj:sg:nom:n:pos	disamb
+,	none
+	,	interp	disamb
+tj	space
+	tj	brev:npun	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ryzyko	space
+	ryzyko	subst:sg:nom:n	disamb
+polityczne	space
+	polityczny	adj:sg:nom:n:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ryzyko	space
+	ryzyko	subst:sg:nom:n	disamb
+katastrofalne	space
+	katastrofalny	adj:sg:nom:n:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ryzyko	space
+	ryzyko	subst:sg:nom:n	disamb
+przewlekłej	space
+	przewlekły	adj:sg:gen:f:pos	disamb
+zwłoki	space
+	zwłoka	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wypełnieniu	space
+	wypełnić	ger:sg:loc:n:perf:aff	disamb
+zobowiązań	space
+	zobowiązanie	subst:pl:gen:n	disamb
+płatniczych	space
+	płatniczy	adj:pl:gen:n:pos	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+zagranicznego	none
+	zagraniczny	adj:sg:gen:m1:pos	disamb
+dłużnika	space
+	dłużnik	subst:sg:gen:m1	disamb
+publicznego	space
+	publiczny	adj:sg:gen:m1:pos	disamb
+,	none
+	,	interp	disamb
+tj	space
+	to jest	brev:pun	disamb
+.	none
+	.	interp	disamb
+taki	space
+	taki	adj:sg:nom:m3:pos	disamb
+podmiot	space
+	podmiot	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+którego	space
+	który	adj:sg:gen:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+
+mają	none
+	mieć	fin:pl:ter:imperf	disamb
+zastosowania	space
+	zastosowanie	subst:pl:acc:n	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+upadłościowego	space
+	upadłościowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+obowiązujące	space
+	obowiązywać	pact:pl:acc:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+kraju	none
+	kraj	subst:sg:gen:m3	disamb
+dłużnika	space
+	dłużnik	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ryzyko	newline
+	ryzyko	subst:sg:nom:n	disamb
+polityczne	space
+	polityczny	adj:sg:nom:n:pos	disamb
+obejmuje	space
+	obejmować	fin:sg:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ogłoszenie	space
+	ogłosić	ger:sg:acc:n:perf:aff	disamb
+powszechnego	space
+	powszechny	adj:sg:gen:n:pos	disamb
+moratorium	space
+	moratorium	subst:sg:gen:n	disamb
+płatniczego	space
+	płatniczy	adj:sg:gen:n:pos	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+rząd	space
+	rząd	subst:sg:acc:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+
+dłużnika	none
+	dłużnik	subst:sg:gen:m1	disamb
+lub	space
+	lub	conj	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+uczestniczącego	space
+	uczestniczyć	pact:sg:gen:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+regulowaniu	space
+	regulować	ger:sg:loc:n:imperf:aff	disamb
+należności	space
+	należność	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wydanie	space
+	wydać	ger:sg:acc:n:perf:aff	disamb
+lub	space
+	lub	conj	disamb
+zmianę	space
+	zmiana	subst:sg:acc:f	disamb
+aktów	space
+	akt	subst:pl:gen:m3	disamb
+prawnych	space
+	prawny	adj:pl:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+decyzji	space
+	decyzja	subst:sg:gen:f	disamb
+rządu	space
+	rząd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+bądź	space
+	bądź	conj	disamb
+innego	space
+	inny	adj:sg:gen:m3:pos	disamb
+organu	space
+	organ	subst:sg:gen:m3	disamb
+
+państwowego	none
+	państwowy	adj:sg:gen:n:pos	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+dłużnika	space
+	dłużnik	subst:sg:gen:m1	disamb
+lub	space
+	lub	conj	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+trzeciego	space
+	trzeci	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:n:pos	disamb
+uczestniczy	space
+	uczestniczyć	fin:sg:ter:imperf	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+realizacji	space
+	realizacja	subst:sg:loc:f	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+uniemożliwiających	space
+	uniemożliwiać	pact:pl:gen:f:imperf:aff	disamb
+wykonanie	space
+	wykonać	ger:sg:acc:n:perf:aff	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+
+lub	none
+	lub	conj	disamb
+świadczenie	space
+	świadczyć	ger:sg:nom:n:imperf:aff	disamb
+zamówionych	space
+	zamówić	ppas:pl:gen:f:perf:aff	disamb
+usług	space
+	usługa	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wprowadzenie	space
+	wprowadzić	ger:sg:acc:n:perf:aff	disamb
+zakazu	space
+	zakaz	subst:sg:gen:m3	disamb
+transferu	space
+	transfer	subst:sg:gen:m3	disamb
+należności	space
+	należność	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+walucie	space
+	waluta	subst:sg:loc:f	disamb
+płatności	space
+	płatność	subst:sg:gen:f	disamb
+lub	space
+	lub	conj	disamb
+zakazu	space
+	zakaz	subst:sg:gen:m3	disamb
+
+wymiany	none
+	wymiana	subst:sg:gen:f	disamb
+waluty	space
+	waluta	subst:sg:gen:f	disamb
+narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+na	space
+	na	prep:acc	disamb
+walutę	space
+	waluta	subst:sg:acc:f	disamb
+płatności	space
+	płatność	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	num:pl:nom:m3:congr	disamb
+)	none
+	)	interp	disamb
+odmowę	space
+	odmowa	subst:sg:acc:f	disamb
+dokonania	space
+	dokonać	ger:sg:gen:n:perf:aff	disamb
+zapłaty	space
+	zapłata	subst:sg:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+przyczyn	space
+	przyczyna	subst:pl:gen:f	disamb
+nie	space
+	nie	qub	disamb
+związanych	space
+	związany	adj:pl:gen:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wykonaniem	space
+	wykonać	ger:sg:inst:n:perf:aff	disamb
+
+kontraktu	none
+	kontrakt	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+gdy	space
+	gdy	adv	disamb
+dłużnikiem	space
+	dłużnik	subst:sg:inst:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+państwo	space
+	państwo	subst:sg:nom:n	disamb
+,	none
+	,	interp	disamb
+dłużnik	space
+	dłużnik	subst:sg:nom:m1	disamb
+publiczny	space
+	publiczny	adj:sg:nom:m1:pos	disamb
+lub	space
+	lub	conj	disamb
+inny	space
+	inny	adj:sg:nom:m1:pos	disamb
+dłużnik	space
+	dłużnik	subst:sg:nom:m1	disamb
+,	none
+	,	interp	disamb
+
+za	none
+	za	prep:acc	disamb
+którego	space
+	który	adj:sg:acc:m1:pos	disamb
+poręczyło	space
+	poręczyć	praet:sg:n:perf	disamb
+państwo	space
+	państwo	subst:sg:nom:n	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+prawne	space
+	prawny	adj:pl:nom:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+decyzje	space
+	decyzja	subst:pl:acc:f	disamb
+Rządu	space
+	rząd	subst:sg:gen:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+
+handlu	none
+	handel	subst:sg:gen:m3	disamb
+zagranicznego	space
+	zagraniczny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:m3:pos	disamb
+uniemożliwiają	space
+	uniemożliwiać	fin:pl:ter:imperf	disamb
+realizację	space
+	realizacja	subst:sg:acc:f	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+
+świadczenie	none
+	świadczyć	ger:sg:nom:n:imperf:aff	disamb
+zamówionych	space
+	zamówić	ppas:pl:gen:f:perf:aff	disamb
+usług	space
+	usługa	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+wybuch	space
+	wybuch	subst:sg:nom:m3	disamb
+poza	space
+	poza	prep:inst	disamb
+granicami	space
+	granica	subst:pl:inst:f	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+działań	space
+	działanie	subst:pl:gen:n	disamb
+wojennych	space
+	wojenny	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+powstania	none
+	powstanie	subst:pl:nom:n	disamb
+,	none
+	,	interp	disamb
+rewolucji	space
+	rewolucja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+zamieszek	space
+	zamieszki	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+przewlekłych	space
+	przewlekły	adj:pl:gen:m3:pos	disamb
+masowych	space
+	masowy	adj:pl:gen:m3:pos	disamb
+strajków	space
+	strajk	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ogłoszenie	space
+	ogłosić	ger:sg:acc:n:perf:aff	disamb
+aktów	space
+	akt	subst:pl:gen:m3	disamb
+nacjonalizacji	space
+	nacjonalizacja	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ryzyko	newline
+	ryzyko	subst:sg:nom:n	disamb
+katastrofalne	space
+	katastrofalny	adj:sg:nom:n:pos	disamb
+obejmuje	space
+	obejmować	fin:sg:ter:imperf	disamb
+następujące	space
+	następujący	adj:pl:acc:f:pos	disamb
+klęski	space
+	klęska	subst:pl:acc:f	disamb
+żywiołowe	space
+	żywiołowy	adj:pl:acc:f:pos	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+trzęsienie	space
+	trzęsienie	subst:sg:nom:n	disamb
+ziemi	space
+	ziemia	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+wybuch	space
+	wybuch	subst:sg:nom:m3	disamb
+wulkanu	space
+	wulkan	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+cyklon	space
+	cyklon	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+tajfun	space
+	tajfun	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+powódź	space
+	powódź	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+gwałtowny	space
+	gwałtowny	adj:sg:nom:m3:pos	disamb
+przypływ	space
+	przypływ	subst:sg:nom:m3	disamb
+morski	space
+	morski	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+7	none
+	7	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+pożary	space
+	pożar	subst:pl:nom:m3	disamb
+o	space
+	o	prep:loc	disamb
+rozmiarach	space
+	rozmiar	subst:pl:loc:m3	disamb
+katastrofalnych	space
+	katastrofalny	adj:pl:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ryzyko	newline
+	ryzyko	subst:sg:nom:n	disamb
+przewlekłej	space
+	przewlekły	adj:sg:gen:f:pos	disamb
+zwłoki	space
+	zwłoka	subst:sg:gen:f	disamb
+oznacza	space
+	oznaczać	fin:sg:ter:imperf	disamb
+opóźnienie	space
+	opóźnienie	subst:sg:acc:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zapłacie	space
+	zapłata	subst:sg:loc:f	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+kontrahenta	space
+	kontrahent	subst:sg:acc:m1	disamb
+
+zagranicznego	none
+	zagraniczny	adj:sg:gen:m3:pos	disamb
+wynoszące	space
+	wynosić	pact:pl:nom:m3:imperf:aff	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+dwa	space
+	dwa	num:pl:acc:m3:congr	disamb
+miesiące	space
+	miesiąc	subst:pl:acc:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+upływu	space
+	upływ	subst:sg:gen:m3	disamb
+ustalonego	space
+	ustalić	ppas:sg:gen:m3:perf:aff	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+kontrakcie	space
+	kontrakt	subst:sg:loc:m3	disamb
+terminu	space
+	termin	subst:sg:gen:m3	disamb
+płatności	space
+	płatność	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ubezpieczenie	newline
+	ubezpieczyć	ger:sg:nom:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+dotyczyć	space
+	dotyczyć	inf:imperf	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+również	space
+	również	qub	disamb
+ryzyka	space
+	ryzyko	subst:pl:acc:n	disamb
+o	space
+	o	prep:acc	disamb
+
+charakterze	none
+	charakter	subst:sg:loc:m3	disamb
+handlowym	space
+	handlowy	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+jeśli	space
+	jeśli	comp	disamb
+kontrakt	space
+	kontrakt	subst:sg:nom:m3	disamb
+zawarty	space
+	zawrzeć	ppas:sg:nom:m3:perf:aff	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+na	space
+	na	prep:loc	disamb
+warunkach	space
+	warunki	subst:pl:loc:n	disamb
+kredytu	space
+	kredyt	subst:sg:gen:m3	disamb
+
+powyżej	none
+	powyżej	prep:gen	disamb
+jednego	space
+	jeden	adj:sg:gen:m3:pos	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ubezpieczenie	newline
+	ubezpieczenie	subst:sg:nom:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+handlowego	space
+	handlowy	adj:sg:gen:n:pos	disamb
+
+obejmuje	none
+	obejmować	fin:sg:ter:imperf	disamb
+stwierdzoną	space
+	stwierdzić	ppas:sg:acc:f:perf:aff	disamb
+niewypłacalność	space
+	niewypłacalność	subst:sg:acc:f	disamb
+oraz	space
+	oraz	conj	disamb
+przewlekłą	space
+	przewlekły	adj:sg:acc:f:pos	disamb
+zwłokę	space
+	zwłoka	subst:sg:acc:f	disamb
+kontrahenta	space
+	kontrahent	subst:sg:gen:m1	disamb
+
+zagranicznego	none
+	zagraniczny	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+sytuacjach	space
+	sytuacja	subst:pl:loc:f	disamb
+uzasadnionych	space
+	uzasadniony	adj:pl:loc:f:pos	disamb
+ważnym	space
+	ważny	adj:sg:inst:m3:pos	disamb
+interesem	space
+	interes	subst:sg:inst:m3	disamb
+gospodarczym	space
+	gospodarczy	adj:sg:inst:m3:pos	disamb
+Rada	space
+	rada	subst:sg:nom:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+uchwały	space
+	uchwała	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+wyrazić	space
+	wyrazić	inf:perf	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+ubezpieczenia	space
+	ubezpieczenie	subst:pl:acc:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+
+eksportowych	none
+	eksportowy	adj:pl:gen:n:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+innego	space
+	inny	adj:sg:gen:n:pos	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+niż	space
+	niż	prep:nom	disamb
+wymienione	space
+	wymienić	ppas:sg:nom:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+szczegółowe	space
+	szczegółowy	adj:pl:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ubezpieczanie	newline
+	ubezpieczać	ger:sg:nom:n:imperf:aff	disamb
+kontraktów	none
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	none
+	eksportowy	adj:pl:gen:m3:pos	disamb
+na	space
+	na	prep:loc	disamb
+warunkach	none
+	warunki	subst:pl:loc:n	disamb
+określonych	none
+	określony	adj:pl:loc:n:pos	disamb
+niniejszą	space
+	niniejszy	adj:sg:inst:f:pos	disamb
+
+ustawą	none
+	ustawa	subst:sg:inst:f	disamb
+powierza	space
+	powierzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+Korporacji	space
+	korporacja	subst:sg:dat:f	disamb
+Ubezpieczeń	space
+	ubezpieczenie	subst:pl:gen:n	disamb
+Kredytów	space
+	kredyt	subst:pl:gen:m3	disamb
+Eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+Spółce	none
+	spółka	subst:sg:dat:f	disamb
+Akcyjnej	space
+	akcyjny	adj:sg:dat:f:pos	disamb
+,	none
+	,	interp	disamb
+zwanej	space
+	zwać	ppas:sg:gen:f:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+Korporacją	space
+	korporacja	subst:sg:inst:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+budżetowa	space
+	budżetowy	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+18	space
+	18	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+limit	space
+	limit	subst:sg:acc:m3	disamb
+do	space
+	do	prep:gen	disamb
+wysokości	space
+	wysokość	subst:sg:gen:f	disamb
+którego	space
+	który	adj:sg:gen:m3:pos	disamb
+
+mogą	none
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+danym	space
+	dany	adj:sg:loc:m3:pos	disamb
+roku	space
+	rok	subst:sg:loc:m3	disamb
+ubezpieczane	space
+	ubezpieczać	ppas:pl:nom:m3:imperf:aff	disamb
+kontrakty	space
+	kontrakt	subst:pl:nom:m3	disamb
+eksportowe	space
+	eksportowy	adj:pl:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+
+przewidywane	none
+	przewidywać	ppas:pl:nom:f:imperf:aff	disamb
+na	space
+	na	prep:acc	disamb
+dany	space
+	dany	adj:sg:acc:m3:pos	disamb
+rok	space
+	rok	subst:sg:acc:m3	disamb
+wypłaty	space
+	wypłata	subst:sg:gen:f	disamb
+ze	space
+	z	prep:gen:wok	disamb
+środków	space
+	środek	subst:pl:gen:m3	disamb
+budżetu	space
+	budżet	subst:sg:gen:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+poręczeń	space
+	poręczenie	subst:pl:gen:n	disamb
+kredytów	space
+	kredyt	subst:pl:gen:m3	disamb
+zaciągniętych	space
+	zaciągnąć	ppas:pl:gen:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+stosownie	space
+	stosownie	adv:pos	disamb
+do	space
+	do	prep:gen	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13	space
+	13	adj:sg:gen:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pożyczek	space
+	pożyczka	subst:pl:gen:f	disamb
+udzielonych	space
+	udzielić	ppas:pl:gen:f:perf:aff	disamb
+Korporacji	space
+	korporacja	subst:pl:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+budżetu	space
+	budżet	subst:sg:gen:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+stosownie	space
+	stosownie	adv:pos	disamb
+do	space
+	do	prep:gen	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+13	none
+	13	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Korporacja	newline
+	korporacja	subst:sg:nom:f	disamb
+prowadzi	space
+	prowadzić	fin:sg:ter:imperf	disamb
+ubezpieczenie	space
+	ubezpieczenie	subst:sg:acc:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+imieniu	space
+	imię	subst:sg:loc:n	disamb
+
+własnym	none
+	własny	adj:sg:inst:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Z	none
+	z	prep:gen:nwok	disamb
+ubezpieczenia	space
+	ubezpieczenie	subst:sg:gen:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+
+korzystać	none
+	korzystać	inf:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+krajowe	space
+	krajowy	adj:pl:nom:m3:pos	disamb
+-	space
+	-	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozumieniu	space
+	rozumienie	subst:sg:loc:n	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+dewizowych	space
+	dewizowy	adj:pl:gen:m3:pos	disamb
+-	space
+	-	interp	disamb
+podmioty	space
+	podmiot	subst:pl:nom:m3	disamb
+gospodarcze	space
+	gospodarczy	adj:pl:nom:m3:pos	disamb
+
+dokonujące	none
+	dokonywać	pact:pl:nom:m3:imperf:aff	disamb
+eksportu	space
+	eksport	subst:sg:gen:m3	disamb
+krajowych	space
+	krajowy	adj:pl:gen:m3:pos	disamb
+towarów	space
+	towar	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+usług	space
+	usługa	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:acc:f:congr	disamb
+)	none
+	)	interp	disamb
+jednostki	space
+	jednostka	subst:pl:acc:f	disamb
+finansujące	space
+	finansować	pact:pl:nom:f:imperf:aff	disamb
+kontrakty	space
+	kontrakt	subst:pl:acc:m3	disamb
+eksportowe	space
+	eksportowy	adj:pl:acc:m3:pos	disamb
+realizowane	space
+	realizować	ppas:pl:acc:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+podmioty	space
+	podmiot	subst:pl:acc:m3	disamb
+
+określone	none
+	określić	ppas:pl:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Rada	none
+	rada	subst:sg:nom:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+terminie	space
+	termin	subst:sg:loc:m3	disamb
+do	space
+	do	prep:gen	disamb
+30	space
+	30	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+każdego	space
+	każdy	adj:sg:gen:m3:pos	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+szczegółowe	space
+	szczegółowy	adj:pl:acc:f:pos	disamb
+
+zasady	none
+	zasada	subst:pl:nom:f	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+Korporacji	space
+	korporacja	subst:sg:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+rok	space
+	rok	subst:sg:acc:m3	disamb
+następny	space
+	następny	adj:sg:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+objętym	space
+	objąć	ppas:sg:loc:m3:perf:aff	disamb
+niniejszą	space
+	niniejszy	adj:sg:acc:f:pos	disamb
+
+ustawą	none
+	ustawa	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+rodzaje	space
+	rodzaj	subst:pl:nom:m3	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:m3:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+objęte	space
+	objąć	ppas:pl:nom:m3:perf:aff	disamb
+ubezpieczeniem	space
+	ubezpieczenie	subst:sg:inst:n	disamb
+od	space
+	od	prep:gen:nwok	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+
+niehandlowego	none
+	niehandlowy	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:acc:m3:congr	disamb
+)	none
+	)	interp	disamb
+rodzaje	space
+	rodzaj	subst:pl:nom:m3	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:m3:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+objęte	space
+	objąć	ppas:pl:nom:m3:perf:aff	disamb
+ubezpieczeniem	space
+	ubezpieczenie	subst:sg:inst:n	disamb
+od	space
+	od	prep:gen:nwok	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+
+handlowego	none
+	handlowy	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wytyczne	space
+	wytyczna	subst:pl:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+ustalania	space
+	ustalać	ger:sg:gen:n:imperf:aff	disamb
+wysokości	space
+	wysokość	subst:sg:gen:f	disamb
+stawek	space
+	stawka	subst:pl:gen:f	disamb
+za	space
+	za	prep:acc	disamb
+ubezpieczenie	space
+	ubezpieczyć	ger:sg:acc:n:perf:aff	disamb
+
+kontraktów	none
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+porozumieniu	space
+	porozumienie	subst:sg:loc:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+Ministrem	space
+	minister	subst:sg:inst:m1	disamb
+Współpracy	space
+	współpraca	subst:sg:gen:f	disamb
+Gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+Zagranicą	space
+	zagranica	subst:sg:inst:f	disamb
+ustala	space
+	ustalać	fin:sg:ter:imperf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+zarządzenia	space
+	zarządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+tabelę	space
+	tabela	subst:sg:acc:f	disamb
+klasyfikacji	space
+	klasyfikacja	subst:sg:gen:f	disamb
+krajów	space
+	kraj	subst:pl:gen:m3	disamb
+w	none
+	w	prep:loc:nwok	disamb
+zależności	space
+	zależność	subst:sg:loc:f	disamb
+
+od	none
+	od	prep:gen:nwok	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+porozumieniu	space
+	porozumienie	subst:sg:loc:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+Ministrem	space
+	minister	subst:sg:inst:m1	disamb
+Współpracy	space
+	współpraca	subst:sg:gen:f	disamb
+Gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+Zagranicą	space
+	zagranica	subst:sg:inst:f	disamb
+oraz	space
+	oraz	conj	disamb
+Ministrem	space
+	minister	subst:sg:inst:m1	disamb
+Przemysłu	space
+	przemysł	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+Handlu	space
+	handel	subst:sg:gen:m3	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+
+minimalny	none
+	minimalny	adj:sg:nom:m3:pos	disamb
+procentowy	space
+	procentowy	adj:sg:nom:m3:pos	disamb
+udział	space
+	udział	subst:sg:nom:m3	disamb
+składników	space
+	składnik	subst:pl:gen:m3	disamb
+pochodzenia	space
+	pochodzenie	subst:sg:gen:n	disamb
+krajowego	space
+	krajowy	adj:sg:gen:n:pos	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+eksportowanym	space
+	eksportować	ppas:sg:loc:m3:perf:aff	disamb
+produkcie	space
+	produkt	subst:sg:loc:m3	disamb
+finalnym	space
+	finalny	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+umożliwiający	space
+	umożliwiać	pact:sg:nom:m1:imperf:aff	disamb
+uznanie	space
+	uznać	ger:sg:acc:n:perf:aff	disamb
+tego	space
+	ten	adj:sg:gen:m3:pos	disamb
+produktu	space
+	produkt	subst:sg:gen:m3	disamb
+
+za	none
+	za	qub	disamb
+krajowy	space
+	krajowy	adj:sg:acc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ogólne	newline
+	ogólny	adj:pl:acc:m3:pos	disamb
+warunki	space
+	warunek	subst:pl:acc:m3	disamb
+ubezpieczenia	space
+	ubezpieczyć	ger:sg:gen:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+zatwierdza	space
+	zatwierdzać	fin:sg:ter:imperf	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+
+Finansów	none
+	finanse	subst:pl:gen:n	disamb
+na	space
+	na	prep:acc	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+Korporacji	space
+	korporacja	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Taryfę	newline
+	taryfa	subst:sg:acc:f	disamb
+stawek	space
+	stawka	subst:pl:gen:f	disamb
+za	space
+	za	prep:acc	disamb
+ubezpieczenie	space
+	ubezpieczyć	ger:sg:acc:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+opracowaną	space
+	opracować	ppas:sg:acc:f:perf:aff	disamb
+
+przez	none
+	przez	prep:acc:nwok	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+wytycznych	space
+	wytyczny	adj:pl:gen:m1:pos	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+zatwierdza	space
+	zatwierdzać	fin:sg:ter:imperf	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+
+Finansów	none
+	finanse	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+po	space
+	po	prep:loc	disamb
+zasięgnięciu	space
+	zasięgnąć	ger:sg:loc:n:perf:aff	disamb
+opinii	space
+	opinia	subst:sg:gen:f	disamb
+Ministra	none
+	minister	subst:sg:gen:m1	disamb
+Współpracy	space
+	współpraca	subst:sg:gen:f	disamb
+Gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+Zagranicą	space
+	zagranica	subst:sg:inst:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozliczenia	newline
+	rozliczenie	subst:pl:nom:n	disamb
+finansowe	space
+	finansowy	adj:pl:nom:n:pos	disamb
+związane	space
+	związany	adj:pl:nom:n:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+ubezpieczeniem	space
+	ubezpieczyć	ger:sg:inst:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+
+prowadzone	none
+	prowadzić	ppas:pl:nom:f:imperf:aff	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+na	space
+	na	prep:loc	disamb
+wyodrębnionym	space
+	wyodrębnić	ppas:sg:loc:m3:perf:aff	disamb
+rachunku	space
+	rachunek	subst:sg:loc:m3	disamb
+bankowym	space
+	bankowy	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Na	newline
+	na	prep:loc	disamb
+rachunku	space
+	rachunek	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+gromadzone	space
+	gromadzić	ppas:pl:nom:f:imperf:aff	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+składki	space
+	składka	subst:pl:acc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+ubezpieczenia	space
+	ubezpieczyć	ger:sg:gen:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+kwoty	space
+	kwota	subst:pl:acc:f	disamb
+uzyskane	space
+	uzyskać	ppas:pl:acc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wyniku	space
+	wynik	subst:sg:loc:m3	disamb
+postępowań	space
+	postępowanie	subst:pl:gen:n	disamb
+windykacyjnych	space
+	windykacyjny	adj:pl:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+regresowych	space
+	regresowy	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+odsetki	space
+	odsetek	subst:pl:acc:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+środków	space
+	środek	subst:pl:gen:m3	disamb
+gromadzonych	space
+	gromadzić	ppas:pl:gen:m3:imperf:aff	disamb
+na	space
+	na	prep:loc	disamb
+tym	space
+	ten	adj:sg:loc:m3:pos	disamb
+rachunku	space
+	rachunek	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	num:pl:nom:m3:congr	disamb
+)	none
+	)	interp	disamb
+środki	space
+	środek	subst:pl:acc:m3	disamb
+pieniężne	space
+	pieniężny	adj:pl:nom:m3:pos	disamb
+określone	space
+	określić	ppas:pl:acc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13	space
+	13	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+odsetki	space
+	odsetka	subst:sg:gen:f	disamb
+od	space
+	od	prep:gen:nwok	disamb
+lokat	space
+	lokata	subst:pl:gen:f	disamb
+wolnych	space
+	wolny	adj:pl:gen:m3:pos	disamb
+środków	space
+	środek	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+środki	space
+	środek	subst:pl:nom:m3	disamb
+przekazane	space
+	przekazać	ppas:pl:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Ministra	space
+	minister	subst:sg:acc:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+zgodnie	space
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+19	space
+	19	adj:sg:inst:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Środki	newline
+	środek	subst:pl:nom:m3	disamb
+zgromadzone	space
+	zgromadzić	ppas:pl:nom:m3:perf:aff	disamb
+na	space
+	na	prep:loc	disamb
+wyodrębnionym	space
+	wyodrębnić	ppas:sg:loc:m3:perf:aff	disamb
+rachunku	space
+	rachunek	subst:sg:loc:m3	disamb
+bankowym	space
+	bankowy	adj:sg:loc:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+stanowią	space
+	stanowić	fin:pl:ter:imperf	disamb
+
+przychodu	none
+	przychód	subst:sg:gen:m3	disamb
+Korporacji	space
+	korporacja	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozumieniu	space
+	rozumienie	subst:sg:loc:n	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+o	space
+	o	prep:loc	disamb
+podatku	space
+	podatek	subst:sg:loc:m3	disamb
+dochodowym	space
+	dochodowy	adj:sg:loc:m3:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+
+osób	none
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Korporacja	newline
+	korporacja	subst:sg:nom:f	disamb
+za	space
+	za	prep:inst	disamb
+zgodą	space
+	zgoda	subst:sg:inst:f	disamb
+Ministra	space
+	minister	subst:sg:gen:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+dokonywać	space
+	dokonywać	inf:imperf	disamb
+lokaty	space
+	lokat	subst:pl:acc:m3	disamb
+wolnych	space
+	wolny	adj:pl:gen:m3:pos	disamb
+
+środków	none
+	środek	subst:pl:gen:m3	disamb
+;	none
+	;	interp	disamb
+środki	space
+	środek	subst:pl:nom:m3	disamb
+uzyskane	space
+	uzyskać	ppas:pl:nom:m3:perf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dochodów	space
+	dochód	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+lokat	space
+	lokata	subst:pl:gen:f	disamb
+wpływają	space
+	wpływać	fin:pl:ter:imperf	disamb
+na	space
+	na	prep:acc	disamb
+rachunek	space
+	rachunek	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nadwyżka	newline
+	nadwyżka	subst:sg:nom:f	disamb
+środków	space
+	środek	subst:pl:gen:m3	disamb
+na	space
+	na	prep:loc	disamb
+rachunku	space
+	rachunek	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+Ministra	space
+	minister	subst:sg:gen:m1	disamb
+
+Finansów	none
+	finanse	subst:pl:gen:n	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+przekazywana	space
+	przekazywać	ppas:sg:nom:f:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+budżetu	space
+	budżet	subst:sg:gen:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+ogłoszenia	space
+	ogłosić	ger:sg:gen:n:perf:aff	disamb
+upadłości	space
+	upadłość	subst:sg:gen:f	disamb
+Korporacji	space
+	korporacja	subst:sg:gen:f	disamb
+środki	space
+	środek	subst:pl:nom:m3	disamb
+pieniężne	space
+	pieniężny	adj:pl:nom:m3:pos	disamb
+zgromadzone	space
+	zgromadzić	ppas:pl:nom:m3:perf:aff	disamb
+
+na	none
+	na	prep:loc	disamb
+rachunku	space
+	rachunek	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+wchodzą	space
+	wchodzić	fin:pl:ter:imperf	disamb
+do	space
+	do	prep:gen	disamb
+masy	space
+	masa	subst:sg:gen:f	disamb
+upadłościowej	space
+	upadłościowy	adj:sg:gen:f:pos	disamb
+;	none
+	;	interp	disamb
+
+środki	none
+	środek	subst:pl:acc:m3	disamb
+te	space
+	ten	adj:pl:acc:m3:pos	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+przeznacza	space
+	przeznaczać	fin:sg:ter:imperf	disamb
+na	space
+	na	prep:acc	disamb
+zaspokojenie	space
+	zaspokoić	ger:sg:acc:n:perf:aff	disamb
+zawartych	space
+	zawrzeć	ppas:pl:gen:m3:perf:aff	disamb
+
+przez	none
+	przez	prep:acc:nwok	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+umów	space
+	umowa	subst:pl:gen:f	disamb
+ubezpieczenia	space
+	ubezpieczyć	ger:sg:gen:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+zaś	space
+	zaś	conj	disamb
+nadwyżkę	space
+	nadwyżka	subst:sg:acc:f	disamb
+
+przekazuje	none
+	przekazywać	fin:sg:ter:imperf	disamb
+do	space
+	do	prep:gen	disamb
+budżetu	space
+	budżet	subst:sg:gen:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11	space
+	11	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+powstania	space
+	powstać	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+objętej	space
+	objąć	ppas:sg:gen:f:perf:aff	disamb
+ubezpieczeniem	space
+	ubezpieczenie	subst:sg:inst:n	disamb
+ubezpieczający	space
+	ubezpieczać	pact:sg:nom:m1:imperf:aff	disamb
+zobowiązany	space
+	zobowiązać	ppas:sg:nom:m1:perf:aff	disamb
+
+jest	none
+	być	fin:sg:ter:imperf	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+nieuzasadnionej	space
+	nieuzasadniony	adj:sg:gen:f:pos	disamb
+zwłoki	space
+	zwłoka	subst:sg:gen:f	disamb
+udzielić	space
+	udzielić	inf:perf	disamb
+Korporacji	space
+	korporacja	subst:sg:dat:f	disamb
+wszelkich	space
+	wszelki	adj:pl:gen:f:pos	disamb
+wiadomości	space
+	wiadomość	subst:pl:gen:f	disamb
+
+oraz	none
+	oraz	conj	disamb
+przedstawia	space
+	przedstawiać	fin:sg:ter:imperf	disamb
+dokumenty	space
+	dokument	subst:pl:acc:m3	disamb
+i	space
+	i	conj	disamb
+inne	space
+	inny	adj:pl:acc:m3:pos	disamb
+dowody	space
+	dowód	subst:pl:acc:m3	disamb
+niezbędne	space
+	niezbędny	adj:pl:acc:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+ustalenia	space
+	ustalić	ger:sg:gen:n:perf:aff	disamb
+
+okoliczności	none
+	okoliczność	subst:pl:nom:f	disamb
+powstania	space
+	powstać	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+rozmiarów	space
+	rozmiar	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+wątpliwości	space
+	wątpliwość	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+czy	space
+	czy	qub	disamb
+powstała	space
+	powstać	praet:sg:f:perf	disamb
+szkoda	space
+	szkoda	subst:sg:nom:f	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+następstwem	space
+	następstwo	subst:sg:inst:n	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+określonego	space
+	określony	adj:sg:gen:n:pos	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+-	none
+	-	interp	disamb
+4	none
+	4	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+ciężar	space
+	ciężar	subst:sg:nom:m3	disamb
+udowodnienia	space
+	udowodnić	ger:sg:gen:n:perf:aff	disamb
+tego	space
+	ten	adj:sg:gen:m3:pos	disamb
+faktu	space
+	fakt	subst:sg:gen:m3	disamb
+spoczywa	space
+	spoczywać	fin:sg:ter:imperf	disamb
+na	space
+	na	prep:loc	disamb
+ubezpieczającym	space
+	ubezpieczać	pact:sg:loc:m3:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+12	space
+	12	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Z	newline
+	z	prep:inst:nwok	disamb
+chwilą	space
+	chwila	subst:sg:inst:f	disamb
+zapłaty	space
+	zapłata	subst:sg:gen:f	disamb
+odszkodowania	space
+	odszkodowanie	subst:sg:gen:n	disamb
+ubezpieczeniowego	space
+	ubezpieczeniowy	adj:sg:gen:n:pos	disamb
+na	space
+	na	prep:acc	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+przechodzą	space
+	przechodzić	fin:pl:ter:imperf	disamb
+
+wszelkie	none
+	wszelki	adj:pl:nom:f:pos	disamb
+wierzytelności	space
+	wierzytelność	subst:pl:nom:f	disamb
+oraz	space
+	oraz	conj	disamb
+inne	space
+	inny	adj:pl:nom:n:pos	disamb
+prawa	space
+	prawo	subst:pl:nom:n	disamb
+przysługujące	space
+	przysługiwać	pact:pl:nom:n:imperf:aff	disamb
+ubezpieczającemu	space
+	ubezpieczać	pact:sg:dat:m1:imperf:aff	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+stosunku	space
+	stosunek	subst:sg:loc:m3	disamb
+do	space
+	do	prep:gen	disamb
+kontrahenta	space
+	kontrahent	subst:sg:gen:m1	disamb
+zagranicznego	none
+	zagraniczny	adj:sg:gen:m1:pos	disamb
+lub	space
+	lub	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+poręczycieli	space
+	poręczyciel	subst:pl:gen:m1	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+
+niemożności	none
+	niemożność	subst:sg:gen:f	disamb
+wykonania	space
+	wykonać	ger:sg:gen:n:perf:aff	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+eksportowego	space
+	eksportowy	adj:sg:gen:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+utraty	space
+	utrata	subst:sg:gen:f	disamb
+należności	space
+	należność	subst:sg:gen:f	disamb
+
+powstałej	none
+	powstały	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wyniku	space
+	wynik	subst:sg:loc:m3	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+kontraktu	space
+	kontrakt	subst:sg:gen:m3	disamb
+eksportowego	space
+	eksportowy	adj:sg:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+udzielenia	space
+	udzielić	ger:sg:gen:n:perf:aff	disamb
+kredytu	space
+	kredyt	subst:sg:gen:m3	disamb
+
+na	none
+	na	prep:acc	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+realizację	space
+	realizacja	subst:sg:acc:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ubezpieczający	newline
+	ubezpieczać	pact:sg:nom:m1:imperf:aff	disamb
+zobowiązany	space
+	zobowiązać	ppas:sg:nom:m1:perf:aff	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+przekazać	space
+	przekazać	inf:perf	disamb
+Korporacji	space
+	korporacja	subst:sg:dat:f	disamb
+dokumenty	space
+	dokument	subst:pl:acc:m3	disamb
+i	space
+	i	conj	disamb
+informacje	space
+	informacja	subst:pl:acc:f	disamb
+
+oraz	none
+	oraz	conj	disamb
+dokonać	space
+	dokonać	inf:perf	disamb
+innych	space
+	inny	adj:pl:gen:f:pos	disamb
+czynności	space
+	czynność	subst:pl:gen:f	disamb
+potrzebnych	space
+	potrzebny	adj:pl:gen:f:pos	disamb
+dla	space
+	dla	prep:gen	disamb
+skutecznego	space
+	skuteczny	adj:sg:gen:n:pos	disamb
+dochodzenia	space
+	dochodzenie	subst:sg:gen:n	disamb
+
+praw	none
+	prawo	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zrzeczenie	newline
+	zrzec	ger:sg:nom:n:perf:aff	disamb
+się	space
+	się	qub	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+ubezpieczającego	space
+	ubezpieczać	pact:sg:acc:m1:imperf:aff	disamb
+,	none
+	,	interp	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+zgody	space
+	zgoda	subst:sg:gen:f	disamb
+Korporacji	space
+	korporacja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+wierzytelności	space
+	wierzytelność	subst:sg:gen:f	disamb
+
+i	none
+	i	conj	disamb
+praw	space
+	prawo	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+mowa	none
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+zwalnia	space
+	zwalniać	fin:sg:ter:imperf	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+od	space
+	od	prep:gen:nwok	disamb
+obowiązku	space
+	obowiązek	subst:sg:gen:m3	disamb
+zapłaty	space
+	zapłata	subst:sg:gen:f	disamb
+
+odszkodowania	none
+	odszkodowanie	subst:pl:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13	space
+	13	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wypłata	newline
+	wypłata	subst:sg:nom:f	disamb
+odszkodowań	space
+	odszkodowanie	subst:pl:gen:n	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+umów	space
+	umowa	subst:pl:gen:f	disamb
+ubezpieczenia	space
+	ubezpieczyć	ger:sg:gen:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+
+następuje	none
+	następować	fin:sg:ter:imperf	disamb
+z	space
+	z	prep:gen:nwok	disamb
+rachunku	space
+	rachunek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wypłata	newline
+	wypłata	subst:sg:nom:f	disamb
+odszkodowań	space
+	odszkodowanie	subst:pl:gen:n	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+gwarantowana	space
+	gwarantować	ppas:sg:nom:f:imperf:aff	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Skarb	space
+	skarb	subst:sg:acc:m3	disamb
+
+Państwa	none
+	państwo	subst:pl:gen:m1	disamb
+poprzez	space
+	poprzez	prep:acc:nwok	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+poręczenie	space
+	poręczyć	ger:sg:nom:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Ministra	space
+	minister	subst:sg:acc:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+imieniu	space
+	imię	subst:sg:loc:n	disamb
+Skarbu	space
+	skarb	subst:sg:gen:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+kredytu	space
+	kredyt	subst:sg:gen:m3	disamb
+
+bankowego	none
+	bankowy	adj:sg:gen:m3:pos	disamb
+zaciąganego	space
+	zaciągać	ppas:sg:gen:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Korporację	space
+	korporacja	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+udzielanie	space
+	udzielać	ger:sg:nom:n:imperf:aff	disamb
+pożyczek	space
+	pożyczka	subst:pl:gen:f	disamb
+ze	space
+	z	prep:gen:wok	disamb
+środków	space
+	środek	subst:pl:gen:m3	disamb
+budżetu	space
+	budżet	subst:sg:gen:m3	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególnie	space
+	szczególnie	adv:pos	disamb
+uzasadnionych	space
+	uzasadnić	ppas:pl:loc:m3:perf:aff	disamb
+wypadkach	space
+	wypadek	subst:pl:loc:m3	disamb
+umorzyć	space
+	umorzyć	inf:perf	disamb
+
+pożyczkę	none
+	pożyczka	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+poręczeń	space
+	poręczenie	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+23	space
+	23	adj:sg:gen:m3:pos	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+dnia	none
+	dzień	subst:sg:gen:m3	disamb
+5	space
+	5	adj:sg:gen:m3:pos	disamb
+stycznia	space
+	styczeń	subst:sg:gen:m3	disamb
+1991	space
+	1991	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+-	newline
+	-	interp	disamb
+Prawo	space
+	prawo	subst:sg:nom:n	disamb
+budżetowe	space
+	budżetowy	adj:sg:nom:n:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1993	space
+	1993	adj:sg:gen:m3:pos	disamb
+Nr	space
+	numer	brev:npun	disamb
+72	space
+	72	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+344	space
+	344	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Rada	newline
+	rada	subst:sg:nom:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+określić	space
+	określić	inf:perf	disamb
+warunki	space
+	warunek	subst:pl:acc:m3	disamb
+i	space
+	i	conj	disamb
+tryb	space
+	tryb	subst:sg:acc:m3	disamb
+
+udzielania	none
+	udzielać	ger:sg:gen:n:imperf:aff	disamb
+poręczeń	space
+	poręczenie	subst:pl:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+udzielania	space
+	udzielać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+umarzania	space
+	umarzać	ger:sg:gen:n:imperf:aff	disamb
+pożyczek	space
+	pożyczka	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+14	space
+	14	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Za	none
+	za	prep:acc	disamb
+prowadzenie	space
+	prowadzić	ger:sg:acc:n:imperf:aff	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+ubezpieczeniowej	none
+	ubezpieczeniowy	adj:sg:gen:f:pos	disamb
+określonej	space
+	określić	ppas:sg:gen:f:perf:aff	disamb
+niniejszą	space
+	niniejszy	adj:sg:inst:f:pos	disamb
+ustawą	space
+	ustawa	subst:sg:inst:f	disamb
+
+Korporacji	none
+	korporacja	subst:sg:gen:f	disamb
+przysługuje	space
+	przysługiwać	fin:sg:ter:imperf	disamb
+prowizja	space
+	prowizja	subst:sg:nom:f	disamb
+.	none
+	.	interp	disamb
+
+Wysokość	newline
+	wysokość	subst:sg:nom:f	disamb
+prowizji	space
+	prowizja	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+sposób	space
+	sposób	subst:sg:nom:m3	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+finansowania	space
+	finansować	ger:sg:gen:n:imperf:aff	disamb
+
+określa	none
+	określać	fin:sg:ter:imperf	disamb
+umowa	space
+	umowa	subst:sg:nom:f	disamb
+między	space
+	między	prep:inst	disamb
+Ministrem	space
+	minister	subst:sg:inst:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+a	space
+	a	conj	disamb
+Korporacją	space
+	korporacja	subst:sg:inst:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+15	space
+	15	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nadzór	newline
+	nadzór	subst:sg:nom:m3	disamb
+nad	space
+	nad	prep:inst:nwok	disamb
+działalnością	space
+	działalność	subst:sg:inst:f	disamb
+Korporacji	space
+	korporacja	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+ubezpieczenia	space
+	ubezpieczyć	ger:sg:gen:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+
+eksportowych	none
+	eksportowy	adj:pl:gen:n:pos	disamb
+sprawuje	space
+	sprawować	fin:sg:ter:imperf	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+na	space
+	na	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+określonych	space
+	określony	adj:pl:loc:f:pos	disamb
+niniejszą	space
+	niniejszy	adj:sg:inst:f:pos	disamb
+
+ustawą	none
+	ustawa	subst:sg:inst:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Tryb	newline
+	tryb	subst:sg:acc:m3	disamb
+sprawowania	space
+	sprawowanie	subst:sg:gen:n	disamb
+nadzoru	space
+	nadzór	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+regulamin	space
+	regulamin	subst:sg:acc:m3	disamb
+
+opracowany	none
+	opracować	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Ministra	space
+	minister	subst:sg:acc:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+i	space
+	i	conj	disamb
+zatwierdzony	space
+	zatwierdzić	ppas:sg:nom:m1:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Radę	space
+	rada	subst:sg:acc:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+16	space
+	16	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Korporacja	newline
+	korporacja	subst:sg:nom:f	disamb
+przedstawia	space
+	przedstawiać	fin:sg:ter:imperf	disamb
+okresowe	space
+	okresowy	adj:pl:acc:n:pos	disamb
+sprawozdania	space
+	sprawozdanie	subst:pl:acc:n	disamb
+o	space
+	o	prep:loc	disamb
+stanie	space
+	stan	subst:sg:loc:m3	disamb
+rachunku	space
+	rachunek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+
+mowa	none
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+zawartych	space
+	zawrzeć	ppas:pl:gen:n:perf:aff	disamb
+ubezpieczeniach	space
+	ubezpieczenie	subst:pl:loc:n	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+
+i	none
+	i	conj	disamb
+dokonanych	space
+	dokonać	ppas:pl:gen:n:perf:aff	disamb
+wypłatach	space
+	wypłata	subst:pl:loc:f	disamb
+odszkodowań	space
+	odszkodowanie	subst:pl:gen:n	disamb
+:	space
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+kwartalne	space
+	kwartalny	adj:pl:acc:m3:pos	disamb
+-	space
+	-	interp	disamb
+Ministrowi	space
+	minister	subst:sg:dat:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+Ministrowi	space
+	minister	subst:sg:dat:m1	disamb
+Współpracy	space
+	współpraca	subst:sg:gen:f	disamb
+Gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+Zagranicą	space
+	zagranica	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+roczne	space
+	roczny	adj:pl:acc:m3:pos	disamb
+-	space
+	-	interp	disamb
+Radzie	space
+	rada	subst:sg:dat:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+po	space
+	po	prep:loc	disamb
+uzyskaniu	space
+	uzyskać	ger:sg:loc:n:perf:aff	disamb
+opinii	space
+	opinia	subst:sg:gen:f	disamb
+Ministra	space
+	minister	subst:sg:gen:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+i	space
+	i	conj	disamb
+
+Ministra	none
+	Ministra	subst:sg:nom:f	disamb
+Współpracy	space
+	współpraca	subst:sg:gen:f	disamb
+Gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+Zagranicą	space
+	zagranica	subst:sg:inst:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zakres	newline
+	zakres	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+formę	space
+	forma	subst:sg:acc:f	disamb
+i	space
+	i	conj	disamb
+terminy	space
+	termin	subst:pl:acc:m3	disamb
+składania	space
+	składać	ger:sg:gen:n:imperf:aff	disamb
+sprawozdań	space
+	sprawozdanie	subst:pl:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+kontrolowanie	space
+	kontrolować	ger:sg:nom:n:imperf:aff	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+prawidłowości	space
+	prawidłowość	subst:sg:gen:f	disamb
+
+określa	none
+	określać	fin:sg:ter:imperf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+zarządzenia	space
+	zarządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+porozumieniu	space
+	porozumienie	subst:sg:loc:n	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+Ministrem	space
+	minister	subst:sg:inst:m1	disamb
+Współpracy	space
+	współpraca	subst:sg:gen:f	disamb
+Gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+Zagranicą	space
+	zagranica	subst:sg:inst:f	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+przejściowe	space
+	przejściowy	adj:pl:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+końcowe	space
+	końcowy	adj:pl:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+17	space
+	17	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	none
+	do	prep:gen	disamb
+umów	space
+	umowa	subst:pl:gen:f	disamb
+ubezpieczenia	space
+	ubezpieczyć	ger:sg:gen:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+uregulowanych	space
+	uregulować	ppas:pl:gen:m3:perf:aff	disamb
+niniejszą	space
+	niniejszy	adj:sg:inst:f:pos	disamb
+
+ustawą	none
+	ustawa	subst:sg:inst:f	disamb
+nie	space
+	nie	qub	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+807	space
+	807	adj:sg:gen:m3:pos	disamb
+§	space
+	§	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+810	space
+	810	adj:sg:nom:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+811	space
+	811	adj:sg:gen:m3:pos	disamb
+Kodeksu	space
+	kodeks	subst:sg:gen:m3	disamb
+cywilnego	space
+	cywilny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+28	space
+	28	adj:sg:gen:m3:pos	disamb
+lipca	space
+	lipiec	subst:sg:gen:m3	disamb
+1990	space
+	1990	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+działalności	space
+	działalność	subst:sg:loc:f	disamb
+ubezpieczeniowej	space
+	ubezpieczeniowy	adj:sg:loc:f:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	U	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Nr	none
+	numer	brev:npun	disamb
+59	space
+	59	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+344	space
+	344	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1993	space
+	1993	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+5	space
+	5	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+21	space
+	21	adj:sg:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+44	space
+	44	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+201	space
+	201	adj:sg:loc:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1994	space
+	1994	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	none
+	numer	brev:npun	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+17	space
+	17	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+18	space
+	18	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustala	newline
+	ustalać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+limit	space
+	limit	subst:sg:acc:m3	disamb
+ubezpieczenia	space
+	ubezpieczyć	ger:sg:gen:n:perf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+na	space
+	na	prep:acc	disamb
+rok	space
+	rok	subst:sg:acc:m3	disamb
+1994	space
+	1994	adj:sg:acc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wysokości	space
+	wysokość	subst:sg:loc:f	disamb
+
+25	none
+	25	num:pl:nom:m3:rec	disamb
+bilionów	space
+	bilion	subst:pl:gen:m3	disamb
+złotych	space
+	złoty	subst:pl:gen:m2	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Środki	newline
+	środek	subst:pl:nom:m3	disamb
+uzyskane	space
+	uzyskać	ppas:pl:nom:m3:perf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+dotychczas	space
+	dotychczas	adv	disamb
+prowadzonej	space
+	prowadzić	ppas:sg:gen:f:imperf:aff	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+porozumieniu	space
+	porozumienie	subst:sg:loc:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+Ministrem	space
+	minister	subst:sg:inst:m1	disamb
+
+Finansów	none
+	finanse	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+ubezpieczania	space
+	ubezpieczać	ger:sg:gen:n:imperf:aff	disamb
+kontraktów	space
+	kontrakt	subst:pl:gen:m3	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:m3:pos	disamb
+
+od	none
+	od	prep:gen:nwok	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+niehandlowego	space
+	niehandlowy	adj:sg:gen:n:pos	disamb
+Korporacja	space
+	korporacja	subst:sg:nom:f	disamb
+przekaże	space
+	przekazać	fin:sg:ter:perf	disamb
+na	space
+	na	prep:acc	disamb
+rachunek	space
+	rachunek	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+
+mowa	none
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+19	space
+	19	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	none
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przekazać	space
+	przekazać	inf:perf	disamb
+Korporacji	space
+	korporacja	subst:sg:dat:f	disamb
+środki	space
+	środek	subst:pl:acc:m3	disamb
+będące	space
+	być	pact:pl:acc:m3:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jego	space
+	on	ppron3:sg:gen:m3:ter:akc:npraep	disamb
+dyspozycji	space
+	dyspozycja	subst:sg:loc:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+umów	space
+	umowa	subst:pl:gen:f	disamb
+dwustronnych	space
+	dwustronny	adj:pl:gen:f:pos	disamb
+zawartych	space
+	zawrzeć	ppas:pl:gen:f:perf:aff	disamb
+z	space
+	z	prep:inst:nwok	disamb
+państwami	space
+	państwo	subst:pl:inst:n	disamb
+-	space
+	-	interp	disamb
+uczestnikami	space
+	uczestnik	subst:pl:inst:m1	disamb
+Polskiego	space
+	polski	adj:sg:gen:n:pos	disamb
+
+Funduszu	none
+	fundusz	subst:sg:gen:m3	disamb
+Stabilizacyjnego	space
+	stabilizacyjny	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+20	space
+	20	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	none
+	minister	subst:sg:nom:m1	disamb
+Finansów	space
+	finanse	subst:pl:gen:n	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przekazać	space
+	przekazać	inf:perf	disamb
+Korporacji	space
+	korporacja	subst:sg:dat:f	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+wydzielony	space
+	wydzielić	ppas:sg:acc:m3:perf:aff	disamb
+rachunek	space
+	rachunek	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+środki	space
+	środek	subst:pl:acc:m3	disamb
+
+uzyskane	none
+	uzyskać	ppas:pl:nom:f:perf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+Unii	space
+	unia	subst:sg:gen:f	disamb
+Europejskiej	space
+	europejski	adj:sg:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+innych	space
+	inny	adj:pl:gen:n:pos	disamb
+źródeł	space
+	źródło	subst:pl:gen:n	disamb
+na	space
+	na	prep:acc	disamb
+wspieranie	space
+	wspierać	ger:sg:acc:n:imperf:aff	disamb
+eksportu	space
+	eksport	subst:sg:gen:m3	disamb
+do	space
+	do	prep:gen	disamb
+
+krajów	none
+	kraj	subst:pl:gen:m3	disamb
+rozwijających	space
+	rozwijać	pact:pl:gen:m3:imperf:aff	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:inst:nwok	disamb
+przeznaczeniem	space
+	przeznaczenie	subst:sg:inst:n	disamb
+na	space
+	na	prep:acc	disamb
+finansowanie	space
+	finansować	ger:sg:acc:n:imperf:aff	disamb
+przedsięwzięć	space
+	przedsięwzięcie	subst:pl:gen:n	disamb
+eksportowych	space
+	eksportowy	adj:pl:gen:n:pos	disamb
+
+według	none
+	według	prep:gen	disamb
+zasad	space
+	zasada	subst:pl:gen:f	disamb
+ustalonych	space
+	ustalić	ppas:pl:gen:f:perf:aff	disamb
+między	space
+	między	prep:inst	disamb
+rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+a	none
+	a	conj	disamb
+darczyńcą	space
+	darczyńca	subst:sg:inst:m1	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+21	space
+	21	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

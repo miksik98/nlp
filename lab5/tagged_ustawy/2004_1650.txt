@@ -1,0 +1,262 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+158	space
+	158	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1650	space
+	1650	num:pl:nom:m3:rec	disamb
+
+U	none
+	u	prep:gen	disamb
+S	space
+	Solidarność	brev:npun	disamb
+T	space
+	tesla	brev:npun	disamb
+A	space
+	a	conj	disamb
+W	space
+	w	prep:loc:nwok	disamb
+A	space
+	A	subst:sg:loc:n	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+28	space
+	28	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+Protokołu	space
+	protokół	subst:sg:gen:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+27	space
+	27	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+zmieniającego	space
+	zmieniać	pact:sg:gen:m1:imperf:aff	disamb
+Konwencję	space
+	konwencja	subst:sg:acc:f	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+ustanowienia	space
+	ustanowić	ger:sg:gen:n:perf:aff	disamb
+Europejskiego	space
+	europejski	adj:sg:gen:m3:pos	disamb
+Urzędu	space
+	urząd	subst:sg:gen:m3	disamb
+Policji	space
+	policja	subst:sg:gen:f	disamb
+(	space
+	(	interp	disamb
+Konwencję	none
+	konwencja	subst:sg:acc:f	disamb
+o	space
+	o	prep:loc	disamb
+Europolu	space
+	Europolu	subst:sg:loc:m1	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+
+sporządzonego	none
+	sporządzić	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+oparciu	space
+	oparcie	subst:sg:loc:n	disamb
+o	space
+	o	prep:acc	disamb
+artykuł	space
+	artykuł	subst:sg:acc:m3	disamb
+43	space
+	43	adj:sg:acc:m3:pos	disamb
+ustęp	space
+	ustęp	subst:sg:acc:m3	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+tej	space
+	ten	adj:sg:gen:f:pos	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+ratyfikacji	none
+	ratyfikacja	subst:sg:gen:f	disamb
+Protokołu	space
+	protokół	subst:sg:gen:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+27	space
+	27	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+zmieniającego	space
+	zmieniać	pact:sg:gen:m1:imperf:aff	disamb
+Konwencję	space
+	konwencja	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+sprawie	none
+	sprawa	subst:sg:dat:f	disamb
+ustanowienia	space
+	ustanowić	ger:sg:gen:n:perf:aff	disamb
+Europejskiego	space
+	europejski	adj:sg:gen:m3:pos	disamb
+Urzędu	space
+	urząd	subst:sg:gen:m3	disamb
+Policji	space
+	policja	subst:sg:gen:f	disamb
+(	space
+	(	interp	disamb
+Konwencję	none
+	konwencja	subst:sg:acc:f	disamb
+o	space
+	o	prep:loc	disamb
+Europolu	space
+	Europolu	subst:sg:loc:m1	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+
+sporządzonego	none
+	sporządzić	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+oparciu	space
+	oparcie	subst:sg:loc:n	disamb
+o	space
+	o	prep:acc	disamb
+artykuł	space
+	artykuł	subst:sg:acc:m3	disamb
+43	space
+	43	adj:sg:acc:m3:pos	disamb
+ustęp	space
+	ustęp	subst:sg:acc:m3	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+tej	space
+	ten	adj:sg:gen:f:pos	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

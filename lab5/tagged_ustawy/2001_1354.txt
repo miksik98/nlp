@@ -1,0 +1,9259 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+123	space
+	123	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1354	space
+	1354	num:pl:nom:f:congr	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+24	space
+	24	adj:sg:gen:m3:pos	disamb
+sierpnia	space
+	sierpień	subst:sg:gen:m3	disamb
+2001	space
+	2001	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+ogólne	space
+	ogólny	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	newline
+	przepis	subst:pl:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+zastosowanie	space
+	zastosowanie	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+
+stosunku	none
+	stosunek	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+innych	space
+	inny	adj:pl:gen:m1:pos	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+wykonujących	space
+	wykonywać	pact:pl:gen:m1:imperf:aff	disamb
+transport	space
+	transport	subst:sg:acc:m3	disamb
+drogowy	space
+	drogowy	adj:sg:acc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+normy	space
+	norma	subst:pl:nom:f	disamb
+dotyczące	space
+	dotyczyć	pact:pl:nom:f:imperf:aff	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdów	space
+	pojazd	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+obowiązkowych	space
+	obowiązkowy	adj:pl:gen:f:pos	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+prowadzeniu	none
+	prowadzić	ger:sg:loc:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+gwarantowanych	space
+	gwarantowany	adj:pl:gen:m3:pos	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+normy	space
+	norma	subst:pl:acc:f	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+obowiązki	space
+	obowiązek	subst:pl:acc:m3	disamb
+pracodawców	space
+	pracodawca	subst:pl:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+przewozów	space
+	przewóz	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+nieuregulowanym	space
+	uregulować	ppas:sg:loc:m3:perf:neg	disamb
+ustawą	space
+	ustawa	subst:sg:inst:f	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+Kodeksu	space
+	kodeks	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Użyte	none
+	użyć	ppas:pl:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+określenia	space
+	określenie	subst:pl:nom:n	disamb
+oznaczają	space
+	oznaczać	fin:pl:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+-	space
+	-	interp	disamb
+osobę	space
+	osoba	subst:sg:acc:f	disamb
+uprawnioną	space
+	uprawnić	ppas:sg:acc:f:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+kierowania	space
+	kierować	ger:sg:gen:n:imperf:aff	disamb
+pojazdem	space
+	pojazd	subst:sg:inst:m3	disamb
+silnikowym	space
+	silnikowy	adj:sg:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przewóz	space
+	przewóz	subst:sg:nom:m3	disamb
+drogowy	space
+	drogowy	adj:sg:nom:m3:pos	disamb
+-	space
+	-	interp	disamb
+każde	space
+	każdy	adj:sg:nom:n:pos	disamb
+przemieszczenie	space
+	przemieszczenie	subst:sg:nom:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+po	space
+	po	prep:loc	disamb
+drogach	space
+	droga	subst:pl:loc:f	disamb
+publicznych	space
+	publiczny	adj:pl:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+załadowanego	none
+	załadować	ppas:sg:gen:m3:perf:aff	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stanie	space
+	stan	subst:sg:loc:m3	disamb
+pustym	space
+	pusty	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+przeznaczonego	space
+	przeznaczyć	ppas:sg:gen:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+lub	space
+	lub	conj	disamb
+
+rzeczy	none
+	rzecz	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+transport	space
+	transport	subst:sg:nom:m3	disamb
+drogowy	space
+	drogowy	adj:sg:nom:m3:pos	disamb
+-	space
+	-	interp	disamb
+działalność	space
+	działalność	subst:sg:acc:f	disamb
+gospodarczą	space
+	gospodarczy	adj:sg:acc:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+lub	space
+	lub	conj	disamb
+
+rzeczy	none
+	rzecz	subst:pl:nom:f	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+samochodowymi	space
+	samochodowy	adj:pl:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przewóz	space
+	przewóz	subst:sg:nom:m3	disamb
+regularny	space
+	regularny	adj:sg:nom:m3:pos	disamb
+-	space
+	-	interp	disamb
+publiczny	space
+	publiczny	adj:sg:nom:m3:pos	disamb
+przewóz	space
+	przewóz	subst:sg:nom:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+i	space
+	i	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+bagażu	space
+	bagaż	subst:sg:loc:m3	disamb
+wykonywany	space
+	wykonywać	ppas:sg:nom:m3:imperf:aff	disamb
+według	space
+	według	prep:gen	disamb
+
+uprzednio	none
+	uprzednio	adv:pos	disamb
+uzgodnionego	space
+	uzgodnić	ppas:sg:gen:m3:perf:aff	disamb
+rozkładu	space
+	rozkład	subst:sg:gen:m3	disamb
+jazdy	space
+	jazda	subst:sg:gen:f	disamb
+podanego	space
+	podać	ppas:sg:gen:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+publicznej	space
+	publiczny	adj:sg:gen:f:pos	disamb
+wiadomości	space
+	wiadomość	subst:sg:gen:f	disamb
+
+oraz	none
+	oraz	conj	disamb
+zgodnie	space
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+warunkami	space
+	warunek	subst:pl:inst:m3	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+określonymi	space
+	określić	ppas:pl:inst:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zezwoleniu	space
+	zezwolenie	subst:sg:loc:n	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+tydzień	space
+	tydzień	subst:sg:nom:m3	disamb
+-	space
+	-	interp	disamb
+okres	space
+	okres	subst:sg:nom:m3	disamb
+pomiędzy	space
+	pomiędzy	prep:inst	disamb
+godziną	space
+	godzina	subst:sg:inst:f	disamb
+00	space
+	00	adj:sg:nom:f:pos	disamb
+.	none
+	.	interp	disamb
+00	none
+	00	num:pl:nom:f:rec	disamb
+w	space
+	w	prep:acc:nwok	disamb
+poniedziałek	space
+	poniedziałek	subst:sg:acc:m3	disamb
+i	space
+	i	conj	disamb
+godziną	space
+	godzina	subst:sg:inst:f	disamb
+24	space
+	24	adj:sg:inst:f:pos	disamb
+.	none
+	.	interp	disamb
+00	none
+	00	num:pl:nom:f:rec	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+niedzielę	none
+	niedziela	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+-	space
+	-	interp	disamb
+każdy	space
+	każdy	adj:sg:nom:m3:pos	disamb
+nieprzerwany	space
+	nieprzerwany	adj:sg:nom:m3:pos	disamb
+okres	space
+	okres	subst:sg:nom:m3	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+jednej	space
+	jeden	adj:sg:gen:f:pos	disamb
+godziny	space
+	godzina	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+którym	none
+	który	adj:sg:inst:m1:pos	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+swobodnie	space
+	swobodnie	adv:pos	disamb
+dysponować	space
+	dysponować	inf:imperf	disamb
+swoim	space
+	swój	adj:sg:inst:m3:pos	disamb
+czasem	space
+	czas	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+
+7	none
+	7	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+-	space
+	-	interp	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+kierowania	space
+	kierować	ger:sg:gen:n:imperf:aff	disamb
+pojazdem	space
+	pojazd	subst:sg:inst:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+momentu	space
+	moment	subst:sg:gen:m3	disamb
+uruchomienia	space
+	uruchomić	ger:sg:gen:n:perf:aff	disamb
+
+silnika	none
+	silnik	subst:sg:gen:m3	disamb
+do	space
+	do	prep:gen	disamb
+momentu	space
+	moment	subst:sg:gen:m3	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+zatrzymania	space
+	zatrzymać	ger:sg:gen:n:perf:aff	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+uwzględnieniem	space
+	uwzględnić	ger:sg:inst:n:perf:aff	disamb
+chwilowych	space
+	chwilowy	adj:pl:gen:m3:pos	disamb
+postojów	space
+	postój	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+zatrzymania	space
+	zatrzymać	ger:sg:gen:n:perf:aff	disamb
+się	space
+	się	qub	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+na	space
+	na	prep:loc	disamb
+światłach	space
+	światło	subst:pl:loc:n	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+przejeździe	space
+	przejazd	subst:sg:loc:m3	disamb
+
+kolejowym	none
+	kolejowy	adj:sg:inst:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Dla	newline
+	dla	prep:gen	disamb
+celów	space
+	cel	subst:pl:gen:m3	disamb
+rozliczania	space
+	rozliczać	ger:sg:gen:n:imperf:aff	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+ustalania	space
+	ustalać	ger:sg:gen:n:imperf:aff	disamb
+uprawnienia	space
+	uprawnienie	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+wynagradzania	space
+	wynagradzać	ger:sg:gen:n:imperf:aff	disamb
+
+za	none
+	za	prep:acc	disamb
+pracę	space
+	praca	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+nadliczbowych	space
+	nadliczbowy	adj:pl:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+należy	space
+	należeć	fin:sg:ter:imperf	disamb
+rozumieć	space
+	rozumieć	inf:imperf	disamb
+24	space
+	24	num:pl:acc:f:congr	disamb
+kolejne	space
+	kolejny	adj:pl:acc:f:pos	disamb
+
+godziny	none
+	godzina	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+poczynając	space
+	poczynać	pcon:imperf	disamb
+od	space
+	od	prep:gen:nwok	disamb
+godziny	space
+	godzina	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+rozpoczyna	space
+	rozpoczynać	fin:sg:ter:imperf	disamb
+pracę	space
+	praca	subst:sg:acc:f	disamb
+zgodnie	space
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+
+obowiązującym	none
+	obowiązywać	pact:sg:inst:m3:imperf:aff	disamb
+go	space
+	on	ppron3:sg:acc:m3:ter:nakc:npraep	disamb
+rozkładem	space
+	rozkład	subst:sg:inst:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	newline
+	przepis	subst:pl:acc:m3	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+do	space
+	do	prep:gen	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+
+odpoczynku	none
+	odpoczynek	subst:sg:gen:m3	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m1:pos	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+
+Normy	none
+	norma	subst:pl:nom:f	disamb
+dotyczące	space
+	dotyczyć	pact:pl:nom:f:imperf:aff	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdów	space
+	pojazd	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+obowiązkowych	space
+	obowiązkowy	adj:pl:gen:f:pos	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+prowadzeniu	space
+	prowadzić	ger:sg:loc:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+gwarantowanych	space
+	gwarantowany	adj:pl:gen:m3:pos	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+niniejszego	space
+	niniejszy	adj:sg:gen:m3:pos	disamb
+rozdziału	space
+	rozdział	subst:sg:gen:m3	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+zastosowanie	space
+	zastosowanie	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+ramach	none
+	ramy	subst:pl:loc:n	disamb
+stosunku	space
+	stosunek	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+innych	space
+	inny	adj:pl:gen:m1:pos	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+wykonujących	space
+	wykonywać	pact:pl:gen:m1:imperf:aff	disamb
+transport	space
+	transport	subst:sg:acc:m3	disamb
+drogowy	space
+	drogowy	adj:sg:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+zastrzeżeniem	none
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+niniejszego	space
+	niniejszy	adj:sg:gen:m3:pos	disamb
+rozdziału	space
+	rozdział	subst:sg:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+zastosowania	space
+	zastosowanie	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+przewozów	space
+	przewóz	subst:pl:gen:m3	disamb
+wykonywanych	space
+	wykonywać	ppas:pl:gen:m3:imperf:aff	disamb
+
+pojazdami	none
+	pojazd	subst:pl:inst:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+przeznaczonymi	none
+	przeznaczyć	ppas:pl:inst:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+rzeczy	space
+	rzecz	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+których	space
+	który	adj:pl:gen:f:pos	disamb
+dopuszczalna	space
+	dopuszczalny	adj:sg:nom:f:pos	disamb
+masa	space
+	masa	subst:sg:nom:f	disamb
+całkowita	space
+	całkowity	adj:sg:nom:f:pos	disamb
+
+włączając	none
+	włączać	pcon:imperf	disamb
+przyczepy	space
+	przyczepa	subst:pl:acc:f	disamb
+lub	space
+	lub	conj	disamb
+naczepy	space
+	naczepa	subst:pl:acc:f	disamb
+nie	space
+	nie	qub	disamb
+przekracza	space
+	przekraczać	fin:sg:ter:imperf	disamb
+3	space
+	3	num:pl:gen:m3:congr	disamb
+,	none
+	,	interp	disamb
+5	none
+	5	num:pl:gen:m3:congr	disamb
+tony	space
+	tona	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:nom:m3:congr	disamb
+)	none
+	)	interp	disamb
+przeznaczonymi	space
+	przeznaczyć	ppas:pl:inst:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+i	space
+	i	conj	disamb
+które	space
+	który	adj:pl:nom:f:pos	disamb
+ze	space
+	z	prep:gen:wok	disamb
+względu	space
+	wzgląd	subst:sg:gen:m3	disamb
+na	space
+	na	prep:acc	disamb
+typ	space
+	typ	subst:sg:acc:m3	disamb
+konstrukcyjny	space
+	konstrukcyjny	adj:sg:acc:m3:pos	disamb
+
+oraz	none
+	oraz	conj	disamb
+wyposażenie	space
+	wyposażenie	subst:sg:acc:n	disamb
+nadają	space
+	nadawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+najwyżej	space
+	najwyżej	qub	disamb
+dziewięciu	space
+	dziewięć	num:pl:gen:f:congr	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+kierowcą	none
+	kierowca	subst:sg:inst:m1	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przeznaczonymi	space
+	przeznaczyć	ppas:pl:inst:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przewozach	space
+	przewóz	subst:pl:loc:m3	disamb
+regularnych	space
+	regularny	adj:pl:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+droga	space
+	droga	subst:sg:nom:f	disamb
+
+przejazdu	none
+	przejazd	subst:sg:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+przekracza	space
+	przekraczać	fin:sg:ter:imperf	disamb
+50	space
+	50	num:pl:gen:m3:congr	disamb
+kilometrów	space
+	kilometr	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+których	space
+	który	adj:pl:gen:m3:pos	disamb
+maksymalna	space
+	maksymalny	adj:sg:nom:f:pos	disamb
+prędkość	space
+	prędkość	subst:sg:nom:f	disamb
+dopuszczalna	space
+	dopuszczalny	adj:sg:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+przekracza	space
+	przekraczać	fin:sg:ter:imperf	disamb
+30	space
+	30	num:pl:gen:m3:congr	disamb
+kilometrów	space
+	kilometr	subst:pl:gen:m3	disamb
+na	space
+	na	prep:acc	disamb
+
+godzinę	none
+	godzina	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+przeznaczonymi	space
+	przeznaczyć	ppas:pl:inst:m3:perf:aff	disamb
+dla	space
+	dla	prep:gen	disamb
+sił	space
+	siła	subst:pl:gen:f	disamb
+zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+służb	space
+	służba	subst:pl:gen:f	disamb
+obrony	space
+	obrona	subst:sg:gen:f	disamb
+cywilnej	space
+	cywilny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+pożarniczych	space
+	pożarniczy	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+
+sił	none
+	siła	subst:pl:gen:f	disamb
+odpowiedzialnych	space
+	odpowiedzialny	adj:pl:gen:f:pos	disamb
+za	space
+	za	prep:acc	disamb
+utrzymanie	space
+	utrzymać	ger:sg:acc:n:perf:aff	disamb
+porządku	space
+	porządek	subst:sg:gen:m3	disamb
+publicznego	space
+	publiczny	adj:sg:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+podlegającymi	space
+	podlegać	pact:pl:inst:m3:imperf:aff	disamb
+
+ich	none
+	on	ppron3:pl:gen:m1:ter:akc:npraep	disamb
+kontroli	space
+	kontrola	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wykorzystywanymi	space
+	wykorzystywać	ppas:pl:inst:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+robót	space
+	robota	subst:pl:gen:f	disamb
+kanalizacyjnych	space
+	kanalizacyjny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+
+przeciwpowodziowej	none
+	przeciwpowodziowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+wodociągowych	space
+	wodociągowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+gazowniczych	space
+	gazowniczy	adj:pl:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+energetycznych	space
+	energetyczny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+zarządów	space
+	zarząd	subst:pl:gen:m3	disamb
+
+dróg	none
+	droga	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+usług	space
+	usługa	subst:pl:gen:f	disamb
+oczyszczania	space
+	oczyszczać	ger:sg:gen:n:imperf:aff	disamb
+,	none
+	,	interp	disamb
+telegraficznych	space
+	telegraficzny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+artykułów	space
+	artykuł	subst:pl:gen:m3	disamb
+pocztowych	space
+	pocztowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+transmisji	none
+	transmisja	subst:sg:gen:f	disamb
+radiowej	space
+	radiowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+usług	space
+	usługa	subst:pl:gen:f	disamb
+telewizyjnych	space
+	telewizyjny	adj:pl:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+związanych	space
+	związany	adj:pl:gen:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wykrywaniem	space
+	wykrywać	ger:sg:inst:n:imperf:aff	disamb
+
+nadajników	none
+	nadajnik	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+odbiorników	space
+	odbiornik	subst:pl:gen:m3	disamb
+radiowych	space
+	radiowy	adj:pl:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+telewizyjnych	space
+	telewizyjny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+używanymi	space
+	używać	ppas:pl:inst:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stanach	space
+	stan	subst:pl:loc:m3	disamb
+nadzwyczajnych	space
+	nadzwyczajny	adj:pl:loc:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+przeznaczonymi	space
+	przeznaczyć	ppas:pl:inst:n:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+zadań	space
+	zadanie	subst:pl:gen:n	disamb
+
+ratownictwa	none
+	ratownictwo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+
+8	none
+	8	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+przeznaczonymi	space
+	przeznaczyć	ppas:pl:inst:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+zadań	space
+	zadanie	subst:pl:gen:n	disamb
+medycznych	space
+	medyczny	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+9	none
+	9	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przewożącymi	space
+	przewozić	pact:pl:inst:m3:imperf:aff	disamb
+wyposażenie	space
+	wyposażyć	ger:sg:acc:n:perf:aff	disamb
+cyrków	space
+	cyrk	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+wesołych	space
+	wesoły	adj:pl:gen:n:pos	disamb
+miasteczek	space
+	miasteczko	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+
+10	none
+	10	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pomocy	space
+	pomoc	subst:sg:gen:f	disamb
+technicznej	space
+	techniczny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+11	none
+	11	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+poddawanymi	space
+	poddawać	ppas:pl:inst:m3:imperf:aff	disamb
+próbom	space
+	próba	subst:pl:dat:f	disamb
+drogowym	space
+	drogowy	adj:pl:dat:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+celach	space
+	cel	subst:pl:loc:m3	disamb
+ulepszeń	space
+	ulepszenie	subst:pl:gen:n	disamb
+technicznych	space
+	techniczny	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+naprawczych	space
+	naprawczy	adj:pl:gen:n:pos	disamb
+
+lub	none
+	lub	conj	disamb
+utrzymania	space
+	utrzymanie	subst:pl:acc:n	disamb
+oraz	space
+	oraz	conj	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+nowymi	space
+	nowy	adj:pl:inst:m3:pos	disamb
+bądź	space
+	bądź	conj	disamb
+przebudowanymi	space
+	przebudować	ppas:pl:inst:m3:perf:aff	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:m3:pos	disamb
+jeszcze	space
+	jeszcze	qub	disamb
+
+nie	none
+	nie	qub	disamb
+zostały	space
+	zostać	praet:pl:m3:perf	disamb
+dopuszczone	space
+	dopuścić	ppas:pl:nom:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+12	none
+	12	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+niehandlowych	space
+	niehandlowy	adj:pl:gen:m3:pos	disamb
+przewozów	space
+	przewóz	subst:pl:gen:m3	disamb
+rzeczy	space
+	rzecz	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+potrzeby	space
+	potrzeba	subst:pl:acc:f	disamb
+własne	space
+	własny	adj:pl:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+13	none
+	13	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+mleka	space
+	mleko	subst:sg:gen:n	disamb
+odbieranego	space
+	odbierać	ppas:sg:gen:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+gospodarstwach	space
+	gospodarstwo	subst:pl:loc:n	disamb
+rolnych	space
+	rolny	adj:pl:loc:n:pos	disamb
+lub	space
+	lub	conj	disamb
+
+odwożenia	none
+	odwozić	ger:sg:gen:n:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+tych	space
+	ten	adj:pl:gen:n:pos	disamb
+gospodarstw	space
+	gospodarstwo	subst:pl:gen:n	disamb
+pojemników	space
+	pojemnik	subst:pl:gen:m3	disamb
+na	space
+	na	prep:acc	disamb
+mleko	space
+	mleko	subst:sg:acc:n	disamb
+,	none
+	,	interp	disamb
+bądź	space
+	bądź	conj	disamb
+produkty	space
+	produkt	subst:pl:acc:m3	disamb
+mleczne	space
+	mleczny	adj:pl:acc:m3:pos	disamb
+
+przeznaczone	none
+	przeznaczyć	ppas:pl:nom:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+karmienia	space
+	karmić	ger:sg:gen:n:imperf:aff	disamb
+bydła	space
+	bydło	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Maksymalny	newline
+	maksymalny	adj:sg:acc:m3:pos	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+wynosi	space
+	wynosić	fin:sg:ter:imperf	disamb
+9	space
+	9	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+możliwością	space
+	możliwość	subst:sg:inst:f	disamb
+
+przedłużenia	none
+	przedłużenie	subst:pl:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+10	space
+	10	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	dużo	adv:com	disamb
+niż	space
+	niż	conj	disamb
+dwukrotnie	space
+	dwukrotnie	adv:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+każdym	space
+	każdy	adj:sg:loc:m3:pos	disamb
+tygodniu	space
+	tydzień	subst:sg:loc:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Całkowity	newline
+	całkowity	adj:sg:acc:m3:pos	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+każdym	space
+	każdy	adj:sg:loc:m3:pos	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+dwutygodniowym	space
+	dwutygodniowy	adj:sg:loc:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+
+przekroczyć	none
+	przekroczyć	inf:perf	disamb
+90	space
+	90	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+każdej	space
+	każdy	adj:sg:loc:f:pos	disamb
+dobie	space
+	doba	subst:sg:loc:f	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+wykorzystuje	space
+	wykorzystywać	fin:sg:ter:imperf	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+11	space
+	11	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+nieprzerwanego	space
+	nieprzerwany	adj:sg:gen:m3:pos	disamb
+
+odpoczynku	none
+	odpoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Odpoczynek	newline
+	odpoczynek	subst:sg:nom:m3	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+skrócony	space
+	skrócić	ppas:sg:nom:m3:perf:aff	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	więcej	num:pl:nom:f:rec	disamb
+niż	space
+	niż	conj	disamb
+do	space
+	do	prep:gen	disamb
+9	space
+	9	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+i	space
+	i	conj	disamb
+nie	space
+	nie	qub	disamb
+
+częściej	none
+	często	adv:com	disamb
+niż	space
+	niż	conj	disamb
+trzykrotnie	space
+	trzykrotnie	adv:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ciągu	space
+	ciąg	subst:sg:loc:m3	disamb
+jednego	space
+	jeden	adj:sg:gen:m3:pos	disamb
+tygodnia	space
+	tydzień	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Równoważny	newline
+	równoważny	adj:sg:nom:m3:pos	disamb
+okres	space
+	okres	subst:sg:nom:m3	disamb
+
+odpoczynku	none
+	odpoczynek	subst:sg:gen:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+obowiązek	space
+	obowiązek	subst:sg:acc:m3	disamb
+wykorzystać	space
+	wykorzystać	inf:perf	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+upływem	space
+	upływ	subst:sg:inst:m3	disamb
+następnego	space
+	następny	subst:sg:gen:m1	disamb
+
+tygodnia	none
+	tydzień	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Odpoczynek	newline
+	odpoczynek	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+podzielony	space
+	podzielić	ppas:sg:nom:m3:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+dwie	space
+	dwa	num:pl:acc:f:congr	disamb
+lub	space
+	lub	conj	disamb
+trzy	space
+	trzy	num:pl:acc:f:congr	disamb
+
+części	none
+	część	subst:pl:nom:f	disamb
+.	none
+	.	interp	disamb
+
+Jedna	newline
+	jeden	adj:sg:nom:f:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+części	space
+	część	subst:pl:gen:f	disamb
+powinna	space
+	powinien	winien:sg:f:imperf	disamb
+wynosić	space
+	wynosić	inf:imperf	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+8	space
+	8	num:pl:acc:f:rec	disamb
+kolejnych	space
+	kolejny	adj:pl:gen:f:pos	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+
+dobowy	none
+	dobowy	adj:sg:nom:m3:pos	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+12	space
+	12	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+dwóch	space
+	dwa	num:pl:acc:m1:rec	disamb
+lub	space
+	lub	conj	disamb
+więcej	space
+	więcej	num:pl:acc:m1:rec	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+każdy	space
+	każdy	adj:sg:nom:m1:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+nich	none
+	on	ppron3:pl:gen:f:ter:akc:praep	disamb
+wykorzystuje	space
+	wykorzystywać	fin:sg:ter:imperf	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+8	space
+	8	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+nieprzerwanego	space
+	nieprzerwany	adj:sg:gen:m3:pos	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+każdym	space
+	każdy	adj:sg:loc:n:pos	disamb
+30godzinnym	space
+	30godzinnym	subst:sg:loc:n	disamb
+
+okresie	none
+	okres	subst:sg:loc:m3	disamb
+.	none
+	.	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Dobowy	newline
+	dobowy	adj:sg:nom:m3:pos	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+wykorzystany	space
+	wykorzystać	ppas:sg:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pojeździe	space
+	pojazd	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+pojazd	space
+	pojazd	subst:sg:nom:m3	disamb
+znajduje	space
+	znajdować	fin:sg:ter:imperf	disamb
+
+się	none
+	się	qub	disamb
+na	space
+	na	prep:loc	disamb
+postoju	space
+	postój	subst:sg:loc:m3	disamb
+i	space
+	i	conj	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+wyposażony	space
+	wyposażyć	ppas:sg:nom:m1:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+miejsce	space
+	miejsce	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+spania	space
+	spać	ger:sg:gen:n:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+każdym	space
+	każdy	adj:sg:loc:m3:pos	disamb
+tygodniu	space
+	tydzień	subst:sg:loc:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+wykorzystuje	space
+	wykorzystywać	fin:sg:ter:imperf	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:acc:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wymiarze	space
+	wymiar	subst:sg:loc:m3	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+45	space
+	45	num:pl:acc:m3:rec	disamb
+
+kolejnych	none
+	kolejny	adj:pl:gen:f:pos	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Odpoczynek	newline
+	odpoczynek	subst:sg:nom:m3	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+skrócony	space
+	skrócić	ppas:sg:nom:m3:perf:aff	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	dużo	adv:com	disamb
+niż	space
+	niż	conj	disamb
+do	space
+	do	prep:gen	disamb
+36	space
+	36	num:pl:gen:m3:congr	disamb
+kolejnych	space
+	kolejny	adj:pl:gen:n:pos	disamb
+
+godzin	none
+	godzina	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+zostanie	space
+	zostać	fin:sg:ter:perf	disamb
+udzielony	space
+	udzielić	ppas:sg:nom:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+miejscowości	space
+	miejscowość	subst:sg:loc:f	disamb
+gdzie	space
+	gdzie	adv	disamb
+znajduje	space
+	znajdować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+siedziba	space
+	siedziba	subst:sg:nom:f	disamb
+
+pracodawcy	none
+	pracodawca	subst:pl:nom:m1	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+miejscu	space
+	miejsce	subst:sg:loc:n	disamb
+zamieszkania	space
+	zamieszkanie	subst:sg:gen:n	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+i	space
+	i	conj	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	dużo	adv:com	disamb
+niż	space
+	niż	conj	disamb
+do	space
+	do	prep:gen	disamb
+24	space
+	24	num:pl:gen:m3:congr	disamb
+
+kolejnych	none
+	kolejny	adj:pl:gen:f:pos	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+zostanie	space
+	zostać	fin:sg:ter:perf	disamb
+udzielony	space
+	udzielić	ppas:sg:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+innym	space
+	inny	adj:sg:loc:n:pos	disamb
+miejscu	space
+	miejsce	subst:sg:loc:n	disamb
+.	none
+	.	interp	disamb
+
+Tygodniowy	newline
+	tygodniowy	adj:sg:nom:m3:pos	disamb
+
+nieprzerwany	none
+	nieprzerwany	adj:sg:nom:m3:pos	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+obejmuje	space
+	obejmować	fin:sg:ter:imperf	disamb
+dobowy	space
+	dobowy	adj:sg:acc:m3:pos	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:acc:m3	disamb
+przypadający	space
+	przypadać	pact:sg:acc:m3:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+którym	none
+	który	adj:sg:inst:m1:pos	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+rozpoczął	space
+	rozpocząć	praet:sg:m1:perf	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:acc:m3	disamb
+tygodniowy	space
+	tygodniowy	adj:sg:acc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Okres	newline
+	okres	subst:sg:nom:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+niewykorzystany	space
+	wykorzystać	ppas:sg:acc:m3:perf:neg	disamb
+wskutek	space
+	wskutek	prep:gen	disamb
+skrócenia	space
+	skrócenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+kierowca	none
+	kierowca	subst:sg:nom:m1	disamb
+powinien	space
+	powinien	winien:sg:m1:imperf	disamb
+wykorzystać	space
+	wykorzystać	inf:perf	disamb
+nie	space
+	nie	qub	disamb
+później	space
+	późno	adv:com	disamb
+niż	space
+	niż	conj	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+upływem	space
+	upływ	subst:sg:inst:m3	disamb
+trzeciego	space
+	trzeci	subst:sg:gen:m2	disamb
+
+tygodnia	none
+	tydzień	subst:sg:gen:m3	disamb
+następującego	space
+	następować	pact:sg:gen:m3:imperf:aff	disamb
+po	space
+	po	prep:loc	disamb
+tygodniu	space
+	tydzień	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+został	space
+	zostać	praet:sg:m3:perf	disamb
+skrócony	space
+	skrócić	ppas:sg:nom:m3:perf:aff	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Tygodniowy	newline
+	tygodniowy	adj:sg:nom:m3:pos	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+powinien	space
+	powinien	winien:sg:m1:imperf	disamb
+wykorzystać	space
+	wykorzystać	inf:perf	disamb
+nie	space
+	nie	qub	disamb
+później	space
+	późno	adv:com	disamb
+niż	space
+	niż	conj	disamb
+po	space
+	po	prep:acc	disamb
+
+sześciu	none
+	sześć	num:pl:loc:m3:congr	disamb
+dobowych	space
+	dobowy	adj:pl:loc:m3:pos	disamb
+okresach	space
+	okres	subst:pl:loc:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przełożenie	newline
+	przełożyć	ger:sg:nom:n:perf:aff	disamb
+tygodniowego	space
+	tygodniowy	adj:sg:gen:m3:pos	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+do	space
+	do	prep:gen	disamb
+końca	space
+	koniec	subst:sg:gen:m3	disamb
+szóstego	space
+	szósty	adj:sg:gen:m3:pos	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+okresu	space
+	okres	subst:sg:gen:m3	disamb
+
+prowadzenia	none
+	prowadzenie	subst:sg:gen:n	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+dopuszczalne	space
+	dopuszczalny	adj:sg:nom:n:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+gdy	space
+	gdy	adv	disamb
+całkowity	space
+	całkowity	adj:sg:nom:m3:pos	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+
+pojazdu	none
+	pojazd	subst:sg:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+przekracza	space
+	przekraczać	fin:sg:ter:imperf	disamb
+maksymalnej	space
+	maksymalny	adj:sg:gen:f:pos	disamb
+normy	space
+	norma	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+odpowiadającej	space
+	odpowiadać	pact:sg:gen:f:imperf:aff	disamb
+sześciu	space
+	sześć	num:pl:dat:m1:congr	disamb
+dobowym	space
+	dobowy	adj:pl:dat:m1:pos	disamb
+
+okresom	none
+	okres	subst:pl:dat:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Każdy	none
+	każdy	adj:sg:nom:m3:pos	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+wykorzystany	space
+	wykorzystać	ppas:sg:nom:m3:perf:aff	disamb
+za	space
+	za	prep:acc	disamb
+skrócenie	space
+	skrócić	ger:sg:acc:n:perf:aff	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+tygodniowego	space
+	tygodniowy	adj:sg:gen:m3:pos	disamb
+okresu	space
+	okres	subst:sg:gen:m3	disamb
+
+odpoczynku	none
+	odpoczynek	subst:sg:gen:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+odbierany	space
+	odbierać	ppas:sg:nom:m3:imperf:aff	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+innym	space
+	inny	adj:sg:inst:m3:pos	disamb
+odpoczynkiem	space
+	odpoczynek	subst:sg:inst:m3	disamb
+dobowym	space
+	dobowy	adj:sg:inst:m3:pos	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+
+ośmiogodzinnym	none
+	ośmiogodzinny	adj:sg:inst:n:pos	disamb
+i	space
+	i	conj	disamb
+na	space
+	na	prep:acc	disamb
+żądanie	space
+	żądanie	subst:sg:acc:n	disamb
+zainteresowanego	space
+	zainteresowany	adj:sg:gen:m1:pos	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+udzielany	space
+	udzielać	ppas:sg:nom:m3:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+miejscu	space
+	miejsce	subst:sg:loc:n	disamb
+
+parkowania	none
+	parkowanie	subst:pl:acc:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+miejscu	space
+	miejsce	subst:sg:loc:n	disamb
+zamieszkania	space
+	zamieszkanie	subst:sg:gen:n	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Dobowy	newline
+	dobowy	adj:sg:nom:m3:pos	disamb
+okres	space
+	okres	subst:sg:nom:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+wykonującego	space
+	wykonywać	pact:sg:gen:m1:imperf:aff	disamb
+przewozy	space
+	przewóz	subst:pl:acc:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+lub	space
+	lub	conj	disamb
+rzeczy	space
+	rzecz	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+który	none
+	który	adj:sg:nom:m3:pos	disamb
+towarzyszy	space
+	towarzyszyć	fin:sg:ter:imperf	disamb
+pojazdowi	space
+	pojazd	subst:sg:dat:m3	disamb
+transportowanemu	space
+	transportować	ppas:sg:dat:m1:imperf:aff	disamb
+promem	space
+	prom	subst:sg:inst:m3	disamb
+lub	space
+	lub	conj	disamb
+pociągiem	space
+	pociąg	subst:sg:inst:m3	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+
+przerwany	none
+	przerwać	ppas:sg:nom:m3:perf:aff	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	dużo	adv:com	disamb
+niż	space
+	niż	conj	disamb
+jeden	space
+	jeden	adj:sg:nom:m3:pos	disamb
+raz	space
+	raz	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+przy	space
+	przy	prep:loc	disamb
+równoczesnym	space
+	równoczesny	adj:sg:loc:n:pos	disamb
+spełnieniu	none
+	spełnienie	subst:sg:loc:n	disamb
+
+następujących	none
+	następować	pact:pl:gen:n:imperf:aff	disamb
+warunków	space
+	warunki	subst:pl:gen:n	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+część	space
+	część	subst:sg:acc:f	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+spędzonego	space
+	spędzić	ppas:sg:gen:m3:perf:aff	disamb
+na	space
+	na	prep:loc	disamb
+lądzie	space
+	ląd	subst:sg:loc:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+wykorzystuje	space
+	wykorzystywać	fin:sg:ter:imperf	disamb
+
+przed	none
+	przed	prep:inst:nwok	disamb
+lub	space
+	lub	conj	disamb
+po	space
+	po	prep:loc	disamb
+części	space
+	część	subst:sg:loc:f	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+wykorzystanego	space
+	wykorzystać	ppas:sg:gen:m3:perf:aff	disamb
+na	space
+	na	prep:loc	disamb
+pokładzie	space
+	pokład	subst:sg:loc:m3	disamb
+promu	space
+	prom	subst:sg:gen:m3	disamb
+
+lub	none
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pociągu	space
+	pociąg	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przerwa	space
+	przerwa	subst:sg:nom:f	disamb
+pomiędzy	space
+	pomiędzy	prep:inst	disamb
+dwiema	space
+	dwa	num:pl:inst:f:congr	disamb
+częściami	space
+	część	subst:pl:inst:f	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+powinna	space
+	powinien	winien:sg:f:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+
+możliwie	none
+	możliwie	adv:pos	disamb
+najkrótsza	space
+	krótki	adj:sg:nom:f:sup	disamb
+i	space
+	i	conj	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+żadnym	space
+	żaden	adj:sg:loc:m3:pos	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+przekraczać	none
+	przekraczać	inf:imperf	disamb
+jednej	space
+	jeden	adj:sg:gen:f:pos	disamb
+
+godziny	none
+	godzina	subst:pl:acc:f	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+wejściem	space
+	wejść	ger:sg:inst:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+pokład	space
+	pokład	subst:sg:acc:m3	disamb
+lub	space
+	lub	conj	disamb
+zejściem	space
+	zejście	subst:sg:inst:n	disamb
+z	space
+	z	prep:gen:nwok	disamb
+pokładu	space
+	pokład	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+czasem	space
+	czas	subst:sg:inst:m3	disamb
+
+przeznaczonym	none
+	przeznaczyć	ppas:sg:inst:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+formalności	space
+	formalność	subst:pl:acc:f	disamb
+celne	space
+	celny	adj:pl:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+obu	space
+	oba	num:pl:gen:f:congr	disamb
+części	space
+	część	subst:pl:gen:f	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+powinien	space
+	powinien	winien:sg:m1:imperf	disamb
+korzystać	space
+	korzystać	inf:imperf	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+łóżka	none
+	łóżko	subst:sg:gen:n	disamb
+lub	space
+	lub	conj	disamb
+miejsca	space
+	miejsce	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+spania	space
+	spać	ger:sg:gen:n:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Dobowy	newline
+	dobowy	adj:sg:nom:m3:pos	disamb
+okres	space
+	okres	subst:sg:nom:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+przerwany	space
+	przerwać	ppas:sg:nom:m3:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+sposób	space
+	sposób	subst:sg:acc:m3	disamb
+określony	space
+	określić	ppas:sg:acc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+przedłuża	space
+	przedłużać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+
+o	none
+	o	prep:acc	disamb
+dwie	space
+	dwa	num:pl:acc:f:congr	disamb
+godziny	space
+	godzina	subst:pl:acc:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Po	newline
+	po	prep:loc	disamb
+cztero	space
+	cztero	subst:sg:loc:m3	disamb
+i	space
+	i	conj	disamb
+półgodzinnym	space
+	półgodzinny	adj:sg:loc:m3:pos	disamb
+okresie	none
+	okres	subst:sg:loc:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+wykorzystuje	none
+	wykorzystywać	fin:sg:ter:imperf	disamb
+
+co	none
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+45	space
+	45	adja	disamb
+-	none
+	-	interp	disamb
+minutową	none
+	minutowy	adj:sg:acc:f:pos	disamb
+przerwę	space
+	przerwa	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+chyba	space
+	chyba	qub	disamb
+że	space
+	że	comp	disamb
+zaczyna	space
+	zaczynać	fin:sg:ter:imperf	disamb
+okres	space
+	okres	subst:sg:acc:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przerwa	newline
+	przerwa	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+zastąpiona	space
+	zastąpić	ppas:sg:nom:f:perf:aff	disamb
+przerwami	space
+	przerwa	subst:pl:inst:f	disamb
+trwającymi	space
+	trwać	pact:pl:inst:f:imperf:aff	disamb
+co	space
+	co	subst:sg:acc:n	disamb
+
+najmniej	none
+	mało	adv:sup	disamb
+15	space
+	15	num:pl:acc:f:rec	disamb
+minut	space
+	minuta	subst:pl:gen:f	disamb
+każda	space
+	każdy	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+wykorzystanymi	space
+	wykorzystać	ppas:pl:inst:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+trakcie	space
+	trakt	subst:sg:loc:m3	disamb
+cztero	space
+	cztero	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+półgodzinnego	space
+	półgodzinny	adj:sg:gen:m3:pos	disamb
+
+prowadzenia	none
+	prowadzenie	subst:pl:acc:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+natychmiast	space
+	natychmiast	adv	disamb
+po	space
+	po	prep:loc	disamb
+tym	space
+	ten	adj:sg:loc:m3:pos	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przewozach	space
+	przewóz	subst:pl:loc:m3	disamb
+regularnych	space
+	regularny	adj:pl:loc:m3:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+stosowana	space
+	stosowany	adj:sg:nom:f:pos	disamb
+przerwa	space
+	przerwa	subst:sg:nom:f	disamb
+trwająca	space
+	trwać	pact:sg:nom:f:imperf:aff	disamb
+nie	space
+	nie	qub	disamb
+krócej	space
+	krótko	adv:com	disamb
+niż	space
+	niż	conj	disamb
+
+30	none
+	30	num:pl:nom:f:rec	disamb
+minut	space
+	minuta	subst:pl:gen:f	disamb
+po	space
+	po	prep:loc	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+nieprzekraczającym	space
+	przekraczać	pact:sg:inst:m3:imperf:neg	disamb
+czterech	space
+	cztery	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+jeżeli	none
+	jeżeli	comp	disamb
+przerwa	space
+	przerwa	subst:sg:nom:f	disamb
+trwająca	space
+	trwać	pact:sg:nom:f:imperf:aff	disamb
+powyżej	space
+	powyżej	prep:gen	disamb
+30	space
+	30	num:pl:gen:f:congr	disamb
+minut	space
+	minuta	subst:pl:gen:f	disamb
+zakłócała	space
+	zakłócać	praet:sg:f:imperf	disamb
+by	none
+	by	qub	disamb
+miejski	space
+	miejski	adj:sg:acc:m3:pos	disamb
+ruch	space
+	ruch	subst:sg:acc:m3	disamb
+uliczny	space
+	uliczny	adj:sg:acc:m3:pos	disamb
+a	space
+	a	conj	disamb
+
+kierowca	none
+	kierowca	subst:sg:nom:m1	disamb
+nie	space
+	nie	qub	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+możliwości	space
+	możliwość	subst:sg:gen:f	disamb
+wykorzystania	space
+	wykorzystać	ger:sg:gen:n:perf:aff	disamb
+pozostałych	space
+	pozostały	adj:pl:gen:f:pos	disamb
+15	space
+	15	num:pl:gen:f:congr	disamb
+minut	space
+	minuta	subst:pl:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ciągu	space
+	ciąg	subst:sg:loc:m3	disamb
+
+czterech	none
+	czterech	num:pl:nom:f:congr	disamb
+i	space
+	i	conj	disamb
+półgodziny	space
+	półgodzina	subst:pl:nom:f	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+przerwą	space
+	przerwa	subst:sg:inst:f	disamb
+30	space
+	30	num:pl:gen:m3:congr	disamb
+-	none
+	-	interp	disamb
+minutową	none
+	minutowy	adj:sg:inst:f:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Podczas	newline
+	podczas	prep:gen	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+-	none
+	-	interp	disamb
+3	none
+	3	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+wykonywać	space
+	wykonywać	inf:imperf	disamb
+
+żadnej	none
+	żaden	adj:sg:gen:f:pos	disamb
+innej	space
+	inny	adj:sg:gen:f:pos	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+;	none
+	;	interp	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+nie	space
+	nie	qub	disamb
+wlicza	space
+	wliczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+okresu	space
+	okres	subst:sg:gen:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Czas	newline
+	czas	subst:sg:nom:m3	disamb
+oczekiwania	space
+	oczekiwanie	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+nie	space
+	nie	qub	disamb
+poświęcony	space
+	poświęcić	ppas:sg:nom:m3:perf:aff	disamb
+prowadzeniu	space
+	prowadzić	ger:sg:dat:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+spędzony	space
+	spędzić	ppas:sg:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+pojeździe	none
+	pojazd	subst:sg:loc:m3	disamb
+będącym	space
+	być	pact:sg:loc:m3:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ruchu	space
+	ruch	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+promie	space
+	prom	subst:sg:loc:m3	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pociągu	space
+	pociąg	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+stanowi	space
+	stanowić	fin:sg:ter:imperf	disamb
+"	space
+	"	interp	disamb
+innej	none
+	inny	adj:sg:gen:f:pos	disamb
+
+pracy	none
+	praca	subst:sg:gen:f	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+i	space
+	i	conj	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+traktowany	space
+	traktować	ppas:sg:nom:m1:imperf:aff	disamb
+jako	space
+	jako	prep:nom	disamb
+przerwa	space
+	przerwa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+prowadzeniu	space
+	prowadzenie	subst:sg:loc:n	disamb
+.	none
+	.	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+stosowania	space
+	stosować	ger:sg:gen:n:imperf:aff	disamb
+przerwy	space
+	przerwa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+20	space
+	20	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+przerwy	space
+	przerwa	subst:sg:gen:f	disamb
+
+wymienione	none
+	wymienić	ppas:pl:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+-	none
+	-	interp	disamb
+3	none
+	3	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+ulegają	space
+	ulegać	fin:pl:ter:imperf	disamb
+odpowiedniemu	space
+	odpowiedni	adj:sg:dat:n:pos	disamb
+skróceniu	space
+	skrócenie	subst:sg:dat:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11	space
+	11	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Przerwy	none
+	przerwa	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+uwzględnia	space
+	uwzględniać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przy	space
+	przy	prep:loc	disamb
+ustalaniu	space
+	ustalać	ger:sg:loc:n:imperf:aff	disamb
+dziennego	space
+	dzienny	adj:sg:gen:m3:pos	disamb
+
+rozkładu	none
+	rozkład	subst:sg:gen:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+12	space
+	12	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	none
+	do	prep:gen	disamb
+przewozów	space
+	przewóz	subst:pl:gen:m3	disamb
+wykonywanych	space
+	wykonywać	ppas:pl:gen:m3:imperf:aff	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+władze	space
+	władza	subst:pl:acc:f	disamb
+publiczne	space
+	publiczny	adj:pl:acc:f:pos	disamb
+do	space
+	do	prep:gen	disamb
+pełnienia	space
+	pełnić	ger:sg:gen:n:imperf:aff	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+
+publicznej	none
+	publiczny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+stanowią	space
+	stanowić	fin:pl:ter:imperf	disamb
+konkurencji	space
+	konkurencja	subst:sg:gen:f	disamb
+dla	space
+	dla	prep:gen	disamb
+uprawnionych	space
+	uprawniony	adj:pl:gen:m1:pos	disamb
+przewoźników	space
+	przewoźnik	subst:pl:gen:m1	disamb
+
+drogowych	none
+	drogowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+zakłady	space
+	zakład	subst:pl:acc:m3	disamb
+rolnicze	space
+	rolniczy	adj:pl:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+ogrodnicze	space
+	ogrodniczy	adj:pl:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+leśne	space
+	leśny	adj:pl:acc:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+
+gospodarstwa	none
+	gospodarstwo	subst:pl:nom:n	disamb
+rybackie	space
+	rybacki	adj:pl:nom:n:pos	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+towarów	space
+	towar	subst:pl:gen:m3	disamb
+na	space
+	na	prep:loc	disamb
+odcinku	space
+	odcinek	subst:sg:loc:m3	disamb
+nie	space
+	nie	qub	disamb
+dłuższym	space
+	długi	adj:sg:loc:m3:com	disamb
+niż	space
+	niż	prep:nom	disamb
+50	space
+	50	num:pl:nom:m3:rec	disamb
+
+km	none
+	kilometr	brev:npun	disamb
+od	space
+	od	prep:gen:nwok	disamb
+miejsca	space
+	miejsce	subst:sg:gen:n	disamb
+bazy	space
+	baza	subst:sg:gen:f	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+włączając	space
+	włączać	pcon:imperf	disamb
+teren	space
+	teren	subst:sg:acc:m3	disamb
+miejscowości	space
+	miejscowość	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+których	space
+	który	adj:pl:gen:f:pos	disamb
+centrum	space
+	centrum	subst:sg:nom:n	disamb
+
+znajduje	none
+	znajdować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zasięgu	space
+	zasięg	subst:sg:loc:m3	disamb
+tego	space
+	ten	adj:sg:gen:m3:pos	disamb
+promienia	space
+	promię	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+odpadków	space
+	odpadek	subst:pl:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+szkieletów	space
+	szkielet	subst:pl:gen:m3	disamb
+zwierzęcych	space
+	zwierzęcy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+
+przeznaczonych	none
+	przeznaczyć	ppas:pl:gen:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+spożycia	space
+	spożyć	ger:sg:gen:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+ludzi	space
+	człowiek	subst:pl:acc:m1	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+żywych	space
+	żywy	adj:pl:gen:n:pos	disamb
+zwierząt	space
+	zwierzę	subst:pl:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+gospodarstwach	space
+	gospodarstwo	subst:pl:loc:n	disamb
+rolnych	space
+	rolny	adj:pl:loc:n:pos	disamb
+
+na	none
+	na	prep:acc	disamb
+miejscowy	space
+	miejscowy	adj:sg:acc:m3:pos	disamb
+rynek	space
+	rynek	subst:sg:acc:m3	disamb
+i	space
+	i	conj	disamb
+odwrotnie	space
+	odwrotnie	adv:pos	disamb
+lub	space
+	lub	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+rynku	space
+	rynek	subst:sg:gen:m3	disamb
+do	space
+	do	prep:gen	disamb
+miejscowych	space
+	miejscowy	adj:pl:gen:f:pos	disamb
+rzeźni	space
+	rzeźnia	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+charakterze	space
+	charakter	subst:sg:loc:m3	disamb
+sklepów	space
+	sklep	subst:pl:gen:m3	disamb
+na	space
+	na	prep:loc	disamb
+miejscowym	space
+	miejscowy	adj:sg:loc:m3:pos	disamb
+rynku	space
+	rynek	subst:sg:loc:m3	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+handlu	none
+	handel	subst:sg:gen:m3	disamb
+obwoźnym	space
+	obwoźny	adj:sg:loc:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+jako	space
+	jako	conj	disamb
+ruchome	space
+	ruchomy	adj:pl:nom:m3:pos	disamb
+punkty	space
+	punkt	subst:pl:nom:m3	disamb
+do	space
+	do	prep:gen	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+transakcji	space
+	transakcja	subst:sg:gen:f	disamb
+
+bankowych	none
+	bankowy	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+walutowych	space
+	walutowy	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+oszczędnościowych	space
+	oszczędnościowy	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+czynności	space
+	czynność	subst:pl:gen:f	disamb
+związanych	space
+	związany	adj:pl:gen:f:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+kultem	none
+	kult	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+wypożyczania	space
+	wypożyczać	ger:sg:gen:n:imperf:aff	disamb
+książek	space
+	książka	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+płyt	space
+	płyta	subst:pl:gen:f	disamb
+lub	space
+	lub	conj	disamb
+kaset	space
+	kaseta	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+obsługi	space
+	obsługa	subst:sg:gen:f	disamb
+wydarzeń	space
+	wydarzenie	subst:pl:gen:n	disamb
+
+kulturalnych	none
+	kulturalny	adj:pl:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+wystaw	space
+	wystawa	subst:pl:gen:f	disamb
+-	space
+	-	interp	disamb
+specjalnie	space
+	specjalnie	adv:pos	disamb
+przystosowanymi	space
+	przystosować	ppas:pl:inst:m3:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+tych	space
+	ten	adj:pl:gen:m3:pos	disamb
+celów	space
+	cel	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+przewożącymi	space
+	przewozić	pact:pl:inst:m3:imperf:aff	disamb
+materiały	space
+	materiał	subst:pl:acc:m3	disamb
+lub	space
+	lub	conj	disamb
+urządzenia	space
+	urządzenie	subst:pl:acc:n	disamb
+służące	space
+	służyć	pact:pl:acc:n:imperf:aff	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+do	space
+	do	prep:gen	disamb
+
+wykonywania	none
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+na	space
+	na	prep:loc	disamb
+odcinku	space
+	odcinek	subst:sg:loc:m3	disamb
+nie	space
+	nie	qub	disamb
+dłuższym	space
+	długi	adj:sg:loc:m3:com	disamb
+niż	space
+	niż	prep:nom	disamb
+50	space
+	50	num:pl:nom:m3:rec	disamb
+km	space
+	kilometr	brev:npun	disamb
+od	space
+	od	prep:gen:nwok	disamb
+miejsca	space
+	miejsce	subst:sg:gen:n	disamb
+bazy	space
+	baza	subst:sg:gen:f	disamb
+
+pojazdu	none
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+prowadzenie	space
+	prowadzić	ger:sg:nom:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+nie	none
+	nie	qub	disamb
+stanowi	space
+	stanowić	fin:sg:ter:imperf	disamb
+głównej	space
+	główny	adj:sg:gen:f:pos	disamb
+czynności	space
+	czynność	subst:sg:gen:f	disamb
+
+kierowcy	none
+	kierowca	subst:pl:nom:m1	disamb
+,	none
+	,	interp	disamb
+
+7	none
+	7	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+poruszającymi	space
+	poruszać	pact:pl:inst:m3:imperf:aff	disamb
+się	space
+	się	qub	disamb
+wyłącznie	space
+	wyłącznie	qub	disamb
+na	space
+	na	prep:loc	disamb
+wyspach	space
+	wyspa	subst:pl:loc:f	disamb
+o	space
+	o	prep:loc	disamb
+powierzchni	space
+	powierzchnia	subst:sg:loc:f	disamb
+
+nieprzekraczającej	none
+	przekraczać	pact:sg:loc:f:imperf:neg	disamb
+2300	space
+	2300	num:pl:gen:m3:rec	disamb
+km2	space
+	kilometr kwadratowy	brev:npun	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:n:pos	disamb
+nie	space
+	nie	qub	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+połączone	space
+	połączyć	ppas:pl:nom:n:perf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+terytorium	space
+	terytorium	subst:sg:gen:n	disamb
+państwa	space
+	państwo	subst:sg:gen:n	disamb
+
+mostem	none
+	most	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+brodem	space
+	bród	subst:sg:inst:m3	disamb
+ani	space
+	ani	conj	disamb
+tunelem	space
+	tunel	subst:sg:inst:m3	disamb
+dostępnym	space
+	dostępny	adj:sg:inst:m3:pos	disamb
+dla	space
+	dla	prep:gen	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+pojazdów	space
+	pojazd	subst:pl:gen:m3	disamb
+silnikowych	space
+	silnikowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+8	none
+	8	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+towarów	space
+	towar	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+napędzanymi	space
+	napędzać	ppas:pl:inst:m3:imperf:aff	disamb
+gazem	space
+	gaz	subst:sg:inst:m3	disamb
+o	space
+	o	prep:loc	disamb
+napędzie	space
+	napęd	subst:sg:loc:m3	disamb
+
+elektrycznym	none
+	elektryczny	adj:sg:inst:n:pos	disamb
+lub	space
+	lub	conj	disamb
+wyposażonymi	space
+	wyposażyć	ppas:pl:inst:m3:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+ogranicznik	space
+	ogranicznik	subst:sg:acc:m3	disamb
+prędkości	space
+	prędkość	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:acc	disamb
+ile	space
+	ile	num:pl:acc:m3:rec	disamb
+pojazdy	space
+	pojazda	subst:sg:gen:f	disamb
+te	space
+	ten	adj:pl:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+zgodnie	none
+	zgodnie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+przepisami	space
+	przepis	subst:pl:inst:m3	disamb
+polskimi	space
+	polski	adj:pl:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+uznane	space
+	uznać	ppas:pl:nom:m3:perf:aff	disamb
+za	space
+	za	prep:acc	disamb
+równoważne	space
+	równoważny	adj:pl:acc:m3:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+
+napędzanymi	none
+	napędzanymi	ppas:sg:inst:m3:imperf:aff	disamb
+silnikiem	space
+	silnik	subst:sg:inst:m3	disamb
+spalinowym	space
+	spalinowy	adj:sg:inst:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+silnikiem	space
+	silnik	subst:sg:inst:m3	disamb
+na	space
+	na	prep:acc	disamb
+olej	space
+	olej	subst:sg:acc:m3	disamb
+napędowy	space
+	napędowy	adj:sg:acc:m3:pos	disamb
+i	space
+	i	conj	disamb
+których	space
+	który	adj:pl:gen:m3:pos	disamb
+
+dopuszczalna	none
+	dopuszczalny	adj:sg:nom:f:pos	disamb
+masa	space
+	masa	subst:sg:nom:f	disamb
+całkowita	space
+	całkowity	adj:sg:nom:f:pos	disamb
+włączając	space
+	włączać	pcon:imperf	disamb
+przyczepy	space
+	przyczepa	subst:pl:acc:f	disamb
+lub	space
+	lub	conj	disamb
+naczepy	space
+	naczepa	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+
+przekracza	none
+	przekraczać	fin:sg:ter:imperf	disamb
+3	space
+	3	num:pl:acc:m3:congr	disamb
+,	none
+	,	interp	disamb
+5	none
+	5	num:pl:acc:m3:rec	disamb
+tony	space
+	tona	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+
+9	none
+	9	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ciągnikami	space
+	ciągnik	subst:pl:inst:m3	disamb
+używanymi	space
+	używać	ppas:pl:inst:m3:imperf:aff	disamb
+wyłącznie	space
+	wyłącznie	qub	disamb
+do	space
+	do	prep:gen	disamb
+prac	space
+	praca	subst:pl:gen:f	disamb
+rolniczych	space
+	rolniczy	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+leśnych	space
+	leśny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+nie	none
+	nie	qub	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+zastosowania	space
+	zastosowanie	subst:sg:gen:n	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13	space
+	13	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+wystąpienia	space
+	wystąpić	ger:sg:gen:n:perf:aff	disamb
+nadzwyczajnych	space
+	nadzwyczajny	adj:pl:gen:n:pos	disamb
+lub	space
+	lub	conj	disamb
+niedających	space
+	dawać	pact:pl:gen:f:imperf:neg	disamb
+się	space
+	się	qub	disamb
+przewidzieć	space
+	przewidzieć	inf:perf	disamb
+
+okoliczności	none
+	okoliczność	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+wymagających	space
+	wymagać	pact:pl:gen:f:imperf:aff	disamb
+dojazdu	space
+	dojazd	subst:sg:gen:m3	disamb
+do	space
+	do	prep:gen	disamb
+odpowiedniego	space
+	odpowiedni	adj:sg:gen:n:pos	disamb
+miejsca	space
+	miejsce	subst:sg:gen:n	disamb
+postoju	space
+	postój	subst:sg:gen:m3	disamb
+ze	space
+	z	prep:gen:wok	disamb
+względu	space
+	wzgląd	subst:sg:gen:m3	disamb
+
+na	none
+	na	prep:acc	disamb
+bezpieczeństwo	space
+	bezpieczeństwo	subst:sg:acc:n	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+rzeczy	space
+	rzecz	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przedłużyć	space
+	przedłużyć	inf:perf	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+
+prowadzenia	none
+	prowadzenie	subst:pl:acc:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+ponad	space
+	ponad	prep:acc:nwok	disamb
+normę	space
+	norma	subst:sg:acc:f	disamb
+określoną	space
+	określić	ppas:sg:acc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+skrócić	space
+	skrócić	inf:perf	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:acc	disamb
+
+którym	none
+	który	adj:sg:inst:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+pod	space
+	pod	prep:inst:nwok	disamb
+warunkiem	space
+	warunek	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+że	space
+	że	comp	disamb
+dłuższe	space
+	długi	adj:sg:nom:n:com	disamb
+prowadzenie	space
+	prowadzić	ger:sg:nom:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+
+zagraża	none
+	zagrażać	fin:sg:ter:imperf	disamb
+bezpieczeństwu	space
+	bezpieczeństwo	subst:sg:dat:n	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+drogowego	space
+	drogowy	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+14	space
+	14	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Zakres	none
+	zakres	subst:sg:nom:m3	disamb
+i	space
+	i	conj	disamb
+przyczyny	space
+	przyczyna	subst:pl:nom:f	disamb
+przedłużenia	space
+	przedłużyć	ger:sg:gen:n:perf:aff	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+skrócenia	space
+	skrócić	ger:sg:gen:n:perf:aff	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+
+odpoczynku	none
+	odpoczynek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13	space
+	13	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+wpisuje	space
+	wpisywać	fin:sg:ter:imperf	disamb
+do	space
+	do	prep:gen	disamb
+dokumentu	space
+	dokument	subst:sg:gen:m3	disamb
+
+rejestrującego	none
+	rejestrować	pact:sg:gen:m1:imperf:aff	disamb
+przebieg	space
+	przebieg	subst:sg:acc:m3	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+15	space
+	15	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Kierowca	none
+	kierowca	subst:sg:nom:m1	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+żądanie	space
+	żądanie	subst:sg:acc:n	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+uprawnionej	space
+	uprawnić	ppas:sg:gen:f:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przeprowadzenia	space
+	przeprowadzić	ger:sg:gen:n:perf:aff	disamb
+kontroli	space
+	kontrola	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+przedstawia	space
+	przedstawiać	fin:sg:ter:imperf	disamb
+
+zapisy	none
+	zapis	subst:pl:nom:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+przyrządu	space
+	przyrząd	subst:sg:gen:m3	disamb
+kontrolnego	space
+	kontrolny	adj:sg:gen:m3:pos	disamb
+za	space
+	za	prep:acc	disamb
+bieżący	space
+	bieżący	adj:sg:acc:m3:pos	disamb
+tydzień	space
+	tydzień	subst:sg:acc:m3	disamb
+i	space
+	i	conj	disamb
+za	space
+	za	prep:acc	disamb
+ostatni	space
+	ostatni	adj:sg:acc:m3:pos	disamb
+dzień	space
+	dzień	subst:sg:acc:m3	disamb
+
+poprzedniego	none
+	poprzedni	adj:sg:gen:m3:pos	disamb
+tygodnia	space
+	tydzień	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+prowadził	space
+	prowadzić	praet:sg:m3:imperf	disamb
+pojazd	space
+	pojazd	subst:sg:nom:m3	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+szczególne	space
+	szczególny	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+16	space
+	16	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+niniejszego	space
+	niniejszy	adj:sg:gen:m3:pos	disamb
+rozdziału	space
+	rozdział	subst:sg:gen:m3	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+zastosowanie	space
+	zastosowanie	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+ramach	none
+	ramy	subst:pl:loc:n	disamb
+stosunku	space
+	stosunek	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+innych	space
+	inny	adj:pl:gen:m1:pos	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+wykonujących	space
+	wykonywać	pact:pl:gen:m1:imperf:aff	disamb
+transport	space
+	transport	subst:sg:acc:m3	disamb
+drogowy	space
+	drogowy	adj:sg:acc:m3:pos	disamb
+
+pojazdami	none
+	pojazd	subst:pl:inst:m3	disamb
+wymienionymi	space
+	wymienić	ppas:pl:inst:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+2	none
+	2	num:pl:nom:m3:congr	disamb
+;	none
+	;	interp	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+te	space
+	ten	adj:pl:nom:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+dotyczą	space
+	dotyczyć	fin:pl:ter:imperf	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+
+taksówek	none
+	taksówka	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+17	space
+	17	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Maksymalny	newline
+	maksymalny	adj:sg:acc:m3:pos	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+wynosi	space
+	wynosić	fin:sg:ter:imperf	disamb
+10	space
+	10	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Po	newline
+	po	prep:loc	disamb
+sześciu	space
+	sześć	num:pl:loc:f:congr	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+
+wykorzystać	none
+	wykorzystać	inf:perf	disamb
+przerwę	space
+	przerwa	subst:sg:acc:f	disamb
+trwającą	space
+	trwać	pact:sg:acc:f:imperf:aff	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+30	space
+	30	num:pl:acc:f:rec	disamb
+minut	space
+	minuta	subst:pl:gen:f	disamb
+,	space
+	,	interp	disamb
+chyba	space
+	chyba	qub	disamb
+że	space
+	że	comp	disamb
+zaczyna	space
+	zaczynać	fin:sg:ter:imperf	disamb
+okres	space
+	okres	subst:sg:acc:m3	disamb
+
+odpoczynku	none
+	odpoczynek	subst:sg:gen:m3	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przerwa	newline
+	przerwa	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+zastąpiona	space
+	zastąpić	ppas:sg:nom:f:perf:aff	disamb
+przerwami	space
+	przerwa	subst:pl:inst:f	disamb
+trwającymi	space
+	trwać	pact:pl:inst:m1:imperf:aff	disamb
+co	space
+	co	subst:sg:acc:n	disamb
+
+najmniej	none
+	mało	adv:sup	disamb
+15	space
+	15	num:pl:acc:f:rec	disamb
+minut	space
+	minuta	subst:pl:gen:f	disamb
+każda	space
+	każdy	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+wykorzystywanymi	space
+	wykorzystywać	ppas:pl:inst:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+
+niezwłocznie	none
+	niezwłocznie	adv:pos	disamb
+po	space
+	po	prep:loc	disamb
+tym	space
+	ten	adj:sg:loc:m3:pos	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	newline
+	przepis	subst:pl:acc:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+6	none
+	6	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11	space
+	11	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+13	space
+	13	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+14	none
+	14	adj:sg:gen:m3:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+18	space
+	18	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+każdej	space
+	każdy	adj:sg:loc:f:pos	disamb
+dobie	space
+	doba	subst:sg:loc:f	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+wykorzystuje	space
+	wykorzystywać	fin:sg:ter:imperf	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+11	space
+	11	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+nieprzerwanego	space
+	nieprzerwany	adj:sg:gen:m3:pos	disamb
+
+odpoczynku	none
+	odpoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+
+Normy	none
+	norma	subst:pl:nom:f	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+pozostających	space
+	pozostawać	pact:pl:gen:m1:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stosunku	space
+	stosunek	subst:sg:loc:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+19	space
+	19	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+niniejszego	space
+	niniejszy	adj:sg:gen:m3:pos	disamb
+rozdziału	space
+	rozdział	subst:sg:gen:m3	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+zastosowanie	space
+	zastosowanie	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+którzy	space
+	który	adj:pl:nom:m1:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+
+pracownikami	none
+	pracownik	subst:pl:inst:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozumieniu	space
+	rozumienie	subst:sg:loc:n	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+Kodeksu	space
+	kodeks	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+20	space
+	20	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Czasem	newline
+	czas	subst:sg:inst:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+rozpoczęcia	space
+	rozpocząć	ger:sg:gen:n:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+zakończenia	space
+	zakończyć	ger:sg:gen:n:perf:aff	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+
+obejmuje	none
+	obejmować	fin:sg:ter:imperf	disamb
+wszystkie	space
+	wszystek	adj:pl:acc:f:pos	disamb
+czynności	space
+	czynność	subst:pl:acc:f	disamb
+związane	space
+	związany	adj:pl:acc:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wykonywaniem	space
+	wykonywać	ger:sg:inst:n:imperf:aff	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+szczególności	none
+	szczególność	subst:pl:nom:f	disamb
+:	space
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+prowadzenie	space
+	prowadzić	ger:sg:nom:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+załadunek	space
+	załadunek	subst:sg:acc:m3	disamb
+i	space
+	i	conj	disamb
+rozładunek	space
+	rozładunek	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+kontrolę	space
+	kontrola	subst:sg:acc:f	disamb
+i	space
+	i	conj	disamb
+nadzór	space
+	nadzór	subst:sg:acc:m3	disamb
+nad	space
+	nad	prep:inst:nwok	disamb
+osobami	space
+	osoba	subst:pl:inst:f	disamb
+wsiadającymi	space
+	wsiadający	adj:pl:inst:f:pos	disamb
+i	space
+	i	conj	disamb
+wysiadającymi	space
+	wysiadać	pact:pl:inst:m1:imperf:aff	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+kontrolne	space
+	kontrolny	adj:sg:nom:n:pos	disamb
+sprawdzanie	space
+	sprawdzać	ger:sg:nom:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+ładunku	space
+	ładunek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+czynności	space
+	czynność	subst:pl:acc:f	disamb
+spedycyjne	space
+	spedycyjny	adj:pl:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+6	none
+	6	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+obsługę	space
+	obsługa	subst:sg:acc:f	disamb
+codzienną	space
+	codzienny	adj:sg:acc:f:pos	disamb
+pojazdów	space
+	pojazd	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+przyczep	space
+	przyczepa	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+niezbędne	space
+	niezbędny	adj:pl:nom:f:pos	disamb
+czynności	space
+	czynność	subst:pl:nom:f	disamb
+administracyjne	space
+	administracyjny	adj:pl:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+
+8	none
+	8	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+inne	space
+	inny	adj:pl:nom:f:pos	disamb
+prace	space
+	praca	subst:pl:nom:f	disamb
+podejmowane	space
+	podejmować	ppas:pl:nom:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+celu	space
+	cel	subst:sg:loc:m3	disamb
+wykonania	space
+	wykonać	ger:sg:gen:n:perf:aff	disamb
+zadania	space
+	zadanie	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+lub	space
+	lub	conj	disamb
+
+zapewnienia	none
+	zapewnić	ger:sg:gen:n:perf:aff	disamb
+bezpieczeństwa	space
+	bezpieczeństwo	subst:sg:gen:n	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+rzeczy	space
+	rzecz	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+9	none
+	9	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+utrzymanie	space
+	utrzymać	ger:sg:nom:n:perf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czystości	space
+	czystość	subst:sg:loc:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Czasu	newline
+	czas	subst:sg:gen:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+pełnionego	space
+	pełnić	ppas:sg:gen:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+kierowcę	space
+	kierowca	subst:sg:acc:m1	disamb
+poza	space
+	poza	prep:inst	disamb
+normalnymi	space
+	normalny	adj:pl:inst:f:pos	disamb
+godzinami	space
+	godzina	subst:pl:inst:f	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+zakładzie	none
+	zakład	subst:sg:loc:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+innym	space
+	inny	adj:sg:loc:n:pos	disamb
+miejscu	space
+	miejsce	subst:sg:loc:n	disamb
+wyznaczonym	space
+	wyznaczyć	ppas:sg:loc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+pracodawcę	space
+	pracodawca	subst:sg:acc:m1	disamb
+nie	space
+	nie	qub	disamb
+wlicza	space
+	wliczać	fin:sg:ter:imperf	disamb
+
+się	none
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+podczas	space
+	podczas	prep:gen	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+nie	space
+	nie	qub	disamb
+wykonywał	space
+	wykonywać	praet:sg:m1:imperf	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Czasem	newline
+	czas	subst:sg:inst:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+również	space
+	również	qub	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+poza	space
+	poza	prep:inst	disamb
+normalnymi	space
+	normalny	adj:pl:inst:f:pos	disamb
+godzinami	space
+	godzina	subst:pl:inst:f	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+nie	space
+	nie	qub	disamb
+wykonuje	space
+	wykonywać	fin:sg:ter:imperf	disamb
+czynności	space
+	czynność	subst:pl:gen:f	disamb
+wymienionych	space
+	wymienić	ppas:pl:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+ale	space
+	ale	conj	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+
+obowiązany	none
+	obowiązany	adj:sg:nom:m1:pos	disamb
+pozostawać	space
+	pozostawać	inf:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pojeździe	space
+	pojazd	subst:sg:loc:m3	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+pobliżu	space
+	pobliże	subst:sg:loc:n	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+celu	space
+	cel	subst:sg:loc:m3	disamb
+zapewnienia	space
+	zapewnić	ger:sg:gen:n:perf:aff	disamb
+
+bezpieczeństwa	none
+	bezpieczeństwo	subst:sg:gen:n	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+rzeczy	space
+	rzecz	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Czas	newline
+	czas	subst:sg:nom:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+wliczany	space
+	wliczać	ppas:sg:nom:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+
+przysługującego	none
+	przysługiwać	pact:sg:gen:m1:imperf:aff	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+nieprzerwanego	space
+	nieprzerwany	adj:sg:gen:m3:pos	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+
+zalicza	none
+	zaliczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przerwy	space
+	przerwa	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+17	space
+	17	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+gdy	space
+	gdy	adv	disamb
+pojazd	space
+	pojazd	subst:sg:nom:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+prowadzony	space
+	prowadzić	ppas:sg:nom:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+dwóch	space
+	dwa	num:pl:acc:m1:rec	disamb
+lub	space
+	lub	conj	disamb
+więcej	space
+	więcej	num:pl:acc:m1:rec	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+czas	none
+	czas	subst:sg:nom:m3	disamb
+nieprzeznaczony	space
+	przeznaczyć	ppas:sg:nom:m3:perf:neg	disamb
+na	space
+	na	prep:acc	disamb
+kierowanie	space
+	kierować	ger:sg:acc:n:imperf:aff	disamb
+pojazdem	space
+	pojazd	subst:sg:inst:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+czasem	space
+	czas	subst:sg:inst:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wykorzystywanie	newline
+	wykorzystywać	ger:sg:nom:n:imperf:aff	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pojeździe	space
+	pojazd	subst:sg:loc:m3	disamb
+w	space
+	w	prep:acc:nwok	disamb
+sposób	space
+	sposób	subst:sg:acc:m3	disamb
+określony	space
+	określić	ppas:sg:acc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:loc:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+traktowane	space
+	traktować	ppas:sg:nom:n:imperf:aff	disamb
+jako	space
+	jako	prep:nom	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Za	newline
+	za	prep:acc	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+przysługuje	space
+	przysługiwać	fin:sg:ter:imperf	disamb
+wynagrodzenie	space
+	wynagrodzenie	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wysokości	space
+	wysokość	subst:sg:loc:f	disamb
+określonej	space
+	określić	ppas:sg:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+
+o	none
+	o	prep:loc	disamb
+wynagradzaniu	space
+	wynagradzać	ger:sg:loc:n:imperf:aff	disamb
+obowiązujących	space
+	obowiązywać	pact:pl:gen:f:imperf:aff	disamb
+u	space
+	u	prep:gen	disamb
+danego	space
+	dany	adj:sg:gen:m1:pos	disamb
+pracodawcy	space
+	pracodawca	subst:sg:gen:m1	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+niższe	space
+	niski	adj:pl:nom:f:com	disamb
+jednak	space
+	jednak	conj	disamb
+niż	space
+	niż	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+wysokości	none
+	wysokość	subst:pl:nom:f	disamb
+połowy	space
+	połowa	subst:sg:gen:f	disamb
+wynagrodzenia	space
+	wynagrodzenie	subst:sg:gen:n	disamb
+należnego	space
+	należny	adj:sg:gen:n:pos	disamb
+za	space
+	za	prep:acc	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+przestoju	space
+	przestój	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+nie	space
+	nie	qub	disamb
+wlicza	space
+	wliczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:acc:m3:congr	disamb
+)	none
+	)	interp	disamb
+nieusprawiedliwionych	space
+	usprawiedliwić	ppas:pl:gen:m3:perf:neg	disamb
+postojów	space
+	postój	subst:pl:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+jazdy	space
+	jazda	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+nieprzerwanego	space
+	nieprzerwany	adj:sg:gen:m3:pos	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+8	none
+	8	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+wlicza	none
+	wliczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przerwę	space
+	przerwa	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pracy	space
+	praca	subst:sg:loc:f	disamb
+trwającą	space
+	trwać	pact:sg:acc:f:imperf:aff	disamb
+15	space
+	15	num:pl:acc:f:rec	disamb
+minut	space
+	minuta	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+którą	none
+	który	adj:sg:acc:f:pos	disamb
+pracodawca	space
+	pracodawca	subst:sg:nom:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+wprowadzić	space
+	wprowadzić	inf:perf	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+dobowy	space
+	dobowy	adj:sg:nom:m3:pos	disamb
+wymiar	space
+	wymiar	subst:sg:nom:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+
+wynosi	none
+	wynosić	fin:sg:ter:imperf	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+6	space
+	6	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+21	space
+	21	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Czas	none
+	czas	subst:sg:nom:m3	disamb
+przestoju	space
+	przestój	subst:sg:gen:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+wynikającego	space
+	wynikać	pact:sg:gen:m3:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+okresowych	space
+	okresowy	adj:pl:gen:n:pos	disamb
+ograniczeń	space
+	ograniczenie	subst:pl:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+zakazu	space
+	zakaz	subst:sg:gen:m3	disamb
+
+ruchu	none
+	ruch	subst:sg:gen:m3	disamb
+niektórych	space
+	niektóry	adj:pl:gen:m3:pos	disamb
+pojazdów	space
+	pojazd	subst:pl:gen:m3	disamb
+na	space
+	na	prep:loc	disamb
+drogach	space
+	droga	subst:pl:loc:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+na	space
+	na	prep:loc	disamb
+przejściach	space
+	przejście	subst:pl:loc:n	disamb
+granicznych	space
+	graniczny	adj:pl:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+spowodowanego	space
+	spowodować	ppas:sg:gen:m3:perf:aff	disamb
+awarią	space
+	awaria	subst:sg:inst:f	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+blokadą	space
+	blokada	subst:sg:inst:f	disamb
+dróg	space
+	droga	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+lokalnym	space
+	lokalny	adj:sg:inst:m3:pos	disamb
+zakazem	space
+	zakaz	subst:sg:inst:m3	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+zalicza	none
+	zaliczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wymiarze	space
+	wymiar	subst:sg:loc:m3	disamb
+nieprzekraczającym	space
+	przekraczać	pact:sg:loc:m3:imperf:neg	disamb
+8	space
+	8	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+
+jeżeli	none
+	jeżeli	comp	disamb
+wskutek	space
+	wskutek	prep:gen	disamb
+tego	space
+	ten	adj:sg:gen:m3:pos	disamb
+przestoju	space
+	przestój	subst:sg:gen:m3	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+nie	space
+	nie	qub	disamb
+wypracował	space
+	wypracować	praet:sg:m1:perf	disamb
+dobowego	space
+	dobowy	adj:sg:gen:m3:pos	disamb
+wymiaru	space
+	wymiar	subst:sg:gen:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+
+pracy	none
+	praca	subst:sg:gen:f	disamb
+określonego	space
+	określić	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozkładzie	space
+	rozkład	subst:sg:loc:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+zadaniowego	space
+	zadaniowy	adj:sg:gen:m3:pos	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+
+pracy	none
+	praca	subst:sg:gen:f	disamb
+-	space
+	-	interp	disamb
+8	space
+	8	num:pl:nom:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+22	space
+	22	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Czas	none
+	czas	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pięciodniowym	space
+	pięciodniowy	adj:sg:loc:m3:pos	disamb
+tygodniu	space
+	tydzień	subst:sg:loc:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przekraczać	space
+	przekraczać	inf:imperf	disamb
+8	space
+	8	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+
+i	none
+	i	conj	disamb
+przeciętnie	space
+	przeciętnie	adv:pos	disamb
+40	space
+	40	num:pl:nom:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+tydzień	space
+	tydzień	subst:sg:acc:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przyjętym	space
+	przyjęty	adj:sg:loc:m3:pos	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+rozliczeniowym	space
+	rozliczeniowy	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+
+dłuższym	none
+	długi	adj:sg:loc:m3:com	disamb
+niż	space
+	niż	prep:nom	disamb
+trzy	space
+	trzy	num:pl:nom:m3:congr	disamb
+miesiące	space
+	miesiąc	subst:pl:nom:m3	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+23	space
+	23	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+23	space
+	23	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+transporcie	space
+	transport	subst:sg:loc:m3	disamb
+drogowym	space
+	drogowy	adj:sg:loc:m3:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+stosowane	space
+	stosować	ppas:pl:nom:f:imperf:aff	disamb
+
+rozkłady	none
+	rozkład	subst:pl:nom:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+dopuszczalne	space
+	dopuszczalny	adj:sg:nom:n:pos	disamb
+przedłużenie	space
+	przedłużenie	subst:sg:nom:n	disamb
+wymiaru	space
+	wymiar	subst:sg:gen:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+
+pracy	none
+	praca	subst:sg:gen:f	disamb
+do	space
+	do	prep:gen	disamb
+10	space
+	10	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+do	space
+	do	prep:gen	disamb
+pozostałych	space
+	pozostały	adj:pl:gen:m1:pos	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+do	space
+	do	prep:gen	disamb
+12	space
+	12	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+
+-	none
+	-	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+systemu	space
+	system	subst:sg:gen:m3	disamb
+równoważnego	space
+	równoważny	adj:sg:gen:m3:pos	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+systemie	space
+	system	subst:sg:loc:m3	disamb
+równoważnego	space
+	równoważny	adj:sg:gen:m3:pos	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+wymiar	space
+	wymiar	subst:sg:nom:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+przedłużony	space
+	przedłużyć	ppas:sg:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+poszczególnych	none
+	poszczególny	adj:pl:loc:m3:pos	disamb
+dniach	space
+	dzień	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+zostaje	space
+	zostawać	fin:sg:ter:imperf	disamb
+wyrównany	space
+	wyrównać	ppas:sg:nom:m1:perf:aff	disamb
+skróconym	space
+	skrócić	ppas:sg:inst:m3:perf:aff	disamb
+czasem	space
+	czas	subst:sg:inst:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+innych	space
+	inny	adj:pl:loc:n:pos	disamb
+
+dniach	none
+	dzień	subst:pl:loc:m3	disamb
+lub	space
+	lub	conj	disamb
+dniami	space
+	dzień	subst:pl:inst:m3	disamb
+wolnymi	space
+	wolny	adj:pl:inst:m3:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+tym	space
+	to	subst:sg:inst:n	disamb
+że	space
+	że	comp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+rozliczeniowym	space
+	rozliczeniowy	adj:sg:loc:m3:pos	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+
+ten	none
+	ten	adj:sg:nom:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przekraczać	space
+	przekraczać	inf:imperf	disamb
+przeciętnie	space
+	przeciętnie	adv:pos	disamb
+40	space
+	40	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+tydzień	space
+	tydzień	subst:sg:acc:m3	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Okres	newline
+	okres	subst:sg:nom:m3	disamb
+rozliczeniowy	space
+	rozliczeniowy	adj:sg:nom:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+dłuższy	space
+	długi	adj:sg:nom:m3:com	disamb
+niż	space
+	niż	prep:nom	disamb
+miesiąc	space
+	miesiąc	subst:sg:nom:m3	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+szczególnie	space
+	szczególnie	adv:pos	disamb
+
+uzasadnionych	none
+	uzasadniony	adj:pl:loc:m3:pos	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+po	space
+	po	prep:loc	disamb
+wyrażeniu	space
+	wyrazić	ger:sg:loc:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+zgody	space
+	zgoda	subst:sg:gen:f	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+zakładową	space
+	zakładowy	adj:sg:acc:f:pos	disamb
+
+organizację	none
+	organizacja	subst:sg:acc:f	disamb
+związkową	space
+	związkowy	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+taka	space
+	taki	adj:sg:nom:f:pos	disamb
+organizacja	space
+	organizacja	subst:sg:nom:f	disamb
+nie	space
+	nie	qub	disamb
+działa	space
+	działać	fin:sg:ter:imperf	disamb
+u	space
+	u	prep:gen	disamb
+danego	space
+	dać	ppas:sg:gen:m1:perf:aff	disamb
+
+pracodawcy	none
+	pracodawca	subst:pl:nom:m1	disamb
+-	space
+	-	interp	disamb
+po	space
+	po	prep:loc	disamb
+uprzednim	space
+	uprzedni	adj:sg:loc:n:pos	disamb
+zawiadomieniu	space
+	zawiadomić	ger:sg:loc:n:perf:aff	disamb
+właściwego	space
+	właściwy	adj:sg:gen:m1:pos	disamb
+inspektora	space
+	inspektor	subst:sg:gen:m1	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+okres	space
+	okres	subst:sg:nom:m3	disamb
+
+rozliczeniowy	none
+	rozliczeniowy	adj:sg:nom:m3:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+przedłużony	space
+	przedłużyć	ppas:sg:nom:m3:perf:aff	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	dużo	adv:com	disamb
+jednak	space
+	jednak	conj	disamb
+niż	space
+	niż	conj	disamb
+do	space
+	do	prep:gen	disamb
+trzech	space
+	trzy	num:pl:gen:m3:congr	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przy	newline
+	przy	prep:loc	disamb
+pracach	space
+	praca	subst:pl:loc:f	disamb
+uzależnionych	space
+	uzależniony	adj:pl:loc:f:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+pory	space
+	pora	subst:sg:gen:f	disamb
+roku	space
+	rok	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+warunków	space
+	warunki	subst:pl:gen:n	disamb
+atmosferycznych	space
+	atmosferyczny	adj:pl:gen:n:pos	disamb
+okres	space
+	okres	subst:sg:nom:m3	disamb
+
+rozliczeniowy	none
+	rozliczeniowy	adj:sg:nom:m3:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+przedłużony	space
+	przedłużyć	ppas:sg:nom:m3:perf:aff	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+trybie	space
+	tryb	subst:sg:loc:m3	disamb
+określonym	space
+	określić	ppas:sg:loc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	dużo	adv:com	disamb
+
+jednak	none
+	jednak	conj	disamb
+niż	space
+	niż	conj	disamb
+do	space
+	do	prep:gen	disamb
+sześciu	space
+	sześć	num:pl:gen:m3:congr	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+systemie	space
+	system	subst:sg:loc:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+-	none
+	-	interp	disamb
+4	none
+	4	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+praca	space
+	praca	subst:sg:nom:f	disamb
+wykonywana	space
+	wykonywać	ppas:sg:nom:f:imperf:aff	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+przekraczających	space
+	przekraczać	pact:pl:loc:f:imperf:aff	disamb
+przedłużony	space
+	przedłużyć	ppas:sg:acc:m3:perf:aff	disamb
+dobowy	space
+	dobowy	adj:sg:acc:m3:pos	disamb
+wymiar	space
+	wymiar	subst:sg:acc:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+wynikający	none
+	wynikać	pact:sg:nom:m1:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+obowiązującego	space
+	obowiązywać	pact:sg:gen:m1:imperf:aff	disamb
+pracownika	space
+	pracownik	subst:sg:gen:m1	disamb
+rozkładu	space
+	rozkład	subst:sg:gen:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+przekraczających	space
+	przekraczać	pact:pl:loc:f:imperf:aff	disamb
+8	space
+	8	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+obowiązujący	space
+	obowiązywać	pact:sg:nom:m1:imperf:aff	disamb
+
+pracownika	none
+	pracownik	subst:sg:gen:m1	disamb
+rozkład	space
+	rozkład	subst:sg:nom:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+przewiduje	space
+	przewidywać	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+danej	space
+	dany	adj:sg:loc:f:pos	disamb
+dobie	space
+	doba	subst:sg:loc:f	disamb
+pracę	space
+	praca	subst:sg:acc:f	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+8	space
+	8	num:pl:acc:m3:rec	disamb
+
+godzin	none
+	godzina	subst:pl:gen:f	disamb
+lub	space
+	lub	conj	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+krótszy	space
+	krótki	adj:sg:acc:m3:com	disamb
+niż	space
+	niż	prep:nom	disamb
+8	space
+	8	num:pl:nom:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+przekraczających	space
+	przekraczać	pact:pl:loc:f:imperf:aff	disamb
+przeciętną	space
+	przeciętny	adj:sg:acc:f:pos	disamb
+tygodniową	space
+	tygodniowy	adj:sg:acc:f:pos	disamb
+normę	space
+	norma	subst:sg:acc:f	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+przyjętym	none
+	przyjęty	adj:sg:loc:m3:pos	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+rozliczeniowym	space
+	rozliczeniowy	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+chyba	space
+	chyba	qub	disamb
+że	space
+	że	comp	disamb
+przekroczenie	space
+	przekroczenie	subst:sg:nom:n	disamb
+tej	space
+	ten	adj:sg:gen:f:pos	disamb
+normy	space
+	norma	subst:sg:gen:f	disamb
+
+nastąpiło	none
+	nastąpić	praet:sg:n:perf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wyniku	space
+	wynik	subst:sg:loc:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+nadliczbowych	space
+	nadliczbowy	adj:pl:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+
+i	none
+	i	conj	disamb
+2	space
+	2	num:pl:nom:f:congr	disamb
+,	none
+	,	interp	disamb
+
+stanowi	none
+	stanowić	fin:sg:ter:imperf	disamb
+pracę	space
+	praca	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+nadliczbowych	space
+	nadliczbowy	adj:pl:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+24	space
+	24	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+transporcie	space
+	transport	subst:sg:loc:m3	disamb
+drogowym	space
+	drogowy	adj:sg:loc:m3:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+stosowany	space
+	stosować	ppas:sg:nom:m1:imperf:aff	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+szczególnie	none
+	szczególnie	adv:pos	disamb
+uzasadnionych	space
+	uzasadniony	adj:pl:loc:m3:pos	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+system	space
+	system	subst:sg:nom:m3	disamb
+przerywanego	space
+	przerywać	ppas:sg:gen:m3:imperf:aff	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+według	space
+	według	prep:gen	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+góry	space
+	góra	subst:sg:gen:f	disamb
+ustalonego	space
+	ustalić	ppas:sg:gen:m3:perf:aff	disamb
+rozkładu	space
+	rozkład	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+przewidującego	space
+	przewidywać	pact:sg:gen:m3:imperf:aff	disamb
+nie	space
+	nie	qub	disamb
+więcej	space
+	więcej	num:pl:acc:m3:rec	disamb
+niż	space
+	niż	conj	disamb
+jedną	space
+	jeden	adj:sg:acc:f:pos	disamb
+przerwę	space
+	przerwa	subst:sg:acc:f	disamb
+w	space
+	w	prep:acc:nwok	disamb
+
+pracy	none
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ciągu	space
+	ciąg	subst:sg:loc:m3	disamb
+doby	space
+	doba	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+trwającą	space
+	trwać	pact:sg:inst:f:imperf:aff	disamb
+nie	space
+	nie	qub	disamb
+dłużej	space
+	długo	adv:com	disamb
+niż	space
+	niż	conj	disamb
+5	space
+	5	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przerwy	newline
+	przerwa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+wlicza	space
+	wliczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+jednakże	space
+	jednakże	qub	disamb
+za	space
+	za	prep:acc	disamb
+
+czas	none
+	czas	subst:sg:acc:m3	disamb
+tej	space
+	ten	adj:sg:gen:f:pos	disamb
+przerwy	space
+	przerwa	subst:sg:gen:f	disamb
+pracownikowi	space
+	pracownik	subst:sg:dat:m1	disamb
+przysługuje	space
+	przysługiwać	fin:sg:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:nom:n	disamb
+do	space
+	do	prep:gen	disamb
+wynagrodzenia	space
+	wynagrodzić	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wysokości	space
+	wysokość	subst:sg:loc:f	disamb
+
+połowy	none
+	połowa	subst:pl:nom:f	disamb
+wynagrodzenia	space
+	wynagrodzenie	subst:sg:gen:n	disamb
+należnego	space
+	należny	adj:sg:gen:n:pos	disamb
+za	space
+	za	prep:acc	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+przestoju	space
+	przestój	subst:sg:gen:m3	disamb
+;	none
+	;	interp	disamb
+podczas	space
+	podczas	prep:gen	disamb
+przerwy	space
+	przerwa	subst:sg:gen:f	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+
+może	none
+	móc	fin:sg:ter:imperf	disamb
+swobodnie	space
+	swobodnie	adv:pos	disamb
+dysponować	space
+	dysponować	inf:imperf	disamb
+swoim	space
+	swój	adj:sg:inst:m3:pos	disamb
+czasem	space
+	czas	subst:sg:inst:m3	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przy	newline
+	przy	prep:loc	disamb
+ustalaniu	space
+	ustalać	ger:sg:loc:n:imperf:aff	disamb
+rozkładu	space
+	rozkład	subst:sg:gen:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+systemie	space
+	system	subst:sg:loc:m3	disamb
+przerywanego	space
+	przerywany	adj:sg:gen:m3:pos	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+
+stosuje	none
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+17	space
+	17	adj:sg:gen:m3:pos	disamb
+dotyczące	space
+	dotyczyć	pact:pl:acc:m3:imperf:aff	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+przeznaczonych	space
+	przeznaczyć	ppas:pl:gen:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+
+odpoczynek	none
+	odpoczynek	subst:sg:nom:m3	disamb
+.	none
+	.	interp	disamb
+
+Jeżeli	newline
+	jeżeli	comp	disamb
+przerwa	space
+	przerwa	subst:sg:nom:f	disamb
+przewidziana	space
+	przewidzieć	ppas:sg:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ustalonym	space
+	ustalić	ppas:sg:loc:m3:perf:aff	disamb
+rozkładzie	space
+	rozkład	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+następuje	space
+	następować	fin:sg:ter:imperf	disamb
+nie	space
+	nie	qub	disamb
+później	space
+	późno	adv:com	disamb
+niż	space
+	niż	conj	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+cztero	space
+	cztero	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+półgodzinnego	space
+	półgodzinny	adj:sg:gen:m3:pos	disamb
+okresu	space
+	okres	subst:sg:gen:m3	disamb
+
+prowadzenia	none
+	prowadzenie	subst:pl:acc:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+przeznaczonych	space
+	przeznaczyć	ppas:pl:gen:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:acc	disamb
+
+których	none
+	który	adj:pl:gen:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+17	space
+	17	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+25	space
+	25	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+transporcie	space
+	transport	subst:sg:loc:m3	disamb
+drogowym	space
+	drogowy	adj:sg:loc:m3:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+stosowany	space
+	stosować	ppas:sg:nom:m1:imperf:aff	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+przypadkach	none
+	przypadek	subst:pl:loc:m3	disamb
+uzasadnionych	space
+	uzasadnić	ppas:pl:gen:m3:perf:aff	disamb
+rodzajem	space
+	rodzaj	subst:sg:inst:m3	disamb
+wykonywanych	space
+	wykonywać	ppas:pl:gen:m3:imperf:aff	disamb
+przewozów	space
+	przewóz	subst:pl:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:m3:ter:akc:npraep	disamb
+szczególną	space
+	szczególny	adj:sg:acc:f:pos	disamb
+
+organizacją	none
+	organizacja	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+zadaniowy	space
+	zadaniowy	adj:sg:nom:m3:pos	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+zadania	space
+	zadanie	subst:pl:acc:n	disamb
+przewozowe	space
+	przewozowy	adj:pl:acc:n:pos	disamb
+ustala	space
+	ustalać	fin:sg:ter:imperf	disamb
+
+pracodawca	none
+	pracodawca	subst:sg:nom:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+takim	space
+	taki	adj:sg:loc:m3:pos	disamb
+wymiarze	space
+	wymiar	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+aby	space
+	aby	comp	disamb
+mogły	space
+	móc	praet:pl:m3:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+wykonane	space
+	wykonać	ppas:pl:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+
+określonego	none
+	określić	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+22	space
+	22	adj:sg:loc:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+przy	space
+	przy	prep:loc	disamb
+zachowaniu	space
+	zachować	ger:sg:loc:n:perf:aff	disamb
+norm	space
+	norma	subst:pl:gen:f	disamb
+dotyczących	space
+	dotyczyć	pact:pl:gen:f:imperf:aff	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+
+prowadzenia	none
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+obowiązkowych	space
+	obowiązkowy	adj:pl:gen:f:pos	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+prowadzeniu	space
+	prowadzić	ger:sg:loc:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Rozkład	none
+	rozkład	subst:sg:nom:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+danego	space
+	dany	adj:sg:gen:n:pos	disamb
+zadania	space
+	zadanie	subst:sg:gen:n	disamb
+przewozowego	space
+	przewozowy	adj:sg:gen:n:pos	disamb
+ustala	space
+	ustalać	fin:sg:ter:imperf	disamb
+
+kierowca	none
+	kierowca	subst:sg:nom:m1	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zadaniowy	newline
+	zadaniowy	adj:sg:nom:m3:pos	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+wprowadza	space
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+układu	space
+	układ	subst:sg:gen:m3	disamb
+zbiorowego	space
+	zbiorowy	adj:sg:gen:m3:pos	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+regulaminu	none
+	regulamin	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+lub	space
+	lub	conj	disamb
+umowy	space
+	umowa	subst:sg:gen:f	disamb
+o	space
+	o	prep:acc	disamb
+pracę	space
+	praca	subst:sg:acc:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+26	space
+	26	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Niezależnie	newline
+	niezależnie	adv:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+stosowanych	space
+	stosowany	adj:pl:gen:m3:pos	disamb
+systemów	space
+	system	subst:pl:gen:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+dobowy	space
+	dobowy	adj:sg:nom:m3:pos	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+
+pojazdu	none
+	pojazd	subst:sg:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przekraczać	space
+	przekraczać	inf:imperf	disamb
+maksymalnego	space
+	maksymalny	adj:sg:gen:m3:pos	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+
+określonego	none
+	określić	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przy	newline
+	przy	prep:loc	disamb
+ustalaniu	space
+	ustalać	ger:sg:loc:n:imperf:aff	disamb
+rozkładów	space
+	rozkład	subst:pl:gen:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+17	space
+	17	adj:sg:gen:m3:pos	disamb
+
+dotyczące	none
+	dotyczyć	pact:pl:nom:f:imperf:aff	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+przeznaczonych	space
+	przeznaczyć	ppas:pl:gen:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+
+oraz	none
+	oraz	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+24	space
+	24	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+27	space
+	27	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Systemy	newline
+	system	subst:pl:nom:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+określone	space
+	określić	ppas:pl:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+23	space
+	23	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+24	space
+	24	adj:sg:loc:m3:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+stosowane	space
+	stosować	ppas:pl:nom:m3:imperf:aff	disamb
+również	space
+	również	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+przypadku	none
+	przypadek	subst:sg:gen:m3	disamb
+niezarobkowego	space
+	niezarobkowy	adj:sg:gen:m3:pos	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+wykonywanego	space
+	wykonywać	ppas:sg:gen:m3:imperf:aff	disamb
+pomocniczo	space
+	pomocniczo	adv:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stosunku	space
+	stosunek	subst:sg:loc:m3	disamb
+do	space
+	do	prep:gen	disamb
+
+podstawowej	none
+	podstawowy	adj:sg:gen:f:pos	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+przedsiębiorcy	space
+	przedsiębiorca	subst:sg:gen:m1	disamb
+,	none
+	,	interp	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+samochodowymi	space
+	samochodowy	adj:pl:inst:m3:pos	disamb
+
+będącymi	none
+	być	pact:pl:inst:m3:imperf:aff	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+własnością	space
+	własność	subst:sg:inst:f	disamb
+lub	space
+	lub	conj	disamb
+pojazdami	space
+	pojazd	subst:pl:inst:m3	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+których	space
+	który	adj:pl:gen:m3:pos	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+udokumentowane	space
+	udokumentować	ppas:sg:acc:n:perf:aff	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+
+dysponowania	none
+	dysponować	ger:sg:gen:n:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+uzasadnionych	space
+	uzasadniony	adj:pl:loc:m3:pos	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+równoważnych	space
+	równoważny	adj:pl:loc:f:pos	disamb
+norm	space
+	norma	subst:pl:gen:f	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:acc	disamb
+
+których	none
+	który	adj:pl:gen:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+23	none
+	23	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+dopuszcza	space
+	dopuszczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+stosowanie	space
+	stosować	ger:sg:nom:n:imperf:aff	disamb
+przerywanego	space
+	przerywany	adj:sg:gen:m3:pos	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+
+określonego	none
+	określić	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+24	space
+	24	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+przestrzegania	space
+	przestrzegać	ger:sg:gen:n:imperf:aff	disamb
+przepisów	none
+	przepis	subst:pl:gen:m3	disamb
+o	space
+	o	prep:acc	disamb
+
+obowiązkowym	none
+	obowiązkowy	adj:sg:loc:m3:pos	disamb
+dobowym	space
+	dobowy	adj:sg:loc:m3:pos	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:loc:m3	disamb
+oraz	space
+	oraz	conj	disamb
+według	space
+	według	prep:gen	disamb
+z	space
+	z	prep:gen:nwok	disamb
+góry	space
+	góra	subst:sg:gen:f	disamb
+ustalonego	space
+	ustalić	ppas:sg:gen:m3:perf:aff	disamb
+harmonogramu	space
+	harmonogram	subst:sg:gen:m3	disamb
+;	none
+	;	interp	disamb
+
+harmonogram	none
+	harmonogram	subst:sg:nom:m3	disamb
+powinien	space
+	powinien	winien:sg:m3:imperf	disamb
+obejmować	space
+	obejmować	inf:imperf	disamb
+okres	space
+	okres	subst:sg:acc:m3	disamb
+co	space
+	co	prep:acc	disamb
+najmniej	space
+	mało	adv:sup	disamb
+miesiąca	space
+	miesiąc	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+28	space
+	28	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Praca	newline
+	praca	subst:sg:nom:f	disamb
+wykonywana	space
+	wykonywać	ppas:sg:nom:f:imperf:aff	disamb
+ponad	space
+	ponad	qub	disamb
+normy	space
+	norma	subst:pl:nom:f	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+ustalone	space
+	ustalić	ppas:pl:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+22	space
+	22	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+23	space
+	23	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+stanowi	space
+	stanowić	fin:sg:ter:imperf	disamb
+
+pracę	none
+	praca	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+godzinach	space
+	godzina	subst:pl:loc:f	disamb
+nadliczbowych	space
+	nadliczbowy	adj:pl:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Praca	newline
+	praca	subst:sg:nom:f	disamb
+taka	space
+	taki	adj:sg:nom:f:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+dopuszczalna	space
+	dopuszczalny	adj:sg:nom:f:pos	disamb
+tylko	space
+	tylko	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+nieprzewidzianych	space
+	nieprzewidziany	adj:pl:gen:f:pos	disamb
+sytuacji	space
+	sytuacja	subst:pl:gen:f	disamb
+i	space
+	i	conj	disamb
+zdarzeń	space
+	zdarzenie	subst:pl:gen:n	disamb
+wymagających	space
+	wymagać	pact:pl:gen:n:imperf:aff	disamb
+od	space
+	od	prep:gen:nwok	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+podjęcia	space
+	podjęcie	subst:sg:gen:n	disamb
+
+działań	none
+	działanie	subst:pl:gen:n	disamb
+dla	space
+	dla	prep:gen	disamb
+ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+życia	space
+	życie	subst:sg:gen:n	disamb
+lub	space
+	lub	conj	disamb
+zdrowia	space
+	zdrowie	subst:sg:gen:n	disamb
+ludzkiego	space
+	ludzki	adj:sg:gen:n:pos	disamb
+oraz	space
+	oraz	conj	disamb
+mienia	space
+	mienie	subst:sg:gen:n	disamb
+albo	space
+	albo	conj	disamb
+usunięcia	space
+	usunąć	ger:sg:gen:n:perf:aff	disamb
+
+awarii	none
+	awaria	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:nom:f:congr	disamb
+)	none
+	)	interp	disamb
+szczególnych	space
+	szczególny	adj:pl:gen:f:pos	disamb
+potrzeb	space
+	potrzeba	subst:pl:gen:f	disamb
+pracodawcy	space
+	pracodawca	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Liczba	newline
+	liczba	subst:sg:nom:f	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+nadliczbowych	space
+	nadliczbowy	adj:pl:gen:f:pos	disamb
+przepracowanych	space
+	przepracować	ppas:pl:gen:f:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+kierowcę	space
+	kierowca	subst:sg:acc:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+związku	space
+	związek	subst:sg:loc:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+okolicznościami	none
+	okoliczność	subst:pl:inst:f	disamb
+określonymi	space
+	określić	ppas:pl:inst:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przekroczyć	space
+	przekroczyć	inf:perf	disamb
+260	space
+	260	num:pl:nom:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+roku	none
+	rok	subst:sg:gen:m3	disamb
+kalendarzowym	space
+	kalendarzowy	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+29	space
+	29	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Tygodniowy	none
+	tygodniowy	adj:sg:nom:m3:pos	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+godzinami	space
+	godzina	subst:pl:inst:f	disamb
+nadliczbowymi	space
+	nadliczbowy	adj:pl:inst:f:pos	disamb
+(	space
+	(	interp	disamb
+łączony	none
+	łączyć	ppas:sg:nom:m3:imperf:aff	disamb
+
+tygodniowy	none
+	tygodniowy	adj:sg:nom:m3:pos	disamb
+wymiar	space
+	wymiar	subst:sg:nom:m3	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przekraczać	space
+	przekraczać	inf:imperf	disamb
+przeciętnie	space
+	przeciętnie	adv:pos	disamb
+48	space
+	48	num:pl:acc:f:rec	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+okresie	none
+	okres	subst:sg:loc:m3	disamb
+rozliczeniowym	space
+	rozliczeniowy	adj:sg:inst:m2:pos	disamb
+nieprzekraczającym	space
+	przekraczać	pact:sg:inst:m3:imperf:neg	disamb
+trzech	space
+	trzy	num:pl:gen:m3:congr	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+30	space
+	30	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+norm	space
+	norma	subst:pl:gen:f	disamb
+określających	space
+	określać	pact:pl:gen:f:imperf:aff	disamb
+:	none
+	:	interp	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+obowiązkowe	space
+	obowiązkowy	adj:sg:nom:n:pos	disamb
+
+przerwy	none
+	przerwa	subst:pl:nom:f	disamb
+przeznaczone	space
+	przeznaczyć	ppas:pl:nom:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:acc:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:nom:m3	disamb
+dobowy	space
+	dobowy	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+układy	none
+	układ	subst:pl:nom:m3	disamb
+zbiorowe	space
+	zbiorowy	adj:pl:nom:m3:pos	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+przewidywać	space
+	przewidywać	inf:imperf	disamb
+wyższe	space
+	wysoki	adj:pl:acc:f:com	disamb
+normy	space
+	norma	subst:pl:acc:f	disamb
+minimalne	space
+	minimalny	adj:pl:acc:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+niższe	space
+	niski	adj:pl:acc:f:com	disamb
+normy	space
+	norma	subst:pl:nom:f	disamb
+
+maksymalne	none
+	maksymalny	adj:sg:nom:n:pos	disamb
+niż	space
+	niż	prep:nom	disamb
+przewiduje	space
+	przewidywać	fin:sg:ter:imperf	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+ustawa	space
+	ustawa	subst:sg:nom:f	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+
+Obowiązki	none
+	obowiązek	subst:pl:nom:m3	disamb
+pracodawcy	space
+	pracodawca	subst:sg:gen:m1	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+31	space
+	31	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Pracodawca	newline
+	pracodawca	subst:sg:nom:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+regularnie	space
+	regularnie	adv:pos	disamb
+kontrolować	space
+	kontrolować	inf:imperf	disamb
+okresy	space
+	okres	subst:pl:acc:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+
+pojazdu	none
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+trwania	space
+	trwać	ger:sg:gen:n:imperf:aff	disamb
+innej	space
+	inny	adj:sg:gen:f:pos	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+okresy	space
+	okres	subst:pl:nom:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+
+zapisów	none
+	zapis	subst:pl:gen:m3	disamb
+przyrządu	space
+	przyrząd	subst:sg:gen:m3	disamb
+kontrolnego	space
+	kontrolny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+pojazdów	space
+	pojazd	subst:pl:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+wyposażonych	space
+	wyposażyć	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+te	space
+	ten	adj:pl:acc:m3:pos	disamb
+
+przyrządy	none
+	przyrząd	subst:pl:nom:m3	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+karty	space
+	karta	subst:sg:gen:f	disamb
+drogowej	space
+	drogowy	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zapisy	newline
+	zapis	subst:pl:acc:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+przyrządów	space
+	przyrząd	subst:pl:gen:m3	disamb
+kontrolnych	space
+	kontrolny	adj:pl:gen:m3:pos	disamb
+pracodawca	space
+	pracodawca	subst:sg:nom:m1	disamb
+przechowuje	space
+	przechowywać	fin:sg:ter:imperf	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+okres	space
+	okres	subst:sg:acc:m3	disamb
+co	space
+	co	comp	disamb
+
+najmniej	none
+	mało	adv:sup	disamb
+dwunastu	space
+	dwanaście	num:pl:gen:m3:congr	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+po	space
+	po	prep:loc	disamb
+wykorzystaniu	space
+	wykorzystać	ger:sg:loc:n:perf:aff	disamb
+i	space
+	i	conj	disamb
+udostępnia	space
+	udostępniać	fin:sg:ter:imperf	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+kopie	space
+	kopia	subst:pl:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+
+kierowców	none
+	kierowca	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+których	space
+	który	adj:pl:acc:m1:pos	disamb
+one	space
+	on	ppron3:pl:nom:f:ter:akc:npraep	disamb
+dotyczą	space
+	dotyczyć	fin:pl:ter:imperf	disamb
+.	none
+	.	interp	disamb
+
+Zapisy	newline
+	zapis	subst:pl:nom:m3	disamb
+te	space
+	ten	adj:pl:nom:m3:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+okazywane	space
+	okazywać	ppas:pl:nom:m3:imperf:aff	disamb
+lub	space
+	lub	conj	disamb
+wydawane	space
+	wydawać	ppas:pl:nom:m3:imperf:aff	disamb
+na	space
+	na	prep:acc	disamb
+
+żądanie	none
+	żądanie	subst:sg:nom:n	disamb
+każdej	space
+	każdy	adj:sg:gen:f:pos	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+uprawnionej	space
+	uprawnić	ppas:sg:gen:f:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przeprowadzenia	space
+	przeprowadzić	ger:sg:gen:n:perf:aff	disamb
+kontroli	space
+	kontrola	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+32	space
+	32	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Pracodawca	newline
+	pracodawca	subst:sg:nom:m1	disamb
+prowadzi	space
+	prowadzić	fin:sg:ter:imperf	disamb
+ewidencję	space
+	ewidencja	subst:sg:acc:f	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+z	space
+	z	prep:inst:nwok	disamb
+uwzględnieniem	space
+	uwzględnić	ger:sg:inst:n:perf:aff	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+godzinach	none
+	godzina	subst:pl:loc:f	disamb
+nadliczbowych	space
+	nadliczbowy	adj:pl:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+porze	space
+	pora	subst:sg:loc:f	disamb
+nocnej	space
+	nocny	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+niedziele	space
+	niedziela	subst:pl:nom:f	disamb
+i	space
+	i	conj	disamb
+święta	space
+	święto	subst:pl:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozliczeniu	space
+	rozliczenie	subst:sg:loc:n	disamb
+
+dobowym	none
+	dobowy	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+tygodniowym	space
+	tygodniowy	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+przyjętym	space
+	przyjęty	adj:sg:loc:m3:pos	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+rozliczeniowym	space
+	rozliczeniowy	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ewidencję	newline
+	ewidencja	subst:sg:acc:f	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+pracodawca	space
+	pracodawca	subst:sg:nom:m1	disamb
+każdorazowo	space
+	każdorazowo	adv:pos	disamb
+
+udostępnia	none
+	udostępniać	fin:sg:ter:imperf	disamb
+kierowcy	space
+	kierowca	subst:sg:dat:m1	disamb
+na	space
+	na	prep:acc	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+33	space
+	33	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Systemy	none
+	system	subst:pl:nom:m3	disamb
+wynagradzania	space
+	wynagradzać	ger:sg:gen:n:imperf:aff	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+nie	space
+	nie	qub	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+przewidywać	space
+	przewidywać	inf:imperf	disamb
+składników	space
+	składnik	subst:pl:gen:m3	disamb
+wynagrodzenia	space
+	wynagrodzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+
+których	none
+	który	adj:pl:gen:m3:pos	disamb
+wysokość	space
+	wysokość	subst:sg:nom:f	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+uzależniona	space
+	uzależnić	ppas:sg:nom:f:perf:aff	disamb
+od	space
+	od	prep:gen:nwok	disamb
+liczby	space
+	liczba	subst:sg:gen:f	disamb
+przejechanych	space
+	przejechać	ppas:pl:gen:m3:perf:aff	disamb
+kilometrów	space
+	kilometr	subst:pl:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+ilości	space
+	ilość	subst:pl:gen:f	disamb
+
+przewiezionego	none
+	przewieźć	ppas:sg:gen:m3:perf:aff	disamb
+ładunku	space
+	ładunek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+stosowanie	space
+	stosować	ger:sg:nom:n:imperf:aff	disamb
+wpłynęło	space
+	wpłynąć	praet:sg:n:perf	disamb
+by	none
+	by	qub	disamb
+na	space
+	na	prep:acc	disamb
+pogorszenie	space
+	pogorszenie	subst:sg:acc:n	disamb
+
+bezpieczeństwa	none
+	bezpieczeństwo	subst:pl:nom:n	disamb
+jazdy	space
+	jazda	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+34	space
+	34	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+krajowych	space
+	krajowy	adj:pl:gen:m3:pos	disamb
+przewozów	space
+	przewóz	subst:pl:gen:m3	disamb
+regularnych	space
+	regularny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:acc:m3:congr	disamb
+)	none
+	)	interp	disamb
+międzynarodowych	space
+	międzynarodowy	adj:pl:gen:m3:pos	disamb
+przewozów	space
+	przewóz	subst:pl:gen:m3	disamb
+regularnych	space
+	regularny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+których	space
+	który	adj:pl:gen:m3:pos	disamb
+końcowe	space
+	końcowy	adj:pl:nom:m3:pos	disamb
+punkty	space
+	punkt	subst:pl:nom:m3	disamb
+tras	space
+	trasa	subst:pl:gen:f	disamb
+
+znajdują	none
+	znajdować	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+odległości	space
+	odległość	subst:sg:loc:f	disamb
+do	space
+	do	prep:gen	disamb
+50	space
+	50	num:pl:gen:m3:congr	disamb
+km	space
+	kilometr	brev:npun	disamb
+w	space
+	w	prep:loc:nwok	disamb
+linii	space
+	linia	subst:sg:loc:f	disamb
+prostej	space
+	prosty	adj:sg:loc:f:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+granicy	space
+	granica	subst:sg:gen:f	disamb
+pomiędzy	space
+	pomiędzy	prep:inst	disamb
+
+dwoma	none
+	dwa	num:pl:inst:m3:congr	disamb
+krajami	space
+	kraj	subst:pl:inst:m3	disamb
+członkowskimi	space
+	członkowski	adj:pl:inst:m3:pos	disamb
+Unii	space
+	unia	subst:sg:gen:f	disamb
+Europejskiej	space
+	europejski	adj:sg:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+których	space
+	który	adj:pl:gen:m3:pos	disamb
+trasa	space
+	trasa	subst:sg:nom:f	disamb
+nie	space
+	nie	qub	disamb
+
+przekracza	none
+	przekraczać	fin:sg:ter:imperf	disamb
+100	space
+	100	num:pl:acc:m3:rec	disamb
+km	space
+	kilometr	brev:npun	disamb
+,	none
+	,	interp	disamb
+
+pojazdami	none
+	pojazd	subst:pl:inst:m3	disamb
+niewyposażonymi	space
+	niewyposażonymi	ppas:pl:nom:m3:perf:neg	disamb
+w	space
+	w	prep:acc:nwok	disamb
+przyrządy	space
+	przyrząd	subst:pl:acc:m3	disamb
+kontrolne	none
+	kontrolny	adj:pl:acc:m3:pos	disamb
+-	space
+	-	interp	disamb
+pracodawca	space
+	pracodawca	subst:sg:nom:m1	disamb
+sporządza	space
+	sporządzać	fin:sg:ter:imperf	disamb
+
+rozkład	none
+	rozkład	subst:sg:nom:m3	disamb
+jazdy	space
+	jazda	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+plan	space
+	plan	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Plan	newline
+	plan	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+jest	none
+	być	fin:sg:ter:imperf	disamb
+imienny	space
+	imienny	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+zawiera	space
+	zawierać	fin:sg:ter:imperf	disamb
+informacje	space
+	informacja	subst:pl:acc:f	disamb
+dotyczące	space
+	dotyczyć	pact:pl:acc:f:imperf:aff	disamb
+miejsca	space
+	miejsce	subst:sg:gen:n	disamb
+zatrudnienia	space
+	zatrudnić	ger:sg:gen:n:perf:aff	disamb
+
+kierowcy	none
+	kierowca	subst:pl:nom:m1	disamb
+oraz	space
+	oraz	conj	disamb
+harmonogram	space
+	harmonogram	subst:sg:nom:m3	disamb
+uwzględniający	space
+	uwzględniać	pact:sg:nom:m3:imperf:aff	disamb
+okresy	space
+	okres	subst:pl:acc:m3	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+wykonywania	none
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+innej	space
+	inny	adj:sg:gen:f:pos	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	space
+	,	interp	disamb
+okresy	space
+	okres	subst:pl:nom:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Plan	newline
+	plan	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+podpisuje	space
+	podpisywać	fin:sg:ter:imperf	disamb
+
+pracodawca	none
+	pracodawca	subst:sg:nom:m1	disamb
+lub	space
+	lub	conj	disamb
+osoba	space
+	osoba	subst:sg:nom:f	disamb
+przez	none
+	przez	prep:acc:nwok	disamb
+niego	space
+	on	ppron3:sg:acc:m1:ter:akc:praep	disamb
+upoważniona	space
+	upoważnić	ppas:sg:nom:f:perf:aff	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Harmonogram	newline
+	harmonogram	subst:sg:nom:m3	disamb
+obejmuje	space
+	obejmować	fin:sg:ter:imperf	disamb
+tydzień	space
+	tydzień	subst:sg:acc:m3	disamb
+bieżący	space
+	bieżący	adj:sg:acc:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+tydzień	space
+	tydzień	subst:sg:acc:m3	disamb
+bezpośrednio	space
+	bezpośrednio	adv:pos	disamb
+poprzedzający	space
+	poprzedzać	pact:sg:acc:m3:imperf:aff	disamb
+
+i	none
+	i	conj	disamb
+następujący	space
+	następujący	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+kierowca	space
+	kierowca	subst:sg:nom:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+posiadać	space
+	posiadać	inf:imperf	disamb
+wyciąg	space
+	wyciąg	subst:sg:acc:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+planu	space
+	plan	subst:sg:gen:m3	disamb
+
+pracy	none
+	praca	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+kopię	space
+	kopia	subst:sg:acc:f	disamb
+rozkładu	space
+	rozkład	subst:sg:gen:m3	disamb
+jazdy	space
+	jazda	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Pracodawca	newline
+	pracodawca	subst:sg:nom:m1	disamb
+przechowuje	space
+	przechowywać	fin:sg:ter:imperf	disamb
+plan	space
+	plan	subst:sg:acc:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+rok	space
+	rok	subst:sg:acc:m3	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+okresu	space
+	okres	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+którego	space
+	który	adj:sg:gen:m3:pos	disamb
+
+dotyczył	none
+	dotyczyć	praet:sg:m1:imperf	disamb
+.	none
+	.	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Pracodawca	newline
+	pracodawca	subst:sg:nom:m1	disamb
+każdorazowo	space
+	każdorazowo	adv:pos	disamb
+udostępnia	space
+	udostępniać	fin:sg:ter:imperf	disamb
+kierowcy	space
+	kierowca	subst:sg:dat:m1	disamb
+kopię	space
+	kopia	subst:sg:acc:f	disamb
+planu	space
+	plan	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+
+wniosek	none
+	wniosek	subst:sg:acc:m3	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+
+Przyrząd	none
+	przyrząd	subst:sg:nom:m3	disamb
+kontrolny	space
+	kontrolny	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+karta	space
+	karta	subst:sg:nom:f	disamb
+drogowa	space
+	drogowy	adj:sg:nom:f:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+35	space
+	35	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+pojazdach	space
+	pojazd	subst:pl:loc:m3	disamb
+samochodowych	space
+	samochodowy	adj:pl:loc:m3:pos	disamb
+używanych	space
+	używać	ppas:pl:loc:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przewozu	space
+	przewóz	subst:sg:gen:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+(	space
+	(	interp	disamb
+pasażerów	none
+	pasażer	subst:pl:gen:m1	disamb
+)	none
+	)	interp	disamb
+i	space
+	i	conj	disamb
+rzeczy	space
+	rzecz	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+wyłączeniem	none
+	wyłączyć	ger:sg:inst:n:perf:aff	disamb
+pojazdów	space
+	pojazd	subst:pl:gen:m3	disamb
+wymienionych	space
+	wymienić	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:loc:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+34	space
+	34	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+należy	none
+	należeć	fin:sg:ter:imperf	disamb
+instalować	space
+	instalować	inf:imperf	disamb
+i	space
+	i	conj	disamb
+użytkować	space
+	użytkować	inf:imperf	disamb
+przyrządy	space
+	przyrząd	subst:pl:acc:m3	disamb
+kontrolne	space
+	kontrolny	adj:pl:acc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Konstrukcję	newline
+	konstrukcja	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+instalację	space
+	instalacja	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+
+działanie	none
+	działanie	subst:sg:acc:n	disamb
+i	space
+	i	conj	disamb
+kontrolę	space
+	kontrola	subst:sg:acc:f	disamb
+przyrządów	space
+	przyrząd	subst:pl:gen:m3	disamb
+kontrolnych	space
+	kontrolny	adj:pl:gen:m3:pos	disamb
+określają	space
+	określać	fin:pl:ter:imperf	disamb
+odrębne	space
+	odrębny	adj:pl:nom:m3:pos	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przyrządy	newline
+	przyrząd	subst:pl:nom:m3	disamb
+kontrolne	space
+	kontrolny	adj:pl:nom:m3:pos	disamb
+służą	space
+	służyć	fin:pl:ter:imperf	disamb
+do	space
+	do	prep:gen	disamb
+rejestrowania	space
+	rejestrować	ger:sg:gen:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+następujących	space
+	następować	pact:pl:gen:f:imperf:aff	disamb
+
+okresów	none
+	okres	subst:pl:gen:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+innej	space
+	inny	adj:sg:gen:f:pos	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+prowadzeniu	space
+	prowadzić	ger:sg:loc:n:imperf:aff	disamb
+przeznaczonych	space
+	przeznaczyć	ppas:pl:gen:m3:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+odpoczynek	space
+	odpoczynek	subst:sg:acc:m3	disamb
+i	space
+	i	conj	disamb
+okresów	space
+	okres	subst:pl:gen:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+
+dobowego	none
+	dobowy	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+dyżuru	space
+	dyżur	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Pracodawcy	newline
+	pracodawca	subst:pl:nom:m1	disamb
+zapewniają	space
+	zapewniać	fin:pl:ter:imperf	disamb
+prawidłowe	space
+	prawidłowy	adj:sg:acc:n:pos	disamb
+funkcjonowanie	space
+	funkcjonowanie	subst:sg:acc:n	disamb
+przyrządu	space
+	przyrząd	subst:sg:gen:m3	disamb
+kontrolnego	space
+	kontrolny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+
+kierowcy	none
+	kierowca	subst:pl:nom:m1	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+właściwe	space
+	właściwy	adj:sg:nom:n:pos	disamb
+użytkowanie	space
+	użytkowanie	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kierowca	newline
+	kierowca	subst:sg:nom:m1	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+używać	space
+	używać	inf:imperf	disamb
+przyrząd	space
+	przyrząd	subst:sg:acc:m3	disamb
+kontrolny	space
+	kontrolny	adj:sg:acc:m3:pos	disamb
+każdego	space
+	każdy	adj:sg:gen:m3:pos	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+
+począwszy	none
+	począć	pant:perf	disamb
+od	space
+	od	prep:gen:nwok	disamb
+przejęcia	space
+	przejąć	ger:sg:gen:n:perf:aff	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+gdy	space
+	gdy	adv	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pojeździe	space
+	pojazda	subst:sg:loc:f	disamb
+znajduje	space
+	znajdować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+dwóch	space
+	dwa	num:pl:nom:m1:rec	disamb
+lub	space
+	lub	conj	disamb
+więcej	space
+	więcej	num:pl:nom:m1:rec	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+przyrząd	none
+	przyrząd	subst:sg:nom:m3	disamb
+kontrolny	space
+	kontrolny	adj:sg:nom:m3:pos	disamb
+rejestruje	space
+	rejestrować	fin:sg:ter:imperf	disamb
+okresy	space
+	okres	subst:pl:acc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+każdego	space
+	każdy	adj:sg:gen:m1:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+kierowców	none
+	kierowca	subst:pl:gen:m1	disamb
+prowadzących	space
+	prowadzić	pact:pl:gen:m1:imperf:aff	disamb
+pojazd	space
+	pojazd	subst:sg:acc:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kierowcy	newline
+	kierowca	subst:pl:nom:m1	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m1:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozdziale	space
+	rozdział	subst:sg:loc:m3	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+prowadzą	space
+	prowadzić	fin:pl:ter:imperf	disamb
+karty	space
+	karta	subst:pl:acc:f	disamb
+drogowe	space
+	drogowy	adj:pl:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+służące	space
+	służyć	pact:pl:acc:f:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+
+rejestrowania	none
+	rejestrować	ger:sg:gen:n:imperf:aff	disamb
+przebiegu	space
+	przebieg	subst:sg:gen:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Karta	newline
+	karta	subst:sg:nom:f	disamb
+drogowa	space
+	drogowy	adj:sg:nom:f:pos	disamb
+powinna	space
+	powinien	winien:sg:f:imperf	disamb
+zawierać	space
+	zawierać	inf:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+szczególności	none
+	szczególność	subst:pl:nom:f	disamb
+następujące	space
+	następować	pact:pl:nom:f:imperf:aff	disamb
+dane	space
+	dana	subst:pl:nom:f	disamb
+:	none
+	:	interp	disamb
+imię	space
+	imię	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+nazwisko	space
+	nazwisko	subst:sg:nom:n	disamb
+kierowcy	space
+	kierowca	subst:sg:gen:m1	disamb
+,	none
+	,	interp	disamb
+numer	space
+	numer	subst:sg:nom:m3	disamb
+rejestracyjny	space
+	rejestracyjny	adj:sg:nom:m3:pos	disamb
+
+pojazdu	none
+	pojazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+datę	space
+	data	subst:sg:acc:f	disamb
+i	space
+	i	conj	disamb
+cel	space
+	cel	subst:sg:nom:m3	disamb
+wyjazdu	space
+	wyjazd	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+liczbę	space
+	liczba	subst:sg:acc:f	disamb
+przejechanych	space
+	przejechać	ppas:pl:gen:m3:perf:aff	disamb
+kilometrów	space
+	kilometr	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+czas	space
+	czas	subst:sg:nom:m3	disamb
+
+prowadzenia	none
+	prowadzenie	subst:sg:gen:n	disamb
+pojazdu	space
+	pojazd	subst:sg:gen:m3	disamb
+oraz	space
+	oraz	conj	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+innej	space
+	inny	adj:sg:gen:f:pos	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+okresy	space
+	okres	subst:pl:nom:m3	disamb
+przerw	space
+	przerwa	subst:pl:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+prowadzeniu	space
+	prowadzić	ger:sg:loc:n:imperf:aff	disamb
+
+pojazdu	none
+	pojazd	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+okresy	space
+	okres	subst:pl:nom:m3	disamb
+odpoczynku	space
+	odpoczynek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+podpis	space
+	podpis	subst:sg:nom:m3	disamb
+pracodawcy	space
+	pracodawca	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kierowca	newline
+	kierowca	subst:sg:nom:m1	disamb
+na	space
+	na	prep:acc	disamb
+żądanie	space
+	żądanie	subst:sg:acc:n	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+uprawnionej	space
+	uprawnić	ppas:sg:gen:f:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+przeprowadzania	space
+	przeprowadzać	ger:sg:gen:n:imperf:aff	disamb
+kontroli	space
+	kontrola	subst:sg:gen:f	disamb
+
+przedstawia	none
+	przedstawiać	fin:sg:ter:imperf	disamb
+kartę	space
+	karta	subst:sg:acc:f	disamb
+drogową	space
+	drogowy	adj:sg:acc:f:pos	disamb
+do	space
+	do	prep:gen	disamb
+wglądu	space
+	wgląd	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+właściwy	space
+	właściwy	adj:sg:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+spraw	space
+	sprawa	subst:pl:gen:f	disamb
+transportu	space
+	transport	subst:sg:gen:m3	disamb
+określi	space
+	określić	fin:sg:ter:perf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+wzór	space
+	wzór	subst:sg:acc:m3	disamb
+
+karty	none
+	karta	subst:sg:gen:f	disamb
+drogowej	space
+	drogowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+uwzględnieniem	space
+	uwzględnić	ger:sg:inst:n:perf:aff	disamb
+danych	space
+	dana	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+
+Zmiany	none
+	zmiana	subst:pl:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+obowiązujących	space
+	obowiązujący	adj:pl:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+końcowe	space
+	końcowy	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+37	space
+	37	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+26	space
+	26	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+1974	space
+	1974	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+-	newline
+	-	interp	disamb
+Kodeks	space
+	kodeks	subst:sg:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1998	space
+	1998	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+21	space
+	21	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+94	none
+	94	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+106	space
+	106	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+668	space
+	668	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+113	space
+	113	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+717	space
+	717	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1999r	space
+	1999r	subst:sg:inst:n	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+99	space
+	99	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1152	space
+	1152	num:pl:nom:f:congr	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2000r	space
+	2000r	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+
+19	none
+	19	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+239	space
+	239	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+43	space
+	43	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+489	space
+	489	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+107	space
+	107	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1127	space
+	1127	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+120	space
+	120	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1268	space
+	1268	num:pl:nom:f:rec	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+2001r	none
+	2001r	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+11	space
+	11	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+84	space
+	84	num:pl:nom:m3:congr	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+28	space
+	28	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+301	space
+	301	num:pl:nom:f:rec	disamb
+)	none
+	)	interp	disamb
+wprowadza	space
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+następujące	space
+	następujący	adj:pl:acc:f:pos	disamb
+zmiany	space
+	zmiana	subst:pl:acc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1294	space
+	1294	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+§	space
+	§	interp	disamb
+1	none
+	1	adj:sg:loc:m3:pos	disamb
+po	space
+	po	prep:loc	disamb
+wyrazach	space
+	wyraz	subst:pl:loc:m3	disamb
+"	space
+	"	interp	disamb
+do	none
+	do	prep:gen	disamb
+12	space
+	12	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+"	none
+	"	interp	disamb
+przecinek	space
+	przecinek	subst:sg:nom:m3	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+
+kropką	none
+	kropka	subst:sg:inst:f	disamb
+oraz	space
+	oraz	conj	disamb
+skreśla	space
+	skreślać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+a	none
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stosunku	space
+	stosunek	subst:sg:loc:m3	disamb
+do	space
+	do	prep:gen	disamb
+kierowców	space
+	kierowca	subst:pl:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+transporcie	space
+	transport	subst:sg:loc:m3	disamb
+
+samochodowym	none
+	samochodowy	adj:sg:inst:n:pos	disamb
+i	space
+	i	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+komunikacji	space
+	komunikacja	subst:sg:loc:f	disamb
+samochodowej	space
+	samochodowy	adj:sg:loc:f:pos	disamb
+-	space
+	-	interp	disamb
+do	space
+	do	prep:gen	disamb
+10	space
+	10	num:pl:gen:f:congr	disamb
+godzin	space
+	godzina	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+dobę	space
+	doba	subst:sg:acc:f	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+skreśla	space
+	skreślać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1296	space
+	1296	adj:sg:nom:m3:pos	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1297	space
+	1297	adj:sg:loc:m3:pos	disamb
+wyrazy	space
+	wyraz	subst:pl:nom:m3	disamb
+"	space
+	"	interp	disamb
+,	space
+	,	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1294	space
+	1294	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1296	space
+	1296	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+i	none
+	i	conj	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+1294	none
+	1294	num:pl:nom:m3:congr	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+38	space
+	38	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepis	none
+	przepis	subst:sg:acc:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+34	space
+	34	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+uzyskania	space
+	uzyskać	ger:sg:gen:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Rzeczpospolitą	space
+	Rzeczpospolita	subst:sg:acc:f	disamb
+
+Polską	none
+	Polska	subst:sg:inst:f	disamb
+członkostwa	space
+	członkostwo	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Unii	space
+	unia	subst:sg:loc:f	disamb
+Europejskiej	space
+	europejski	adj:sg:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+39	space
+	39	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+stycznia	space
+	styczeń	subst:sg:gen:m3	disamb
+2003r	space
+	2003r	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+

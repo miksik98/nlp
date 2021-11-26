@@ -1,0 +1,271 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+
+przyjęty	none
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+11	space
+	11	adj:sg:gen:m3:pos	disamb
+września	space
+	wrzesień	subst:sg:gen:m3	disamb
+
+2009	none
+	2009	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+
+Umowy	none
+	umowa	subst:pl:nom:f	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+Kataru	space
+	Katar	subst:sg:gen:m3	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+unikania	space
+	unikać	ger:sg:gen:n:imperf:aff	disamb
+podwójnego	space
+	podwójny	adj:sg:gen:n:pos	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+zapobiegania	space
+	zapobiegać	ger:sg:gen:n:imperf:aff	disamb
+uchylaniu	space
+	uchylać	ger:sg:dat:n:imperf:aff	disamb
+się	space
+	się	qub	disamb
+
+od	none
+	od	prep:gen:nwok	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+podatków	space
+	podatek	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dochodu	space
+	dochód	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Doha	space
+	Doha	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+18	space
+	18	adj:sg:loc:m3:pos	disamb
+
+listopada	none
+	listopad	subst:sg:gen:m3	disamb
+2008	space
+	2008	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+
+na	none
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:gen:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+
+między	none
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+Kataru	space
+	Katar	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+
+unikania	none
+	unikać	ger:sg:gen:n:imperf:aff	disamb
+podwójnego	space
+	podwójny	adj:sg:gen:n:pos	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+zapobiegania	space
+	zapobiegać	ger:sg:gen:n:imperf:aff	disamb
+uchylaniu	space
+	uchylać	ger:sg:dat:n:imperf:aff	disamb
+się	space
+	się	qub	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+podatków	space
+	podatek	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dochodu	space
+	dochód	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Doha	space
+	Doha	subst:sg:loc:m3	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+18	space
+	18	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+2008	space
+	2008	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+życie	none
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	Marszałek	subst:sg:nom:m1	disamb
+
+SEJMU	none
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+-	none
+	-	interp	disamb
+/	none
+	/	interp	disamb
+
+Bronisław	none
+	Bronisław	subst:sg:nom:m1	disamb
+Komorowski	space
+	Komorowski	subst:sg:nom:m1	disamb
+

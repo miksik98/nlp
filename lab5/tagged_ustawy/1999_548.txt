@@ -1,0 +1,3148 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+53	space
+	53	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+548	space
+	548	num:pl:nom:m3:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:loc:f	disamb
+majątkowej	space
+	majątkowy	adj:sg:loc:f:pos	disamb
+funkcjonariuszy	none
+	funkcjonariusz	subst:pl:gen:m1	disamb
+Policji	space
+	policja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+Straży	space
+	straż	subst:sg:gen:f	disamb
+Granicznej	space
+	graniczny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+Państwowej	none
+	państwowy	adj:sg:gen:f:pos	disamb
+Straży	space
+	straż	subst:sg:gen:f	disamb
+Pożarnej	space
+	pożarny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+Służby	space
+	służba	subst:sg:gen:f	disamb
+Więziennej	space
+	więzienny	adj:sg:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+Urzędu	space
+	urząd	subst:sg:gen:m3	disamb
+Ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+ogólne	space
+	ogólny	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+normuje	space
+	normować	fin:sg:ter:imperf	disamb
+odpowiedzialność	space
+	odpowiedzialność	subst:sg:acc:f	disamb
+majątkową	space
+	majątkowy	adj:sg:acc:f:pos	disamb
+funkcjonariuszy	space
+	funkcjonariusz	subst:pl:gen:m1	disamb
+Policji	space
+	policja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+Straży	space
+	straż	subst:sg:gen:f	disamb
+
+Granicznej	none
+	graniczny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+Państwowej	space
+	państwowy	adj:sg:gen:f:pos	disamb
+Straży	space
+	straż	subst:sg:gen:f	disamb
+Pożarnej	space
+	pożarny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+Służby	space
+	służba	subst:sg:gen:f	disamb
+Więziennej	space
+	więzienny	adj:sg:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+Urzędu	space
+	urząd	subst:sg:gen:m3	disamb
+Ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+
+Państwa	none
+	państwo	subst:pl:gen:m1	disamb
+za	space
+	za	prep:acc	disamb
+szkody	space
+	szkoda	subst:pl:acc:f	disamb
+wyrządzone	space
+	wyrządzić	ppas:pl:acc:f:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+nich	space
+	on	ppron3:pl:acc:m1:ter:akc:praep	disamb
+,	none
+	,	interp	disamb
+wskutek	space
+	wskutek	prep:gen	disamb
+niewykonania	space
+	wykonać	ger:sg:gen:n:perf:neg	disamb
+lub	space
+	lub	conj	disamb
+
+nienależytego	none
+	nienależyty	adj:sg:gen:n:pos	disamb
+wykonania	space
+	wykonanie	subst:sg:gen:n	disamb
+obowiązków	space
+	obowiązek	subst:pl:gen:m3	disamb
+służbowych	space
+	służbowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+mieniu	space
+	mienie	subst:sg:loc:n	disamb
+Skarbu	space
+	skarb	subst:sg:gen:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+
+znajdującym	none
+	znajdować	pact:sg:inst:n:imperf:aff	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dyspozycji	space
+	dyspozycja	subst:sg:loc:f	disamb
+organów	space
+	organ	subst:pl:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+organizacyjnych	space
+	organizacyjny	adj:pl:gen:f:pos	disamb
+
+podległych	none
+	podległy	adj:pl:acc:m1:pos	disamb
+,	none
+	,	interp	disamb
+podporządkowanych	space
+	podporządkowanych	adj:pl:gen:m1:pos	disamb
+albo	space
+	albo	conj	disamb
+nadzorowanych	space
+	nadzorować	ppas:pl:gen:m1:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+ministrów	space
+	minister	subst:pl:acc:m1	disamb
+właściwych	space
+	właściwy	adj:pl:acc:m1:pos	disamb
+
+do	none
+	do	prep:gen	disamb
+spraw	space
+	sprawa	subst:pl:gen:f	disamb
+wewnętrznych	space
+	wewnętrzny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+sprawiedliwości	space
+	sprawiedliwość	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+Szefa	space
+	szef	subst:sg:gen:m1	disamb
+Urzędu	space
+	urząd	subst:sg:gen:m3	disamb
+Ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ilekroć	newline
+	ilekroć	adv	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+o	space
+	o	prep:loc	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+funkcjonariuszu	space
+	funkcjonariusz	subst:sg:voc:m1	disamb
+-	space
+	-	interp	disamb
+należy	space
+	należeć	fin:sg:ter:imperf	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+rozumieć	space
+	rozumieć	inf:imperf	disamb
+:	none
+	:	interp	disamb
+policjanta	space
+	policjant	subst:sg:acc:m1	disamb
+,	none
+	,	interp	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:acc:m1	disamb
+
+Straży	none
+	straż	subst:sg:gen:f	disamb
+Granicznej	space
+	graniczny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+strażaka	space
+	strażak	subst:sg:gen:m1	disamb
+Państwowej	space
+	państwowy	adj:sg:gen:f:pos	disamb
+Straży	space
+	straż	subst:sg:gen:f	disamb
+Pożarnej	space
+	pożarny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:gen:m1	disamb
+
+Służby	none
+	służba	subst:sg:gen:f	disamb
+Więziennej	space
+	więzienny	adj:sg:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:gen:m1	disamb
+Urzędu	space
+	urząd	subst:sg:gen:m3	disamb
+Ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+uposażeniu	space
+	uposażenie	subst:sg:dat:n	disamb
+przysługującym	space
+	przysługiwać	pact:sg:loc:n:imperf:aff	disamb
+funkcjonariuszowi	space
+	funkcjonariusz	subst:sg:dat:m1	disamb
+-	space
+	-	interp	disamb
+należy	space
+	należeć	fin:sg:ter:imperf	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+rozumieć	space
+	rozumieć	inf:imperf	disamb
+
+uposażenie	none
+	uposażenie	subst:sg:nom:n	disamb
+zasadnicze	space
+	zasadniczy	adj:sg:nom:n:pos	disamb
+wraz	space
+	wraz	adv	disamb
+z	space
+	z	prep:inst:nwok	disamb
+dodatkami	space
+	dodatek	subst:pl:inst:m3	disamb
+o	space
+	o	prep:loc	disamb
+charakterze	space
+	charakter	subst:sg:loc:m3	disamb
+stałym	space
+	stały	adj:sg:loc:m3:pos	disamb
+należne	space
+	należny	adj:pl:nom:n:pos	disamb
+
+funkcjonariuszowi	none
+	funkcjonariusz	subst:sg:dat:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+wyrządzenia	space
+	wyrządzić	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+po	space
+	po	prep:loc	disamb
+odliczeniu	space
+	odliczyć	ger:sg:loc:n:perf:aff	disamb
+składki	space
+	składka	subst:sg:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+
+obowiązkowe	none
+	obowiązkowy	adj:pl:nom:n:pos	disamb
+ubezpieczenia	space
+	ubezpieczenie	subst:pl:nom:n	disamb
+emerytalne	space
+	emerytalny	adj:pl:nom:n:pos	disamb
+i	space
+	i	conj	disamb
+rentowe	space
+	rentowy	adj:pl:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+
+Zasady	none
+	zasada	subst:sg:gen:f	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:gen:f	disamb
+majątkowej	space
+	majątkowy	adj:sg:gen:f:pos	disamb
+funkcjonariusza	none
+	funkcjonariusz	subst:sg:gen:m1	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Funkcjonariusz	none
+	funkcjonariusz	subst:sg:nom:m1	disamb
+,	none
+	,	interp	disamb
+który	space
+	który	adj:sg:nom:m1:pos	disamb
+wskutek	space
+	wskutek	prep:gen	disamb
+niewykonania	space
+	wykonać	ger:sg:gen:n:perf:neg	disamb
+lub	space
+	lub	conj	disamb
+nienależytego	space
+	nienależyty	adj:sg:gen:n:pos	disamb
+wykonania	space
+	wykonanie	subst:sg:gen:n	disamb
+
+obowiązków	none
+	obowiązek	subst:pl:gen:m3	disamb
+służbowych	space
+	służbowy	adj:pl:gen:m3:pos	disamb
+ze	space
+	z	prep:gen:wok	disamb
+swej	space
+	swój	adj:sg:gen:f:pos	disamb
+winy	space
+	wina	subst:sg:gen:f	disamb
+wyrządził	space
+	wyrządzić	praet:sg:m1:perf	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+mieniu	space
+	mienie	subst:sg:loc:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+ponosi	space
+	ponosić	fin:sg:ter:imperf	disamb
+odpowiedzialność	space
+	odpowiedzialność	subst:sg:acc:f	disamb
+majątkową	space
+	majątkowy	adj:sg:acc:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+granicach	space
+	granica	subst:pl:loc:f	disamb
+rzeczywistej	space
+	rzeczywisty	adj:sg:loc:f:pos	disamb
+
+straty	none
+	strata	subst:pl:nom:f	disamb
+i	space
+	i	conj	disamb
+tylko	space
+	tylko	qub	disamb
+za	space
+	za	prep:acc	disamb
+normalne	space
+	normalny	adj:pl:acc:n:pos	disamb
+następstwa	space
+	następstwo	subst:pl:acc:n	disamb
+działania	space
+	działanie	subst:sg:gen:n	disamb
+lub	space
+	lub	conj	disamb
+zaniechania	space
+	zaniechanie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+którego	space
+	który	adj:sg:gen:n:pos	disamb
+
+wynikła	none
+	wyniknąć	praet:sg:f:perf	disamb
+szkoda	space
+	szkoda	subst:sg:nom:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Organy	none
+	organ	subst:pl:nom:m3	disamb
+lub	space
+	lub	conj	disamb
+jednostki	space
+	jednostka	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+obowiązane	space
+	obowiązany	adj:pl:nom:f:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+wykazać	space
+	wykazać	inf:perf	disamb
+
+okoliczności	none
+	okoliczność	subst:pl:nom:f	disamb
+uzasadniające	space
+	uzasadniać	pact:pl:nom:f:imperf:aff	disamb
+odpowiedzialność	space
+	odpowiedzialność	subst:sg:acc:f	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:gen:m1	disamb
+oraz	space
+	oraz	conj	disamb
+wysokość	space
+	wysokość	subst:sg:acc:f	disamb
+
+wyrządzonej	none
+	wyrządzić	ppas:sg:gen:f:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Funkcjonariusz	none
+	funkcjonariusz	subst:sg:nom:m1	disamb
+nie	space
+	nie	qub	disamb
+ponosi	space
+	ponosić	fin:sg:ter:imperf	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:gen:f	disamb
+majątkowej	space
+	majątkowy	adj:sg:gen:f:pos	disamb
+za	space
+	za	prep:acc	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+takim	space
+	taki	adj:sg:loc:m3:pos	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jakim	space
+	jaki	adj:sg:loc:m3:pos	disamb
+organ	space
+	organ	subst:sg:nom:m3	disamb
+lub	space
+	lub	conj	disamb
+jednostka	space
+	jednostka	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+albo	space
+	albo	conj	disamb
+inna	space
+	inny	adj:sg:nom:f:pos	disamb
+osoba	space
+	osoba	subst:sg:nom:f	disamb
+przyczyniły	space
+	przyczynić	praet:pl:f:perf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+powstania	space
+	powstać	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+lub	space
+	lub	conj	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+
+zwiększenia	none
+	zwiększenie	subst:pl:nom:n	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wynikłą	space
+	wynikły	adj:sg:acc:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+związku	space
+	związek	subst:sg:loc:m3	disamb
+z	space
+	z	prep:inst:nwok	disamb
+działaniem	space
+	działać	ger:sg:inst:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+granicach	space
+	granica	subst:pl:loc:f	disamb
+dopuszczalnego	space
+	dopuszczalny	adj:sg:gen:n:pos	disamb
+ryzyka	space
+	ryzyko	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+wyrządzenia	space
+	wyrządzić	ger:sg:gen:n:perf:aff	disamb
+nieumyślnie	space
+	nieumyślnie	adv:pos	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+kilku	space
+	kilka	num:pl:acc:m1:rec	disamb
+funkcjonariuszy	space
+	funkcjonariusz	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+każdy	space
+	każdy	adj:sg:nom:m1:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+nich	none
+	on	ppron3:pl:gen:f:ter:akc:praep	disamb
+ponosi	space
+	ponosić	fin:sg:ter:imperf	disamb
+odpowiedzialność	space
+	odpowiedzialność	subst:sg:acc:f	disamb
+za	space
+	za	prep:acc	disamb
+część	space
+	część	subst:sg:acc:f	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+stosownie	space
+	stosownie	adv:pos	disamb
+do	space
+	do	prep:gen	disamb
+przyczynienia	space
+	przyczynić	ger:sg:gen:n:perf:aff	disamb
+się	space
+	się	qub	disamb
+
+do	none
+	do	prep:gen	disamb
+niej	space
+	on	ppron3:sg:gen:f:ter:akc:praep	disamb
+i	space
+	i	conj	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+winy	space
+	wina	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Jeżeli	none
+	jeżeli	comp	disamb
+nie	space
+	nie	qub	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+możliwe	space
+	możliwy	adj:sg:nom:n:pos	disamb
+ustalenie	space
+	ustalić	ger:sg:nom:n:perf:aff	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+winy	space
+	wina	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+
+przyczynienia	none
+	przyczynić	ger:sg:gen:n:perf:aff	disamb
+się	space
+	się	qub	disamb
+poszczególnych	space
+	poszczególny	adj:pl:gen:m1:pos	disamb
+funkcjonariuszy	space
+	funkcjonariusz	subst:pl:gen:m1	disamb
+do	space
+	do	prep:gen	disamb
+powstania	space
+	powstać	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+odpowiadają	none
+	odpowiadać	fin:pl:ter:imperf	disamb
+oni	space
+	on	ppron3:pl:nom:m1:ter:akc:npraep	disamb
+w	space
+	w	prep:loc:nwok	disamb
+częściach	space
+	część	subst:pl:loc:f	disamb
+równych	space
+	równy	adj:pl:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Funkcjonariusz	none
+	funkcjonariusz	subst:sg:nom:m1	disamb
+odpowiedzialny	space
+	odpowiedzialny	adj:sg:nom:m1:pos	disamb
+za	space
+	za	prep:acc	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+wyrządzoną	space
+	wyrządzić	ppas:sg:acc:f:perf:aff	disamb
+nieumyślnie	space
+	nieumyślnie	adv:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+
+do	none
+	do	prep:gen	disamb
+zapłaty	space
+	zapłata	subst:sg:gen:f	disamb
+odszkodowania	space
+	odszkodować	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+wysokości	space
+	wysokość	subst:sg:loc:f	disamb
+wyrządzonej	space
+	wyrządzić	ppas:sg:gen:f:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+jednak	space
+	jednak	conj	disamb
+odszkodowanie	space
+	odszkodowanie	subst:sg:nom:n	disamb
+
+nie	none
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+przewyższać	space
+	przewyższać	inf:imperf	disamb
+kwoty	space
+	kwota	subst:sg:gen:f	disamb
+trzymiesięcznego	space
+	trzymiesięczny	adj:sg:gen:n:pos	disamb
+uposażenia	space
+	uposażenie	subst:sg:gen:n	disamb
+przysługującego	space
+	przysługiwać	pact:sg:gen:n:imperf:aff	disamb
+
+funkcjonariuszowi	none
+	funkcjonariusz	subst:sg:dat:m1	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Jeżeli	none
+	jeżeli	comp	disamb
+naprawienie	space
+	naprawienie	subst:sg:nom:n	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+wyrządzonej	space
+	wyrządzić	ppas:sg:gen:f:perf:aff	disamb
+nieumyślnie	space
+	nieumyślnie	adv:pos	disamb
+następuje	space
+	następować	fin:sg:ter:imperf	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+ugody	space
+	ugoda	subst:sg:gen:f	disamb
+
+między	none
+	między	prep:inst	disamb
+organem	space
+	organ	subst:sg:inst:m3	disamb
+lub	space
+	lub	conj	disamb
+jednostką	space
+	jednostka	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+
+funkcjonariuszem	none
+	funkcjonariusz	subst:sg:inst:m1	disamb
+,	none
+	,	interp	disamb
+który	space
+	który	adj:sg:nom:m1:pos	disamb
+wyrządził	space
+	wyrządzić	praet:sg:m1:perf	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+wysokość	space
+	wysokość	subst:sg:acc:f	disamb
+odszkodowania	space
+	odszkodować	ger:sg:gen:n:perf:aff	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+
+obniżona	none
+	obniżyć	ppas:sg:nom:f:perf:aff	disamb
+,	none
+	,	interp	disamb
+przy	space
+	przy	prep:loc	disamb
+uwzględnieniu	space
+	uwzględnić	ger:sg:loc:n:perf:aff	disamb
+wszystkich	space
+	wszystek	adj:pl:gen:f:pos	disamb
+okoliczności	space
+	okoliczność	subst:pl:gen:f	disamb
+sprawy	space
+	sprawa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+
+stopnia	none
+	stopień	subst:sg:gen:m3	disamb
+winy	space
+	wina	subst:sg:gen:f	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:gen:m1	disamb
+i	space
+	i	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+stosunku	space
+	stosunek	subst:sg:gen:m3	disamb
+do	space
+	do	prep:gen	disamb
+obowiązków	space
+	obowiązek	subst:pl:gen:m3	disamb
+służbowych	space
+	służbowy	adj:pl:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Jeżeli	none
+	jeżeli	comp	disamb
+funkcjonariusz	space
+	funkcjonariusz	subst:sg:nom:m1	disamb
+umyślnie	space
+	umyślnie	adv:pos	disamb
+wyrządził	space
+	wyrządzić	praet:sg:m1:perf	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+
+naprawienia	none
+	naprawienie	subst:pl:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pełnej	space
+	pełny	adj:sg:loc:f:pos	disamb
+wysokości	space
+	wysokość	subst:sg:loc:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+wyrządzenia	space
+	wyrządzić	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+osobie	space
+	osoba	subst:sg:dat:f	disamb
+trzeciej	space
+	trzeci	adj:sg:dat:f:pos	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:acc:m1	disamb
+przy	space
+	przy	prep:loc	disamb
+
+wykonywaniu	none
+	wykonywać	ger:sg:dat:n:imperf:aff	disamb
+obowiązków	space
+	obowiązek	subst:pl:gen:m3	disamb
+służbowych	space
+	służbowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+wyłącznie	space
+	wyłącznie	qub	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+naprawienia	space
+	naprawienie	subst:sg:gen:n	disamb
+
+szkody	none
+	szkoda	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+określonych	space
+	określony	adj:pl:loc:f:pos	disamb
+przepisami	none
+	przepis	subst:pl:inst:m3	disamb
+Kodeksu	space
+	kodeks	subst:sg:gen:m3	disamb
+cywilnego	space
+	cywilny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+Skarb	space
+	skarb	subst:sg:nom:m3	disamb
+
+Państwa	none
+	państwo	subst:pl:gen:m1	disamb
+reprezentowany	space
+	reprezentować	ppas:sg:nom:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+organ	space
+	organ	subst:sg:acc:m3	disamb
+lub	space
+	lub	conj	disamb
+jednostkę	space
+	jednostka	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+funkcjonariusz	space
+	funkcjonariusz	subst:sg:nom:m1	disamb
+pełnił	space
+	pełnić	praet:sg:m1:imperf	disamb
+służbę	space
+	służba	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+chwili	space
+	chwila	subst:sg:loc:f	disamb
+wyrządzenia	space
+	wyrządzić	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Funkcjonariusz	newline
+	funkcjonariusz	subst:sg:nom:m1	disamb
+ponosi	space
+	ponosić	fin:sg:ter:imperf	disamb
+przewidzianą	space
+	przewidzieć	ppas:sg:acc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+odpowiedzialność	space
+	odpowiedzialność	subst:sg:acc:f	disamb
+
+wobec	none
+	wobec	prep:gen	disamb
+Skarbu	space
+	skarb	subst:sg:gen:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+który	space
+	który	adj:sg:nom:m1:pos	disamb
+naprawił	space
+	naprawić	praet:sg:m1:perf	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+
+Odpowiedzialność	none
+	odpowiedzialność	subst:sg:acc:f	disamb
+za	space
+	za	prep:acc	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+wyrządzoną	space
+	wyrządzić	ppas:sg:acc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+mieniu	space
+	mienie	subst:sg:loc:n	disamb
+powierzonym	space
+	powierzyć	ppas:sg:loc:n:perf:aff	disamb
+funkcjonariuszowi	space
+	funkcjonariusz	subst:sg:dat:m1	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Funkcjonariusz	newline
+	funkcjonariusz	subst:sg:nom:m1	disamb
+odpowiada	space
+	odpowiadać	fin:sg:ter:imperf	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pełnej	space
+	pełny	adj:sg:loc:f:pos	disamb
+wysokości	space
+	wysokość	subst:sg:loc:f	disamb
+za	space
+	za	prep:acc	disamb
+
+szkodę	none
+	szkoda	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+mieniu	space
+	mienie	subst:sg:loc:n	disamb
+powierzonym	space
+	powierzyć	ppas:sg:loc:n:perf:aff	disamb
+mu	space
+	on	ppron3:sg:dat:m1:ter:nakc:npraep	disamb
+z	space
+	z	prep:inst:nwok	disamb
+obowiązkiem	space
+	obowiązek	subst:sg:inst:m3	disamb
+zwrotu	space
+	zwrot	subst:sg:gen:m3	disamb
+albo	space
+	albo	conj	disamb
+wyliczenia	space
+	wyliczyć	ger:sg:gen:n:perf:aff	disamb
+się	space
+	się	qub	disamb
+,	none
+	,	interp	disamb
+
+zwanym	none
+	zwać	ppas:sg:inst:m3:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+"	space
+	"	interp	disamb
+mieniem	none
+	mienie	subst:sg:inst:n	disamb
+powierzonym	space
+	powierzyć	ppas:sg:inst:n:perf:aff	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Funkcjonariusz	newline
+	funkcjonariusz	subst:sg:nom:m1	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+uwolnić	space
+	uwolnić	inf:perf	disamb
+się	space
+	się	qub	disamb
+od	space
+	od	prep:gen:nwok	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:gen:f	disamb
+za	space
+	za	prep:acc	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+mieniu	space
+	mienie	subst:sg:loc:n	disamb
+
+powierzonym	none
+	powierzyć	ppas:sg:inst:n:perf:aff	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+wykaże	space
+	wykazać	fin:sg:ter:perf	disamb
+,	none
+	,	interp	disamb
+że	space
+	że	comp	disamb
+powstała	space
+	powstać	praet:sg:f:perf	disamb
+ona	space
+	on	ppron3:sg:nom:f:ter:akc:npraep	disamb
+z	space
+	z	prep:gen:nwok	disamb
+przyczyn	space
+	przyczyna	subst:pl:gen:f	disamb
+od	space
+	od	prep:gen:nwok	disamb
+niego	space
+	on	ppron3:sg:gen:m3:ter:akc:praep	disamb
+
+niezależnych	none
+	niezależny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+wskutek	space
+	wskutek	prep:gen	disamb
+niezapewnienia	space
+	zapewnić	ger:sg:gen:n:perf:neg	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+właściwą	space
+	właściwy	adj:sg:acc:f:pos	disamb
+
+jednostkę	none
+	jednostka	subst:sg:acc:f	disamb
+organizacyjną	space
+	organizacyjny	adj:sg:acc:f:pos	disamb
+warunków	space
+	warunek	subst:pl:gen:m3	disamb
+umożliwiających	space
+	umożliwiać	pact:pl:gen:n:imperf:aff	disamb
+prawidłowe	space
+	prawidłowy	adj:sg:acc:n:pos	disamb
+zabezpieczenie	space
+	zabezpieczenie	subst:sg:acc:n	disamb
+
+powierzonego	none
+	powierzyć	ppas:sg:gen:n:perf:aff	disamb
+mienia	space
+	mienie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Prezes	newline
+	prezes	subst:sg:nom:m1	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+oraz	space
+	oraz	conj	disamb
+ministrowie	space
+	minister	subst:pl:nom:m1	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m1:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+każdy	none
+	każdy	adj:sg:nom:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+swojej	space
+	swój	adj:sg:gen:f:pos	disamb
+właściwości	space
+	właściwość	subst:sg:gen:f	disamb
+określą	space
+	określić	fin:pl:ter:perf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+zasady	space
+	zasada	subst:pl:acc:f	disamb
+
+i	none
+	i	conj	disamb
+tryb	space
+	tryb	subst:sg:acc:m3	disamb
+powierzania	space
+	powierzać	ger:sg:gen:n:imperf:aff	disamb
+funkcjonariuszom	space
+	funkcjonariusz	subst:pl:dat:m1	disamb
+mienia	space
+	mienie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11	space
+	11	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Na	newline
+	na	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+określonych	space
+	określić	ppas:pl:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+funkcjonariusze	space
+	funkcjonariusz	subst:pl:nom:m1	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+przyjąć	space
+	przyjąć	inf:perf	disamb
+wspólną	space
+	wspólny	adj:sg:acc:f:pos	disamb
+
+odpowiedzialność	none
+	odpowiedzialność	subst:sg:acc:f	disamb
+majątkową	space
+	majątkowy	adj:sg:acc:f:pos	disamb
+za	space
+	za	prep:acc	disamb
+mienie	space
+	mienie	subst:sg:acc:n	disamb
+powierzone	space
+	powierzyć	ppas:sg:acc:n:perf:aff	disamb
+im	space
+	on	ppron3:pl:dat:m1:ter:akc:npraep	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+.	none
+	.	interp	disamb
+
+Podstawą	none
+	podstawa	subst:sg:inst:f	disamb
+
+łącznego	none
+	łączny	adj:sg:gen:n:pos	disamb
+powierzenia	space
+	powierzenie	subst:sg:gen:n	disamb
+mienia	space
+	mienie	subst:sg:gen:n	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+umowa	space
+	umowa	subst:sg:nom:f	disamb
+o	space
+	o	prep:loc	disamb
+wspólnej	space
+	wspólny	adj:sg:loc:f:pos	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:loc:f	disamb
+
+majątkowej	none
+	majątkowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+zawarta	space
+	zawrzeć	ppas:sg:nom:f:perf:aff	disamb
+,	none
+	,	interp	disamb
+pod	space
+	pod	prep:inst:nwok	disamb
+rygorem	space
+	rygor	subst:sg:inst:m3	disamb
+nieważności	space
+	nieważność	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+piśmie	space
+	pismo	subst:sg:loc:n	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+funkcjonariuszy	none
+	funkcjonariusz	subst:pl:gen:m1	disamb
+z	space
+	z	prep:inst:nwok	disamb
+kierownikiem	space
+	kierownik	subst:sg:inst:m1	disamb
+jednostki	space
+	jednostka	subst:sg:gen:f	disamb
+organizacyjnej	space
+	organizacyjny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+dyspozycji	space
+	dyspozycja	subst:sg:loc:f	disamb
+
+znajduje	none
+	znajdować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+powierzone	space
+	powierzyć	ppas:sg:nom:n:perf:aff	disamb
+mienie	space
+	mienie	subst:sg:acc:n	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Funkcjonariusze	newline
+	funkcjonariusz	subst:pl:nom:m1	disamb
+ponoszący	space
+	ponosić	pact:pl:nom:m1:imperf:aff	disamb
+wspólną	space
+	wspólny	adj:sg:acc:f:pos	disamb
+odpowiedzialność	space
+	odpowiedzialność	subst:sg:acc:f	disamb
+majątkową	space
+	majątkowy	adj:sg:acc:f:pos	disamb
+odpowiadają	space
+	odpowiadać	fin:pl:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+częściach	none
+	część	subst:pl:loc:f	disamb
+określonych	space
+	określić	ppas:pl:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+umowie	space
+	umowa	subst:sg:loc:f	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+umowa	space
+	umowa	subst:sg:nom:f	disamb
+nie	space
+	nie	qub	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+części	space
+	część	subst:pl:gen:f	disamb
+-	space
+	-	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+częściach	none
+	część	subst:pl:loc:f	disamb
+równych	space
+	równy	adj:pl:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+ustalenia	space
+	ustalenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+że	space
+	że	comp	disamb
+szkoda	space
+	szkoda	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+całości	space
+	całość	subst:sg:loc:f	disamb
+albo	space
+	albo	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+części	space
+	część	subst:sg:loc:f	disamb
+została	space
+	zostać	praet:sg:f:perf	disamb
+spowodowana	space
+	spowodować	ppas:sg:nom:f:perf:aff	disamb
+
+przez	none
+	przez	prep:acc:nwok	disamb
+niektórych	space
+	niektóry	adj:pl:acc:m1:pos	disamb
+funkcjonariuszy	space
+	funkcjonariusz	subst:pl:acc:m1	disamb
+,	none
+	,	interp	disamb
+za	space
+	za	prep:acc	disamb
+całość	space
+	całość	subst:sg:acc:f	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+albo	space
+	albo	conj	disamb
+za	space
+	za	prep:acc	disamb
+stosowną	space
+	stosowny	adj:sg:acc:f:pos	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+
+część	none
+	część	subst:sg:acc:f	disamb
+odpowiadają	space
+	odpowiadać	fin:pl:ter:imperf	disamb
+tylko	space
+	tylko	qub	disamb
+sprawcy	space
+	sprawca	subst:pl:nom:m1	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Rada	newline
+	rada	subst:sg:nom:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+określi	space
+	określić	fin:sg:ter:perf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+szczegółowe	space
+	szczegółowy	adj:pl:acc:f:pos	disamb
+zasady	space
+	zasada	subst:pl:acc:f	disamb
+i	space
+	i	conj	disamb
+tryb	space
+	tryb	subst:sg:acc:m3	disamb
+zawierania	space
+	zawierać	ger:sg:gen:n:imperf:aff	disamb
+umowy	space
+	umowa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+wspólnej	space
+	wspólny	adj:sg:loc:f:pos	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:loc:f	disamb
+
+majątkowej	none
+	majątkowy	adj:sg:gen:f:pos	disamb
+funkcjonariuszy	space
+	funkcjonariusz	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:acc:f:congr	disamb
+)	none
+	)	interp	disamb
+szczegółowe	space
+	szczegółowy	adj:pl:acc:f:pos	disamb
+zasady	space
+	zasada	subst:pl:acc:f	disamb
+i	space
+	i	conj	disamb
+tryb	space
+	tryb	subst:sg:acc:m3	disamb
+łącznego	space
+	łączny	adj:sg:gen:n:pos	disamb
+powierzania	space
+	powierzać	ger:sg:gen:n:imperf:aff	disamb
+mienia	space
+	mienie	subst:sg:gen:n	disamb
+funkcjonariuszom	space
+	funkcjonariusz	subst:pl:dat:m1	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+szczegółowe	space
+	szczegółowy	adj:pl:acc:m3:pos	disamb
+warunki	space
+	warunek	subst:pl:acc:m3	disamb
+wspólnej	space
+	wspólny	adj:sg:gen:f:pos	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:gen:f	disamb
+za	space
+	za	prep:acc	disamb
+szkodę	space
+	szkoda	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+mieniu	space
+	mienie	subst:sg:loc:n	disamb
+
+powierzonym	none
+	powierzyć	ppas:sg:inst:m3:perf:aff	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+funkcjonariuszom	space
+	funkcjonariusz	subst:pl:dat:m1	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+12	space
+	12	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	none
+	do	prep:gen	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:gen:f	disamb
+określonej	space
+	określić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+11	space
+	11	adj:sg:loc:m3:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+
+przepisy	none
+	przepis	subst:pl:acc:m3	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+
+Dochodzenie	none
+	dochodzić	ger:sg:nom:n:imperf:aff	disamb
+roszczeń	space
+	roszczenie	subst:pl:gen:n	disamb
+o	space
+	o	prep:acc	disamb
+odszkodowanie	space
+	odszkodować	ger:sg:acc:n:perf:aff	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13	space
+	13	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Organ	newline
+	organ	subst:sg:nom:m3	disamb
+lub	space
+	lub	conj	disamb
+jednostka	space
+	jednostka	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+po	none
+	po	prep:loc	disamb
+stwierdzeniu	space
+	stwierdzić	ger:sg:loc:n:perf:aff	disamb
+
+zaistnienia	none
+	zaistnieć	ger:sg:gen:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+ustaleniu	space
+	ustalić	ger:sg:loc:n:perf:aff	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+wysokości	space
+	wysokość	subst:sg:gen:f	disamb
+wzywa	space
+	wzywać	fin:sg:ter:imperf	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:acc:m1	disamb
+do	space
+	do	prep:gen	disamb
+
+dobrowolnej	none
+	dobrowolny	adj:sg:gen:f:pos	disamb
+zapłaty	space
+	zapłata	subst:sg:gen:f	disamb
+odszkodowania	space
+	odszkodowanie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+określonym	space
+	określony	adj:sg:loc:m3:pos	disamb
+terminie	space
+	termin	subst:sg:loc:m3	disamb
+lub	space
+	lub	conj	disamb
+złożenia	space
+	złożyć	ger:sg:gen:n:perf:aff	disamb
+
+pisemnego	none
+	pisemny	adj:sg:gen:n:pos	disamb
+zobowiązania	space
+	zobowiązanie	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+zapłaty	space
+	zapłata	subst:sg:gen:f	disamb
+odszkodowania	space
+	odszkodowanie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Wysokość	newline
+	wysokość	subst:sg:nom:f	disamb
+odszkodowania	space
+	odszkodowanie	subst:sg:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+
+sposób	none
+	sposób	subst:sg:nom:m3	disamb
+jego	space
+	on	ppron3:sg:gen:m3:ter:akc:npraep	disamb
+uiszczenia	space
+	uiścić	ger:sg:gen:n:perf:aff	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+ustalone	space
+	ustalić	ppas:pl:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+pisemnej	space
+	pisemny	adj:sg:gen:f:pos	disamb
+ugody	space
+	ugoda	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Prezes	newline
+	prezes	subst:sg:nom:m1	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+oraz	space
+	oraz	conj	disamb
+ministrowie	space
+	minister	subst:pl:nom:m1	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m1:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+każdy	none
+	każdy	adj:sg:nom:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+swojej	space
+	swój	adj:sg:gen:f:pos	disamb
+właściwości	space
+	właściwość	subst:sg:gen:f	disamb
+określą	space
+	określić	fin:pl:ter:perf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+
+podmioty	none
+	podmiot	subst:pl:nom:m3	disamb
+właściwe	space
+	właściwy	adj:pl:nom:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+ustalania	space
+	ustalać	ger:sg:gen:n:imperf:aff	disamb
+wysokości	space
+	wysokość	subst:sg:gen:f	disamb
+szkód	space
+	szkoda	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+zawierania	space
+	zawierać	ger:sg:gen:n:imperf:aff	disamb
+ugód	space
+	ugoda	subst:pl:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+
+podejmowania	none
+	podejmować	ger:sg:gen:n:imperf:aff	disamb
+innych	space
+	inny	adj:pl:gen:f:pos	disamb
+decyzji	space
+	decyzja	subst:pl:gen:f	disamb
+dotyczących	space
+	dotyczyć	pact:pl:gen:f:imperf:aff	disamb
+szkód	space
+	szkoda	subst:pl:gen:f	disamb
+wyrządzonych	space
+	wyrządzić	ppas:pl:gen:f:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+funkcjonariuszy	none
+	funkcjonariusz	subst:pl:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+14	space
+	14	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+przedawnienia	space
+	przedawnić	ger:sg:gen:n:perf:aff	disamb
+roszczeń	space
+	roszczenie	subst:pl:gen:n	disamb
+o	space
+	o	prep:acc	disamb
+naprawienie	space
+	naprawić	ger:sg:acc:n:perf:aff	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+wyrządzonej	space
+	wyrządzić	ppas:sg:gen:f:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+funkcjonariusza	none
+	funkcjonariusz	subst:sg:gen:m1	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zastrzeżeniem	space
+	zastrzeżenie	subst:sg:inst:n	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+Działu	space
+	dział	subst:sg:gen:m3	disamb
+
+czternastego	none
+	czternasty	adj:sg:gen:m3:pos	disamb
+Kodeksu	space
+	kodeks	subst:sg:gen:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+wyrządzenia	space
+	wyrządzić	ger:sg:gen:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+funkcjonariusza	space
+	funkcjonariusz	subst:sg:acc:m1	disamb
+szkody	space
+	szkoda	subst:sg:gen:f	disamb
+osobie	space
+	osoba	subst:sg:dat:f	disamb
+trzeciej	space
+	trzeci	adj:sg:dat:f:pos	disamb
+,	none
+	,	interp	disamb
+terminy	space
+	termin	subst:pl:nom:m3	disamb
+
+przedawnienia	none
+	przedawnienie	subst:pl:nom:n	disamb
+liczą	space
+	liczyć	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+od	space
+	od	prep:gen:nwok	disamb
+zaspokojenia	space
+	zaspokoić	ger:sg:gen:n:perf:aff	disamb
+roszczenia	space
+	roszczenie	subst:sg:gen:n	disamb
+tej	space
+	ten	adj:sg:gen:f:pos	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+15	space
+	15	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Spory	none
+	spora	subst:pl:nom:f	disamb
+dotyczące	space
+	dotyczyć	pact:pl:nom:f:imperf:aff	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:gen:f	disamb
+majątkowej	space
+	majątkowy	adj:sg:gen:f:pos	disamb
+funkcjonariuszy	space
+	funkcjonariusz	subst:pl:gen:m1	disamb
+rozpoznają	space
+	rozpoznawać	fin:pl:ter:imperf	disamb
+sądy	space
+	sąd	subst:pl:acc:m3	disamb
+
+pracy	none
+	praca	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+sądy	space
+	sąd	subst:pl:nom:m3	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+ubezpieczeń	space
+	ubezpieczenie	subst:pl:gen:n	disamb
+społecznych	space
+	społeczny	adj:pl:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+
+Zmiany	none
+	zmiana	subst:pl:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+obowiązujących	space
+	obowiązujący	adj:pl:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+przejściowe	space
+	przejściowy	adj:pl:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+końcowe	space
+	końcowy	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+16	space
+	16	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+dekrecie	space
+	dekret	subst:sg:loc:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+5	space
+	5	adj:sg:gen:m3:pos	disamb
+października	space
+	październik	subst:sg:gen:m3	disamb
+1955	space
+	1955	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:loc:f	disamb
+materialnej	space
+	materialny	adj:sg:loc:f:pos	disamb
+
+żołnierzy	none
+	żołnierz	subst:pl:acc:m1	disamb
+za	space
+	za	prep:acc	disamb
+szkody	space
+	szkoda	subst:pl:acc:f	disamb
+wyrządzone	space
+	wyrządzić	ppas:pl:acc:f:perf:aff	disamb
+jednostce	space
+	jednostka	subst:sg:dat:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:dat:f:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+40	space
+	40	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+247	space
+	247	num:pl:nom:f:rec	disamb
+,	none
+	,	interp	disamb
+z	none
+	z	prep:gen:nwok	disamb
+
+1967	none
+	1967	adj:sg:nom:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+44	space
+	44	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+220	space
+	220	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1974	space
+	1974	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+24	space
+	24	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+142	space
+	142	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+skreśla	space
+	skreślać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+19	space
+	19	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+17	space
+	17	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+6	space
+	6	adj:sg:gen:m3:pos	disamb
+kwietnia	space
+	kwiecień	subst:sg:gen:m3	disamb
+1990	space
+	1990	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+Urzędzie	space
+	urząd	subst:sg:loc:m3	disamb
+Ochrony	space
+	ochrona	subst:sg:gen:f	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+30	space
+	30	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+180	space
+	180	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1991	space
+	1991	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+94	space
+	94	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+422	space
+	422	subst:sg:nom:f	disamb
+i	none
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+107	space
+	107	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+461	space
+	461	num:pl:nom:f:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1992	space
+	1992	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+54	space
+	54	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+254	none
+	254	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1994	space
+	1994	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+53	space
+	53	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+214	space
+	214	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1995	space
+	1995	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+4	space
+	4	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+17	space
+	17	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+34	space
+	34	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+163	space
+	163	adj:sg:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+
+104	none
+	104	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+515	space
+	515	num:pl:nom:m1:rec	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1996	space
+	1996	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+59	space
+	59	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+269	space
+	269	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+106	space
+	106	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+496	space
+	496	num:pl:nom:f:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+156	space
+	156	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+775	space
+	775	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+28	space
+	28	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+153	space
+	153	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+70	space
+	70	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+443	space
+	443	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+88	space
+	88	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+554	space
+	554	num:pl:nom:m3:congr	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+141	space
+	141	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+943	none
+	943	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1998	space
+	1998	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+131	space
+	131	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+860	space
+	860	num:pl:nom:m3:rec	disamb
+oraz	space
+	oraz	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+11	space
+	11	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+95	space
+	95	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+skreśla	space
+	skreślać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+55a	space
+	55a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+18	space
+	18	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	none
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+wydania	space
+	wydać	ger:sg:gen:n:perf:aff	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+wykonawczych	space
+	wykonawczy	adj:pl:gen:m3:pos	disamb
+przewidzianych	space
+	przewidzieć	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+dłużej	space
+	długo	adv:com	disamb
+
+jednak	none
+	jednak	conj	disamb
+niż	space
+	niż	conj	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+6	space
+	6	num:pl:acc:m3:rec	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+zachowują	space
+	zachowywać	fin:pl:ter:imperf	disamb
+moc	space
+	moc	subst:sg:acc:f	disamb
+dotychczasowe	space
+	dotychczasowy	adj:pl:acc:m3:pos	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+wykonawcze	space
+	wykonawczy	adj:pl:nom:m3:pos	disamb
+
+wydane	none
+	wydać	ppas:pl:nom:f:perf:aff	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+dekretu	space
+	dekret	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+16	space
+	16	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:acc	disamb
+ile	space
+	ile	num:pl:acc:n:rec	disamb
+nie	space
+	nie	qub	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+sprzeczne	space
+	sprzeczny	adj:pl:nom:f:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+niniejszą	none
+	niniejszy	adj:sg:inst:f:pos	disamb
+ustawą	space
+	ustawa	subst:sg:inst:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+19	space
+	19	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	none
+	do	prep:gen	disamb
+spraw	space
+	sprawa	subst:pl:gen:f	disamb
+o	space
+	o	prep:acc	disamb
+odszkodowanie	space
+	odszkodować	ger:sg:acc:n:perf:aff	disamb
+wszczętych	space
+	wszcząć	ppas:pl:gen:f:perf:aff	disamb
+i	space
+	i	conj	disamb
+nie	space
+	nie	qub	disamb
+zakończonych	space
+	zakończony	adj:pl:gen:f:pos	disamb
+przed	space
+	przed	prep:inst:nwok	disamb
+dniem	space
+	dzień	subst:sg:inst:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+"	none
+	"	interp	disamb
+ycie	none
+	ycie	interj	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+dotychczasowe	space
+	dotychczasowy	adj:pl:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+chyba	space
+	chyba	qub	disamb
+że	space
+	że	comp	disamb
+zostanie	space
+	zostać	fin:sg:ter:perf	disamb
+zawarta	space
+	zawrzeć	ppas:sg:nom:f:perf:aff	disamb
+
+ugoda	none
+	ugoda	subst:sg:nom:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+20	space
+	20	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+nie	space
+	nie	qub	disamb
+uregulowanych	space
+	uregulować	ppas:pl:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+niniejszej	space
+	niniejszy	adj:sg:loc:f:pos	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+do	space
+	do	prep:gen	disamb
+odpowiedzialności	space
+	odpowiedzialność	subst:sg:gen:f	disamb
+
+majątkowej	none
+	majątkowy	adj:sg:gen:f:pos	disamb
+funkcjonariuszy	space
+	funkcjonariusz	subst:pl:gen:m1	disamb
+za	space
+	za	prep:acc	disamb
+szkody	space
+	szkoda	subst:pl:acc:f	disamb
+wyrządzone	space
+	wyrządzić	ppas:pl:acc:f:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+nich	space
+	on	ppron3:pl:acc:m1:ter:akc:praep	disamb
+wskutek	space
+	wskutek	prep:gen	disamb
+
+niewykonania	none
+	wykonać	ger:sg:gen:n:perf:neg	disamb
+lub	space
+	lub	conj	disamb
+nienależytego	space
+	nienależyty	adj:sg:gen:n:pos	disamb
+wykonania	space
+	wykonać	ger:sg:gen:n:perf:aff	disamb
+obowiązków	space
+	obowiązek	subst:pl:gen:m3	disamb
+służbowych	space
+	służbowy	adj:pl:gen:m3:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+
+przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+Kodeksu	space
+	kodeks	subst:sg:gen:m3	disamb
+cywilnego	space
+	cywilny	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+21	space
+	21	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+3	space
+	3	num:pl:gen:m3:congr	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

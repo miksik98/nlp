@@ -1,0 +1,394 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+29	space
+	29	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+254	space
+	254	num:pl:nom:f:congr	disamb
+
+U	none
+	u	prep:gen	disamb
+S	space
+	Solidarność	brev:npun	disamb
+T	space
+	tesla	brev:npun	disamb
+A	space
+	a	conj	disamb
+W	space
+	w	prep:loc:nwok	disamb
+A	space
+	A	subst:sg:loc:n	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+8	space
+	8	adj:sg:gen:m3:pos	disamb
+stycznia	space
+	styczeń	subst:sg:gen:m3	disamb
+2004	space
+	2004	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+wycofaniu	space
+	wycofać	ger:sg:loc:n:perf:aff	disamb
+zastrzeżeń	space
+	zastrzeżenie	subst:pl:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+ochronie	space
+	ochrona	subst:sg:loc:f	disamb
+ofiar	space
+	ofiara	subst:pl:gen:f	disamb
+wojny	space
+	wojna	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+podpisanych	space
+	podpisać	ppas:pl:gen:f:perf:aff	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+Genewie	space
+	Genewa	subst:sg:loc:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+12	space
+	12	adj:sg:gen:m3:pos	disamb
+sierpnia	space
+	sierpień	subst:sg:gen:m3	disamb
+1949	space
+	1949	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+wycofanie	space
+	wycofać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+zastrzeżeń	none
+	zastrzeżenie	subst:pl:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+ochronie	space
+	ochrona	subst:sg:loc:f	disamb
+ofiar	space
+	ofiara	subst:pl:gen:f	disamb
+wojny	space
+	wojna	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+podpisanych	space
+	podpisać	ppas:pl:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Genewie	space
+	Genewa	subst:sg:loc:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+12	space
+	12	adj:sg:gen:m3:pos	disamb
+
+sierpnia	none
+	sierpień	subst:sg:gen:m3	disamb
+1949	space
+	1949	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+(	newline
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1956	space
+	1956	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+38	space
+	38	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+171	space
+	171	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+zastrzeżenia	space
+	zastrzeżenie	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+Genewskiej	space
+	genewski	adj:sg:gen:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+polepszeniu	space
+	polepszyć	ger:sg:loc:n:perf:aff	disamb
+losu	space
+	los	subst:sg:gen:m3	disamb
+rannych	space
+	ranny	subst:pl:gen:m1	disamb
+
+i	none
+	i	conj	disamb
+chorych	space
+	chory	subst:pl:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+armiach	space
+	armia	subst:pl:loc:f	disamb
+czynnych	space
+	czynny	adj:pl:loc:f:pos	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+zastrzeżenia	space
+	zastrzeżenie	subst:pl:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+Genewskiej	space
+	genewski	adj:sg:gen:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+polepszeniu	space
+	polepszeć	ger:sg:loc:n:perf:aff	disamb
+losu	space
+	los	subst:sg:gen:m3	disamb
+rannych	space
+	ranny	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+chorych	none
+	chory	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+rozbitków	space
+	rozbitek	subst:pl:gen:m1	disamb
+sił	space
+	siła	subst:pl:gen:f	disamb
+zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+na	space
+	na	prep:loc	disamb
+morzu	space
+	morze	subst:sg:loc:n	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	num:pl:nom:n:rec	disamb
+)	none
+	)	interp	disamb
+zastrzeżeń	space
+	zastrzeżenie	subst:pl:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+12	space
+	12	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+85	space
+	85	adj:sg:gen:m3:pos	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+Genewskiej	space
+	genewski	adj:sg:gen:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+traktowaniu	space
+	traktować	ger:sg:loc:n:imperf:aff	disamb
+jeńców	space
+	jeniec	subst:pl:gen:m1	disamb
+
+wojennych	none
+	wojenny	adj:pl:gen:n:pos	disamb
+;	none
+	;	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+zastrzeżeń	space
+	zastrzeżenie	subst:pl:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11	space
+	11	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+45	space
+	45	adj:sg:gen:m3:pos	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+Genewskiej	space
+	genewski	adj:sg:gen:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+ochronie	space
+	ochrona	subst:sg:loc:f	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+cywilnych	space
+	cywilny	adj:pl:gen:f:pos	disamb
+
+podczas	none
+	podczas	prep:gen	disamb
+wojny	space
+	wojna	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

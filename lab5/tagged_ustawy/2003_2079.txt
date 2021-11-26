@@ -1,0 +1,282 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+213	space
+	213	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+2079	space
+	2079	num:pl:nom:m3:rec	disamb
+
+U	none
+	u	prep:gen	disamb
+S	space
+	Solidarność	brev:npun	disamb
+T	space
+	tesla	brev:npun	disamb
+A	space
+	a	conj	disamb
+W	space
+	w	prep:loc:nwok	disamb
+A	space
+	A	subst:sg:loc:n	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+17	space
+	17	adj:sg:gen:m3:pos	disamb
+października	space
+	październik	subst:sg:gen:m3	disamb
+2003	space
+	2003	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+ratyfikacji	space
+	ratyfikacja	subst:sg:loc:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+
+Republiki	none
+	Republika	subst:sg:gen:f	disamb
+Kirgiskiej	space
+	kirgiski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+unikania	space
+	unikać	ger:sg:gen:n:imperf:aff	disamb
+podwójnego	space
+	podwójny	adj:sg:gen:n:pos	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+
+zapobiegania	none
+	zapobiegać	ger:sg:gen:n:imperf:aff	disamb
+uchylaniu	space
+	uchylać	ger:sg:dat:n:imperf:aff	disamb
+się	space
+	się	qub	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+podatków	space
+	podatek	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dochodu	space
+	dochód	subst:sg:gen:m3	disamb
+
+i	none
+	i	conj	disamb
+majątku	space
+	majątek	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Warszawie	space
+	Warszawa	subst:sg:loc:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+19	space
+	19	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1998	space
+	1998	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyraża	none
+	wyrażać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+zgodę	space
+	zgoda	subst:sg:acc:f	disamb
+na	space
+	na	prep:acc	disamb
+dokonanie	space
+	dokonać	ger:sg:acc:n:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+ratyfikacji	none
+	ratyfikacja	subst:sg:gen:f	disamb
+Umowy	space
+	umowa	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+a	space
+	a	conj	disamb
+Rządem	space
+	rząd	subst:sg:inst:m3	disamb
+Republiki	space
+	Republika	subst:sg:gen:f	disamb
+
+Kirgiskiej	none
+	kirgiski	adj:sg:dat:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawie	space
+	sprawa	subst:sg:loc:f	disamb
+unikania	space
+	unikać	ger:sg:gen:n:imperf:aff	disamb
+podwójnego	space
+	podwójny	adj:sg:gen:n:pos	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+zapobiegania	space
+	zapobiegać	ger:sg:gen:n:imperf:aff	disamb
+uchylaniu	space
+	uchylać	ger:sg:dat:n:imperf:aff	disamb
+
+się	none
+	się	qub	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+podatków	space
+	podatek	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dochodu	space
+	dochód	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+majątku	space
+	majątek	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+podpisanej	space
+	podpisać	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+Warszawie	none
+	Warszawa	subst:sg:dat:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+19	space
+	19	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1998	space
+	1998	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

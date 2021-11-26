@@ -1,0 +1,3114 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+107	space
+	107	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+688	space
+	688	num:pl:nom:m3:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+31	space
+	31	adj:sg:gen:m3:pos	disamb
+lipca	space
+	lipiec	subst:sg:gen:m3	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+zmianie	space
+	zmiana	subst:sg:loc:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:loc:f:pos	disamb
+żołnierzy	space
+	żołnierz	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+oraz	space
+	oraz	conj	disamb
+
+ustawy	none
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+wyższym	space
+	wysoki	adj:sg:loc:n:com	disamb
+szkolnictwie	space
+	szkolnictwo	subst:sg:loc:n	disamb
+wojskowym	space
+	wojskowy	adj:sg:loc:n:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+30	space
+	30	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+1970	space
+	1970	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:loc:f:pos	disamb
+żołnierzy	space
+	żołnierz	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+
+(	none
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+10	space
+	10	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+55	space
+	55	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+Nr	space
+	numer	brev:npun	disamb
+28	space
+	28	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+153	space
+	153	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+wprowadza	space
+	wprowadzać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+następujące	space
+	następować	pact:pl:acc:n:imperf:aff	disamb
+
+zmiany	none
+	zmiana	subst:pl:nom:f	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+kropkę	space
+	kropka	subst:sg:acc:f	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przecinkiem	space
+	przecinek	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+po	space
+	po	prep:loc	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+pkt	space
+	punkt	brev:npun	disamb
+4	space
+	4	num:pl:nom:m3:rec	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+"	space
+	"	interp	disamb
+modelu	none
+	model	subst:sg:gen:m3	disamb
+przebiegu	space
+	przebieg	subst:sg:gen:m3	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+oficera	space
+	oficer	subst:sg:gen:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+należy	space
+	należeć	fin:sg:ter:imperf	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+to	none
+	to	subst:sg:acc:n	disamb
+rozumieć	space
+	rozumieć	inf:imperf	disamb
+wykaz	space
+	wykaz	subst:sg:acc:m3	disamb
+typowych	space
+	typowy	adj:pl:gen:m1:pos	disamb
+-	space
+	-	interp	disamb
+dla	space
+	dla	prep:gen	disamb
+oficerów	space
+	oficer	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+-	space
+	-	interp	disamb
+
+stanowisk	none
+	stanowisko	subst:pl:gen:n	disamb
+służbowych	space
+	służbowy	adj:pl:gen:n:pos	disamb
+o	space
+	o	prep:loc	disamb
+stopniach	space
+	stopień	subst:pl:loc:m3	disamb
+etatowych	space
+	etatowy	adj:pl:loc:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+pułkownika	space
+	pułkownik	subst:sg:gen:m1	disamb
+
+(	none
+	(	interp	disamb
+komandora	none
+	komandor	subst:sg:gen:m1	disamb
+)	none
+	)	interp	disamb
+włącznie	space
+	włącznie	adv	disamb
+,	none
+	,	interp	disamb
+powiązany	space
+	powiązać	ppas:sg:nom:m3:perf:aff	disamb
+z	space
+	z	prep:inst:nwok	disamb
+podaniem	space
+	podać	ger:sg:inst:n:perf:aff	disamb
+wymaganych	space
+	wymagać	ppas:pl:gen:m1:imperf:aff	disamb
+
+predyspozycji	none
+	predyspozycja	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+wieku	space
+	wiek	subst:sg:gen:m3	disamb
+żołnierza	space
+	żołnierz	subst:sg:gen:m1	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+okresu	space
+	okres	subst:sg:gen:m3	disamb
+
+zajmowania	none
+	zajmować	ger:sg:gen:n:imperf:aff	disamb
+tych	space
+	ten	adj:pl:gen:n:pos	disamb
+stanowisk	space
+	stanowisko	subst:pl:gen:n	disamb
+wynoszącego	space
+	wynosić	pact:sg:gen:n:imperf:aff	disamb
+od	space
+	od	prep:gen:nwok	disamb
+2	space
+	2	num:pl:gen:m3:congr	disamb
+do	space
+	do	prep:gen	disamb
+5	space
+	5	num:pl:gen:m3:congr	disamb
+lat	space
+	rok	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+35	space
+	35	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+7	none
+	7	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Żołnierza	newline
+	żołnierz	subst:sg:acc:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:acc:m1:pos	disamb
+wyznacza	space
+	wyznaczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+na	space
+	na	prep:acc	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+o	space
+	o	prep:loc	disamb
+stopniu	space
+	stopień	subst:sg:loc:m3	disamb
+etatowym	space
+	etatowy	adj:sg:loc:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+pułkownika	space
+	pułkownik	subst:sg:gen:m1	disamb
+(	space
+	(	interp	disamb
+komandora	none
+	komandor	subst:sg:gen:m1	disamb
+)	none
+	)	interp	disamb
+
+włącznie	none
+	włącznie	adv	disamb
+-	space
+	-	interp	disamb
+na	space
+	na	prep:acc	disamb
+okres	space
+	okres	subst:sg:acc:m3	disamb
+wynikający	space
+	wynikać	pact:sg:acc:m3:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+modelu	space
+	model	subst:sg:gen:m3	disamb
+przebiegu	space
+	przebieg	subst:sg:gen:m3	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+
+oficera	none
+	oficer	subst:sg:gen:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+o	space
+	o	prep:loc	disamb
+stopniu	space
+	stopień	subst:sg:loc:m3	disamb
+etatowym	space
+	etatowy	adj:sg:loc:m3:pos	disamb
+generała	space
+	generał	subst:sg:gen:m1	disamb
+(	space
+	(	interp	disamb
+admirała	none
+	admirał	subst:sg:gen:m1	disamb
+)	none
+	)	interp	disamb
+-	space
+	-	interp	disamb
+na	space
+	na	prep:acc	disamb
+3	space
+	3	num:pl:acc:m3:congr	disamb
+lata	space
+	rok	subst:pl:acc:m3	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+po	space
+	po	prep:loc	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:loc:m3:pos	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+7a	space
+	7a	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+7b	space
+	7b	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+7a	none
+	7a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Przepisu	newline
+	przepis	subst:sg:gen:m3	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:gen:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+oficerów	space
+	oficer	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+zajmujących	space
+	zajmować	pact:pl:gen:m1:imperf:aff	disamb
+
+stanowiska	none
+	stanowisko	subst:pl:acc:n	disamb
+sędziów	space
+	sędzia	subst:pl:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sądach	space
+	sąd	subst:pl:loc:m3	disamb
+wojskowych	space
+	wojskowy	adj:pl:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+prokuratorów	space
+	prokurator	subst:pl:gen:m1	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+wojskowych	space
+	wojskowy	adj:pl:loc:f:pos	disamb
+jednostkach	space
+	jednostka	subst:pl:loc:f	disamb
+prokuratury	space
+	prokuratura	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+7b	none
+	7b	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Oficera	newline
+	oficer	subst:sg:gen:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+okresu	space
+	okres	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+wyznacza	space
+	wyznaczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+na	space
+	na	prep:acc	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+samo	space
+	sam	adj:sg:acc:n:pos	disamb
+lub	space
+	lub	conj	disamb
+na	space
+	na	prep:acc	disamb
+inne	space
+	inny	adj:sg:acc:n:pos	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Żołnierza	newline
+	żołnierz	subst:sg:acc:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+stałej	space
+	stały	adj:sg:loc:f:pos	disamb
+zwalnia	space
+	zwalniać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zajmowanego	space
+	zajmować	ppas:sg:gen:m3:imperf:aff	disamb
+
+stanowiska	none
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+otrzymał	space
+	otrzymać	praet:sg:m1:perf	disamb
+niedostateczną	space
+	niedostateczny	adj:sg:acc:f:pos	disamb
+ogólną	space
+	ogólny	adj:sg:acc:f:pos	disamb
+ocenę	space
+	ocena	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+opinii	space
+	opinia	subst:sg:loc:f	disamb
+
+służbowej	none
+	służbowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+wojskowa	space
+	wojskowy	adj:sg:nom:f:pos	disamb
+komisja	space
+	komisja	subst:sg:nom:f	disamb
+lekarska	space
+	lekarski	adj:sg:nom:f:pos	disamb
+orzekła	space
+	orzec	praet:sg:f:perf	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+niezdolność	space
+	niezdolność	subst:sg:acc:f	disamb
+
+do	none
+	do	prep:gen	disamb
+pełnienia	space
+	pełnić	ger:sg:gen:n:imperf:aff	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+określonych	space
+	określony	adj:pl:loc:f:pos	disamb
+jednostkach	space
+	jednostka	subst:pl:loc:f	disamb
+
+wojskowych	none
+	wojskowy	adj:pl:gen:m3:pos	disamb
+albo	space
+	albo	conj	disamb
+na	space
+	na	prep:loc	disamb
+zajmowanym	space
+	zajmować	ppas:sg:loc:n:imperf:aff	disamb
+stanowisku	space
+	stanowisko	subst:sg:loc:n	disamb
+
+służbowym	none
+	służbowy	adj:sg:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+gdy	space
+	gdy	adv	disamb
+zlikwidowano	space
+	zlikwidować	imps:perf	disamb
+zajmowane	space
+	zajmować	ppas:sg:acc:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+niego	space
+	on	ppron3:sg:acc:m1:ter:akc:praep	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+
+służbowe	none
+	służbowy	adj:pl:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+gdy	space
+	gdy	adv	disamb
+upłynął	space
+	upłynąć	praet:sg:m3:perf	disamb
+termin	space
+	termin	subst:sg:nom:m3	disamb
+określony	space
+	określić	ppas:sg:nom:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+decyzji	space
+	decyzja	subst:sg:loc:f	disamb
+o	space
+	o	prep:loc	disamb
+wyznaczeniu	space
+	wyznaczyć	ger:sg:loc:n:perf:aff	disamb
+
+na	none
+	na	prep:acc	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+gdy	space
+	gdy	adv	disamb
+uprawomocniło	space
+	uprawomocnić	praet:sg:n:perf	disamb
+się	space
+	się	qub	disamb
+orzeczenie	space
+	orzeczenie	subst:sg:nom:n	disamb
+o	space
+	o	prep:loc	disamb
+wymierzeniu	space
+	wymierzyć	ger:sg:loc:n:perf:aff	disamb
+
+kary	none
+	kara	subst:sg:gen:f	disamb
+dyscyplinarnej	space
+	dyscyplinarny	adj:sg:gen:f:pos	disamb
+wyznaczenia	space
+	wyznaczyć	ger:sg:gen:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+
+służbowe	none
+	służbowy	adj:pl:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Żołnierza	newline
+	żołnierz	subst:sg:acc:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:acc:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+stałej	space
+	stały	adj:sg:loc:f:pos	disamb
+można	space
+	można	pred	disamb
+zwolnić	space
+	zwolnić	inf:perf	disamb
+z	space
+	z	prep:inst:nwok	disamb
+
+zajmowanego	none
+	zajmować	ppas:sg:gen:n:imperf:aff	disamb
+stanowiska	space
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+złożył	space
+	złożyć	praet:sg:m1:perf	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+o	space
+	o	prep:acc	disamb
+zwolnienie	space
+	zwolnić	ger:sg:acc:n:perf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zajmowanego	space
+	zajmować	ppas:sg:gen:m3:imperf:aff	disamb
+
+stanowiska	none
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+otrzymał	space
+	otrzymać	praet:sg:m1:perf	disamb
+mierną	space
+	mierny	adj:sg:acc:f:pos	disamb
+ogólną	space
+	ogólny	adj:sg:acc:f:pos	disamb
+ocenę	space
+	ocena	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+opinii	space
+	opinia	subst:sg:loc:f	disamb
+służbowej	space
+	służbowy	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+szczególnie	space
+	szczególnie	adv:pos	disamb
+uzasadnionych	space
+	uzasadnić	ppas:pl:loc:f:perf:aff	disamb
+potrzebami	space
+	potrzeba	subst:pl:inst:f	disamb
+
+Sił	none
+	siła	subst:pl:gen:f	disamb
+Zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+nie	space
+	nie	qub	disamb
+spełnia	space
+	spełniać	fin:sg:ter:imperf	disamb
+wymagań	space
+	wymaganie	subst:pl:gen:n	disamb
+co	space
+	co	comp	disamb
+do	space
+	do	prep:gen	disamb
+kwalifikacji	space
+	kwalifikacje	subst:pl:gen:n	disamb
+niezbędnych	space
+	niezbędny	adj:pl:gen:n:pos	disamb
+
+na	none
+	na	prep:loc	disamb
+zajmowanym	space
+	zajmować	ppas:sg:loc:n:imperf:aff	disamb
+stanowisku	space
+	stanowisko	subst:sg:loc:n	disamb
+służbowym	space
+	służbowy	adj:sg:loc:n:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Niezależnie	newline
+	niezależnie	adv:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+przyczyn	space
+	przyczyna	subst:pl:gen:f	disamb
+wymienionych	space
+	wymienić	ppas:pl:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+żołnierza	space
+	żołnierz	subst:sg:gen:m1	disamb
+
+zawodowego	none
+	zawodowy	adj:sg:gen:n:pos	disamb
+zajmującego	space
+	zajmować	pact:sg:gen:m1:imperf:aff	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+o	space
+	o	prep:acc	disamb
+
+stopniu	none
+	stopień	subst:sg:loc:m3	disamb
+etatowym	space
+	etatowy	adj:sg:loc:m3:pos	disamb
+generała	space
+	generał	subst:sg:gen:m1	disamb
+(	space
+	(	interp	disamb
+admirała	none
+	admirał	subst:sg:gen:m1	disamb
+)	none
+	)	interp	disamb
+można	space
+	można	pred	disamb
+zwolnić	space
+	zwolnić	inf:perf	disamb
+z	space
+	z	prep:inst:nwok	disamb
+
+zajmowanego	none
+	zajmować	ppas:sg:gen:n:imperf:aff	disamb
+stanowiska	space
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+gdy	space
+	gdy	adv	disamb
+otrzymał	space
+	otrzymać	praet:sg:m1:perf	disamb
+dostateczną	space
+	dostateczny	adj:sg:acc:f:pos	disamb
+
+ogólną	none
+	ogólny	adj:sg:acc:f:pos	disamb
+ocenę	space
+	ocena	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+opinii	space
+	opinia	subst:sg:loc:f	disamb
+służbowej	space
+	służbowy	adj:sg:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Żołnierza	newline
+	żołnierz	subst:sg:acc:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+zwolnionego	space
+	zwolnić	ppas:sg:gen:m1:perf:aff	disamb
+ze	space
+	z	prep:gen:wok	disamb
+stanowiska	space
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+
+na	none
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+albo	space
+	albo	conj	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+-	space
+	-	interp	disamb
+można	space
+	można	pred	disamb
+
+wyznaczyć	none
+	wyznaczyć	inf:perf	disamb
+na	space
+	na	prep:acc	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+4	none
+	4	adj:sg:nom:m3:pos	disamb
+-	space
+	-	interp	disamb
+można	space
+	można	pred	disamb
+wyznaczyć	space
+	wyznaczyć	inf:perf	disamb
+na	space
+	na	prep:acc	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+
+służbowe	none
+	służbowy	adj:pl:nom:f:pos	disamb
+za	space
+	za	prep:inst	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+pisemną	space
+	pisemny	adj:sg:inst:f:pos	disamb
+zgodą	space
+	zgoda	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+-	space
+	-	interp	disamb
+wyznacza	space
+	wyznaczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+na	space
+	na	prep:acc	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+odniesieniu	space
+	odniesienie	subst:sg:loc:n	disamb
+do	space
+	do	prep:gen	disamb
+oficerów	space
+	oficer	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+wyznaczenie	space
+	wyznaczyć	ger:sg:nom:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+
+niższe	none
+	niski	adj:sg:nom:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:nom:n	disamb
+służbowe	space
+	służbowy	adj:sg:nom:n:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+nastąpić	space
+	nastąpić	inf:perf	disamb
+wyłącznie	space
+	wyłącznie	qub	disamb
+
+wtedy	none
+	wtedy	adv	disamb
+,	none
+	,	interp	disamb
+gdy	space
+	gdy	adv	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+to	space
+	to	pred	disamb
+stanowisko	space
+	stanowisko	subst:sg:nom:n	disamb
+służbowe	space
+	służbowy	adj:sg:nom:n:pos	disamb
+o	space
+	o	prep:loc	disamb
+stopniu	space
+	stopień	subst:sg:loc:m3	disamb
+etatowym	space
+	etatowy	adj:sg:loc:m3:pos	disamb
+
+bezpośrednio	none
+	bezpośrednio	adv:pos	disamb
+niższym	space
+	niski	adj:sg:inst:m3:com	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dotychczas	space
+	dotychczas	adv	disamb
+zajmowanego	space
+	zajmować	ppas:sg:gen:m3:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+gdy	space
+	gdy	adv	disamb
+oficer	space
+	oficer	subst:sg:nom:m1	disamb
+nie	space
+	nie	qub	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+kwalifikacji	space
+	kwalifikacja	subst:sg:gen:f	disamb
+do	space
+	do	prep:gen	disamb
+zajmowania	space
+	zajmować	ger:sg:gen:n:imperf:aff	disamb
+
+stanowiska	none
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+o	space
+	o	prep:loc	disamb
+stopniu	space
+	stopień	subst:sg:loc:m3	disamb
+etatowym	space
+	etatowy	adj:sg:loc:m3:pos	disamb
+bezpośrednio	space
+	bezpośrednio	adv:pos	disamb
+
+niższym	none
+	niski	adj:sg:inst:m3:com	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dotychczas	space
+	dotychczas	adv	disamb
+zajmowanego	space
+	zajmować	ppas:sg:gen:m3:imperf:aff	disamb
+,	none
+	,	interp	disamb
+można	space
+	można	pred	disamb
+
+go	none
+	on	ppron3:sg:acc:m1:ter:nakc:npraep	disamb
+wyznaczyć	space
+	wyznaczyć	inf:perf	disamb
+na	space
+	na	prep:acc	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+korpusie	space
+	korpus	subst:sg:loc:m3	disamb
+oficerów	space
+	oficer	subst:pl:gen:m1	disamb
+odpowiadającym	space
+	odpowiadać	pact:pl:dat:m1:imperf:aff	disamb
+
+jego	none
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+kwalifikacjom	space
+	kwalifikacje	subst:pl:dat:n	disamb
+.	none
+	.	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Żołnierzowi	newline
+	żołnierz	subst:sg:dat:m1	disamb
+zawodowemu	space
+	zawodowy	adj:sg:dat:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+stałej	space
+	stały	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+który	space
+	który	adj:sg:nom:m1:pos	disamb
+nie	space
+	nie	qub	disamb
+wyrazi	space
+	wyrazić	fin:sg:ter:perf	disamb
+
+pisemnej	none
+	pisemny	adj:sg:gen:f:pos	disamb
+zgody	space
+	zgoda	subst:sg:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+wyznaczenie	space
+	wyznaczyć	ger:sg:acc:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+
+służbowe	none
+	służbowy	adj:pl:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+
+pkt	none
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+można	space
+	można	pred	disamb
+wypowiedzieć	space
+	wypowiedzieć	inf:perf	disamb
+stosunek	space
+	stosunek	subst:sg:acc:m3	disamb
+służbowy	space
+	służbowy	adj:sg:acc:m3:pos	disamb
+zawodowej	space
+	zawodowy	adj:sg:gen:f:pos	disamb
+
+służby	none
+	służba	subst:sg:gen:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przez	newline
+	przez	prep:acc:nwok	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+rozumie	space
+	rozumieć	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stosunku	space
+	stosunek	subst:sg:loc:m3	disamb
+do	space
+	do	prep:gen	disamb
+oficerów	space
+	oficer	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+-	space
+	-	interp	disamb
+stanowisko	space
+	stanowisko	subst:sg:nom:n	disamb
+,	none
+	,	interp	disamb
+
+którego	none
+	który	adj:sg:gen:m3:pos	disamb
+stopień	space
+	stopień	subst:sg:nom:m3	disamb
+etatowy	space
+	etatowy	adj:sg:nom:m3:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+niższy	space
+	niski	adj:sg:nom:m3:com	disamb
+od	space
+	od	prep:gen:nwok	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+etatowego	space
+	etatowy	adj:sg:gen:m3:pos	disamb
+
+poprzednio	none
+	poprzednio	adv:pos	disamb
+zajmowanego	space
+	zajmować	ppas:sg:gen:n:imperf:aff	disamb
+stanowiska	space
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stosunku	space
+	stosunek	subst:sg:loc:m3	disamb
+do	space
+	do	prep:gen	disamb
+chorążych	space
+	chorąży	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+i	space
+	i	conj	disamb
+podoficerów	space
+	podoficer	subst:pl:gen:m1	disamb
+
+zawodowych	none
+	zawodowy	adj:pl:gen:n:pos	disamb
+-	space
+	-	interp	disamb
+stanowisko	space
+	stanowisko	subst:sg:nom:n	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:sg:nom:n:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+zaszeregowane	space
+	zaszeregować	ppas:sg:nom:n:perf:aff	disamb
+
+do	none
+	do	prep:gen	disamb
+niższej	space
+	niski	adj:sg:gen:f:com	disamb
+grupy	space
+	grupa	subst:sg:gen:f	disamb
+uposażenia	space
+	uposażenie	subst:sg:gen:n	disamb
+niż	space
+	niż	conj	disamb
+poprzednio	space
+	poprzednio	adv:pos	disamb
+zajmowane	space
+	zajmować	ppas:sg:nom:n:imperf:aff	disamb
+
+stanowisko	none
+	stanowisko	subst:sg:nom:n	disamb
+służbowe	space
+	służbowy	adj:sg:nom:n:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wyjątkiem	space
+	wyjątek	subst:sg:inst:m3	disamb
+przypadków	space
+	przypadek	subst:pl:gen:m3	disamb
+
+gdy	none
+	gdy	adv	disamb
+żołnierzowi	space
+	żołnierz	subst:sg:dat:m1	disamb
+zachowano	space
+	zachować	imps:perf	disamb
+dotychczasową	space
+	dotychczasowy	adj:sg:acc:f:pos	disamb
+grupę	space
+	grupa	subst:sg:acc:f	disamb
+
+uposażenia	none
+	uposażenie	subst:pl:nom:n	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+37	space
+	37	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+po	space
+	po	prep:loc	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1a	space
+	1a	subst:sg:nom:n	disamb
+i	space
+	i	conj	disamb
+1b	space
+	1b	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+1a	none
+	1a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Żołnierza	newline
+	żołnierz	subst:sg:acc:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+kontraktowej	space
+	kontraktowy	adj:sg:loc:f:pos	disamb
+zwalnia	space
+	zwalniać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zajmowanego	space
+	zajmować	ppas:sg:gen:m3:imperf:aff	disamb
+
+stanowiska	none
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+otrzymał	space
+	otrzymać	praet:sg:m1:perf	disamb
+niedostateczną	space
+	niedostateczny	adj:sg:acc:f:pos	disamb
+ogólną	space
+	ogólny	adj:sg:acc:f:pos	disamb
+ocenę	space
+	ocena	subst:sg:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+opinii	space
+	opinia	subst:sg:loc:f	disamb
+służbowej	space
+	służbowy	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+wojskowa	space
+	wojskowy	adj:sg:nom:f:pos	disamb
+komisja	space
+	komisja	subst:sg:nom:f	disamb
+lekarska	space
+	lekarski	adj:sg:nom:f:pos	disamb
+orzekła	space
+	orzec	praet:sg:f:perf	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+niezdolność	space
+	niezdolność	subst:sg:acc:f	disamb
+do	space
+	do	prep:gen	disamb
+
+pełnienia	none
+	pełnić	ger:sg:gen:n:imperf:aff	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+określonych	space
+	określony	adj:pl:loc:f:pos	disamb
+jednostkach	space
+	jednostka	subst:pl:loc:f	disamb
+wojskowych	space
+	wojskowy	adj:pl:loc:f:pos	disamb
+albo	space
+	albo	conj	disamb
+
+na	none
+	na	prep:loc	disamb
+zajmowanym	space
+	zajmować	ppas:sg:loc:n:imperf:aff	disamb
+stanowisku	space
+	stanowisko	subst:sg:loc:n	disamb
+służbowym	space
+	służbowy	adj:sg:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+gdy	space
+	gdy	adv	disamb
+zlikwidowano	space
+	zlikwidować	imps:perf	disamb
+zajmowane	space
+	zajmować	ppas:sg:acc:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+niego	space
+	on	ppron3:sg:acc:m1:ter:akc:praep	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+gdy	space
+	gdy	adv	disamb
+uprawomocniło	space
+	uprawomocnić	praet:sg:n:perf	disamb
+się	space
+	się	qub	disamb
+orzeczenie	space
+	orzeczenie	subst:sg:nom:n	disamb
+o	space
+	o	prep:loc	disamb
+wymierzeniu	space
+	wymierzyć	ger:sg:loc:n:perf:aff	disamb
+kary	space
+	kara	subst:sg:gen:f	disamb
+dyscyplinarnej	space
+	dyscyplinarny	adj:sg:gen:f:pos	disamb
+
+wyznaczenia	none
+	wyznaczyć	ger:sg:gen:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+służbowe	space
+	służbowy	adj:sg:acc:n:pos	disamb
+.	none
+	.	interp	disamb
+
+1b	none
+	1b	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+Żołnierza	newline
+	żołnierz	subst:sg:acc:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:acc:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+kontraktowej	space
+	kontraktowy	adj:sg:loc:f:pos	disamb
+można	space
+	można	pred	disamb
+zwolnić	space
+	zwolnić	inf:perf	disamb
+z	space
+	z	prep:inst:nwok	disamb
+
+zajmowanego	none
+	zajmować	ppas:sg:gen:n:imperf:aff	disamb
+stanowiska	space
+	stanowisko	subst:sg:gen:n	disamb
+służbowego	space
+	służbowy	adj:sg:gen:n:pos	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+złożył	space
+	złożyć	praet:sg:m1:perf	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+o	space
+	o	prep:acc	disamb
+zwolnienie	space
+	zwolnić	ger:sg:acc:n:perf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zajmowanego	space
+	zajmować	ppas:sg:gen:n:imperf:aff	disamb
+stanowiska	space
+	stanowisko	subst:sg:gen:n	disamb
+
+służbowego	none
+	służbowy	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+szczególnie	space
+	szczególnie	adv:pos	disamb
+uzasadnionych	space
+	uzasadnić	ppas:pl:loc:f:perf:aff	disamb
+potrzebami	space
+	potrzeba	subst:pl:inst:f	disamb
+Sił	space
+	siła	subst:pl:gen:f	disamb
+
+Zbrojnych	none
+	zbrojny	adj:pl:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+-	none
+	-	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1a	space
+	1a	subst:sg:nom:n	disamb
+pkt	space
+	punkt	brev:npun	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+
+-	none
+	-	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	num:pl:acc:m3:congr	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1a	space
+	1a	subst:sg:nom:n	disamb
+pkt	space
+	punkt	brev:npun	disamb
+
+2	none
+	2	num:pl:nom:f:congr	disamb
+i	space
+	i	conj	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1b	space
+	1b	subst:sg:nom:n	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+39	space
+	39	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+model	space
+	model	subst:sg:nom:m3	disamb
+przebiegu	space
+	przebieg	subst:sg:gen:m3	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+oficera	space
+	oficer	subst:sg:gen:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+uwzględnieniem	space
+	uwzględnienie	subst:sg:inst:n	disamb
+
+stanowisk	none
+	stanowisko	subst:pl:gen:n	disamb
+służbowych	space
+	służbowy	adj:pl:gen:n:pos	disamb
+dla	space
+	dla	prep:gen	disamb
+oficerów	space
+	oficer	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+poszczególnych	space
+	poszczególny	adj:pl:loc:n:pos	disamb
+
+korpusach	none
+	korpus	subst:pl:loc:m3	disamb
+osobowych	space
+	osobowy	adj:pl:loc:m3:pos	disamb
+(	space
+	(	interp	disamb
+rodzajach	none
+	rodzaj	subst:pl:loc:m3	disamb
+służb	space
+	służba	subst:pl:gen:f	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+75	space
+	75	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+po	space
+	po	prep:loc	disamb
+pkt	space
+	punkt	brev:npun	disamb
+8	space
+	8	num:pl:nom:m3:rec	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+pkt	space
+	punkt	brev:npun	disamb
+8a	space
+	8a	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+8a	none
+	8a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+braku	space
+	brak	subst:sg:gen:m3	disamb
+kwalifikacji	space
+	kwalifikacje	subst:pl:gen:n	disamb
+niezbędnych	space
+	niezbędny	adj:pl:gen:f:pos	disamb
+do	space
+	do	prep:gen	disamb
+wyznaczenia	space
+	wyznaczyć	ger:sg:gen:n:perf:aff	disamb
+go	space
+	on	ppron3:sg:gen:m1:ter:nakc:npraep	disamb
+na	space
+	na	prep:acc	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+
+służbowe	none
+	służbowy	adj:pl:nom:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+korpusie	space
+	korpus	subst:sg:loc:m3	disamb
+kadry	space
+	kadra	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+którego	space
+	który	adj:sg:gen:m3:pos	disamb
+żołnierz	space
+	żołnierz	subst:sg:nom:m1	disamb
+ten	space
+	ten	adj:sg:nom:m1:pos	disamb
+
+jest	none
+	być	fin:sg:ter:imperf	disamb
+zaliczany	space
+	zaliczać	ppas:sg:nom:m3:imperf:aff	disamb
+,	none
+	,	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+7	none
+	7	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+78	space
+	78	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	num:pl:acc:m3:congr	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+
+"	none
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:nom:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+8	none
+	8	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+80	space
+	80	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+76	space
+	76	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+76	none
+	76	num:pl:nom:m3:rec	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+9	none
+	9	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+95	space
+	95	adj:sg:loc:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+skreśla	space
+	skreślać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+oraz	none
+	oraz	conj	disamb
+wysokość	space
+	wysokość	subst:sg:acc:f	disamb
+pobieranych	space
+	pobierać	ppas:pl:gen:f:imperf:aff	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+
+przeprowadzania	none
+	przeprowadzać	ger:sg:gen:n:imperf:aff	disamb
+egzaminów	space
+	egzamin	subst:pl:gen:m3	disamb
+wstępnych	space
+	wstępny	adj:pl:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+sprawdzianów	space
+	sprawdzian	subst:pl:gen:m3	disamb
+przy	space
+	przy	prep:loc	disamb
+ubieganiu	space
+	ubiegać	ger:sg:loc:n:imperf:aff	disamb
+
+się	none
+	się	qub	disamb
+o	space
+	o	prep:acc	disamb
+przyjęcie	space
+	przyjąć	ger:sg:acc:n:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+szkół	space
+	szkoła	subst:pl:gen:f	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+kropkę	space
+	kropka	subst:sg:acc:f	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przecinkiem	space
+	przecinek	subst:sg:inst:m3	disamb
+,	none
+	,	interp	disamb
+
+c	none
+	c	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+po	space
+	po	prep:loc	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wysokość	space
+	wysokość	subst:sg:acc:f	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+egzaminów	space
+	egzamin	subst:pl:gen:m3	disamb
+wstępnych	space
+	wstępny	adj:pl:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+sprawdzianów	space
+	sprawdzian	subst:pl:gen:m3	disamb
+
+dla	none
+	dla	prep:gen	disamb
+ubiegających	space
+	ubiegać	pact:pl:gen:m1:imperf:aff	disamb
+się	space
+	się	qub	disamb
+o	space
+	o	prep:acc	disamb
+przyjęcie	space
+	przyjąć	ger:sg:acc:n:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+szkół	space
+	szkoła	subst:pl:gen:f	disamb
+wojskowych	space
+	wojskowy	adj:pl:gen:f:pos	disamb
+
+oraz	none
+	oraz	conj	disamb
+szczegółowe	space
+	szczegółowy	adj:pl:nom:f:pos	disamb
+zasady	space
+	zasada	subst:pl:nom:f	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+pobierania	space
+	pobierać	ger:sg:gen:n:imperf:aff	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+10	none
+	10	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+106a	space
+	106a	adj:sg:loc:m3:pos	disamb
+wyrazy	space
+	wyraz	subst:pl:acc:m3	disamb
+"	space
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+zastępuje	space
+	zastępować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wyrazami	space
+	wyraz	subst:pl:inst:m3	disamb
+"	space
+	"	interp	disamb
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:gen:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+
+pkt	none
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+;	none
+	;	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+31	space
+	31	adj:sg:gen:m3:pos	disamb
+marca	space
+	marzec	subst:sg:gen:m3	disamb
+1965	space
+	1965	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+wyższym	space
+	wysoki	adj:sg:loc:n:com	disamb
+szkolnictwie	space
+	szkolnictwo	subst:sg:loc:n	disamb
+wojskowym	space
+	wojskowy	adj:sg:loc:n:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	U	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+1992	space
+	1992	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+10	space
+	10	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+40	space
+	40	num:pl:nom:f:rec	disamb
+i	space
+	i	conj	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1996	space
+	1996	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+7	space
+	7	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+44	space
+	44	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:loc:m3:pos	disamb
+po	space
+	po	prep:loc	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+dodaje	space
+	dodawać	fin:sg:ter:imperf	disamb
+
+się	none
+	się	qub	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3a	space
+	3a	subst:sg:nom:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+brzmieniu	space
+	brzmienie	subst:sg:loc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+3a	none
+	3a	subst:sg:nom:n	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+wyjątkowych	space
+	wyjątkowy	adj:pl:loc:m3:pos	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+
+wyznaczyć	none
+	wyznaczyć	inf:perf	disamb
+na	space
+	na	prep:acc	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+komendanta	space
+	komendant	subst:sg:gen:m1	disamb
+akademii	space
+	akademia	subst:sg:gen:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:gen:f:pos	disamb
+oficera	space
+	oficer	subst:sg:gen:m1	disamb
+
+o	none
+	o	prep:loc	disamb
+wysokich	space
+	wysoki	adj:pl:loc:n:pos	disamb
+kwalifikacjach	space
+	kwalifikacja	subst:pl:loc:f	disamb
+zawodowych	space
+	zawodowy	adj:pl:loc:f:pos	disamb
+i	space
+	i	conj	disamb
+odpowiednim	space
+	odpowiedni	adj:sg:loc:n:pos	disamb
+doświadczeniu	space
+	doświadczenie	subst:sg:loc:n	disamb
+
+praktycznym	none
+	praktyczny	adj:sg:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+posiadającego	space
+	posiadać	pact:sg:gen:n:imperf:aff	disamb
+stopień	space
+	stopień	subst:sg:acc:m3	disamb
+wojskowy	space
+	wojskowy	adj:sg:acc:m3:pos	disamb
+generała	space
+	generał	subst:sg:gen:m1	disamb
+
+(	none
+	(	interp	disamb
+równorzędny	none
+	równorzędny	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+,	none
+	,	interp	disamb
+który	space
+	który	adj:sg:nom:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+tytułu	space
+	tytuł	subst:sg:gen:m3	disamb
+naukowego	space
+	naukowy	adj:sg:gen:m3:pos	disamb
+lub	space
+	lub	conj	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+naukowego	space
+	naukowy	adj:sg:gen:m3:pos	disamb
+
+doktora	none
+	doktor	subst:sg:gen:m1	disamb
+habilitowanego	space
+	habilitowany	adj:sg:gen:m1:pos	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Uprawniony	newline
+	uprawniony	adj:sg:nom:m3:pos	disamb
+organ	space
+	organ	subst:sg:nom:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ciągu	space
+	ciąg	subst:sg:loc:m3	disamb
+3	space
+	3	num:pl:gen:m3:congr	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+wyznaczy	space
+	wyznaczyć	fin:sg:ter:perf	disamb
+
+żołnierza	none
+	żołnierz	subst:sg:acc:m1	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+zajmującego	space
+	zajmować	pact:sg:gen:m1:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+
+stanowisko	none
+	stanowisko	subst:sg:nom:n	disamb
+służbowe	space
+	służbowy	adj:sg:nom:n:pos	disamb
+o	space
+	o	prep:loc	disamb
+stopniu	space
+	stopień	subst:sg:loc:m3	disamb
+etatowym	space
+	etatowy	adj:sg:loc:m3:pos	disamb
+generała	space
+	generał	subst:sg:gen:m1	disamb
+(	space
+	(	interp	disamb
+admirała	none
+	admirał	subst:sg:gen:m1	disamb
+)	none
+	)	interp	disamb
+na	space
+	na	prep:acc	disamb
+to	space
+	to	subst:sg:acc:n	disamb
+samo	space
+	sam	adj:sg:acc:n:pos	disamb
+
+stanowisko	none
+	stanowisko	subst:sg:nom:n	disamb
+służbowe	space
+	służbowy	adj:sg:nom:n:pos	disamb
+lub	space
+	lub	conj	disamb
+na	space
+	na	prep:acc	disamb
+inne	space
+	inny	adj:sg:acc:n:pos	disamb
+stanowisko	space
+	stanowisko	subst:sg:acc:n	disamb
+nie	space
+	nie	qub	disamb
+niższe	space
+	niski	adj:sg:acc:n:com	disamb
+niż	space
+	niż	conj	disamb
+poprzednio	space
+	poprzednio	adv:pos	disamb
+zajmowane	space
+	zajmować	ppas:sg:acc:n:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+39	space
+	39	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+ustawy	none
+	ustawa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+której	space
+	który	adj:sg:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+wyznaczenie	space
+	wyznaczyć	ger:sg:nom:n:perf:aff	disamb
+oficerów	space
+	oficer	subst:pl:gen:m1	disamb
+zawodowych	space
+	zawodowy	adj:pl:gen:m1:pos	disamb
+na	space
+	na	prep:acc	disamb
+stanowiska	space
+	stanowisko	subst:pl:acc:n	disamb
+
+służbowe	none
+	służbowy	adj:pl:nom:m3:pos	disamb
+do	space
+	do	prep:gen	disamb
+stopnia	space
+	stopień	subst:sg:gen:m3	disamb
+etatowego	space
+	etatowy	adj:sg:gen:m1:pos	disamb
+pułkownika	space
+	pułkownik	subst:sg:gen:m1	disamb
+(	space
+	(	interp	disamb
+komandora	none
+	komandor	subst:sg:gen:m1	disamb
+)	none
+	)	interp	disamb
+włącznie	space
+	włącznie	adv	disamb
+
+i	none
+	i	conj	disamb
+zwalnianie	space
+	zwalniać	ger:sg:nom:n:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+nich	space
+	on	ppron3:pl:gen:f:ter:akc:praep	disamb
+odbywa	space
+	odbywać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+na	space
+	na	prep:loc	disamb
+dotychczasowych	space
+	dotychczasowy	adj:pl:loc:f:pos	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

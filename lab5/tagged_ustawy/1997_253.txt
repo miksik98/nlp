@@ -1,0 +1,6362 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+41	space
+	41	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+253	space
+	253	num:pl:nom:f:congr	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+20	space
+	20	adj:sg:gen:m3:pos	disamb
+lutego	space
+	luty	subst:sg:gen:m3	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+stosunku	space
+	stosunek	subst:sg:loc:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+Starokatolickiego	space
+	starokatolicki	adj:sg:gen:m3:pos	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+Rzeczypospolitej	space
+	rzeczpospolita	subst:sg:loc:f	disamb
+Polskiej	space
+	polski	adj:sg:loc:f:pos	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+ogólne	space
+	ogólny	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+stosunek	space
+	stosunek	subst:sg:acc:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+Starokatolickiego	space
+	starokatolicki	adj:sg:gen:m3:pos	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+Rzeczypospolitej	space
+	rzeczpospolita	subst:sg:loc:f	disamb
+Polskiej	space
+	polski	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+zwanego	space
+	zwać	ppas:sg:gen:m3:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+"	space
+	"	interp	disamb
+Kościołem	none
+	kościół	subst:sg:inst:m3	disamb
+"	none
+	"	interp	disamb
+,	none
+	,	interp	disamb
+oraz	space
+	oraz	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+sytuację	space
+	sytuacja	subst:sg:acc:f	disamb
+
+prawną	none
+	prawny	adj:sg:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+majątkową	space
+	majątkowy	adj:sg:acc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+odnoszących	space
+	odnosić	pact:pl:loc:f:imperf:aff	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+uregulowanych	space
+	uregulować	ppas:pl:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+,	none
+	,	interp	disamb
+
+stosuje	none
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+powszechnie	space
+	powszechnie	adv:pos	disamb
+obowiązujące	space
+	obowiązujący	adj:pl:acc:m3:pos	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wszelkie	newline
+	wszelki	adj:pl:nom:f:pos	disamb
+zmiany	space
+	zmiana	subst:pl:nom:f	disamb
+niniejszej	space
+	niniejszy	adj:sg:gen:f:pos	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+wymagają	space
+	wymagać	fin:pl:ter:imperf	disamb
+uprzedniej	space
+	uprzedni	adj:sg:gen:f:pos	disamb
+opinii	space
+	opinia	subst:sg:gen:f	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+rządzi	space
+	rządzić	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+swoich	space
+	swój	adj:pl:loc:f:pos	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+własnym	space
+	własny	adj:sg:inst:n:pos	disamb
+prawem	space
+	prawo	subst:sg:inst:n	disamb
+wewnętrznym	space
+	wewnętrzny	adj:sg:inst:n:pos	disamb
+,	none
+	,	interp	disamb
+
+uchwalanym	none
+	uchwalać	ppas:sg:inst:m3:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Synod	space
+	synod	subst:sg:acc:m3	disamb
+,	none
+	,	interp	disamb
+swobodnie	space
+	swobodnie	adv:pos	disamb
+wykonuje	space
+	wykonywać	fin:sg:ter:imperf	disamb
+władzę	space
+	władza	subst:sg:acc:f	disamb
+duchowną	space
+	duchowny	adj:sg:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+jurysdykcyjną	space
+	jurysdykcyjny	adj:sg:acc:f:pos	disamb
+
+oraz	none
+	oraz	conj	disamb
+samodzielnie	space
+	samodzielnie	adv:pos	disamb
+zarządza	space
+	zarządzać	fin:sg:ter:imperf	disamb
+swoimi	space
+	swój	adj:pl:inst:f:pos	disamb
+sprawami	space
+	sprawa	subst:pl:inst:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+należeć	space
+	należeć	inf:imperf	disamb
+do	space
+	do	prep:gen	disamb
+krajowych	space
+	krajowy	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+międzynarodowych	space
+	międzynarodowy	adj:pl:gen:f:pos	disamb
+organizacji	space
+	organizacja	subst:pl:gen:f	disamb
+o	space
+	o	prep:acc	disamb
+
+charakterze	none
+	charakter	subst:sg:loc:m3	disamb
+ekumenicznym	space
+	ekumeniczny	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+międzywyznaniowym	space
+	międzywyznaniowy	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+
+Osoby	none
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+organy	space
+	organ	subst:pl:nom:m3	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Strukturę	newline
+	struktura	subst:sg:acc:f	disamb
+i	space
+	i	conj	disamb
+organizację	space
+	organizacja	subst:sg:acc:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+określają	space
+	określać	fin:pl:ter:imperf	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+wewnętrznego	space
+	wewnętrzny	adj:sg:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Osobowość	newline
+	osobowość	subst:sg:acc:f	disamb
+prawną	space
+	prawny	adj:sg:acc:f:pos	disamb
+posiadają	space
+	posiadać	fin:pl:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+Kościół	space
+	kościół	subst:sg:nom:m3	disamb
+jako	space
+	jako	conj	disamb
+całość	space
+	całość	subst:sg:nom:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:acc:f:congr	disamb
+)	none
+	)	interp	disamb
+diecezje	space
+	diecezja	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+parafie	space
+	parafia	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+zgromadzenia	space
+	zgromadzenie	subst:pl:acc:n	disamb
+zakonne	space
+	zakonny	adj:pl:acc:n:pos	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:pl:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+seminaria	space
+	seminarium	subst:pl:nom:n	disamb
+duchowne	space
+	duchowny	adj:pl:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Organami	newline
+	organ	subst:pl:inst:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+wymienionych	space
+	wymienić	ppas:pl:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+dla	space
+	dla	prep:gen	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+jako	space
+	jako	conj	disamb
+całości	space
+	całość	subst:sg:gen:f	disamb
+:	none
+	:	interp	disamb
+
+a	none
+	a	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+Synod	space
+	synod	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+
+b	none
+	b	subst:sg:nom:n	disamb
+)	none
+	)	interp	disamb
+Kapituła	space
+	kapituła	subst:sg:nom:f	disamb
+Generalna	space
+	generalny	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+
+c	none
+	c	subst:sg:nom:f	disamb
+)	none
+	)	interp	disamb
+Rada	space
+	rada	subst:sg:nom:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+d	none
+	dawny	brev:pun	disamb
+)	none
+	)	interp	disamb
+Biskup	space
+	biskup	subst:sg:nom:m1	disamb
+Naczelny	space
+	naczelny	adj:sg:nom:m1:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+dla	space
+	dla	prep:gen	disamb
+diecezji	space
+	diecezja	subst:sg:gen:f	disamb
+-	space
+	-	interp	disamb
+Biskup	space
+	biskup	subst:sg:nom:m1	disamb
+Ordynariusz	space
+	ordynariusz	subst:sg:nom:m1	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+dla	space
+	dla	prep:gen	disamb
+parafii	space
+	parafia	subst:sg:gen:f	disamb
+-	space
+	-	interp	disamb
+rada	space
+	rada	subst:sg:nom:f	disamb
+parafialna	space
+	parafialny	adj:sg:nom:f:pos	disamb
+reprezentowana	space
+	reprezentować	ppas:sg:nom:f:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+proboszcza	space
+	proboszcz	subst:sg:acc:m1	disamb
+lub	space
+	lub	conj	disamb
+
+administratora	none
+	administrator	subst:sg:gen:m1	disamb
+parafii	space
+	parafia	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+dla	space
+	dla	prep:gen	disamb
+zgromadzeń	space
+	zgromadzenie	subst:pl:gen:n	disamb
+zakonnych	space
+	zakonny	adj:pl:gen:n:pos	disamb
+-	space
+	-	interp	disamb
+przełożony	space
+	przełożyć	ppas:sg:nom:m3:perf:aff	disamb
+lub	space
+	lub	conj	disamb
+przełożona	space
+	przełożyć	ppas:sg:nom:f:perf:aff	disamb
+,	none
+	,	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+dla	space
+	dla	prep:gen	disamb
+seminariów	space
+	seminarium	subst:pl:gen:n	disamb
+duchownych	space
+	duchowny	adj:pl:gen:n:pos	disamb
+-	space
+	-	interp	disamb
+Rektor	space
+	rektor	subst:sg:nom:m1	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+majątkowych	space
+	majątkowy	adj:pl:loc:f:pos	disamb
+Kościół	space
+	kościół	subst:sg:acc:m3	disamb
+jako	space
+	jako	conj	disamb
+całość	space
+	całość	subst:sg:nom:f	disamb
+reprezentuje	space
+	reprezentować	fin:sg:ter:imperf	disamb
+Rada	space
+	rada	subst:sg:nom:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Do	none
+	do	prep:gen	disamb
+składania	space
+	składać	ger:sg:gen:n:imperf:aff	disamb
+oświadczeń	space
+	oświadczenie	subst:pl:gen:n	disamb
+woli	space
+	wola	subst:sg:gen:f	disamb
+uprawnieni	space
+	uprawniony	subst:pl:nom:m1	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+dwaj	space
+	dwa	num:pl:nom:m1:congr	disamb
+członkowie	space
+	członek	subst:pl:nom:m1	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+
+działający	none
+	działać	pact:sg:nom:m1:imperf:aff	disamb
+łącznie	space
+	łącznie	adv:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+tym	space
+	to	subst:sg:loc:n	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+Przewodniczący	space
+	przewodniczący	subst:sg:nom:m1	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zmiana	newline
+	zmiana	subst:sg:nom:f	disamb
+nazwy	space
+	nazwa	subst:sg:gen:f	disamb
+grup	space
+	grupa	subst:pl:gen:f	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+5	none
+	5	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+może	space
+	może	qub	disamb
+
+być	none
+	być	inf:imperf	disamb
+dokonana	space
+	dokonać	ppas:sg:nom:f:perf:aff	disamb
+przepisami	space
+	przepis	subst:pl:inst:m3	disamb
+wewnątrzkościelnymi	space
+	wewnątrzkościelnymi	adj:pl:inst:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Zmiany	newline
+	zmiana	subst:pl:nom:f	disamb
+te	space
+	ten	adj:pl:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+
+Rady	none
+	rada	subst:sg:gen:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+Minister	space
+	minister	subst:sg:nom:m1	disamb
+Spraw	space
+	sprawa	subst:pl:gen:f	disamb
+Wewnętrznych	space
+	wewnętrzny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+Administracji	space
+	administracja	subst:sg:gen:f	disamb
+ogłasza	space
+	ogłaszać	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+Dzienniku	none
+	dziennik	subst:sg:loc:m3	disamb
+Urzędowym	space
+	urzędowy	adj:sg:loc:m3:pos	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+"	space
+	"	interp	disamb
+Monitor	none
+	monitor	subst:sg:nom:m3	disamb
+Polski	space
+	polski	adj:sg:nom:m3:pos	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Inne	none
+	inny	adj:pl:nom:f:pos	disamb
+jednostki	space
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+uzyskać	space
+	uzyskać	inf:perf	disamb
+
+osobowość	none
+	osobowość	subst:sg:acc:f	disamb
+prawną	space
+	prawny	adj:sg:acc:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+Ministra	space
+	minister	subst:sg:gen:m1	disamb
+Spraw	space
+	sprawa	subst:pl:gen:f	disamb
+Wewnętrznych	space
+	wewnętrzny	adj:pl:gen:f:pos	disamb
+
+i	none
+	i	conj	disamb
+Administracji	space
+	administracja	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:acc:m3	disamb
+samodzielnie	space
+	samodzielnie	adv:pos	disamb
+tworzy	space
+	tworzyć	fin:sg:ter:imperf	disamb
+,	none
+	,	interp	disamb
+przekształca	space
+	przekształcać	fin:sg:ter:imperf	disamb
+i	space
+	i	conj	disamb
+znosi	space
+	znosić	fin:sg:ter:imperf	disamb
+jednostki	space
+	jednostka	subst:pl:acc:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+tym	space
+	to	subst:sg:loc:n	disamb
+także	space
+	także	qub	disamb
+posiadające	space
+	posiadający	adj:pl:nom:f:pos	disamb
+osobowość	space
+	osobowość	subst:sg:acc:f	disamb
+prawną	space
+	prawny	adj:sg:acc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+O	newline
+	o	prep:loc	disamb
+faktach	space
+	fakt	subst:pl:loc:m3	disamb
+wymienionych	space
+	wymienić	ppas:pl:loc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+władza	space
+	władza	subst:sg:nom:f	disamb
+kościelna	space
+	kościelny	adj:sg:nom:f:pos	disamb
+powiadamia	space
+	powiadamiać	fin:sg:ter:imperf	disamb
+niezwłocznie	space
+	niezwłocznie	adv:pos	disamb
+
+właściwy	none
+	właściwy	adj:sg:nom:m3:pos	disamb
+organ	space
+	organ	subst:sg:nom:m3	disamb
+administracji	space
+	administracja	subst:sg:gen:f	disamb
+rządowej	space
+	rządowy	adj:sg:gen:f:pos	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+odnośnie	space
+	odnośnie	adv	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+wymienionych	space
+	wymienić	ppas:pl:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+
+które	none
+	który	adj:pl:nom:f:pos	disamb
+otrzymały	space
+	otrzymać	praet:pl:f:perf	disamb
+osobowość	space
+	osobowość	subst:sg:acc:f	disamb
+prawną	space
+	prawny	adj:sg:acc:f:pos	disamb
+na	space
+	na	prep:loc	disamb
+zasadzie	space
+	zasada	subst:sg:loc:f	disamb
+określonej	space
+	określić	ppas:sg:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	num:pl:nom:m3:congr	disamb
+-	space
+	-	interp	disamb
+Ministra	space
+	minister	subst:sg:gen:m1	disamb
+Spraw	space
+	sprawa	subst:pl:gen:f	disamb
+Wewnętrznych	space
+	wewnętrzny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+Administracji	space
+	administracja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+pozostałych	space
+	pozostały	adj:pl:loc:m3:pos	disamb
+przypadkach	space
+	przypadek	subst:pl:loc:m3	disamb
+-	space
+	-	interp	disamb
+wojewodę	space
+	wojewoda	subst:sg:acc:m1	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nowo	newline
+	nowo	adv:pos	disamb
+utworzone	space
+	utworzyć	ppas:pl:nom:f:perf:aff	disamb
+jednostki	space
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+
+pkt	none
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+5	none
+	5	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+nabywają	space
+	nabywać	fin:pl:ter:imperf	disamb
+osobowość	space
+	osobowość	subst:sg:acc:f	disamb
+prawną	space
+	prawny	adj:sg:acc:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+chwilą	space
+	chwila	subst:sg:inst:f	disamb
+pisemnego	space
+	pisemny	adj:sg:gen:n:pos	disamb
+powiadomienia	space
+	powiadomienie	subst:sg:gen:n	disamb
+
+właściwego	none
+	właściwy	adj:sg:gen:m3:pos	disamb
+organu	space
+	organ	subst:sg:gen:m3	disamb
+administracji	space
+	administracja	subst:sg:gen:f	disamb
+rządowej	space
+	rządowy	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Odpis	newline
+	odpis	subst:sg:nom:m3	disamb
+powiadomienia	space
+	powiadomienie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+umieszczonym	space
+	umieścić	ppas:sg:inst:n:perf:aff	disamb
+
+na	none
+	na	prep:loc	disamb
+nim	space
+	on	ppron3:sg:loc:m3:ter:akc:praep	disamb
+potwierdzeniem	space
+	potwierdzić	ger:sg:inst:n:perf:aff	disamb
+odbioru	space
+	odbiór	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+dowodem	space
+	dowód	subst:sg:inst:m3	disamb
+uzyskania	space
+	uzyskać	ger:sg:gen:n:perf:aff	disamb
+osobowości	space
+	osobowość	subst:sg:gen:f	disamb
+
+prawnej	none
+	prawny	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Powiadomienie	newline
+	powiadomienie	subst:sg:nom:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+którym	space
+	który	adj:sg:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+powinno	space
+	powinien	winien:sg:n:imperf	disamb
+zawierać	space
+	zawierać	inf:imperf	disamb
+nazwę	space
+	nazwa	subst:sg:acc:f	disamb
+i	space
+	i	conj	disamb
+
+siedzibę	none
+	siedziba	subst:sg:acc:f	disamb
+kościelnej	space
+	kościelny	adj:sg:gen:f:pos	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+odniesieniu	space
+	odniesienie	subst:sg:loc:n	disamb
+do	space
+	do	prep:gen	disamb
+diecezji	space
+	diecezja	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+parafii	space
+	parafia	subst:sg:gen:f	disamb
+-	space
+	-	interp	disamb
+
+także	none
+	także	qub	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+zasięg	space
+	zasięg	subst:sg:nom:m3	disamb
+terytorialny	space
+	terytorialny	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Odpowiednie	newline
+	odpowiedni	adj:sg:nom:n:pos	disamb
+powiadomienie	space
+	powiadomienie	subst:sg:nom:n	disamb
+następuje	space
+	następować	fin:sg:ter:imperf	disamb
+również	space
+	również	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+powołania	space
+	powołanie	subst:sg:gen:n	disamb
+
+lub	none
+	lub	conj	disamb
+odwołania	space
+	odwołać	ger:sg:gen:n:perf:aff	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+sprawujących	space
+	sprawować	pact:pl:gen:f:imperf:aff	disamb
+funkcję	space
+	funkcja	subst:sg:acc:f	disamb
+organu	space
+	organ	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+członka	space
+	członek	subst:sg:gen:m1	disamb
+organu	space
+	organ	subst:sg:gen:m3	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+
+prawnej	none
+	prawny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+uprawnionych	space
+	uprawniony	adj:pl:gen:m1:pos	disamb
+do	space
+	do	prep:gen	disamb
+składania	space
+	składać	ger:sg:gen:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+imieniu	space
+	imię	subst:sg:loc:n	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:n:pos	disamb
+oświadczeń	space
+	oświadczenie	subst:pl:gen:n	disamb
+
+woli	none
+	woleć	fin:sg:ter:imperf	disamb
+.	none
+	.	interp	disamb
+
+Powiadomienie	newline
+	powiadomienie	subst:sg:nom:n	disamb
+obejmuje	space
+	obejmować	fin:sg:ter:imperf	disamb
+imię	space
+	imię	subst:sg:acc:n	disamb
+i	space
+	i	conj	disamb
+nazwisko	space
+	nazwisko	subst:sg:acc:n	disamb
+,	none
+	,	interp	disamb
+obywatelstwo	space
+	obywatelstwo	subst:sg:acc:n	disamb
+oraz	space
+	oraz	conj	disamb
+
+miejsce	none
+	miejsce	subst:sg:nom:n	disamb
+zamieszkania	space
+	zamieszkanie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Jednostki	none
+	jednostka	subst:pl:nom:f	disamb
+organizacyjne	space
+	organizacyjny	adj:pl:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+posiadające	space
+	posiadać	pact:pl:nom:f:imperf:aff	disamb
+osobowości	space
+	osobowość	subst:pl:nom:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+działają	space
+	działać	fin:pl:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ramach	space
+	ramy	subst:pl:loc:n	disamb
+
+tych	none
+	ten	adj:pl:gen:f:pos	disamb
+kościelnych	space
+	kościelny	adj:pl:gen:f:pos	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:f:pos	disamb
+je	space
+	on	ppron3:pl:acc:f:ter:akc:npraep	disamb
+powołały	space
+	powołać	praet:pl:f:perf	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościelna	none
+	Kościelny	adj:sg:nom:f:pos	disamb
+osoba	space
+	osoba	subst:sg:nom:f	disamb
+prawna	space
+	prawny	adj:sg:nom:f:pos	disamb
+nie	space
+	nie	qub	disamb
+odpowiada	space
+	odpowiadać	fin:sg:ter:imperf	disamb
+za	space
+	za	prep:acc	disamb
+zobowiązania	space
+	zobowiązanie	subst:pl:acc:n	disamb
+innej	space
+	inny	adj:sg:gen:f:pos	disamb
+kościelnej	space
+	kościelny	adj:sg:gen:f:pos	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+
+prawnej	none
+	prawny	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+
+Działalność	none
+	działalność	subst:sg:nom:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+swobodnie	space
+	swobodnie	adv:pos	disamb
+organizuje	space
+	organizować	fin:sg:ter:imperf	disamb
+i	space
+	i	conj	disamb
+sprawuje	space
+	sprawować	fin:sg:ter:imperf	disamb
+kult	space
+	kult	subst:sg:acc:m3	disamb
+publiczny	space
+	publiczny	adj:sg:acc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Organizowanie	newline
+	organizować	ger:sg:nom:n:imperf:aff	disamb
+imprez	space
+	impreza	subst:pl:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+charakterze	space
+	charakter	subst:sg:loc:m3	disamb
+religijnym	space
+	religijny	adj:sg:loc:m3:pos	disamb
+na	space
+	na	prep:loc	disamb
+drogach	space
+	droga	subst:pl:loc:f	disamb
+publicznych	space
+	publiczny	adj:pl:loc:f:pos	disamb
+
+wymaga	none
+	wymagać	fin:sg:ter:imperf	disamb
+uzgodnienia	space
+	uzgodnienie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+bezpieczeństwa	space
+	bezpieczeństwo	subst:sg:gen:n	disamb
+ruchu	space
+	ruch	subst:sg:gen:m3	disamb
+drogowego	space
+	drogowy	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+właściwymi	space
+	właściwy	adj:pl:inst:f:pos	disamb
+
+organami	none
+	organ	subst:pl:inst:m3	disamb
+administracji	space
+	administracja	subst:sg:gen:f	disamb
+rządowej	space
+	rządowy	adj:sg:gen:f:pos	disamb
+bądź	space
+	bądź	conj	disamb
+organami	space
+	organ	subst:pl:inst:m3	disamb
+samorządu	space
+	samorząd	subst:sg:gen:m3	disamb
+terytorialnego	space
+	terytorialny	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepisu	newline
+	przepis	subst:sg:gen:m3	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:gen:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+konduktów	space
+	kondukt	subst:pl:gen:m3	disamb
+pogrzebowych	space
+	pogrzebowy	adj:pl:gen:m3:pos	disamb
+odbywających	space
+	odbywać	pact:pl:gen:m3:imperf:aff	disamb
+
+się	none
+	się	qub	disamb
+stosownie	space
+	stosownie	adv:pos	disamb
+do	space
+	do	prep:gen	disamb
+miejscowego	space
+	miejscowy	adj:sg:gen:m3:pos	disamb
+zwyczaju	space
+	zwyczaj	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Religijne	newline
+	religijny	adj:pl:nom:f:pos	disamb
+uroczystości	space
+	uroczystość	subst:pl:nom:f	disamb
+pogrzebowe	space
+	pogrzebowy	adj:pl:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+nabożeństwa	space
+	nabożeństwo	subst:pl:nom:n	disamb
+za	space
+	za	prep:acc	disamb
+zmarłych	space
+	zmarły	subst:pl:acc:m1	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+
+sprawowane	none
+	sprawować	ppas:pl:nom:f:imperf:aff	disamb
+na	space
+	na	prep:loc	disamb
+cmentarzach	space
+	cmentarz	subst:pl:loc:m3	disamb
+komunalnych	space
+	komunalny	adj:pl:loc:m3:pos	disamb
+przy	space
+	przy	prep:loc	disamb
+zachowaniu	space
+	zachować	ger:sg:loc:n:perf:aff	disamb
+obowiązujących	space
+	obowiązywać	pact:pl:gen:m1:imperf:aff	disamb
+
+przepisów	none
+	przepis	subst:pl:gen:m3	disamb
+porządkowych	space
+	porządkowy	adj:pl:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wierni	none
+	wierny	subst:pl:nom:m1	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+zwolnień	space
+	zwolnienie	subst:pl:gen:n	disamb
+od	space
+	od	prep:gen:nwok	disamb
+pracy	space
+	praca	subst:sg:gen:f	disamb
+lub	space
+	lub	conj	disamb
+nauki	space
+	nauka	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+
+określonych	none
+	określić	ppas:pl:loc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+odrębnych	space
+	odrębny	adj:pl:loc:m3:pos	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+święta	space
+	święto	subst:sg:gen:n	disamb
+religijnego	space
+	religijny	adj:sg:gen:n:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+sierpnia	space
+	sierpień	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+będącego	none
+	być	pact:sg:gen:n:imperf:aff	disamb
+pamiątką	space
+	pamiątka	subst:sg:inst:f	disamb
+objawienia	space
+	objawienie	subst:sg:gen:n	disamb
+Dzieła	space
+	dzieło	subst:sg:gen:n	disamb
+Wielkiego	space
+	wielki	adj:sg:gen:n:pos	disamb
+Miłosierdzia	space
+	miłosierdzie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+10	space
+	10	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+prowadzi	space
+	prowadzić	fin:sg:ter:imperf	disamb
+konfesyjne	space
+	konfesyjny	adj:sg:acc:n:pos	disamb
+nauczanie	space
+	nauczanie	subst:sg:acc:n	disamb
+religii	space
+	religia	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szkołach	space
+	szkoła	subst:pl:loc:f	disamb
+publicznych	space
+	publiczny	adj:pl:loc:f:pos	disamb
+na	space
+	na	prep:acc	disamb
+
+zasadach	none
+	zasada	subst:pl:loc:f	disamb
+i	space
+	i	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+trybie	space
+	tryb	subst:sg:loc:m3	disamb
+przewidzianych	space
+	przewidzieć	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+odrębnych	space
+	odrębny	adj:pl:loc:m3:pos	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Oceny	newline
+	ocena	subst:pl:nom:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+religii	space
+	religia	subst:sg:gen:f	disamb
+wystawiane	space
+	wystawiać	ppas:pl:nom:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+punktach	space
+	punkt	subst:pl:loc:m3	disamb
+katechetycznych	space
+	katechetyczny	adj:pl:loc:m3:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+umieszczane	space
+	umieszczać	ppas:pl:nom:f:imperf:aff	disamb
+na	space
+	na	prep:acc	disamb
+
+świadectwach	none
+	świadectwo	subst:pl:loc:n	disamb
+wydawanych	space
+	wydawać	ppas:pl:loc:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+szkoły	space
+	szkoła	subst:pl:acc:f	disamb
+publiczne	space
+	publiczny	adj:pl:acc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11	space
+	11	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościelne	newline
+	kościelny	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+zakładać	space
+	zakładać	inf:imperf	disamb
+i	space
+	i	conj	disamb
+prowadzić	space
+	prowadzić	inf:imperf	disamb
+szkoły	space
+	szkoła	subst:pl:acc:f	disamb
+oraz	space
+	oraz	conj	disamb
+inne	space
+	inny	adj:pl:acc:f:pos	disamb
+
+placówki	none
+	placówka	subst:pl:nom:f	disamb
+oświatowo	space
+	oświatowy	adja	disamb
+-	none
+	-	interp	disamb
+wychowawcze	none
+	wychowawczy	adj:pl:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+opiekuńczo	space
+	opiekuńczy	adja	disamb
+-	none
+	-	interp	disamb
+wychowawcze	none
+	wychowawczy	adj:pl:nom:f:pos	disamb
+na	space
+	na	prep:loc	disamb
+zasadach	space
+	zasada	subst:pl:loc:f	disamb
+
+określonych	none
+	określić	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+odrębnych	space
+	odrębny	adj:pl:loc:m3:pos	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+.	none
+	.	interp	disamb
+
+Mają	newline
+	mieć	fin:pl:ter:imperf	disamb
+one	space
+	on	ppron3:pl:nom:m3:ter:akc:npraep	disamb
+charakter	space
+	charakter	subst:sg:acc:m3	disamb
+mariawicki	space
+	mariawicki	adj:sg:acc:m3:pos	disamb
+
+i	none
+	i	conj	disamb
+podlegają	space
+	podlegać	fin:pl:ter:imperf	disamb
+władzy	space
+	władza	subst:sg:dat:f	disamb
+kościelnej	space
+	kościelna	subst:sg:dat:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+nauczycieli	space
+	nauczyciel	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+wychowawców	space
+	wychowawca	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+pracowników	space
+	pracownik	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szkołach	space
+	szkoła	subst:pl:loc:f	disamb
+i	space
+	i	conj	disamb
+
+innych	none
+	inny	adj:pl:loc:f:pos	disamb
+placówkach	space
+	placówka	subst:pl:loc:f	disamb
+oświatowo	space
+	oświatowy	adja	disamb
+-	none
+	-	interp	disamb
+wychowawczych	none
+	wychowawczy	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+opiekuńczo	space
+	opiekuńczy	adja	disamb
+-	none
+	-	interp	disamb
+wychowawczych	none
+	wychowawczy	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+a	none
+	a	conj	disamb
+także	space
+	także	conj	disamb
+seminariach	space
+	seminarium	subst:pl:loc:n	disamb
+duchownych	space
+	duchowny	adj:pl:loc:n:pos	disamb
+i	space
+	i	conj	disamb
+instytutach	space
+	instytut	subst:pl:loc:m3	disamb
+misyjnych	space
+	misyjny	adj:pl:loc:m3:pos	disamb
+prowadzonych	space
+	prowadzić	ppas:pl:loc:m3:imperf:aff	disamb
+
+przez	none
+	przez	prep:acc:nwok	disamb
+Kościół	space
+	kościół	subst:sg:acc:m3	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+odpowiednio	space
+	odpowiednio	adv:pos	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+dotyczące	space
+	dotyczyć	pact:pl:acc:m3:imperf:aff	disamb
+uprawnień	space
+	uprawnienie	subst:pl:gen:n	disamb
+
+nauczycieli	none
+	nauczyciel	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+wychowawców	space
+	wychowawca	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+pracowników	space
+	pracownik	subst:pl:gen:m1	disamb
+zatrudnionych	space
+	zatrudnić	ppas:pl:gen:m1:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szkołach	space
+	szkoła	subst:pl:loc:f	disamb
+i	space
+	i	conj	disamb
+placówkach	space
+	placówka	subst:pl:loc:f	disamb
+
+publicznych	none
+	publiczny	adj:pl:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Uczącym	newline
+	uczyć	pact:pl:dat:m1:imperf:aff	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szkołach	space
+	szkoła	subst:pl:loc:f	disamb
+wymienionych	space
+	wymienić	ppas:pl:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+przysługują	space
+	przysługiwać	fin:pl:ter:imperf	disamb
+świadczenia	space
+	świadczenie	subst:pl:nom:n	disamb
+
+publicznych	none
+	publiczny	adj:pl:gen:m3:pos	disamb
+zakładów	space
+	zakład	subst:pl:gen:m3	disamb
+opieki	space
+	opieka	subst:sg:gen:f	disamb
+zdrowotnej	space
+	zdrowotny	adj:sg:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+ulgi	space
+	ulga	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+opłatach	space
+	opłata	subst:pl:loc:f	disamb
+za	space
+	za	prep:acc	disamb
+przejazdy	space
+	przejazd	subst:pl:acc:m3	disamb
+
+środkami	none
+	środek	subst:pl:inst:m3	disamb
+publicznego	space
+	publiczny	adj:sg:gen:m3:pos	disamb
+transportu	space
+	transport	subst:sg:gen:m3	disamb
+zbiorowego	space
+	zbiorowy	adj:sg:gen:m3:pos	disamb
+na	space
+	na	prep:loc	disamb
+równi	space
+	równy	adjp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+uczniami	space
+	uczeń	subst:pl:inst:m1	disamb
+szkół	space
+	szkoła	subst:pl:gen:f	disamb
+
+publicznych	none
+	publiczny	adj:pl:gen:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+12	space
+	12	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+zakładania	space
+	zakładać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+seminariów	space
+	seminarium	subst:pl:gen:n	disamb
+duchownych	space
+	duchowny	adj:pl:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+
+instytutów	none
+	instytut	subst:pl:gen:m3	disamb
+misyjnych	space
+	misyjny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+których	space
+	który	adj:pl:loc:m3:pos	disamb
+kształci	space
+	kształcić	fin:sg:ter:imperf	disamb
+według	space
+	według	prep:gen	disamb
+własnego	space
+	własny	adj:sg:gen:m3:pos	disamb
+programu	space
+	program	subst:sg:gen:m3	disamb
+kandydatów	space
+	kandydat	subst:pl:gen:m1	disamb
+
+na	none
+	na	prep:acc	disamb
+duchownych	space
+	duchowny	subst:pl:loc:m1	disamb
+oraz	space
+	oraz	conj	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+świeckie	space
+	świecki	adj:pl:nom:f:pos	disamb
+przygotowujące	space
+	przygotowywać	pact:pl:nom:f:imperf:aff	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+
+misji	none
+	misja	subst:sg:gen:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wyższe	newline
+	wysoki	adj:sg:nom:n:com	disamb
+Seminarium	space
+	seminarium	subst:sg:nom:n	disamb
+Duchowne	space
+	duchowny	adj:sg:nom:n:pos	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+Starokatolickiego	space
+	starokatolicki	adj:sg:gen:m3:pos	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+Płocku	none
+	Płock	subst:sg:loc:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+wyższą	space
+	wysoki	adj:sg:inst:f:com	disamb
+szkołą	space
+	szkoła	subst:sg:inst:f	disamb
+teologiczną	space
+	teologiczny	adj:sg:inst:f:pos	disamb
+uprawnioną	space
+	uprawnić	ppas:sg:inst:f:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+nadawania	space
+	nadawać	ger:sg:gen:n:imperf:aff	disamb
+absolwentom	space
+	absolwent	subst:pl:dat:m1	disamb
+
+tytułu	none
+	tytuł	subst:sg:gen:m3	disamb
+zawodowego	space
+	zawodowy	adj:sg:gen:m1:pos	disamb
+licencjata	space
+	licencjat	subst:sg:gen:m1	disamb
+teologii	space
+	teologia	subst:sg:gen:f	disamb
+mariawickiej	space
+	mariawicki	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Tytuł	newline
+	tytuł	subst:sg:nom:m3	disamb
+ten	space
+	ten	adj:sg:nom:m3:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+równoważny	space
+	równoważny	adj:sg:nom:m3:pos	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+tytułem	space
+	tytuł	subst:sg:inst:m3	disamb
+zawodowym	space
+	zawodowy	adj:sg:inst:m3:pos	disamb
+licencjata	space
+	licencjat	subst:sg:gen:m1	disamb
+nadawanym	space
+	nadawać	ppas:sg:inst:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+państwowe	space
+	państwowy	adj:pl:acc:n:pos	disamb
+
+szkoły	none
+	szkoła	subst:pl:nom:f	disamb
+wyższe	space
+	wysoki	adj:pl:nom:f:com	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+13	space
+	13	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Poręcza	none
+	poręczać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+Kościołowi	space
+	kościół	subst:sg:dat:m3	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+kształcenia	space
+	kształcenie	subst:sg:gen:n	disamb
+kadr	space
+	kadra	subst:pl:gen:f	disamb
+duchownych	space
+	duchowny	adj:pl:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Chrześcijańskiej	space
+	chrześcijański	adj:sg:loc:f:pos	disamb
+
+Akademii	none
+	akademia	subst:sg:gen:f	disamb
+Teologicznej	space
+	teologiczny	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Warszawie	space
+	Warszawa	subst:sg:loc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakresie	space
+	zakres	subst:sg:loc:m3	disamb
+teologii	space
+	teologia	subst:sg:gen:f	disamb
+starokatolickiej	space
+	starokatolicki	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+ramach	none
+	rama	subst:pl:loc:f	disamb
+istniejącej	space
+	istnieć	pact:sg:gen:f:imperf:aff	disamb
+jednostki	space
+	jednostka	subst:sg:gen:f	disamb
+naukowo	space
+	naukowy	adja	disamb
+-	none
+	-	interp	disamb
+dydaktycznej	none
+	dydaktyczny	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+14	space
+	14	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Studenci	newline
+	student	subst:pl:nom:m1	disamb
+teologii	space
+	teologia	subst:sg:gen:f	disamb
+otrzymują	space
+	otrzymywać	fin:pl:ter:imperf	disamb
+na	space
+	na	prep:acc	disamb
+czas	space
+	czas	subst:sg:acc:m3	disamb
+studiów	space
+	studia	subst:pl:gen:n	disamb
+odroczenie	space
+	odroczenie	subst:sg:acc:n	disamb
+odbywania	space
+	odbywać	ger:sg:gen:n:imperf:aff	disamb
+zasadniczej	space
+	zasadniczy	adj:sg:gen:f:pos	disamb
+
+służby	none
+	służba	subst:sg:gen:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+zaś	space
+	zaś	conj	disamb
+ogłoszenia	space
+	ogłoszenie	subst:pl:nom:n	disamb
+mobilizacji	space
+	mobilizacja	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+wojny	space
+	wojna	subst:sg:gen:f	disamb
+
+mogą	none
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+przeznaczeni	space
+	przeznaczyć	ppas:pl:nom:m1:perf:aff	disamb
+,	none
+	,	interp	disamb
+stosownie	space
+	stosownie	adv:pos	disamb
+do	space
+	do	prep:gen	disamb
+potrzeb	space
+	potrzeba	subst:pl:gen:f	disamb
+sił	space
+	siła	subst:pl:gen:f	disamb
+zbrojnych	space
+	zbrojny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+
+sanitarnej	none
+	sanitarny	adj:sg:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+obronie	space
+	obrona	subst:sg:loc:f	disamb
+cywilnej	space
+	cywilny	adj:sg:loc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nie	newline
+	nie	qub	disamb
+powołuje	space
+	powoływać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+absolwentów	space
+	absolwent	subst:pl:gen:m1	disamb
+studiów	space
+	studia	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+odbywania	space
+	odbywać	ger:sg:gen:n:imperf:aff	disamb
+
+przeszkolenia	none
+	przeszkolenie	subst:sg:gen:n	disamb
+wojskowego	space
+	wojskowy	adj:sg:gen:n:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+przygotowań	space
+	przygotowanie	subst:pl:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+święceń	space
+	święcenie	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+ciągu	none
+	ciąg	subst:sg:gen:m3	disamb
+dwóch	space
+	dwa	num:pl:gen:m3:congr	disamb
+lat	space
+	rok	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+zakończenia	space
+	zakończyć	ger:sg:gen:n:perf:aff	disamb
+studiów	space
+	studia	subst:pl:gen:n	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Duchowni	newline
+	duchowny	subst:pl:nom:m1	disamb
+po	space
+	po	prep:loc	disamb
+otrzymaniu	space
+	otrzymać	ger:sg:loc:n:perf:aff	disamb
+święceń	space
+	święcenia	subst:pl:gen:n	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+przenoszeni	space
+	przenosić	ppas:pl:nom:m1:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+rezerwy	space
+	rezerwa	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+nie	space
+	nie	qub	disamb
+odbywają	space
+	odbywać	fin:pl:ter:imperf	disamb
+
+ćwiczeń	none
+	ćwiczenie	subst:pl:gen:n	disamb
+wojskowych	space
+	wojskowy	adj:pl:gen:n:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+pokoju	space
+	pokój	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+ogłoszenia	space
+	ogłosić	ger:sg:gen:n:perf:aff	disamb
+mobilizacji	space
+	mobilizacja	subst:sg:gen:f	disamb
+
+oraz	none
+	oraz	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+wojny	space
+	wojna	subst:sg:gen:f	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+oni	space
+	on	ppron3:pl:nom:m1:ter:akc:npraep	disamb
+powołani	space
+	powołać	ppas:pl:nom:m1:perf:aff	disamb
+jedynie	space
+	jedynie	qub	disamb
+do	space
+	do	prep:gen	disamb
+pełnienia	space
+	pełnić	ger:sg:gen:n:imperf:aff	disamb
+funkcji	space
+	funkcja	subst:sg:gen:f	disamb
+
+kapelanów	none
+	kapelan	subst:pl:gen:m1	disamb
+wojskowych	space
+	wojskowy	adj:pl:acc:m1:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+ogłoszenia	space
+	ogłosić	ger:sg:gen:n:perf:aff	disamb
+mobilizacji	space
+	mobilizacja	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+czasie	space
+	czas	subst:sg:loc:m3	disamb
+wojny	space
+	wojna	subst:sg:gen:f	disamb
+właściwe	space
+	właściwy	adj:pl:nom:m3:pos	disamb
+organy	space
+	organ	subst:pl:nom:m3	disamb
+wojskowe	space
+	wojskowy	adj:pl:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+porozumieniu	space
+	porozumienie	subst:sg:loc:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+Biskupem	space
+	biskup	subst:sg:inst:m1	disamb
+Naczelnym	space
+	naczelny	subst:sg:inst:m1	disamb
+,	none
+	,	interp	disamb
+zapewnią	space
+	zapewnić	fin:pl:ter:perf	disamb
+pozostawienie	space
+	pozostawić	ger:sg:acc:n:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+duszpasterskiej	space
+	duszpasterski	adj:sg:gen:f:pos	disamb
+
+obsługi	none
+	obsługa	subst:sg:gen:f	disamb
+ludności	space
+	ludność	subst:sg:gen:f	disamb
+niezbędnej	space
+	niezbędny	adj:sg:gen:f:pos	disamb
+liczby	space
+	liczba	subst:sg:gen:f	disamb
+duchownych	space
+	duchowny	subst:pl:gen:m1	disamb
+spośród	space
+	spośród	prep:gen	disamb
+tych	space
+	ten	adj:pl:gen:m1:pos	disamb
+,	none
+	,	interp	disamb
+
+którzy	none
+	który	adj:pl:nom:m1:pos	disamb
+podlegają	space
+	podlegać	fin:pl:ter:imperf	disamb
+mobilizacji	space
+	mobilizacja	subst:sg:dat:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+15	space
+	15	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Żołnierzom	newline
+	żołnierz	subst:pl:dat:m1	disamb
+pełniącym	space
+	pełnić	pact:pl:dat:m1:imperf:aff	disamb
+czynną	space
+	czynny	adj:sg:acc:f:pos	disamb
+służbę	space
+	służba	subst:sg:acc:f	disamb
+wojskową	space
+	wojskowy	adj:sg:acc:f:pos	disamb
+zapewnia	space
+	zapewniać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+możliwość	space
+	możliwość	subst:sg:nom:f	disamb
+
+uczestniczenia	none
+	uczestniczyć	ger:sg:gen:n:imperf:aff	disamb
+-	space
+	-	interp	disamb
+poza	space
+	poza	prep:inst	disamb
+terenem	space
+	teren	subst:sg:inst:m3	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+wojskowych	space
+	wojskowy	adj:pl:gen:f:pos	disamb
+-	space
+	-	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+nabożeństwach	space
+	nabożeństwo	subst:pl:loc:n	disamb
+i	space
+	i	conj	disamb
+
+czynnościach	none
+	czynność	subst:pl:loc:f	disamb
+religijnych	space
+	religijny	adj:pl:loc:f:pos	disamb
+w	space
+	w	prep:acc:nwok	disamb
+niedziele	space
+	niedziela	subst:pl:acc:f	disamb
+i	space
+	i	conj	disamb
+w	space
+	w	prep:acc:nwok	disamb
+święta	space
+	święto	subst:pl:acc:n	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+miejscowości	space
+	miejscowość	subst:sg:loc:f	disamb
+stacjonowania	space
+	stacjonować	ger:sg:gen:n:imperf:aff	disamb
+
+jednostki	none
+	jednostka	subst:sg:gen:f	disamb
+wojskowej	space
+	wojskowy	adj:sg:gen:f:pos	disamb
+lub	space
+	lub	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+pobliżu	space
+	pobliże	subst:sg:loc:n	disamb
+znajduje	space
+	znajdować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+kościół	space
+	kościół	subst:sg:nom:m3	disamb
+mariawicki	space
+	mariawicki	adj:sg:nom:m3:pos	disamb
+
+i	none
+	i	conj	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+nie	space
+	nie	qub	disamb
+koliduje	space
+	kolidować	fin:sg:ter:imperf	disamb
+to	space
+	to	subst:sg:nom:n	disamb
+z	space
+	z	prep:inst:nwok	disamb
+ważnymi	space
+	ważny	adj:pl:inst:m3:pos	disamb
+obowiązkami	space
+	obowiązek	subst:pl:inst:m3	disamb
+służbowymi	space
+	służbowy	adj:pl:inst:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Opiekę	newline
+	opieka	subst:sg:acc:f	disamb
+duszpasterską	space
+	duszpasterski	adj:sg:acc:f:pos	disamb
+na	space
+	na	prep:loc	disamb
+terenie	space
+	teren	subst:sg:loc:m3	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+wojskowych	space
+	wojskowy	adj:pl:gen:f:pos	disamb
+dla	space
+	dla	prep:gen	disamb
+żołnierzy	space
+	żołnierz	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:acc	disamb
+
+których	none
+	który	adj:pl:gen:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+zapewniają	space
+	zapewniać	fin:pl:ter:imperf	disamb
+duchowni	space
+	duchowny	subst:pl:nom:m1	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+terminach	space
+	termin	subst:pl:loc:m3	disamb
+uzgodnionych	space
+	uzgodnić	ppas:pl:loc:m3:perf:aff	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+dowódcami	space
+	dowódca	subst:pl:inst:m1	disamb
+jednostek	space
+	jednostka	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Duchownych	newline
+	duchowny	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:m1:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+wyznacza	space
+	wyznaczać	fin:sg:ter:imperf	disamb
+Rada	space
+	rada	subst:sg:nom:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+porozumieniu	space
+	porozumienie	subst:sg:loc:n	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+Ministrem	space
+	minister	subst:sg:inst:m1	disamb
+Obrony	space
+	obrona	subst:sg:gen:f	disamb
+Narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+16	space
+	16	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wiernym	newline
+	wierny	adj:sg:inst:m1:pos	disamb
+przebywającym	space
+	przebywać	pact:pl:dat:m1:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szpitalach	space
+	szpital	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+prewentoriach	space
+	prewentorium	subst:pl:loc:n	disamb
+i	space
+	i	conj	disamb
+sanatoriach	space
+	sanatorium	subst:pl:loc:n	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zakładach	space
+	zakład	subst:pl:loc:m3	disamb
+
+wychowawczo	none
+	wychowawczo	adja	disamb
+-	none
+	-	interp	disamb
+opiekuńczych	none
+	opiekuńczy	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+poprawczych	space
+	poprawczy	adj:pl:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+karnych	space
+	karny	adj:pl:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+osobom	space
+	osoba	subst:pl:dat:f	disamb
+
+tymczasowo	none
+	tymczasowo	adv:pos	disamb
+aresztowanym	space
+	aresztowany	subst:pl:dat:m1	disamb
+zapewnia	space
+	zapewniać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+prawo	space
+	prawo	subst:sg:nom:n	disamb
+do	space
+	do	prep:gen	disamb
+wykonywania	space
+	wykonywać	ger:sg:gen:n:imperf:aff	disamb
+praktyk	space
+	praktyka	subst:pl:gen:f	disamb
+
+religijnych	none
+	religijny	adj:pl:gen:n:pos	disamb
+oraz	space
+	oraz	conj	disamb
+korzystania	space
+	korzystać	ger:sg:gen:n:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+posług	space
+	posługa	subst:pl:gen:f	disamb
+religijnych	space
+	religijny	adj:pl:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przepis	newline
+	przepis	subst:sg:acc:m3	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+również	space
+	również	qub	disamb
+do	space
+	do	prep:gen	disamb
+dzieci	space
+	dziecko	subst:pl:gen:n	disamb
+i	space
+	i	conj	disamb
+młodzieży	space
+	młodzież	subst:pl:gen:f	disamb
+korzystających	space
+	korzystać	pact:pl:gen:f:imperf:aff	disamb
+ze	space
+	z	prep:inst:wok	disamb
+
+zorganizowanych	none
+	zorganizować	ppas:pl:gen:f:perf:aff	disamb
+form	space
+	forma	subst:pl:gen:f	disamb
+wypoczynku	space
+	wypoczynek	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+celu	space
+	cel	subst:sg:loc:m3	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+uprawnień	space
+	uprawnienie	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+kierownicy	space
+	kierownik	subst:pl:nom:m1	disamb
+właściwych	space
+	właściwy	adj:pl:loc:m3:pos	disamb
+
+zakładów	none
+	zakład	subst:pl:gen:m3	disamb
+zapewniają	space
+	zapewniać	fin:pl:ter:imperf	disamb
+duchownym	space
+	duchowny	subst:pl:dat:m1	disamb
+swobodny	space
+	swobodny	adj:sg:acc:m3:pos	disamb
+dostęp	space
+	dostęp	subst:sg:acc:m3	disamb
+do	space
+	do	prep:gen	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+17	space
+	17	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+tworzyć	space
+	tworzyć	inf:imperf	disamb
+własne	space
+	własny	adj:pl:acc:f:pos	disamb
+organizacje	space
+	organizacja	subst:pl:acc:f	disamb
+kościelne	space
+	kościelny	adj:pl:acc:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+celu	space
+	cel	subst:sg:loc:m3	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+zadań	space
+	zadanie	subst:pl:gen:n	disamb
+
+wynikających	none
+	wynikać	pact:pl:gen:m1:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+misji	space
+	misja	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Organizacje	newline
+	organizacja	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+na	space
+	na	prep:loc	disamb
+celu	space
+	cel	subst:sg:loc:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+działalność	space
+	działalność	subst:sg:acc:f	disamb
+
+na	none
+	na	prep:acc	disamb
+rzecz	space
+	rzecz	subst:sg:acc:f	disamb
+formacji	space
+	formacja	subst:sg:gen:f	disamb
+religijnej	space
+	religijny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+kultu	space
+	kult	subst:sg:gen:m3	disamb
+publicznego	space
+	publiczny	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+nauki	space
+	nauka	subst:sg:gen:f	disamb
+mariawickiej	space
+	mariawicki	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+działalność	none
+	działalność	subst:sg:nom:f	disamb
+charytatywno	space
+	charytatywno	adja	disamb
+-	none
+	-	interp	disamb
+opiekuńczą	none
+	opiekuńczy	adj:sg:inst:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+kształtowanie	space
+	kształtować	ger:sg:nom:n:imperf:aff	disamb
+postaw	space
+	postawa	subst:pl:gen:f	disamb
+religijno	space
+	religijny	adja	disamb
+-	none
+	-	interp	disamb
+etycznych	none
+	etyczny	adj:pl:gen:f:pos	disamb
+
+dzieci	none
+	dziecko	subst:pl:nom:n	disamb
+i	space
+	i	conj	disamb
+młodzieży	space
+	młodzież	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Władze	newline
+	władza	subst:pl:nom:f	disamb
+kościelne	space
+	kościelny	adj:pl:nom:f:pos	disamb
+czuwają	space
+	czuwać	fin:pl:ter:imperf	disamb
+nad	space
+	nad	prep:inst:nwok	disamb
+zgodnością	space
+	zgodność	subst:sg:inst:f	disamb
+działania	space
+	działać	ger:sg:gen:n:imperf:aff	disamb
+organizacji	space
+	organizacja	subst:sg:gen:f	disamb
+z	space
+	z	prep:inst:nwok	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+celami	space
+	cel	subst:pl:inst:m3	disamb
+
+religijnymi	none
+	religijny	adj:pl:inst:m3:pos	disamb
+i	space
+	i	conj	disamb
+etycznymi	space
+	etyczny	adj:pl:inst:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+organizacji	space
+	organizacja	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+o	space
+	o	prep:loc	disamb
+stowarzyszeniach	space
+	stowarzyszenie	subst:pl:loc:n	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Organizacje	newline
+	organizacja	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+uzyskiwać	space
+	uzyskiwać	inf:imperf	disamb
+osobowość	space
+	osobowość	subst:sg:acc:f	disamb
+prawną	space
+	prawny	adj:sg:acc:f:pos	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+trybie	space
+	tryb	subst:sg:loc:m3	disamb
+określonym	space
+	określić	ppas:sg:loc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+18	space
+	18	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościelne	none
+	kościelny	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+prowadzenia	space
+	prowadzenie	subst:sg:gen:n	disamb
+właściwej	space
+	właściwy	adj:sg:gen:f:pos	disamb
+dla	space
+	dla	prep:gen	disamb
+każdej	space
+	każdy	adj:sg:gen:f:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+nich	space
+	on	ppron3:pl:gen:f:ter:akc:praep	disamb
+
+działalności	none
+	działalność	subst:sg:gen:f	disamb
+charytatywno	space
+	charytatywno	adja	disamb
+-	none
+	-	interp	disamb
+opiekuńczej	none
+	opiekuńczy	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+19	space
+	19	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościelne	newline
+	kościelny	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+realizować	space
+	realizować	inf:imperf	disamb
+inwestycje	space
+	inwestycja	subst:pl:acc:f	disamb
+sakralne	space
+	sakralny	adj:pl:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+kościelne	space
+	kościelny	adj:pl:acc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Parafie	newline
+	parafia	subst:pl:nom:f	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+posiadania	space
+	posiadać	ger:sg:gen:n:imperf:aff	disamb
+cmentarzy	space
+	cmentarz	subst:pl:gen:m3	disamb
+grzebalnych	space
+	grzebalny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+poszerzania	space
+	poszerzać	ger:sg:gen:n:imperf:aff	disamb
+ich	space
+	on	ppron3:pl:gen:m3:ter:akc:npraep	disamb
+,	none
+	,	interp	disamb
+
+zakładania	none
+	zakładać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+zarządzania	space
+	zarządzać	ger:sg:gen:n:imperf:aff	disamb
+nimi	space
+	on	ppron3:pl:inst:m1:ter:akc:praep	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Na	newline
+	na	prep:acc	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+kościelnej	space
+	kościelny	adj:sg:gen:f:pos	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+miejscowe	space
+	miejscowy	adj:pl:acc:m3:pos	disamb
+plany	space
+	plan	subst:pl:acc:m3	disamb
+zagospodarowania	space
+	zagospodarować	ger:sg:gen:n:perf:aff	disamb
+
+przestrzennego	none
+	przestrzenny	adj:sg:gen:m3:pos	disamb
+obejmują	space
+	obejmować	fin:pl:ter:imperf	disamb
+także	space
+	także	qub	disamb
+inwestycje	space
+	inwestycja	subst:pl:acc:f	disamb
+sakralne	space
+	sakralny	adj:pl:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+kościelne	space
+	kościelny	adj:pl:acc:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+mariawickie	space
+	mariawicki	adj:pl:acc:f:pos	disamb
+
+cmentarze	none
+	cmentarz	subst:pl:nom:m3	disamb
+wyznaniowe	space
+	wyznaniowy	adj:pl:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+20	space
+	20	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Grunty	none
+	grunt	subst:pl:nom:m3	disamb
+stanowiące	space
+	stanowić	pact:pl:nom:m3:imperf:aff	disamb
+własność	space
+	własność	subst:sg:acc:f	disamb
+Skarbu	space
+	skarb	subst:sg:gen:m3	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+lub	space
+	lub	conj	disamb
+własność	space
+	własność	subst:sg:acc:f	disamb
+gminy	space
+	gmina	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+przeznaczone	space
+	przeznaczyć	ppas:sg:nom:n:perf:aff	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+miejscowych	space
+	miejscowy	adj:pl:loc:m3:pos	disamb
+planach	space
+	plan	subst:pl:loc:m3	disamb
+zagospodarowania	space
+	zagospodarować	ger:sg:gen:n:perf:aff	disamb
+przestrzennego	space
+	przestrzenny	adj:sg:gen:n:pos	disamb
+na	space
+	na	prep:acc	disamb
+potrzeby	space
+	potrzeba	subst:pl:acc:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+na	none
+	na	prep:acc	disamb
+wniosek	space
+	wniosek	subst:sg:acc:m3	disamb
+kościelnych	space
+	kościelny	adj:pl:gen:f:pos	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+im	space
+	on	ppron3:pl:dat:f:ter:akc:npraep	disamb
+oddawane	space
+	oddawać	ppas:pl:nom:f:imperf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+wieczyste	space
+	wieczysty	adj:pl:acc:f:pos	disamb
+
+użytkowanie	none
+	użytkowanie	subst:sg:nom:n	disamb
+lub	space
+	lub	conj	disamb
+sprzedawane	space
+	sprzedawać	ppas:sg:nom:n:imperf:aff	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+21	space
+	21	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Nie	none
+	nie	qub	disamb
+pobiera	space
+	pobierać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+za	space
+	za	prep:acc	disamb
+użytkowanie	space
+	użytkować	ger:sg:acc:n:imperf:aff	disamb
+wieczyste	space
+	wieczysty	adj:sg:acc:n:pos	disamb
+gruntów	space
+	grunt	subst:pl:gen:m3	disamb
+oddanych	space
+	oddany	adj:pl:gen:m3:pos	disamb
+na	space
+	na	prep:acc	disamb
+potrzeby	space
+	potrzeba	subst:pl:acc:f	disamb
+
+zakładów	none
+	zakład	subst:pl:gen:m3	disamb
+charytatywno	space
+	charytatywno	adja	disamb
+-	none
+	-	interp	disamb
+opiekuńczych	none
+	opiekuńczy	adj:pl:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+punktów	space
+	punkt	subst:pl:gen:m3	disamb
+katechetycznych	space
+	katechetyczny	adj:pl:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+22	space
+	22	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+emitowania	space
+	emitować	ger:sg:gen:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+publicznych	space
+	publiczny	adj:pl:loc:m3:pos	disamb
+środkach	space
+	środek	subst:pl:loc:m3	disamb
+masowego	space
+	masowy	adj:sg:gen:m3:pos	disamb
+przekazu	space
+	przekaz	subst:sg:gen:m3	disamb
+
+nabożeństw	none
+	nabożeństwo	subst:pl:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+swoich	space
+	swój	adj:pl:gen:m3:pos	disamb
+programów	space
+	program	subst:pl:gen:m3	disamb
+religijno	space
+	religijny	adja	disamb
+-	none
+	-	interp	disamb
+moralnych	none
+	moralny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+społecznych	space
+	społeczny	adj:pl:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+
+kulturalnych	none
+	kulturalny	adj:pl:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Sposób	newline
+	sposób	subst:sg:nom:m3	disamb
+realizacji	space
+	realizacja	subst:sg:gen:f	disamb
+uprawnień	space
+	uprawnienie	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+porozumienie	space
+	porozumienie	subst:sg:acc:n	disamb
+
+między	none
+	między	prep:inst	disamb
+Radą	space
+	rada	subst:sg:inst:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+a	space
+	a	conj	disamb
+właściwą	space
+	właściwy	adj:sg:inst:f:pos	disamb
+jednostką	space
+	jednostka	subst:sg:inst:f	disamb
+publicznej	space
+	publiczny	adj:sg:gen:f:pos	disamb
+radiofonii	space
+	radiofonia	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+telewizji	space
+	telewizja	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+23	space
+	23	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Osoby	none
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+zakładania	space
+	zakładać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+prowadzenia	space
+	prowadzić	ger:sg:gen:n:imperf:aff	disamb
+własnych	space
+	własny	adj:pl:gen:n:pos	disamb
+archiwów	space
+	archiwum	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+
+muzeów	none
+	muzeum	subst:pl:gen:n	disamb
+i	space
+	i	conj	disamb
+zbiorów	space
+	zbiór	subst:pl:gen:m3	disamb
+bibliotecznych	space
+	biblioteczny	adj:pl:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+24	space
+	24	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Instytucje	none
+	instytucja	subst:pl:nom:f	disamb
+państwowe	space
+	państwowy	adj:pl:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+samorządowe	space
+	samorządowy	adj:pl:nom:f:pos	disamb
+i	space
+	i	conj	disamb
+kościelne	space
+	kościelny	adj:pl:nom:f:pos	disamb
+współdziałają	space
+	współdziałać	fin:pl:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ochronie	space
+	ochrona	subst:sg:loc:f	disamb
+,	none
+	,	interp	disamb
+konserwacji	space
+	konserwacja	subst:sg:loc:f	disamb
+,	none
+	,	interp	disamb
+
+udostępnianiu	none
+	udostępniać	ger:sg:dat:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+upowszechnianiu	space
+	upowszechniać	ger:sg:loc:n:imperf:aff	disamb
+zabytków	space
+	zabytek	subst:pl:gen:m3	disamb
+architektury	space
+	architektura	subst:sg:gen:f	disamb
+kościelnej	space
+	kościelny	adj:sg:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+
+sztuki	none
+	sztuka	subst:sg:gen:f	disamb
+sakralnej	space
+	sakralny	adj:sg:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+dokumentacji	space
+	dokumentacja	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+muzeów	space
+	muzeum	subst:pl:gen:n	disamb
+,	none
+	,	interp	disamb
+archiwów	space
+	archiwum	subst:pl:gen:n	disamb
+i	space
+	i	conj	disamb
+bibliotek	space
+	biblioteka	subst:pl:gen:f	disamb
+będących	space
+	być	pact:pl:gen:f:imperf:aff	disamb
+
+własnością	none
+	własność	subst:sg:inst:f	disamb
+kościelną	space
+	kościelny	adj:sg:inst:f:pos	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+dzieł	space
+	dzieło	subst:pl:gen:n	disamb
+kultury	space
+	kultura	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+sztuki	space
+	sztuka	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+motywach	space
+	motyw	subst:pl:loc:m3	disamb
+religijnych	space
+	religijny	adj:pl:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+stanowiących	space
+	stanowić	pact:pl:loc:m3:imperf:aff	disamb
+
+ważną	none
+	ważny	adj:sg:acc:f:pos	disamb
+część	space
+	część	subst:sg:acc:f	disamb
+dziedzictwa	space
+	dziedzictwo	subst:sg:gen:n	disamb
+kultury	space
+	kultura	subst:sg:gen:f	disamb
+polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+
+Sprawy	none
+	sprawa	subst:pl:nom:f	disamb
+majątkowe	space
+	majątkowy	adj:pl:nom:f:pos	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+25	space
+	25	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościołowi	none
+	kościół	subst:sg:dat:m3	disamb
+i	space
+	i	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+osobom	space
+	osoba	subst:pl:dat:f	disamb
+prawnym	space
+	prawny	adj:pl:dat:f:pos	disamb
+przysługuje	space
+	przysługiwać	fin:sg:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:nom:n	disamb
+nabywania	space
+	nabywać	ger:sg:gen:n:imperf:aff	disamb
+,	none
+	,	interp	disamb
+posiadania	space
+	posiadanie	subst:sg:gen:n	disamb
+i	space
+	i	conj	disamb
+
+zbywania	none
+	zbywać	ger:sg:gen:n:imperf:aff	disamb
+mienia	space
+	mienie	subst:sg:gen:n	disamb
+ruchomego	space
+	ruchomy	adj:sg:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+nieruchomego	space
+	nieruchomy	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+nabywania	space
+	nabywać	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+zbywania	space
+	zbywać	ger:sg:gen:n:imperf:aff	disamb
+innych	space
+	inny	subst:pl:gen:m1	disamb
+
+praw	none
+	prawo	subst:pl:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+swobodnego	space
+	swobodny	adj:sg:gen:n:pos	disamb
+zarządzania	space
+	zarządzać	ger:sg:gen:n:imperf:aff	disamb
+swoim	space
+	swój	adj:sg:inst:m3:pos	disamb
+majątkiem	space
+	majątek	subst:sg:inst:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+26	space
+	26	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Majątek	newline
+	majątek	subst:sg:nom:m3	disamb
+i	space
+	i	conj	disamb
+przychody	space
+	przychód	subst:pl:nom:m3	disamb
+kościelnych	space
+	kościelny	adj:pl:gen:f:pos	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+podlegają	space
+	podlegać	fin:pl:ter:imperf	disamb
+ogólnym	space
+	ogólny	adj:pl:dat:m3:pos	disamb
+przepisom	space
+	przepis	subst:pl:dat:m3	disamb
+
+podatkowym	none
+	podatkowy	adj:sg:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wyjątkami	space
+	wyjątek	subst:pl:inst:m3	disamb
+określonymi	space
+	określić	ppas:pl:inst:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+-	none
+	-	interp	disamb
+5	none
+	5	adj:sg:loc:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościelne	newline
+	kościelny	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+zwolnione	space
+	zwolnione	adj:pl:nom:f:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+podatkiem	space
+	podatek	subst:sg:inst:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+
+nieruchomości	none
+	nieruchomość	subst:pl:nom:f	disamb
+-	space
+	-	interp	disamb
+nieruchomości	space
+	nieruchomość	subst:pl:nom:f	disamb
+lub	space
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+części	space
+	część	subst:pl:gen:f	disamb
+przeznaczonych	space
+	przeznaczyć	ppas:pl:gen:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+cele	space
+	cel	subst:pl:acc:m3	disamb
+
+niemieszkalne	none
+	niemieszkalny	adj:sg:nom:n:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wyjątkiem	space
+	wyjątek	subst:sg:inst:m3	disamb
+części	space
+	część	subst:sg:gen:f	disamb
+przeznaczonej	space
+	przeznaczyć	ppas:sg:gen:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+wykonywanie	space
+	wykonywać	ger:sg:acc:n:imperf:aff	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+
+gospodarczej	none
+	gospodarczy	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zwolnienie	newline
+	zwolnienie	subst:sg:nom:n	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+podatkiem	space
+	podatek	subst:sg:inst:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+nieruchomości	space
+	nieruchomość	subst:sg:gen:f	disamb
+obejmuje	space
+	obejmować	fin:sg:ter:imperf	disamb
+nieruchomości	space
+	nieruchomość	subst:pl:acc:f	disamb
+
+lub	none
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+części	space
+	część	subst:pl:nom:f	disamb
+przeznaczone	space
+	przeznaczyć	ppas:pl:nom:f:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+cele	space
+	cel	subst:pl:acc:m3	disamb
+mieszkalne	space
+	mieszkalny	adj:pl:acc:m3:pos	disamb
+duchownych	space
+	duchowny	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+
+członków	none
+	członek	subst:pl:gen:m1	disamb
+zgromadzeń	space
+	zgromadzenie	subst:pl:gen:n	disamb
+zakonnych	space
+	zakonny	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+one	space
+	on	ppron3:pl:nom:m3:ter:akc:npraep	disamb
+wpisane	space
+	wpisać	ppas:pl:nom:f:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+rejestru	space
+	rejestr	subst:sg:gen:m3	disamb
+zabytków	space
+	zabytek	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	num:pl:nom:m3:congr	disamb
+)	none
+	)	interp	disamb
+służą	space
+	służyć	fin:pl:ter:imperf	disamb
+jako	space
+	jako	conj	disamb
+internaty	space
+	internat	subst:pl:nom:m3	disamb
+przy	space
+	przy	prep:loc	disamb
+szkołach	space
+	szkoła	subst:pl:loc:f	disamb
+i	space
+	i	conj	disamb
+seminariach	space
+	seminarium	subst:pl:loc:n	disamb
+duchownych	space
+	duchowny	adj:pl:loc:n:pos	disamb
+,	none
+	,	interp	disamb
+klasztory	space
+	klasztor	subst:pl:nom:m3	disamb
+
+oraz	none
+	oraz	conj	disamb
+domy	space
+	dom	subst:pl:nom:m3	disamb
+duchownych	space
+	duchowny	adj:pl:gen:m1:pos	disamb
+emerytów	space
+	emeryt	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+znajdują	space
+	znajdować	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+w	space
+	w	prep:loc:nwok	disamb
+budynkach	space
+	budynek	subst:pl:loc:m3	disamb
+diecezji	space
+	diecezja	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nabywanie	newline
+	nabywać	ger:sg:nom:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+zbywanie	space
+	zbywać	ger:sg:nom:n:imperf:aff	disamb
+rzeczy	space
+	rzecz	subst:pl:gen:f	disamb
+i	space
+	i	conj	disamb
+praw	space
+	prawo	subst:pl:gen:n	disamb
+majątkowych	space
+	majątkowy	adj:pl:gen:n:pos	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+kościelne	space
+	kościelny	adj:pl:acc:f:pos	disamb
+osoby	space
+	osoba	subst:pl:acc:f	disamb
+
+prawne	none
+	prawny	adj:pl:nom:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+czynności	space
+	czynność	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+oraz	space
+	oraz	conj	disamb
+spadkobrania	space
+	spadkobranie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+zapisu	space
+	zapis	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+zasiedzenia	space
+	zasiedzieć	ger:sg:gen:n:perf:aff	disamb
+
+jest	none
+	być	fin:sg:ter:imperf	disamb
+zwolnione	space
+	zwolnić	ppas:sg:nom:n:perf:aff	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opłaty	space
+	opłata	subst:sg:gen:f	disamb
+skarbowej	space
+	skarbowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+ich	space
+	on	ppron3:pl:gen:m1:ter:akc:npraep	disamb
+przedmiotem	space
+	przedmiot	subst:sg:inst:m3	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+rzeczy	space
+	rzecz	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+nie	space
+	nie	qub	disamb
+przeznaczone	space
+	przeznaczyć	ppas:pl:nom:f:perf:aff	disamb
+do	space
+	do	prep:gen	disamb
+działalności	space
+	działalność	subst:sg:gen:f	disamb
+gospodarczej	space
+	gospodarczy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+sprowadzane	space
+	sprowadzać	ppas:pl:nom:f:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zagranicy	space
+	zagranica	subst:sg:gen:f	disamb
+maszyny	space
+	maszyna	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+urządzenia	space
+	urządzenie	subst:pl:acc:n	disamb
+i	space
+	i	conj	disamb
+materiały	space
+	materiał	subst:pl:nom:m3	disamb
+poligraficzne	space
+	poligraficzny	adj:pl:nom:m3:pos	disamb
+
+oraz	none
+	oraz	conj	disamb
+papier	space
+	papier	subst:sg:nom:m3	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Darowizny	newline
+	darowizna	subst:pl:nom:f	disamb
+na	space
+	na	prep:acc	disamb
+kościelną	space
+	kościelny	adj:sg:acc:f:pos	disamb
+działalność	space
+	działalność	subst:sg:acc:f	disamb
+charytatywno	space
+	charytatywno	adja	disamb
+-	none
+	-	interp	disamb
+opiekuńczą	none
+	opiekuńczy	adj:sg:acc:f:pos	disamb
+pochodzące	space
+	pochodzić	pact:pl:acc:f:imperf:aff	disamb
+
+od	none
+	od	prep:gen:nwok	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+fizycznych	space
+	fizyczny	adj:pl:gen:f:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+wyłączone	space
+	wyłączyć	ppas:pl:nom:f:perf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+podstawy	space
+	podstawa	subst:sg:gen:f	disamb
+opodatkowania	space
+	opodatkowanie	subst:sg:gen:n	disamb
+darczyńców	space
+	darczyńca	subst:pl:gen:m1	disamb
+
+podatkiem	none
+	podatek	subst:sg:inst:m3	disamb
+dochodowym	space
+	dochodowy	adj:sg:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+kościelna	space
+	kościelny	adj:sg:nom:f:pos	disamb
+osoba	space
+	osoba	subst:sg:nom:f	disamb
+prawna	space
+	prawny	adj:sg:nom:f:pos	disamb
+przedstawi	space
+	przedstawić	fin:sg:ter:perf	disamb
+darczyńcy	space
+	darczyńca	subst:sg:dat:m1	disamb
+
+pokwitowanie	none
+	pokwitować	ger:sg:nom:n:perf:aff	disamb
+odbioru	space
+	odbiór	subst:sg:gen:m3	disamb
+oraz	space
+	oraz	conj	disamb
+-	space
+	-	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+okresie	space
+	okres	subst:sg:loc:m3	disamb
+dwóch	space
+	dwa	num:pl:gen:m3:congr	disamb
+lat	space
+	rok	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+przekazania	space
+	przekazać	ger:sg:gen:n:perf:aff	disamb
+
+darowizny	none
+	darowizna	subst:pl:nom:f	disamb
+-	space
+	-	interp	disamb
+sprawozdanie	space
+	sprawozdanie	subst:sg:nom:n	disamb
+o	space
+	o	prep:loc	disamb
+przeznaczeniu	space
+	przeznaczyć	ger:sg:loc:n:perf:aff	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+na	space
+	na	prep:acc	disamb
+tę	space
+	ten	adj:sg:acc:f:pos	disamb
+działalność	space
+	działalność	subst:sg:acc:f	disamb
+.	none
+	.	interp	disamb
+
+6	none
+	6	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nabywanie	newline
+	nabywać	ger:sg:nom:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+zbywanie	space
+	zbywać	ger:sg:nom:n:imperf:aff	disamb
+rzeczy	space
+	rzecz	subst:pl:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+praw	space
+	prawo	subst:pl:gen:n	disamb
+majątkowych	space
+	majątkowy	adj:pl:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:n:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+zwolnione	space
+	zwolnić	ppas:sg:nom:n:perf:aff	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+sądowych	space
+	sądowy	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+wyłączeniem	space
+	wyłączenie	subst:sg:inst:n	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+kancelaryjnych	space
+	kancelaryjny	adj:pl:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+27	space
+	27	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Wolne	none
+	wolny	adj:pl:nom:f:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+celnych	space
+	celny	adj:pl:gen:f:pos	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+przesyłane	space
+	przesyłać	ppas:pl:nom:f:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+zagranicy	space
+	zagranica	subst:sg:gen:f	disamb
+dla	space
+	dla	prep:gen	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+
+prawnych	none
+	prawny	adj:pl:gen:m3:pos	disamb
+dary	space
+	dar	subst:pl:nom:m3	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+przeznaczone	space
+	przeznaczyć	ppas:pl:acc:m3:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+cele	space
+	cel	subst:pl:acc:m3	disamb
+kultowe	space
+	kultowy	adj:pl:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+charytatywno	space
+	charytatywno	adja	disamb
+-	none
+	-	interp	disamb
+opiekuńcze	none
+	opiekuńczy	adj:pl:acc:m3:pos	disamb
+i	space
+	i	conj	disamb
+oświatowo	space
+	oświatowy	adja	disamb
+-	none
+	-	interp	disamb
+wychowawcze	none
+	wychowawczy	adj:pl:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+z	none
+	z	prep:inst:nwok	disamb
+wyjątkiem	space
+	wyjątek	subst:sg:inst:m3	disamb
+wyrobów	space
+	wyrób	subst:pl:gen:m3	disamb
+akcyzowych	space
+	akcyzowy	adj:pl:gen:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+samochodów	space
+	samochód	subst:pl:gen:m3	disamb
+
+osobowych	none
+	osobowy	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+maszyny	space
+	maszyna	subst:pl:acc:f	disamb
+,	none
+	,	interp	disamb
+urządzenia	space
+	urządzenie	subst:pl:nom:n	disamb
+i	space
+	i	conj	disamb
+materiały	space
+	materiał	subst:pl:nom:m3	disamb
+poligraficzne	space
+	poligraficzny	adj:pl:nom:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+papier	space
+	papier	subst:sg:nom:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+28	space
+	28	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościół	newline
+	kościół	subst:sg:nom:m3	disamb
+i	space
+	i	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+mają	space
+	mieć	fin:pl:ter:imperf	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+zbierania	space
+	zbierać	ger:sg:gen:n:imperf:aff	disamb
+ofiar	space
+	ofiara	subst:pl:gen:f	disamb
+na	space
+	na	prep:acc	disamb
+cele	space
+	cel	subst:pl:acc:m3	disamb
+religijne	space
+	religijny	adj:pl:acc:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+kościelną	none
+	kościelny	adj:sg:acc:f:pos	disamb
+działalność	space
+	działalność	subst:sg:acc:f	disamb
+charytatywno	space
+	charytatywno	adja	disamb
+-	none
+	-	interp	disamb
+opiekuńczą	none
+	opiekuńczy	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+naukową	space
+	naukowy	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+oświatową	space
+	oświatowy	adj:sg:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+
+wychowawczą	none
+	wychowawczy	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+utrzymanie	space
+	utrzymać	ger:sg:acc:n:perf:aff	disamb
+duchownych	space
+	duchowny	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+ich	space
+	on	ppron3:pl:gen:n:ter:akc:npraep	disamb
+rodzin	space
+	rodzina	subst:pl:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+członków	space
+	członek	subst:pl:gen:m1	disamb
+zgromadzeń	space
+	zgromadzenie	subst:pl:gen:n	disamb
+
+zakonnych	none
+	zakonny	adj:pl:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zbiórki	newline
+	zbiórka	subst:pl:nom:f	disamb
+wymienione	space
+	wymienić	ppas:pl:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+wymagają	space
+	wymagać	fin:pl:ter:imperf	disamb
+zezwolenia	space
+	zezwolenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+odbywają	space
+	odbywać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+obrębie	space
+	obręb	subst:sg:loc:m3	disamb
+terenów	space
+	teren	subst:pl:gen:m3	disamb
+kościelnych	space
+	kościelny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+kaplic	space
+	kaplica	subst:pl:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+miejscach	space
+	miejsce	subst:pl:loc:n	disamb
+i	space
+	i	conj	disamb
+okolicznościach	space
+	okoliczność	subst:pl:loc:f	disamb
+
+zwyczajowo	none
+	zwyczajowo	adv:pos	disamb
+przyjętych	space
+	przyjęty	subst:pl:acc:m1	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:acc:nwok	disamb
+sposób	space
+	sposób	subst:sg:acc:m3	disamb
+tradycyjnie	space
+	tradycyjnie	adv:pos	disamb
+ustalony	space
+	ustalić	ppas:sg:acc:m3:perf:aff	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+29	space
+	29	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościelne	newline
+	kościelny	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+mogą	space
+	móc	fin:pl:ter:imperf	disamb
+zakładać	space
+	zakładać	inf:imperf	disamb
+fundacje	space
+	fundacja	subst:pl:acc:f	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+fundacji	space
+	fundacja	subst:pl:gen:f	disamb
+tych	space
+	ten	adj:pl:gen:f:pos	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+
+się	none
+	się	qub	disamb
+ogólnie	space
+	ogólnie	adv:pos	disamb
+obowiązujące	space
+	obowiązujący	adj:pl:nom:m3:pos	disamb
+przepisy	space
+	przepis	subst:pl:nom:m3	disamb
+o	space
+	o	prep:loc	disamb
+fundacjach	space
+	fundacja	subst:pl:loc:f	disamb
+ze	space
+	z	prep:inst:wok	disamb
+zmianami	space
+	zmiana	subst:pl:inst:f	disamb
+wynikającymi	space
+	wynikać	pact:pl:inst:f:imperf:aff	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+5	none
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Niezależnie	newline
+	niezależnie	adv:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+nadzoru	space
+	nadzór	subst:sg:gen:m3	disamb
+państwowego	space
+	państwowy	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+nadzór	space
+	nadzór	subst:sg:nom:m3	disamb
+nad	space
+	nad	prep:inst:nwok	disamb
+działalnością	space
+	działalność	subst:sg:inst:f	disamb
+fundacji	space
+	fundacja	subst:sg:gen:f	disamb
+
+sprawuje	none
+	sprawować	fin:sg:ter:imperf	disamb
+kościelna	space
+	kościelny	adj:sg:nom:f:pos	disamb
+osoba	space
+	osoba	subst:sg:nom:f	disamb
+prawna	space
+	prawny	adj:sg:nom:f:pos	disamb
+będąca	space
+	być	pact:sg:nom:f:imperf:aff	disamb
+fundatorem	space
+	fundator	subst:sg:inst:m1	disamb
+lub	space
+	lub	conj	disamb
+wskazana	space
+	wskazać	ppas:sg:nom:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+statucie	space
+	statut	subst:sg:loc:m3	disamb
+
+fundacji	none
+	fundacja	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+stwierdzenia	space
+	stwierdzić	ger:sg:gen:n:perf:aff	disamb
+nieprawidłowości	space
+	nieprawidłowość	subst:sg:gen:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+zarządzaniu	space
+	zarządzać	ger:sg:loc:n:imperf:aff	disamb
+fundacją	space
+	fundacja	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+właściwy	space
+	właściwy	adj:sg:nom:m1:pos	disamb
+
+organ	none
+	organ	subst:sg:nom:m3	disamb
+państwowy	space
+	państwowy	adj:sg:nom:m3:pos	disamb
+zwraca	space
+	zwracać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+kościelnej	space
+	kościelny	adj:sg:gen:f:pos	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+sprawującej	space
+	sprawować	pact:sg:gen:f:imperf:aff	disamb
+nadzór	space
+	nadzór	subst:sg:acc:m3	disamb
+
+nad	none
+	nad	prep:inst:nwok	disamb
+fundacją	space
+	fundacja	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+wyznaczając	space
+	wyznaczać	pcon:imperf	disamb
+termin	space
+	termin	subst:sg:acc:m3	disamb
+nie	space
+	nie	qub	disamb
+krótszy	space
+	krótki	adj:sg:acc:m3:com	disamb
+niż	space
+	niż	prep:nom	disamb
+3	space
+	3	num:pl:nom:m3:congr	disamb
+miesiące	space
+	miesiąc	subst:pl:nom:m3	disamb
+na	space
+	na	prep:acc	disamb
+spowodowanie	space
+	spowodować	ger:sg:acc:n:perf:aff	disamb
+
+usunięcia	none
+	usunąć	ger:sg:gen:n:perf:aff	disamb
+nieprawidłowości	space
+	nieprawidłowość	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Po	newline
+	po	prep:loc	disamb
+bezskutecznym	space
+	bezskuteczny	adj:sg:loc:m3:pos	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+tego	space
+	to	subst:sg:gen:n	disamb
+
+terminu	none
+	termin	subst:sg:gen:m3	disamb
+można	space
+	można	pred	disamb
+zastosować	space
+	zastosować	inf:perf	disamb
+środki	space
+	środek	subst:pl:acc:m3	disamb
+określone	space
+	określić	ppas:pl:acc:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przepisach	space
+	przepis	subst:pl:loc:m3	disamb
+o	space
+	o	prep:loc	disamb
+fundacjach	space
+	fundacja	subst:pl:loc:f	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+konieczności	space
+	konieczność	subst:sg:gen:f	disamb
+poddania	space
+	poddać	ger:sg:gen:n:perf:aff	disamb
+fundacji	space
+	fundacja	subst:sg:gen:f	disamb
+zarządowi	space
+	zarząd	subst:sg:dat:m3	disamb
+przymusowemu	space
+	przymusowy	adj:sg:dat:m3:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:acc:nwok	disamb
+myśl	space
+	myśl	subst:sg:acc:f	disamb
+
+przepisów	none
+	przepis	subst:pl:gen:m3	disamb
+o	space
+	o	prep:loc	disamb
+fundacjach	space
+	fundacja	subst:pl:loc:f	disamb
+,	none
+	,	interp	disamb
+zarząd	space
+	zarząd	subst:sg:nom:m3	disamb
+ten	space
+	ten	adj:sg:nom:m3:pos	disamb
+będzie	space
+	być	bedzie:sg:ter:imperf	disamb
+sprawowała	space
+	sprawować	praet:sg:f:imperf	disamb
+kościelna	space
+	kościelny	adj:sg:nom:f:pos	disamb
+osoba	space
+	osoba	subst:sg:nom:f	disamb
+
+prawna	none
+	prawny	adj:sg:nom:f:pos	disamb
+wyznaczona	space
+	wyznaczyć	ppas:sg:nom:f:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Radę	space
+	rada	subst:sg:acc:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Jeżeli	newline
+	jeżeli	comp	disamb
+statut	space
+	statut	subst:sg:nom:m3	disamb
+fundacji	space
+	fundacja	subst:sg:gen:f	disamb
+nie	space
+	nie	qub	disamb
+stanowi	space
+	stanowić	fin:sg:ter:imperf	disamb
+inaczej	space
+	inaczej	adv	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+likwidacji	space
+	likwidacja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+przeznaczeniu	space
+	przeznaczyć	ger:sg:loc:n:perf:aff	disamb
+
+jej	none
+	on	ppron3:sg:dat:f:ter:akc:npraep	disamb
+majątku	space
+	majątek	subst:sg:loc:m3	disamb
+zadecyduje	space
+	zadecydować	fin:sg:ter:perf	disamb
+Rada	space
+	rada	subst:sg:nom:f	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+30	space
+	30	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+razie	space
+	raz	subst:sg:loc:m3	disamb
+zniesienia	space
+	znieść	ger:sg:gen:n:perf:aff	disamb
+kościelnej	space
+	kościelny	adj:sg:gen:f:pos	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+prawnej	space
+	prawny	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+majątek	space
+	majątek	subst:sg:nom:m3	disamb
+przechodzi	space
+	przechodzić	fin:sg:ter:imperf	disamb
+na	space
+	na	prep:acc	disamb
+własność	space
+	własność	subst:sg:acc:f	disamb
+
+Kościoła	none
+	kościół	subst:sg:gen:m3	disamb
+jako	space
+	jako	conj	disamb
+całości	space
+	całość	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+31	space
+	31	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Niezależnie	none
+	niezależnie	adv:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+ustawowego	space
+	ustawowy	adj:sg:gen:n:pos	disamb
+ubezpieczenia	space
+	ubezpieczenie	subst:sg:gen:n	disamb
+duchownych	space
+	duchowny	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+kościelne	space
+	kościelny	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+
+mogą	none
+	móc	fin:pl:ter:imperf	disamb
+prowadzić	space
+	prowadzić	inf:imperf	disamb
+wewnętrzną	space
+	wewnętrzny	adj:sg:acc:f:pos	disamb
+działalność	space
+	działalność	subst:sg:acc:f	disamb
+ubezpieczeniową	space
+	ubezpieczeniowy	adj:sg:acc:f:pos	disamb
+na	space
+	na	prep:acc	disamb
+rzecz	space
+	rzecz	subst:sg:acc:f	disamb
+duchownych	space
+	duchowny	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+
+która	none
+	który	adj:sg:nom:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozumieniu	space
+	rozumienie	subst:sg:loc:n	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+nie	space
+	nie	qub	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+działalnością	space
+	działalność	subst:sg:inst:f	disamb
+gospodarczą	space
+	gospodarczy	adj:sg:inst:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Rozdział	none
+	rozdział	subst:sg:nom:m3	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+
+Przepisy	none
+	przepis	subst:pl:nom:m3	disamb
+przejściowe	space
+	przejściowy	adj:pl:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+końcowe	space
+	końcowy	adj:pl:nom:m3:pos	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+32	space
+	32	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nieruchomości	newline
+	nieruchomość	subst:pl:nom:f	disamb
+lub	space
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+części	space
+	część	subst:pl:nom:f	disamb
+pozostające	space
+	pozostawać	pact:pl:nom:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+
+we	none
+	w	prep:loc:wok	disamb
+władaniu	space
+	władanie	subst:sg:loc:n	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+stają	space
+	stawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:gen:nwok	disamb
+mocy	space
+	moc	subst:sg:gen:f	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+
+własnością	none
+	własność	subst:sg:inst:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:acc	disamb
+ile	space
+	ile	num:pl:acc:n:rec	disamb
+nie	space
+	nie	qub	disamb
+narusza	space
+	naruszać	fin:sg:ter:imperf	disamb
+to	space
+	to	subst:sg:nom:n	disamb
+praw	space
+	prawo	subst:pl:gen:n	disamb
+niepaństwowych	space
+	niepaństwowy	adj:pl:gen:n:pos	disamb
+i	space
+	i	conj	disamb
+niesamorządowych	space
+	niesamorządowy	adj:pl:gen:n:pos	disamb
+
+osób	none
+	osoba	subst:pl:gen:f	disamb
+trzecich	space
+	trzeci	adj:pl:gen:f:pos	disamb
+jeżeli	space
+	jeżeli	comp	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+były	space
+	być	praet:pl:n:imperf	disamb
+we	space
+	w	prep:loc:wok	disamb
+władaniu	space
+	władanie	subst:sg:loc:n	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+jego	space
+	on	ppron3:sg:gen:m1:ter:akc:npraep	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+pkt	space
+	punkt	brev:npun	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+-	none
+	-	interp	disamb
+5	none
+	5	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+lub	space
+	lub	conj	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+znajdują	space
+	znajdować	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+na	space
+	na	prep:loc	disamb
+nich	space
+	on	ppron3:pl:loc:n:ter:akc:praep	disamb
+obiekty	space
+	obiekt	subst:pl:nom:m3	disamb
+sakralne	space
+	sakralny	adj:pl:nom:m3:pos	disamb
+wraz	space
+	wraz	adv	disamb
+z	space
+	z	prep:inst:nwok	disamb
+obiektami	space
+	obiekt	subst:pl:inst:m3	disamb
+towarzyszącymi	space
+	towarzyszyć	pact:pl:inst:m3:imperf:aff	disamb
+
+lub	none
+	lub	conj	disamb
+cmentarze	space
+	cmentarz	subst:pl:acc:m3	disamb
+;	none
+	;	interp	disamb
+dotyczy	space
+	dotyczyć	fin:sg:ter:imperf	disamb
+to	space
+	to	subst:sg:nom:n	disamb
+także	space
+	także	qub	disamb
+obiektów	space
+	obiekt	subst:pl:gen:m3	disamb
+położonych	space
+	położyć	ppas:pl:gen:m3:perf:aff	disamb
+na	space
+	na	prep:loc	disamb
+obszarze	space
+	obszar	subst:sg:loc:m3	disamb
+
+miasta	none
+	miasto	subst:sg:gen:n	disamb
+stołecznego	space
+	stołeczny	adj:sg:gen:n:pos	disamb
+Warszawy	space
+	Warszawa	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nieruchomości	newline
+	nieruchomość	subst:pl:nom:f	disamb
+lub	space
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+części	space
+	część	subst:pl:nom:f	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+znajdują	space
+	znajdować	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+cmentarze	space
+	cmentarz	subst:pl:nom:m3	disamb
+grzebalne	space
+	grzebalny	adj:pl:nom:m3:pos	disamb
+
+użytkowane	none
+	użytkować	ppas:pl:nom:f:imperf:aff	disamb
+wspólnie	space
+	wspólnie	adv:pos	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Kościół	space
+	kościół	subst:sg:acc:m3	disamb
+Starokatolicki	space
+	starokatolicki	adj:sg:acc:m3:pos	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+Kościół	space
+	kościół	subst:sg:acc:m3	disamb
+
+Katolicki	none
+	katolicki	adj:sg:nom:m3:pos	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+stają	space
+	stawać	fin:pl:ter:imperf	disamb
+się	space
+	się	qub	disamb
+z	space
+	z	prep:gen:nwok	disamb
+mocy	space
+	moc	subst:sg:gen:f	disamb
+prawa	space
+	prawo	subst:sg:gen:n	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+współwłasnością	space
+	współwłasność	subst:sg:inst:f	disamb
+niepodzielną	space
+	niepodzielny	adj:sg:inst:f:pos	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Stwierdzenie	newline
+	stwierdzić	ger:sg:nom:n:perf:aff	disamb
+przejścia	space
+	przejść	ger:sg:gen:n:perf:aff	disamb
+własności	space
+	własność	subst:sg:gen:f	disamb
+nieruchomości	space
+	nieruchomość	subst:pl:gen:f	disamb
+lub	space
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+części	space
+	część	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+
+mowa	none
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+2	space
+	2	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+następuje	space
+	następować	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+decyzji	space
+	decyzja	subst:sg:gen:f	disamb
+wojewody	space
+	wojewoda	subst:sg:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Nabycie	newline
+	nabycie	subst:sg:nom:n	disamb
+własności	space
+	własność	subst:sg:gen:f	disamb
+nieruchomości	space
+	nieruchomość	subst:pl:gen:f	disamb
+lub	space
+	lub	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+części	space
+	część	subst:sg:gen:f	disamb
+na	space
+	na	prep:loc	disamb
+podstawie	space
+	podstawa	subst:sg:loc:f	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+
+wolne	none
+	wolny	adj:pl:acc:m3:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+podatków	space
+	podatek	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+związanych	space
+	związany	adj:pl:gen:f:pos	disamb
+z	space
+	z	prep:inst:nwok	disamb
+tym	space
+	ten	adj:sg:inst:n:pos	disamb
+nabyciem	space
+	nabycie	subst:sg:inst:n	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+wynikające	space
+	wynikać	pact:pl:acc:n:imperf:aff	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+niego	none
+	on	ppron3:sg:acc:m1:ter:akc:praep	disamb
+wpisy	space
+	wpis	subst:pl:nom:m3	disamb
+do	space
+	do	prep:gen	disamb
+ksiąg	space
+	księga	subst:pl:gen:f	disamb
+wieczystych	space
+	wieczysty	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+ich	space
+	on	ppron3:pl:gen:f:ter:akc:npraep	disamb
+zakładanie	space
+	zakładać	ger:sg:nom:n:imperf:aff	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+wolne	space
+	wolny	adj:pl:nom:f:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+opłat	space
+	opłata	subst:pl:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+33	space
+	33	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przyznaje	newline
+	przyznawać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+Kościołowi	space
+	kościół	subst:sg:dat:m3	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+nieodpłatnego	space
+	nieodpłatny	adj:sg:gen:n:pos	disamb
+użytkowania	space
+	użytkowanie	subst:sg:gen:n	disamb
+wieczystego	space
+	wieczysty	adj:sg:gen:n:pos	disamb
+
+działki	none
+	działka	subst:sg:gen:f	disamb
+gruntu	space
+	grunt	subst:sg:gen:m3	disamb
+położonego	space
+	położyć	ppas:sg:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Warszawie	space
+	Warszawa	subst:sg:loc:f	disamb
+przy	space
+	przy	prep:loc	disamb
+ul	space
+	ulica	brev:pun	disamb
+.	none
+	.	interp	disamb
+Szarej	space
+	szary	adj:sg:loc:f:pos	disamb
+8	space
+	8	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+oznaczonej	space
+	oznaczony	adj:sg:loc:f:pos	disamb
+hip	space
+	hip	subst:sg:loc:f	disamb
+.	none
+	.	interp	disamb
+
+nr	none
+	numer	brev:npun	disamb
+N	space
+	N	brev:npun	disamb
+-	none
+	-	interp	disamb
+6062	none
+	6062	num:pl:nom:m3:rec	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Minister	newline
+	minister	subst:sg:nom:m1	disamb
+Spraw	space
+	sprawa	subst:pl:gen:f	disamb
+Wewnętrznych	space
+	wewnętrzny	adj:pl:gen:f:pos	disamb
+i	space
+	i	conj	disamb
+Administracji	space
+	administracja	subst:sg:gen:f	disamb
+określi	space
+	określić	fin:sg:ter:perf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+terminie	space
+	termin	subst:sg:loc:m3	disamb
+6	space
+	6	num:pl:gen:m3:congr	disamb
+miesięcy	space
+	miesiąc	subst:pl:gen:m3	disamb
+
+od	none
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+sposób	space
+	sposób	subst:sg:acc:m3	disamb
+wykonania	space
+	wykonać	ger:sg:gen:n:perf:aff	disamb
+przepisu	space
+	przepis	subst:sg:gen:m3	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:gen:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+34	space
+	34	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Kościelne	newline
+	kościelny	adj:pl:nom:f:pos	disamb
+osoby	space
+	osoba	subst:pl:nom:f	disamb
+prawne	space
+	prawny	adj:pl:nom:f:pos	disamb
+istniejące	space
+	istnieć	pact:pl:nom:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+pozostają	space
+	pozostawać	fin:pl:ter:imperf	disamb
+
+osobami	none
+	osoba	subst:pl:inst:f	disamb
+prawnymi	space
+	prawny	adj:pl:inst:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+rozumieniu	space
+	rozumienie	subst:sg:loc:n	disamb
+niniejszej	space
+	niniejszy	adj:sg:gen:f:pos	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wykaz	newline
+	wykaz	subst:sg:nom:m3	disamb
+kościelnych	space
+	kościelny	adj:pl:gen:f:pos	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+istniejących	space
+	istnieć	pact:pl:gen:f:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dniu	space
+	dzień	subst:sg:loc:m3	disamb
+wejścia	space
+	wejść	ger:sg:gen:n:perf:aff	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+
+ustawy	none
+	ustawa	subst:sg:gen:f	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+załącznik	space
+	załącznik	subst:sg:nom:m3	disamb
+do	space
+	do	prep:gen	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+35	space
+	35	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	none
+	do	prep:gen	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+zwołania	space
+	zwołać	ger:sg:gen:n:perf:aff	disamb
+Synodu	space
+	synod	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+prawo	space
+	prawo	subst:sg:nom:n	disamb
+wewnętrzne	space
+	wewnętrzny	adj:sg:nom:n:pos	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+uchwalane	space
+	uchwalać	ppas:sg:nom:n:imperf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+
+Kapitułę	none
+	kapituła	subst:sg:acc:f	disamb
+Generalną	space
+	generalny	adj:sg:acc:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+36	space
+	36	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Traci	none
+	tracić	fin:sg:ter:imperf	disamb
+moc	space
+	moc	subst:sg:acc:f	disamb
+dekret	space
+	dekret	subst:sg:acc:m3	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+5	space
+	5	adj:sg:gen:m3:pos	disamb
+września	space
+	wrzesień	subst:sg:gen:m3	disamb
+1947	space
+	1947	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+uregulowaniu	space
+	uregulować	ger:sg:loc:n:perf:aff	disamb
+położenia	space
+	położenie	subst:sg:gen:n	disamb
+prawnego	space
+	prawny	adj:sg:gen:n:pos	disamb
+
+Kościoła	none
+	kościół	subst:sg:gen:m3	disamb
+Ewangelicko	space
+	Ewangelicko	adja	disamb
+-	none
+	-	interp	disamb
+Reformowanego	none
+	reformowany	adj:sg:gen:m3:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Rzeczypospolitej	space
+	rzeczpospolita	subst:sg:loc:f	disamb
+Polskiej	space
+	polski	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+Kościoła	none
+	kościół	subst:sg:gen:m3	disamb
+Mariawickiego	space
+	mariawicki	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+Starokatolickiego	space
+	starokatolicki	adj:sg:gen:m3:pos	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+Nr	space
+	numer	brev:npun	disamb
+59	space
+	59	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+316	space
+	316	adj:sg:nom:f:pos	disamb
+,	none
+	,	interp	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+1994	space
+	1994	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+73	space
+	73	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+324	space
+	324	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+37	space
+	37	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+Załącznik	none
+	załącznik	subst:sg:nom:m3	disamb
+do	space
+	do	prep:gen	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+20	space
+	20	adj:sg:gen:m3:pos	disamb
+lutego	space
+	luty	subst:sg:gen:m3	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+(	none
+	(	interp	disamb
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+253	space
+	253	adj:sg:nom:f:pos	disamb
+)	none
+	)	interp	disamb
+
+Wykaz	none
+	wykaz	subst:sg:nom:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+prawnych	space
+	prawny	adj:pl:gen:f:pos	disamb
+
+Kościoła	none
+	kościół	subst:sg:gen:m3	disamb
+Starokatolickiego	space
+	starokatolicki	adj:sg:gen:m3:pos	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Rzeczypospolitej	space
+	rzeczpospolita	subst:sg:loc:f	disamb
+Polskiej	space
+	polski	adj:sg:loc:f:pos	disamb
+
+I	none
+	i	conj	disamb
+.	none
+	.	interp	disamb
+
+DIECEZJE	newline
+	diecezja	subst:pl:nom:f	disamb
+I	space
+	i	conj	disamb
+PARAFIE	space
+	parafia	subst:pl:nom:f	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Diecezja	newline
+	diecezja	subst:sg:nom:f	disamb
+warszawsko	space
+	warszawski	adja	disamb
+-	none
+	-	interp	disamb
+płocka	none
+	płocki	adj:sg:nom:f:pos	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Błonie	space
+	błonie	subst:sg:nom:n	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Filipów	space
+	Filip	subst:pl:gen:m1	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Leszno	space
+	Leszno	subst:sg:nom:n	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Lutkówka	space
+	Lutkówka	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Pepłowo	space
+	Pepłowo	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Płock	space
+	Płock	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Radzyminek	space
+	Radzyminek	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Raszewo	space
+	Raszewo	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Warszawa	space
+	Warszawa	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Wierzbica	space
+	Wierzbica	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Żyrardów	space
+	Żyrardów	subst:sg:nom:m3	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Diecezja	newline
+	diecezja	subst:sg:nom:f	disamb
+lubelsko	space
+	lubelsko	adja	disamb
+-	none
+	-	interp	disamb
+podlaska	none
+	podlaski	adj:sg:nom:f:pos	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Cegłów	space
+	Cegłów	subst:sg:nom:m3	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Dąbrówka	space
+	Dąbrówka	subst:sg:nom:f	disamb
+-	none
+	-	interp	disamb
+Stany	none
+	Stany	subst:pl:nom:n	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Gózd	space
+	Gózd	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Kamionka	space
+	Kamionka	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Lublin	space
+	Lublin	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Łany	space
+	łan	subst:pl:nom:m3	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Mińsk	space
+	Mińsk	subst:sg:nom:m3	disamb
+Mazowiecki	space
+	Mazowiecki	adj:sg:nom:m3:pos	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Piaseczno	space
+	Piaseczno	subst:sg:nom:n	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Wiśniew	space
+	Wiśniewo	subst:pl:gen:n	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Żarnówka	space
+	żarnówka	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Żeliszew	space
+	Żeliszew	subst:sg:nom:f	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Diecezja	newline
+	diecezja	subst:sg:nom:f	disamb
+śląsko	space
+	śląski	adja	disamb
+-	none
+	-	interp	disamb
+łódzka	none
+	łódzki	adj:sg:nom:f:pos	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Dobra	space
+	dobry	adj:sg:nom:f:pos	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Gniazdów	space
+	Gniazdów	subst:pl:gen:m1	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Grzmiąca	space
+	Grzmiąca	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Kadzidłowa	space
+	kadzidłowy	adj:sg:nom:f:pos	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Koziegłowy	space
+	Koziegłowy	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Lipka	space
+	Lipka	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Łowicz	space
+	Łowicz	subst:sg:nom:m3	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Łódź	space
+	Łódź	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Pabianice	space
+	Pabianice	subst:pl:nom:n	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Piątek	space
+	Piątek	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Sobótka	space
+	sobótka	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Sosnowiec	space
+	Sosnowiec	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Starcza	space
+	starczy	adj:sg:nom:f:pos	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Stryków	space
+	Stryków	subst:sg:nom:m3	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Wola	space
+	Wola	subst:sg:nom:f	disamb
+Cyrusowa	space
+	Cyrusowa	subst:sg:nom:f	disamb
+
+Parafia	none
+	parafia	subst:sg:nom:f	disamb
+Zgierz	space
+	Zgierz	subst:sg:nom:f	disamb
+
+II	none
+	II	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+ZGROMADZENIA	newline
+	zgromadzenie	subst:pl:nom:n	disamb
+ZAKONNE	space
+	zakonny	adj:pl:nom:n:pos	disamb
+
+Zgromadzenie	none
+	zgromadzenie	subst:sg:nom:n	disamb
+Kapłanów	space
+	kapłan	subst:pl:gen:m1	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+
+Zgromadzenie	none
+	zgromadzenie	subst:sg:nom:n	disamb
+Sióstr	space
+	siostra	subst:pl:gen:f	disamb
+Mariawitek	space
+	mariawitka	subst:pl:gen:f	disamb
+
+III	none
+	III	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+SEMINARIA	newline
+	seminarium	subst:pl:nom:n	disamb
+
+Wyższe	none
+	wysoki	adj:sg:acc:n:com	disamb
+Seminarium	space
+	seminarium	subst:sg:nom:n	disamb
+Duchowne	space
+	duchowny	adj:sg:nom:n:pos	disamb
+Kościoła	space
+	kościół	subst:sg:gen:m3	disamb
+Starokatolickiego	space
+	starokatolicki	adj:sg:gen:m3:pos	disamb
+Mariawitów	space
+	mariawita	subst:pl:gen:m1	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+Płocku	space
+	Płock	subst:sg:loc:m3	disamb
+

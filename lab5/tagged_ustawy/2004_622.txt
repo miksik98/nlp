@@ -1,0 +1,1445 @@
+Tekst	none
+	tekst	subst:sg:nom:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+przyjęty	space
+	przyjąć	ppas:sg:nom:m3:perf:aff	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Senat	space
+	senat	subst:sg:acc:m3	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+poprawek	space
+	poprawka	subst:pl:gen:f	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+15	space
+	15	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2018	space
+	2018	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:acc	disamb
+
+ustanowieniu	none
+	ustanowić	ger:sg:dat:n:perf:aff	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+Stulecia	space
+	stulecie	subst:sg:gen:n	disamb
+Odzyskanej	space
+	odzyskać	ppas:sg:gen:f:perf:aff	disamb
+Niepodległości	space
+	Niepodległość	subst:sg:gen:f	disamb
+
+Parlament	none
+	parlament	subst:sg:nom:m3	disamb
+
+Rzeczypospolitej	none
+	Rzeczpospolita	subst:sg:dat:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+dostrzegając	space
+	dostrzegać	pcon:imperf	disamb
+potrzebę	space
+	potrzeba	subst:sg:acc:f	disamb
+uhonorowania	space
+	uhonorować	ger:sg:gen:n:perf:aff	disamb
+obywateli	space
+	obywatel	subst:pl:gen:m1	disamb
+
+polskich	none
+	polski	adj:pl:gen:m1:pos	disamb
+,	none
+	,	interp	disamb
+którzy	space
+	który	adj:pl:nom:m1:pos	disamb
+od	space
+	od	prep:gen:nwok	disamb
+czasu	space
+	czas	subst:sg:gen:m3	disamb
+odzyskania	space
+	odzyskać	ger:sg:gen:n:perf:aff	disamb
+niepodległości	space
+	niepodległość	subst:sg:gen:f	disamb
+przez	space
+	przez	prep:acc:nwok	disamb
+Państwo	space
+	państwo	subst:sg:acc:n	disamb
+Polskie	space
+	polski	adj:sg:acc:n:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+1918	none
+	1918	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+przyczyniali	space
+	przyczyniać	praet:pl:m1:imperf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+budowania	space
+	budować	ger:sg:gen:n:imperf:aff	disamb
+i	space
+	i	conj	disamb
+wzmacniania	space
+	wzmacniać	ger:sg:gen:n:imperf:aff	disamb
+suwerenności	space
+	suwerenność	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+niepodległości	none
+	niepodległość	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+kulturowej	space
+	kulturowy	adj:sg:gen:f:pos	disamb
+tożsamości	space
+	tożsamość	subst:sg:gen:f	disamb
+i	space
+	i	conj	disamb
+materialnej	space
+	materialny	adj:sg:gen:f:pos	disamb
+pomyślności	space
+	pomyślność	subst:sg:gen:f	disamb
+
+Rzeczypospolitej	none
+	Rzeczpospolita	subst:sg:dat:f	disamb
+,	none
+	,	interp	disamb
+na	space
+	na	prep:acc	disamb
+pamiątkę	space
+	pamiątka	subst:sg:acc:f	disamb
+stulecia	space
+	stulecie	subst:sg:gen:n	disamb
+odrodzenia	space
+	odrodzenie	subst:sg:gen:n	disamb
+Państwa	space
+	państwo	subst:sg:gen:n	disamb
+Polskiego	space
+	polski	adj:sg:gen:n:pos	disamb
+,	none
+	,	interp	disamb
+uchwala	space
+	uchwalać	fin:sg:ter:imperf	disamb
+
+niniejszą	none
+	niniejszy	adj:sg:acc:f:pos	disamb
+ustawę	space
+	ustawa	subst:sg:acc:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustanawia	newline
+	ustanawiać	fin:sg:ter:imperf	disamb
+
+się	none
+	się	qub	disamb
+odznaczenie	space
+	odznaczenie	subst:sg:nom:n	disamb
+:	none
+	:	interp	disamb
+Medal	space
+	medal	subst:sg:nom:m3	disamb
+Stulecia	space
+	stulecie	subst:sg:gen:n	disamb
+Odzyskanej	space
+	odzyskać	ppas:sg:gen:f:perf:aff	disamb
+Niepodległości	space
+	Niepodległość	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+zwany	space
+	zwać	ppas:sg:nom:m3:imperf:aff	disamb
+dalej	space
+	daleko	adv:com	disamb
+
+„	none
+	„	interp	disamb
+Medalem	none
+	medal	subst:sg:inst:m3	disamb
+”	none
+	”	interp	disamb
+,	none
+	,	interp	disamb
+jako	space
+	jako	conj	disamb
+dowód	space
+	dowód	subst:sg:nom:m3	disamb
+wdzięczności	space
+	wdzięczność	subst:sg:gen:f	disamb
+oraz	space
+	oraz	conj	disamb
+wyraz	space
+	wyraz	subst:sg:acc:m3	disamb
+szacunku	space
+	szacunek	subst:sg:gen:m3	disamb
+dla	space
+	dla	prep:gen	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:f:pos	disamb
+położyły	space
+	położyć	praet:pl:f:perf	disamb
+
+szczególne	none
+	szczególny	adj:pl:acc:f:pos	disamb
+zasługi	space
+	zasługa	subst:pl:acc:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+służbie	space
+	służba	subst:sg:loc:f	disamb
+Państwu	space
+	państwo	subst:sg:dat:n	disamb
+i	space
+	i	conj	disamb
+społeczeństwu	space
+	społeczeństwo	subst:sg:dat:n	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Medal	newline
+	medal	subst:sg:nom:m3	disamb
+
+jest	none
+	być	fin:sg:ter:imperf	disamb
+odznaczeniem	space
+	odznaczenie	subst:sg:inst:n	disamb
+o	space
+	o	prep:loc	disamb
+charakterze	space
+	charakter	subst:sg:loc:m3	disamb
+pamiątkowym	space
+	pamiątkowy	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+nadawanym	space
+	nadawać	ppas:sg:loc:m3:imperf:aff	disamb
+obywatelom	space
+	obywatel	subst:pl:dat:m1	disamb
+polskim	space
+	polski	adj:pl:dat:m1:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+okresie	none
+	okres	subst:sg:loc:m3	disamb
+trwania	space
+	trwać	ger:sg:gen:n:imperf:aff	disamb
+Narodowych	space
+	narodowy	adj:pl:gen:m3:pos	disamb
+Obchodów	space
+	obchód	subst:pl:gen:m3	disamb
+Setnej	space
+	setny	adj:sg:gen:f:pos	disamb
+Rocznicy	space
+	rocznica	subst:sg:gen:f	disamb
+Odzyskania	space
+	odzyskanie	subst:sg:gen:n	disamb
+Niepodległości	space
+	Niepodległość	subst:sg:gen:f	disamb
+
+Rzeczypospolitej	none
+	Rzeczpospolita	subst:sg:dat:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+w	space
+	w	prep:loc:nwok	disamb
+latach	space
+	rok	subst:pl:loc:m3	disamb
+2018	space
+	2018	num:pl:nom:m3:rec	disamb
+-	none
+	-	interp	disamb
+2021	none
+	2021	num:pl:nom:m3:rec	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Medal	newline
+	medal	subst:sg:nom:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+
+nadawany	none
+	nadawać	ppas:sg:nom:m3:imperf:aff	disamb
+osobom	space
+	osoba	subst:pl:dat:f	disamb
+żyjącym	space
+	żyć	pact:pl:dat:f:imperf:aff	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:f:pos	disamb
+poprzez	space
+	poprzez	prep:acc:nwok	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+pełnienie	none
+	pełnić	ger:sg:nom:n:imperf:aff	disamb
+nienagannej	space
+	nienaganny	adj:sg:gen:f:pos	disamb
+służby	space
+	służba	subst:sg:gen:f	disamb
+
+publicznej	none
+	publiczny	adj:sg:gen:f:pos	disamb
+–	space
+	–	interp	disamb
+cywilnej	space
+	cywilny	adj:sg:loc:f:pos	disamb
+lub	space
+	lub	conj	disamb
+wojskowej	space
+	wojskowy	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+walkę	none
+	walka	subst:sg:acc:f	disamb
+o	space
+	o	prep:acc	disamb
+niepodległość	space
+	niepodległość	subst:sg:acc:f	disamb
+oraz	space
+	oraz	conj	disamb
+
+działalność	none
+	działalność	subst:sg:nom:f	disamb
+na	space
+	na	prep:acc	disamb
+rzecz	space
+	rzecz	subst:sg:acc:f	disamb
+przemian	space
+	przemiana	subst:pl:gen:f	disamb
+demokratycznych	space
+	demokratyczny	adj:pl:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+aktywną	none
+	aktywny	adj:sg:acc:f:pos	disamb
+działalność	space
+	działalność	subst:sg:acc:f	disamb
+zawodową	space
+	zawodowy	adj:sg:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+
+społeczną	none
+	społeczny	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	num:pl:nom:m3:congr	disamb
+)	none
+	)	interp	disamb
+twórczość	none
+	twórczość	subst:sg:acc:f	disamb
+naukową	space
+	naukowy	adj:sg:acc:f:pos	disamb
+,	none
+	,	interp	disamb
+literacką	space
+	literacki	adj:sg:acc:f:pos	disamb
+i	space
+	i	conj	disamb
+
+artystyczną	none
+	artystyczny	adj:sg:acc:f:pos	disamb
+
+–	none
+	–	interp	disamb
+przyczyniły	space
+	przyczynić	praet:pl:n:perf	disamb
+się	space
+	się	qub	disamb
+do	space
+	do	prep:gen	disamb
+odzyskania	space
+	odzyskać	ger:sg:gen:n:perf:aff	disamb
+lub	space
+	lub	conj	disamb
+umacniania	space
+	umacniać	ger:sg:gen:n:imperf:aff	disamb
+
+suwerenności	none
+	suwerenność	subst:sg:gen:f	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+tym	space
+	to	subst:sg:loc:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+budowania	space
+	budować	ger:sg:gen:n:imperf:aff	disamb
+
+wspólnoty	none
+	wspólnota	subst:sg:gen:f	disamb
+obywatelskiej	space
+	obywatelski	adj:sg:gen:f:pos	disamb
+Polaków	space
+	Polak	subst:pl:gen:m1	disamb
+i	space
+	i	conj	disamb
+poczucia	space
+	poczucie	subst:sg:gen:n	disamb
+tożsamości	space
+	tożsamość	subst:sg:gen:f	disamb
+narodowej	space
+	narodowy	adj:sg:gen:f:pos	disamb
+,	none
+	,	interp	disamb
+rozwoju	space
+	rozwój	subst:sg:gen:m3	disamb
+nauki	space
+	nauka	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+
+rozsławiania	none
+	rozsławiać	ger:sg:gen:n:imperf:aff	disamb
+dobrego	space
+	dobry	adj:sg:gen:n:pos	disamb
+imienia	space
+	imię	subst:sg:gen:n	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+poprzez	space
+	poprzez	prep:acc:nwok	disamb
+kulturę	space
+	kultura	subst:sg:acc:f	disamb
+i	space
+	i	conj	disamb
+
+sztukę	none
+	sztuka	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+rozwoju	space
+	rozwój	subst:sg:gen:m3	disamb
+społecznego	space
+	społeczny	adj:sg:gen:m3:pos	disamb
+i	space
+	i	conj	disamb
+umacniania	space
+	umacniać	ger:sg:gen:n:imperf:aff	disamb
+więzi	space
+	więź	subst:sg:gen:f	disamb
+z	space
+	z	prep:inst:nwok	disamb
+Polakami	space
+	Polak	subst:pl:inst:m1	disamb
+za	space
+	za	prep:inst	disamb
+granicą	space
+	granica	subst:sg:inst:f	disamb
+oraz	space
+	oraz	conj	disamb
+
+budowania	none
+	budować	ger:sg:gen:n:imperf:aff	disamb
+dobrobytu	space
+	dobrobyt	subst:sg:gen:m3	disamb
+gospodarczego	space
+	gospodarczy	adj:sg:gen:m3:pos	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Medal	none
+	medal	subst:sg:nom:m3	disamb
+nadaje	space
+	nadawać	fin:sg:ter:imperf	disamb
+Prezydent	space
+	prezydent	subst:sg:nom:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+z	space
+	z	prep:gen:nwok	disamb
+własnej	space
+	własny	adj:sg:gen:f:pos	disamb
+inicjatywy	space
+	inicjatywa	subst:sg:gen:f	disamb
+lub	space
+	lub	conj	disamb
+na	space
+	na	prep:acc	disamb
+
+wniosek	none
+	wniosek	subst:sg:nom:m3	disamb
+Prezesa	space
+	prezes	subst:sg:gen:m1	disamb
+Rady	space
+	rada	subst:sg:gen:f	disamb
+Ministrów	space
+	minister	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+ministrów	space
+	minister	subst:pl:gen:m1	disamb
+,	none
+	,	interp	disamb
+kierowników	space
+	kierownik	subst:pl:gen:m1	disamb
+urzędów	space
+	urząd	subst:pl:gen:m3	disamb
+centralnych	space
+	centralny	adj:pl:gen:m3:pos	disamb
+oraz	space
+	oraz	conj	disamb
+
+wojewodów	none
+	wojewoda	subst:pl:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Do	newline
+	do	prep:gen	disamb
+wniosku	space
+	wniosek	subst:sg:gen:m3	disamb
+dołącza	space
+	dołączać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+wykaz	space
+	wykaz	subst:sg:nom:m3	disamb
+przedstawianych	space
+	przedstawiać	ppas:pl:gen:m1:imperf:aff	disamb
+
+wniosków	none
+	wniosek	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+zawierający	space
+	zawierać	pact:sg:nom:m3:imperf:aff	disamb
+zestawienie	space
+	zestawienie	subst:sg:acc:n	disamb
+zbiorcze	space
+	zbiorczy	adj:sg:acc:n:pos	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+proponowanych	space
+	proponować	ppas:pl:gen:f:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+odznaczenia	space
+	odznaczyć	ger:sg:gen:n:perf:aff	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Postanowienie	newline
+	postanowienie	subst:sg:nom:n	disamb
+Prezydenta	space
+	prezydent	subst:sg:gen:m1	disamb
+o	space
+	o	prep:loc	disamb
+nadaniu	space
+	nadać	ger:sg:loc:n:perf:aff	disamb
+
+Medalu	none
+	medal	subst:sg:gen:m3	disamb
+nie	space
+	nie	qub	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+ogłaszane	space
+	ogłaszać	ppas:sg:nom:n:imperf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Dzienniku	space
+	dziennik	subst:sg:loc:m3	disamb
+Urzędowym	space
+	urzędowy	adj:sg:loc:m3:pos	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+
+„	none
+	„	interp	disamb
+Monitor	none
+	monitor	subst:sg:nom:m3	disamb
+Polski	space
+	polski	adj:sg:nom:m3:pos	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+4	space
+	4	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Odznaką	none
+	odznaka	subst:sg:inst:f	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+okrągły	space
+	okrągły	adj:sg:nom:m3:pos	disamb
+,	none
+	,	interp	disamb
+srebrzony	space
+	srebrzyć	ppas:sg:nom:m3:imperf:aff	disamb
+i	space
+	i	conj	disamb
+oksydowany	space
+	oksydować	ppas:sg:nom:m3:imperf:aff	disamb
+medal	space
+	medal	subst:sg:nom:m3	disamb
+o	space
+	o	prep:loc	disamb
+średnicy	space
+	średnica	subst:sg:loc:f	disamb
+35	space
+	35	num:pl:gen:m3:congr	disamb
+mm	space
+	milimetr	brev:npun	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+
+wrzecionowatym	none
+	wrzecionowaty	adj:sg:inst:n:pos	disamb
+uszkiem	space
+	uszko	subst:sg:inst:n	disamb
+i	space
+	i	conj	disamb
+kółkiem	space
+	kółko	subst:sg:inst:n	disamb
+do	space
+	do	prep:gen	disamb
+zawieszenia	space
+	zawieszenie	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+zróżnicowanej	space
+	zróżnicować	ppas:sg:loc:f:perf:aff	disamb
+powierzchni	space
+	powierzchnia	subst:sg:loc:f	disamb
+
+sugerującej	none
+	sugerować	pact:sg:dat:f:imperf:aff	disamb
+falującą	space
+	falować	pact:sg:acc:f:imperf:aff	disamb
+flagę	space
+	flaga	subst:sg:acc:f	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+umieszczonym	space
+	umieścić	ppas:sg:inst:m3:perf:aff	disamb
+pośrodku	space
+	pośrodku	adv	disamb
+wizerunkiem	space
+	wizerunek	subst:sg:inst:m3	disamb
+stylizowanego	space
+	stylizować	ppas:sg:gen:m3:imperf:aff	disamb
+
+ukoronowanego	none
+	ukoronować	ppas:sg:gen:m1:perf:aff	disamb
+orła	space
+	orzeł	subst:sg:gen:m2	disamb
+wznoszącego	space
+	wznosić	pact:sg:gen:n:imperf:aff	disamb
+skrzydła	space
+	skrzydło	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+wspartego	space
+	wesprzeć	ppas:sg:gen:n:perf:aff	disamb
+na	space
+	na	prep:loc	disamb
+sfalowanej	space
+	sfalować	ppas:sg:loc:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+płaszczyźnie	space
+	płaszczyzna	subst:sg:loc:f	disamb
+
+wstędze	none
+	wstęga	subst:sg:dat:f	disamb
+z	space
+	z	prep:inst:nwok	disamb
+majuskułowym	space
+	majuskułowy	adj:sg:inst:m3:pos	disamb
+wklęsłym	space
+	wklęsły	adj:sg:inst:m3:pos	disamb
+napisem	space
+	napis	subst:sg:inst:m3	disamb
+„	space
+	„	interp	disamb
+POLONIA	none
+	Polonia	subst:sg:nom:f	disamb
+REDIVIVA	space
+	REDIVIVA	subst:sg:nom:f	disamb
+”	none
+	”	interp	disamb
+.	none
+	.	interp	disamb
+
+Na	newline
+	na	prep:loc	disamb
+odwrotnej	space
+	odwrotny	adj:sg:loc:f:pos	disamb
+,	none
+	,	interp	disamb
+
+gładkiej	none
+	gładki	adj:sg:dat:f:pos	disamb
+stronie	space
+	strona	subst:sg:dat:f	disamb
+umieszczone	space
+	umieścić	ppas:pl:nom:m3:perf:aff	disamb
+są	space
+	być	fin:pl:ter:imperf	disamb
+wypukłe	space
+	wypukły	adj:pl:nom:m3:pos	disamb
+inicjały	space
+	inicjał	subst:pl:nom:m3	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+„	space
+	„	interp	disamb
+RP	none
+	RP	subst:sg:gen:f	disamb
+”	none
+	”	interp	disamb
+
+nad	none
+	nad	prep:inst:nwok	disamb
+datami	space
+	data	subst:pl:inst:f	disamb
+„	space
+	„	interp	disamb
+1918	none
+	1918	num:pl:nom:m3:rec	disamb
+”	none
+	”	interp	disamb
+i	space
+	i	conj	disamb
+„	space
+	„	interp	disamb
+2018	none
+	2018	num:pl:nom:m3:rec	disamb
+”	none
+	”	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+dwóch	space
+	dwa	num:pl:loc:f:congr	disamb
+wierszach	space
+	wiersz	subst:pl:loc:m3	disamb
+,	none
+	,	interp	disamb
+ujęte	space
+	ująć	ppas:pl:nom:m3:perf:aff	disamb
+stylizowanymi	space
+	stylizowanymi	adj:pl:inst:m3:pos	disamb
+liśćmi	space
+	liść	subst:pl:inst:m3	disamb
+
+wawrzynu	none
+	wawrzyn	subst:sg:gen:m3	disamb
+i	space
+	i	conj	disamb
+dębiny	space
+	dębina	subst:pl:nom:f	disamb
+z	space
+	z	prep:inst:nwok	disamb
+owocami	space
+	owoc	subst:pl:inst:m3	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:inst:nwok	disamb
+przewiązką	space
+	przewiązka	subst:sg:inst:f	disamb
+krzyżową	space
+	krzyżowa	subst:sg:inst:f	disamb
+u	space
+	u	prep:gen	disamb
+dołu	space
+	dół	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Medal	newline
+	medal	subst:sg:nom:m3	disamb
+zawieszony	space
+	zawiesić	ppas:sg:nom:m3:perf:aff	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+na	space
+	na	prep:loc	disamb
+niebieskiej	space
+	niebieski	adj:sg:loc:f:pos	disamb
+
+wstążce	none
+	wstążka	subst:sg:dat:f	disamb
+szerokości	space
+	szerokość	subst:sg:gen:f	disamb
+36	space
+	36	num:pl:gen:m3:congr	disamb
+mm	space
+	milimetr	brev:npun	disamb
+ze	space
+	z	prep:inst:wok	disamb
+srebrzystym	space
+	srebrzysty	adj:sg:inst:m3:pos	disamb
+prążkiem	space
+	prążek	subst:sg:inst:m3	disamb
+szerokości	space
+	szerokość	subst:sg:gen:f	disamb
+4	space
+	4	num:pl:gen:m3:congr	disamb
+mm	space
+	milimetr	brev:npun	disamb
+pośrodku	space
+	pośrodku	prep:gen	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wzór	newline
+	wzór	subst:sg:nom:m3	disamb
+graficzny	space
+	graficzny	adj:sg:nom:m3:pos	disamb
+odznaki	space
+	odznaka	subst:sg:gen:f	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+określa	space
+	określać	fin:sg:ter:imperf	disamb
+
+załącznik	none
+	załącznik	subst:sg:nom:m3	disamb
+do	space
+	do	prep:gen	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Osoba	newline
+	osoba	subst:sg:nom:f	disamb
+
+odznaczona	none
+	odznaczyć	ppas:sg:nom:f:perf:aff	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+nieodpłatnie	space
+	nieodpłatnie	adv:pos	disamb
+odznakę	space
+	odznaka	subst:sg:acc:f	disamb
+nadanego	space
+	nadać	ppas:sg:gen:m3:perf:aff	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+wraz	space
+	wraz	adv	disamb
+z	space
+	z	prep:inst:nwok	disamb
+legitymacją	space
+	legitymacja	subst:sg:inst:f	disamb
+
+potwierdzającą	none
+	potwierdzać	pact:sg:inst:f:imperf:aff	disamb
+nadanie	space
+	nadać	ger:sg:acc:n:perf:aff	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+6	space
+	6	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Prezydent	newline
+	prezydent	subst:sg:nom:m1	disamb
+
+Rzeczypospolitej	none
+	Rzeczpospolita	subst:sg:dat:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+określi	space
+	określić	fin:sg:ter:perf	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+drodze	space
+	droga	subst:sg:loc:f	disamb
+rozporządzenia	space
+	rozporządzenie	subst:sg:gen:n	disamb
+:	none
+	:	interp	disamb
+
+1	none
+	1	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+tryb	none
+	tryb	subst:sg:acc:m3	disamb
+postępowania	space
+	postępowanie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+sprawach	space
+	sprawa	subst:pl:loc:f	disamb
+o	space
+	o	prep:acc	disamb
+
+nadanie	none
+	nadanie	subst:sg:nom:n	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+tym	space
+	to	subst:sg:loc:n	disamb
+terminy	space
+	termin	subst:pl:nom:m3	disamb
+przedkładania	space
+	przedkładać	ger:sg:gen:n:imperf:aff	disamb
+wniosków	space
+	wniosek	subst:pl:gen:m3	disamb
+oraz	space
+	oraz	conj	disamb
+wręczania	space
+	wręczać	ger:sg:gen:n:imperf:aff	disamb
+odznak	space
+	odznaka	subst:pl:gen:f	disamb
+
+nadanego	none
+	nadać	ppas:sg:gen:m3:perf:aff	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+tryb	none
+	tryb	subst:sg:acc:m3	disamb
+postępowania	space
+	postępowanie	subst:sg:gen:n	disamb
+w	space
+	w	prep:loc:nwok	disamb
+przypadku	space
+	przypadek	subst:sg:loc:m3	disamb
+
+zgubienia	none
+	zgubić	ger:sg:gen:n:perf:aff	disamb
+lub	space
+	lub	conj	disamb
+zniszczenia	space
+	zniszczyć	ger:sg:gen:n:perf:aff	disamb
+odznaki	space
+	odznaka	subst:sg:gen:f	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+lub	space
+	lub	conj	disamb
+legitymacji	space
+	legitymacja	subst:sg:gen:f	disamb
+potwierdzającej	space
+	potwierdzać	pact:sg:gen:f:imperf:aff	disamb
+
+nadanie	none
+	nadanie	subst:sg:nom:n	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+)	none
+	)	interp	disamb
+wzory	none
+	wzór	subst:pl:nom:m3	disamb
+wniosku	space
+	wniosek	subst:sg:gen:m3	disamb
+o	space
+	o	prep:acc	disamb
+nadanie	space
+	nadać	ger:sg:acc:n:perf:aff	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+
+oraz	none
+	oraz	conj	disamb
+wykazu	space
+	wykaz	subst:sg:gen:m3	disamb
+przedstawianych	space
+	przedstawiać	ppas:pl:gen:m3:imperf:aff	disamb
+wniosków	space
+	wniosek	subst:pl:gen:m3	disamb
+,	none
+	,	interp	disamb
+zawierającego	space
+	zawierać	pact:sg:gen:m3:imperf:aff	disamb
+zestawienie	space
+	zestawienie	subst:sg:acc:n	disamb
+zbiorcze	space
+	zbiorczy	adj:sg:acc:n:pos	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+
+proponowanych	none
+	proponować	ppas:pl:gen:m3:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+odznaczenia	space
+	odznaczyć	ger:sg:gen:n:perf:aff	disamb
+,	none
+	,	interp	disamb
+legitymacji	space
+	legitymacja	subst:sg:gen:f	disamb
+potwierdzającej	space
+	potwierdzać	pact:sg:gen:f:imperf:aff	disamb
+nadanie	space
+	nadać	ger:sg:acc:n:perf:aff	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+oraz	space
+	oraz	conj	disamb
+
+jej	none
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+wtórnika	space
+	wtórnik	subst:sg:gen:m3	disamb
+,	none
+	,	interp	disamb
+
+4	none
+	4	adj:sg:nom:m3:pos	disamb
+)	none
+	)	interp	disamb
+sposób	none
+	sposób	subst:sg:nom:m3	disamb
+i	space
+	i	conj	disamb
+okoliczności	space
+	okoliczność	subst:sg:gen:f	disamb
+noszenia	space
+	nosić	ger:sg:gen:n:imperf:aff	disamb
+
+Medalu	none
+	medal	subst:sg:gen:m3	disamb
+
+–	none
+	–	interp	disamb
+biorąc	space
+	brać	pcon:imperf	disamb
+pod	space
+	pod	prep:acc:nwok	disamb
+uwagę	space
+	uwaga	subst:sg:acc:f	disamb
+konieczność	space
+	konieczność	subst:sg:acc:f	disamb
+ustalenia	space
+	ustalić	ger:sg:gen:n:perf:aff	disamb
+
+faktycznych	none
+	faktyczny	adj:pl:gen:f:pos	disamb
+okoliczności	space
+	okoliczność	subst:pl:gen:f	disamb
+przemawiających	space
+	przemawiać	pact:pl:gen:f:imperf:aff	disamb
+za	space
+	za	prep:inst	disamb
+nadaniem	space
+	nadać	ger:sg:inst:n:perf:aff	disamb
+Medalu	space
+	medal	subst:sg:gen:m3	disamb
+oraz	space
+	oraz	conj	disamb
+sprawność	space
+	sprawność	subst:sg:acc:f	disamb
+tego	space
+	to	subst:sg:gen:n	disamb
+
+postępowania	none
+	postępowanie	subst:pl:nom:n	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+także	space
+	także	conj	disamb
+konieczność	space
+	konieczność	subst:sg:nom:f	disamb
+zachowania	space
+	zachować	ger:sg:gen:n:perf:aff	disamb
+kolejności	space
+	kolejność	subst:sg:gen:f	disamb
+wynikającej	space
+	wynikać	pact:sg:gen:f:imperf:aff	disamb
+ze	space
+	z	prep:gen:wok	disamb
+
+starszeństwa	none
+	starszeństwo	subst:sg:gen:n	disamb
+przyznanych	space
+	przyznać	ppas:pl:gen:m3:perf:aff	disamb
+orderów	space
+	order	subst:pl:gen:m3	disamb
+i	space
+	i	conj	disamb
+odznaczeń	space
+	odznaczenie	subst:pl:gen:n	disamb
+oraz	space
+	oraz	conj	disamb
+uwzględniając	space
+	uwzględniać	pcon:imperf	disamb
+święta	space
+	święto	subst:pl:acc:n	disamb
+i	space
+	i	conj	disamb
+
+rocznice	none
+	rocznica	subst:pl:nom:f	disamb
+państwowe	space
+	państwowy	adj:pl:nom:f:pos	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+7	space
+	7	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+
+sprawach	none
+	sprawa	subst:pl:loc:f	disamb
+nieuregulowanych	space
+	uregulować	ppas:pl:loc:f:perf:neg	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+stosuje	space
+	stosować	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+przepisy	space
+	przepis	subst:pl:acc:m3	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+
+16	none
+	16	adj:sg:gen:m3:pos	disamb
+października	space
+	październik	subst:sg:gen:m3	disamb
+1992	space
+	1992	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+orderach	space
+	order	subst:pl:loc:m3	disamb
+i	space
+	i	conj	disamb
+odznaczeniach	space
+	odznaczenie	subst:pl:loc:n	disamb
+(	space
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	space
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+2018	space
+	2018	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+400	none
+	400	num:pl:nom:m3:rec	disamb
+i	space
+	i	conj	disamb
+730	space
+	730	num:pl:nom:m3:rec	disamb
+)	none
+	)	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	newline
+	ustawa	subst:sg:nom:f	disamb
+
+wchodzi	none
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
+MARSZAŁEK	none
+	Marszałek	subst:sg:nom:m1	disamb
+SEJMU	space
+	sejm	subst:sg:gen:m3	disamb
+
+/	none
+	/	interp	disamb
+–	space
+	–	interp	disamb
+/	space
+	/	interp	disamb
+Marek	space
+	Marek	subst:sg:nom:m1	disamb
+Kuchciński	space
+	Kuchciński	subst:sg:nom:m1	disamb
+
+Załącznik	none
+	załącznik	subst:sg:nom:m3	disamb
+do	space
+	do	prep:gen	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+15	space
+	15	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+2018	space
+	2018	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+(	space
+	(	interp	disamb
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+…	space
+	…	interp	disamb
+)	none
+	)	interp	disamb
+
+WZÓR	none
+	wzór	subst:sg:nom:m3	disamb
+ODZNAKI	space
+	odznaka	subst:sg:gen:f	disamb
+MEDALU	space
+	medal	subst:sg:gen:m3	disamb
+
+STULECIA	none
+	stulecie	subst:pl:nom:n	disamb
+ODZYSKANEJ	space
+	odzyskać	ppas:sg:gen:f:perf:aff	disamb
+NIEPODLEGŁOŚCI	space
+	niepodległość	subst:sg:gen:f	disamb
+

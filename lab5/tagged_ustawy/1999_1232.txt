@@ -1,0 +1,314 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+109	space
+	109	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+1232	space
+	1232	adj:sg:nom:f:pos	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+18	space
+	18	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+1999	space
+	1999	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+wypowiedzeniu	space
+	wypowiedzenie	subst:sg:loc:n	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+stosunkach	space
+	stosunki	subst:pl:loc:n	disamb
+między	space
+	między	prep:inst	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Polską	space
+	Polska	subst:sg:inst:f	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+
+Czeską	none
+	czeski	adj:sg:inst:f:pos	disamb
+,	none
+	,	interp	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+między	space
+	między	prep:inst	disamb
+Polską	space
+	polski	adj:sg:inst:f:pos	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Ludową	space
+	Ludowy	adj:sg:inst:f:pos	disamb
+a	space
+	a	conj	disamb
+Czechosłowacką	space
+	czechosłowacki	adj:sg:inst:f:pos	disamb
+
+Republiką	none
+	Republika	subst:sg:inst:f	disamb
+Socjalistyczną	space
+	socjalistyczny	adj:sg:inst:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+uregulowaniu	space
+	uregulować	ger:sg:loc:n:perf:aff	disamb
+zagadnień	space
+	zagadnienie	subst:pl:gen:n	disamb
+dotyczących	space
+	dotyczyć	pact:pl:gen:n:imperf:aff	disamb
+podwójnego	space
+	podwójny	adj:sg:gen:m1:pos	disamb
+
+obywatelstwa	none
+	obywatelstwo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+sporządzonej	space
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Warszawie	space
+	Warszawa	subst:sg:loc:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+17	space
+	17	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+1965	space
+	1965	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	none
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Upoważnia	newline
+	upoważniać	fin:sg:ter:imperf	disamb
+się	space
+	się	qub	disamb
+Prezydenta	space
+	prezydent	subst:sg:acc:m1	disamb
+Rzeczypospolitej	space
+	Rzeczpospolita	subst:sg:gen:f	disamb
+Polskiej	space
+	polski	adj:sg:gen:f:pos	disamb
+do	space
+	do	prep:gen	disamb
+wypowiedzenia	space
+	wypowiedzieć	ger:sg:gen:n:perf:aff	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+
+stosunkach	none
+	stosunek	subst:pl:loc:m3	disamb
+między	space
+	między	prep:inst	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Polską	space
+	Polska	subst:sg:inst:f	disamb
+a	space
+	a	conj	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+Czeską	space
+	czeski	adj:sg:inst:f:pos	disamb
+,	none
+	,	interp	disamb
+Konwencji	space
+	konwencja	subst:sg:gen:f	disamb
+
+między	none
+	między	prep:inst	disamb
+Polską	space
+	polski	adj:sg:inst:f:pos	disamb
+Rzecząpospolitą	space
+	Rzeczpospolita	subst:sg:inst:f	disamb
+Ludową	space
+	Ludowy	adj:sg:inst:f:pos	disamb
+a	space
+	a	conj	disamb
+Czechosłowacką	space
+	czechosłowacki	adj:sg:inst:f:pos	disamb
+Republiką	space
+	Republika	subst:sg:inst:f	disamb
+
+Socjalistyczną	none
+	socjalistyczny	adj:sg:inst:f:pos	disamb
+o	space
+	o	prep:loc	disamb
+uregulowaniu	space
+	uregulować	ger:sg:loc:n:perf:aff	disamb
+zagadnień	space
+	zagadnienie	subst:pl:gen:n	disamb
+dotyczących	space
+	dotyczyć	pact:pl:gen:n:imperf:aff	disamb
+podwójnego	space
+	podwójny	adj:sg:gen:n:pos	disamb
+obywatelstwa	space
+	obywatelstwo	subst:sg:gen:n	disamb
+,	none
+	,	interp	disamb
+
+sporządzonej	none
+	sporządzić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+Warszawie	space
+	Warszawa	subst:sg:loc:f	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+17	space
+	17	adj:sg:gen:m3:pos	disamb
+maja	space
+	maj	subst:sg:gen:m3	disamb
+1965	space
+	1965	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Wypowiedzenie	newline
+	wypowiedzenie	subst:sg:nom:n	disamb
+następuje	space
+	następować	fin:sg:ter:imperf	disamb
+z	space
+	z	prep:inst:nwok	disamb
+zachowaniem	space
+	zachować	ger:sg:inst:n:perf:aff	disamb
+przepisów	space
+	przepis	subst:pl:gen:m3	disamb
+o	space
+	o	prep:loc	disamb
+wypowiedzeniu	space
+	wypowiedzieć	ger:sg:loc:n:perf:aff	disamb
+,	none
+	,	interp	disamb
+zawartych	space
+	zawrzeć	ppas:pl:gen:m3:perf:aff	disamb
+
+w	none
+	w	prep:loc:nwok	disamb
+Konwencji	space
+	konwencja	subst:sg:loc:f	disamb
+,	none
+	,	interp	disamb
+nie	space
+	nie	qub	disamb
+później	space
+	późno	adv:com	disamb
+niż	space
+	niż	conj	disamb
+do	space
+	do	prep:gen	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+19	space
+	19	adj:sg:gen:m3:pos	disamb
+listopada	space
+	listopad	subst:sg:gen:m3	disamb
+2000	space
+	2000	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+

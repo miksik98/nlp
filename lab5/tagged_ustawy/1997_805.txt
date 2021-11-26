@@ -1,0 +1,619 @@
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+126	space
+	126	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+805	space
+	805	num:pl:nom:f:rec	disamb
+
+USTAWA	none
+	ustawa	subst:sg:nom:f	disamb
+
+z	none
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+26	space
+	26	adj:sg:gen:m3:pos	disamb
+czerwca	space
+	czerwiec	subst:sg:gen:m3	disamb
+1997	space
+	1997	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+o	none
+	o	prep:loc	disamb
+zmianie	space
+	zmiana	subst:sg:loc:f	disamb
+ustawy	space
+	ustawa	subst:sg:gen:f	disamb
+o	space
+	o	prep:loc	disamb
+cmentarzach	space
+	cmentarz	subst:pl:loc:m3	disamb
+i	space
+	i	conj	disamb
+chowaniu	space
+	chować	ger:sg:loc:n:imperf:aff	disamb
+zmarłych	space
+	zmarły	subst:pl:gen:m1	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+1	space
+	1	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+W	none
+	w	prep:loc:nwok	disamb
+ustawie	space
+	ustawa	subst:sg:loc:f	disamb
+z	space
+	z	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+31	space
+	31	adj:sg:gen:m3:pos	disamb
+stycznia	space
+	styczeń	subst:sg:gen:m3	disamb
+1959	space
+	1959	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+o	space
+	o	prep:loc	disamb
+cmentarzach	space
+	cmentarz	subst:pl:loc:m3	disamb
+i	space
+	i	conj	disamb
+chowaniu	space
+	chować	ger:sg:loc:n:imperf:aff	disamb
+zmarłych	space
+	zmarły	subst:pl:gen:m1	disamb
+
+(	none
+	(	interp	disamb
+Dz	none
+	dziennik	brev:pun	disamb
+.	none
+	.	interp	disamb
+U	none
+	ustawa	brev:pun	disamb
+.	none
+	.	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1972	space
+	1972	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+47	space
+	47	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+298	space
+	298	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1989	space
+	1989	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+29	space
+	29	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+154	space
+	154	num:pl:nom:m3:congr	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1990	space
+	1990	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+34	space
+	34	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+
+poz	none
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+198	space
+	198	adj:sg:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+z	space
+	z	prep:gen:nwok	disamb
+1991	space
+	1991	adj:sg:gen:m3:pos	disamb
+r	space
+	rok	brev:pun	disamb
+.	none
+	.	interp	disamb
+
+Nr	newline
+	numer	brev:npun	disamb
+64	space
+	64	num:pl:nom:m3:rec	disamb
+,	none
+	,	interp	disamb
+poz	space
+	pozycja	brev:pun	disamb
+.	none
+	.	interp	disamb
+271	space
+	271	num:pl:nom:f:rec	disamb
+)	none
+	)	interp	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+otrzymuje	space
+	otrzymywać	fin:sg:ter:imperf	disamb
+brzmienie	space
+	brzmienie	subst:sg:acc:n	disamb
+:	none
+	:	interp	disamb
+
+"	none
+	"	interp	disamb
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+8	space
+	8	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+1	newline
+	1	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Przyjęcie	newline
+	przyjąć	ger:sg:nom:n:perf:aff	disamb
+zwłok	space
+	zwłoki	subst:pl:gen:n	disamb
+do	space
+	do	prep:gen	disamb
+pochowania	space
+	pochować	ger:sg:gen:n:perf:aff	disamb
+na	space
+	na	prep:acc	disamb
+cmentarz	space
+	cmentarz	subst:sg:acc:m3	disamb
+następuje	space
+	następować	fin:sg:ter:imperf	disamb
+
+po	none
+	po	prep:loc	disamb
+przedstawieniu	space
+	przedstawić	ger:sg:loc:n:perf:aff	disamb
+dokumentów	space
+	dokument	subst:pl:gen:m3	disamb
+określonych	space
+	określić	ppas:pl:gen:m3:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+art	space
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+11	space
+	11	adj:sg:loc:m3:pos	disamb
+
+ust	none
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+5	space
+	5	adj:sg:nom:m3:pos	disamb
+i	space
+	i	conj	disamb
+9	space
+	9	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+2	none
+	2	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+W	newline
+	w	prep:loc:nwok	disamb
+miejscowościach	space
+	miejscowość	subst:pl:loc:f	disamb
+,	none
+	,	interp	disamb
+w	space
+	w	prep:loc:nwok	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+nie	space
+	nie	qub	disamb
+ma	space
+	mieć	fin:sg:ter:imperf	disamb
+cmentarzy	space
+	cmentarz	subst:pl:gen:m3	disamb
+komunalnych	space
+	komunalny	adj:pl:gen:m3:pos	disamb
+,	none
+	,	interp	disamb
+
+zarząd	none
+	zarząd	subst:sg:nom:m3	disamb
+cmentarza	space
+	cmentarz	subst:sg:gen:m3	disamb
+wyznaniowego	space
+	wyznaniowy	adj:sg:gen:m3:pos	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+obowiązany	space
+	obowiązany	adj:sg:nom:m3:pos	disamb
+
+umożliwić	none
+	umożliwić	inf:perf	disamb
+pochowanie	space
+	pochować	ger:sg:acc:n:perf:aff	disamb
+na	space
+	na	prep:loc	disamb
+tym	space
+	ten	adj:sg:loc:m3:pos	disamb
+cmentarzu	space
+	cmentarz	subst:sg:loc:m3	disamb
+,	none
+	,	interp	disamb
+bez	space
+	bez	prep:gen:nwok	disamb
+jakiejkolwiek	space
+	jakikolwiek	adj:sg:gen:f:pos	disamb
+
+dyskryminacji	none
+	dyskryminacja	subst:sg:gen:f	disamb
+,	none
+	,	interp	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+zmarłych	space
+	zmarły	adj:pl:gen:f:pos	disamb
+innego	space
+	inny	adj:sg:gen:n:pos	disamb
+wyznania	space
+	wyznanie	subst:sg:gen:n	disamb
+
+lub	none
+	lub	conj	disamb
+niewierzących	space
+	niewierzący	subst:pl:gen:m1	disamb
+.	none
+	.	interp	disamb
+
+3	none
+	3	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zarząd	newline
+	zarząd	subst:sg:nom:m3	disamb
+cmentarza	space
+	cmentarz	subst:sg:gen:m3	disamb
+wyznaniowego	space
+	wyznaniowy	adj:sg:gen:m3:pos	disamb
+nie	space
+	nie	qub	disamb
+może	space
+	móc	fin:sg:ter:imperf	disamb
+odmówić	space
+	odmówić	inf:perf	disamb
+pochowania	space
+	pochować	ger:sg:gen:n:perf:aff	disamb
+
+zwłok	none
+	zwłok	subst:sg:nom:m3	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+które	space
+	który	adj:pl:nom:f:pos	disamb
+posiadają	space
+	posiadać	fin:pl:ter:imperf	disamb
+nabyte	space
+	nabyć	ppas:sg:acc:n:perf:aff	disamb
+prawo	space
+	prawo	subst:sg:acc:n	disamb
+do	space
+	do	prep:gen	disamb
+
+pochówku	none
+	pochówek	subst:sg:gen:m3	disamb
+w	space
+	w	prep:loc:nwok	disamb
+określonym	space
+	określony	adj:sg:loc:n:pos	disamb
+miejscu	space
+	miejsce	subst:sg:loc:n	disamb
+tego	space
+	ten	adj:sg:gen:m3:pos	disamb
+cmentarza	space
+	cmentarz	subst:sg:gen:m3	disamb
+.	none
+	.	interp	disamb
+
+4	none
+	4	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Prawo	newline
+	prawo	subst:sg:nom:n	disamb
+to	space
+	to	subst:sg:nom:n	disamb
+służy	space
+	służyć	fin:sg:ter:imperf	disamb
+,	none
+	,	interp	disamb
+obok	space
+	obok	prep:gen	disamb
+osoby	space
+	osoba	subst:sg:gen:f	disamb
+określonej	space
+	określić	ppas:sg:gen:f:perf:aff	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+także	space
+	także	qub	disamb
+jej	space
+	on	ppron3:sg:gen:f:ter:akc:npraep	disamb
+
+bliskim	none
+	bliski	adj:sg:inst:m3:pos	disamb
+,	none
+	,	interp	disamb
+to	space
+	to	subst:sg:nom:n	disamb
+jest	space
+	być	fin:sg:ter:imperf	disamb
+małżonkowi	space
+	małżonek	subst:sg:dat:m1	disamb
+,	none
+	,	interp	disamb
+wstępnym	space
+	wstępny	adj:pl:dat:m1:pos	disamb
+,	none
+	,	interp	disamb
+zstępnym	space
+	zstępny	adj:pl:dat:m1:pos	disamb
+,	none
+	,	interp	disamb
+rodzeństwu	space
+	rodzeństwo	subst:sg:dat:n	disamb
+
+i	none
+	i	conj	disamb
+przysposobionym	space
+	przysposobiony	adj:sg:inst:n:pos	disamb
+.	none
+	.	interp	disamb
+
+5	none
+	5	adj:sg:nom:n:pos	disamb
+.	none
+	.	interp	disamb
+
+Zwłoki	newline
+	zwłoki	subst:pl:nom:n	disamb
+osób	space
+	osoba	subst:pl:gen:f	disamb
+,	none
+	,	interp	disamb
+o	space
+	o	prep:loc	disamb
+których	space
+	który	adj:pl:loc:f:pos	disamb
+mowa	space
+	mowa	subst:sg:nom:f	disamb
+w	space
+	w	prep:loc:nwok	disamb
+ust	space
+	ustęp	brev:pun	disamb
+.	none
+	.	interp	disamb
+3	space
+	3	adj:sg:loc:m3:pos	disamb
+i	space
+	i	conj	disamb
+4	space
+	4	adj:sg:loc:m3:pos	disamb
+,	none
+	,	interp	disamb
+powinny	space
+	powinien	winien:pl:f:imperf	disamb
+być	space
+	być	inf:imperf	disamb
+
+przez	none
+	przez	prep:acc:nwok	disamb
+zarząd	space
+	zarząd	subst:sg:acc:m3	disamb
+cmentarza	space
+	cmentarz	subst:sg:gen:m3	disamb
+traktowane	space
+	traktować	ppas:pl:nom:f:imperf:aff	disamb
+na	space
+	na	prep:loc	disamb
+równi	space
+	równy	adjp	disamb
+ze	space
+	z	prep:inst:wok	disamb
+zwłokami	space
+	zwłoki	subst:pl:inst:n	disamb
+
+osób	none
+	osoba	subst:pl:gen:f	disamb
+należących	space
+	należeć	pact:pl:gen:f:imperf:aff	disamb
+do	space
+	do	prep:gen	disamb
+wyznania	space
+	wyznać	ger:sg:gen:n:perf:aff	disamb
+,	none
+	,	interp	disamb
+do	space
+	do	prep:gen	disamb
+którego	space
+	który	adj:sg:gen:n:pos	disamb
+należy	space
+	należeć	fin:sg:ter:imperf	disamb
+
+cmentarz	none
+	cmentarz	subst:sg:nom:m3	disamb
+,	none
+	,	interp	disamb
+a	space
+	a	conj	disamb
+w	space
+	w	prep:loc:nwok	disamb
+szczególności	space
+	szczególność	subst:sg:loc:f	disamb
+pod	space
+	pod	prep:inst:nwok	disamb
+względem	space
+	wzgląd	subst:sg:inst:m3	disamb
+wyznaczenia	space
+	wyznaczyć	ger:sg:gen:n:perf:aff	disamb
+
+miejsca	none
+	miejsce	subst:sg:gen:n	disamb
+pochowania	space
+	pochować	ger:sg:gen:n:perf:aff	disamb
+,	none
+	,	interp	disamb
+właściwego	space
+	właściwy	adj:sg:gen:m3:pos	disamb
+ceremoniału	space
+	ceremoniał	subst:sg:gen:m3	disamb
+pogrzebowego	space
+	pogrzebowy	adj:sg:gen:m3:pos	disamb
+
+i	none
+	i	conj	disamb
+wznoszenia	space
+	wznosić	ger:sg:gen:n:imperf:aff	disamb
+stosownych	space
+	stosowny	adj:pl:gen:m3:pos	disamb
+nagrobków	space
+	nagrobek	subst:pl:gen:m3	disamb
+.	none
+	.	interp	disamb
+"	none
+	"	interp	disamb
+.	none
+	.	interp	disamb
+
+Art	none
+	artykuł	brev:pun	disamb
+.	none
+	.	interp	disamb
+2	space
+	2	adj:sg:nom:m3:pos	disamb
+.	none
+	.	interp	disamb
+
+Ustawa	none
+	ustawa	subst:sg:nom:f	disamb
+wchodzi	space
+	wchodzić	fin:sg:ter:imperf	disamb
+w	space
+	w	prep:acc:nwok	disamb
+życie	space
+	życie	subst:sg:acc:n	disamb
+po	space
+	po	prep:loc	disamb
+upływie	space
+	upływ	subst:sg:loc:m3	disamb
+14	space
+	14	num:pl:gen:m3:congr	disamb
+dni	space
+	dzień	subst:pl:gen:m3	disamb
+od	space
+	od	prep:gen:nwok	disamb
+dnia	space
+	dzień	subst:sg:gen:m3	disamb
+ogłoszenia	space
+	ogłoszenie	subst:sg:gen:n	disamb
+.	none
+	.	interp	disamb
+
